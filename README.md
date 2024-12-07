@@ -1,5 +1,5 @@
 
-```markdown
+
 # AI Meets Law: Transforming Legal Research with RAG, Fine-Tuning, and Few-Shot Learning
 
 ## Project Overview
@@ -187,8 +187,4 @@ streamlit run app.py
 
 ---
 
-## Contact
-For inquiries or collaboration opportunities, reach out to **Saikrishna Paila**:
-- Email: [saikrishna.paila@gwmail.gwu.edu](mailto:saikrishna.paila@gwmail.gwu.edu)
-```
 
