@@ -1,5 +1,6 @@
 
 
+```markdown
 # AI Meets Law: Transforming Legal Research with RAG, Fine-Tuning, and Few-Shot Learning
 
 ## Project Overview
@@ -62,24 +63,59 @@ Streamlit provides a user-friendly interface for interacting with the system. Us
 
 To run this project, the following setup is required:
 
-- **Python Version**: 3.8 or higher
-- **Dependencies**:
-  - `langchain`
-  - `sentence-transformers`
-  - `faiss`
-  - `streamlit`
-  - `pandas`
-  - `numpy`
-  - `matplotlib`
-  - `torch` (for working with transformers and fine-tuning)
+### **Dependencies with Versions**
+```plaintext
+# Core Language Model Libraries
+openai==0.27.0
+langchain==0.0.204
+sentence-transformers==2.2.2
+
+# Embedding and Similarity Search
+faiss-cpu==1.7.3
+
+# Natural Language Processing (NLP)
+nltk==3.8.1
+tiktoken==0.4.0
+
+# Data Handling and Processing
+numpy==1.23.5
+pandas==1.5.2
+pickle5==0.0.12
+
+# Web Interface
+streamlit==1.17.0
+
+# Visualization
+matplotlib==3.6.2
+
+# Environment Variable Management
+python-dotenv==0.21.0
+
+# Deep Learning Frameworks
+torch==1.13.1
+transformers==4.25.1
+
+# Utilities
+pathlib2==2.3.7.post1
+```
 
 Install all required dependencies using:
 ```bash
 pip install -r requirements.txt
 ```
 
-Hardware requirements:
+### Hardware Requirements
 - At least **16GB RAM** for handling large embeddings and datasets efficiently.
+
+### Additional NLTK Data Setup
+After installing `nltk`, ensure the required datasets are downloaded by running the following script:
+```python
+import nltk
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
+nltk.download('maxent_ne_chunker')
+nltk.download('words')
+```
 
 ---
 
@@ -186,5 +222,3 @@ streamlit run app.py
 - **Interactive Visualizations**: Build dashboards for exploring case patterns and trends.
 
 ---
-
-
