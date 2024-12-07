@@ -105,7 +105,7 @@ Hardware requirements:
 ### Fine-Tune Your Own Model
 - To fine-tune your GPT model, follow the instructions in the video tutorial:
   [Fine-Tune Your LLMs](https://www.linkedin.com/learning/fine-tune-your-llms/introduction-to-fine-tuning-llms?u=74651410)
-- This process involves preparing your dataset (e.g., `learning_examples.json`), uploading it to OpenAI, and fine-tuning the model for legal-specific tasks.
+- This process involves preparing your dataset (e.g., `output.jsonl`), uploading it to OpenAI, and fine-tuning the model for legal-specific tasks.
 
 ---
 
