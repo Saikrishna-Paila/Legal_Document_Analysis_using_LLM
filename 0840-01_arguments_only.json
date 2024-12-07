@@ -1,0 +1,1151 @@
+{
+    "id": 2317482,
+    "name": "ANDERSON L. WOOLFOLK, JR. v. COMMONWEALTH OF VIRGINIA",
+    "name_abbreviation": "Woolfolk v. Commonwealth",
+    "decision_date": "1994-08-23",
+    "docket_number": "No. 1173-93-2",
+    "first_page": "840",
+    "last_page": "853",
+    "citations": [
+        {
+            "type": "official",
+            "cite": "18 Va. App. 840"
+        }
+    ],
+    "court": {
+        "name_abbreviation": "Va. Ct. App.",
+        "id": 8988,
+        "name": "Court of Appeals of Virginia"
+    },
+    "jurisdiction": {
+        "id": 7,
+        "name_long": "Virginia",
+        "name": "Va."
+    },
+    "cites_to": [
+        {
+            "cite": "331 S.E.2d 476",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "year": 1985,
+            "pin_cites": [
+                {
+                    "page": "479"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "229 Va. 596",
+            "category": "reporters:state",
+            "reporter": "Va.",
+            "case_ids": [
+                2070526
+            ],
+            "year": 1985,
+            "pin_cites": [
+                {
+                    "page": "601"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va/229/0596-01"
+            ]
+        },
+        {
+            "cite": "248 S.E.2d 124",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "year": 1978,
+            "pin_cites": [
+                {
+                    "page": "132-33"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "219 Va. 374",
+            "category": "reporters:state",
+            "reporter": "Va.",
+            "case_ids": [
+                2133320
+            ],
+            "year": 1978,
+            "pin_cites": [
+                {
+                    "page": "389"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va/219/0374-01"
+            ]
+        },
+        {
+            "cite": "309 S.E.2d 337",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "year": 1983,
+            "pin_cites": [
+                {
+                    "page": "339"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "226 Va. 456",
+            "category": "reporters:state",
+            "reporter": "Va.",
+            "case_ids": [
+                2076444
+            ],
+            "year": 1983,
+            "pin_cites": [
+                {
+                    "page": "460"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va/226/0456-01"
+            ]
+        },
+        {
+            "cite": "284 S.E.2d 613",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "year": 1981,
+            "pin_cites": [
+                {
+                    "page": "615",
+                    "parenthetical": "citation omitted"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "222 Va. 866",
+            "category": "reporters:state",
+            "reporter": "Va.",
+            "case_ids": [
+                2083587
+            ],
+            "year": 1981,
+            "pin_cites": [
+                {
+                    "page": "869",
+                    "parenthetical": "citation omitted"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va/222/0866-01"
+            ]
+        },
+        {
+            "cite": "254 S.E.2d 95",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "year": 1979,
+            "pin_cites": [
+                {
+                    "page": "98"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "219 Va. 1061",
+            "category": "reporters:state",
+            "reporter": "Va.",
+            "case_ids": [
+                2133498
+            ],
+            "year": 1979,
+            "pin_cites": [
+                {
+                    "page": "1065"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va/219/1061-01"
+            ]
+        },
+        {
+            "cite": "466 U.S. 789",
+            "category": "reporters:federal",
+            "reporter": "U.S.",
+            "case_ids": [
+                6206324
+            ],
+            "year": 1984,
+            "pin_cites": [
+                {
+                    "page": "800-01",
+                    "parenthetical": "citations omitted"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/us/466/0789-01"
+            ]
+        },
+        {
+            "cite": "413 U.S. 601",
+            "category": "reporters:federal",
+            "reporter": "U.S.",
+            "case_ids": [
+                11342234
+            ],
+            "weight": 3,
+            "year": 1973,
+            "pin_cites": [
+                {
+                    "page": "615"
+                },
+                {
+                    "page": "615"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/us/413/0601-01"
+            ]
+        },
+        {
+            "cite": "483 U.S. 1001",
+            "category": "reporters:federal",
+            "reporter": "U.S.",
+            "case_ids": [
+                28264,
+                28296,
+                28330,
+                28337,
+                28370,
+                28148,
+                28156
+            ],
+            "year": 1987,
+            "opinion_index": 0,
+            "case_paths": [
+                "/us/483/1001-02",
+                "/us/483/1001-01",
+                "/us/483/1001-04",
+                "/us/483/1001-03",
+                "/us/483/1001-07",
+                "/us/483/1001-05",
+                "/us/483/1001-06"
+            ]
+        },
+        {
+            "cite": "764 F.2d 1156",
+            "category": "reporters:federal",
+            "reporter": "F.2d",
+            "case_ids": [
+                378220
+            ],
+            "year": 1985,
+            "pin_cites": [
+                {
+                    "page": "1161",
+                    "parenthetical": "footnote omitted"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/f2d/764/1156-01"
+            ]
+        },
+        {
+            "cite": "325 U.S. 91",
+            "category": "reporters:federal",
+            "reporter": "U.S.",
+            "case_ids": [
+                6155867
+            ],
+            "year": 1945,
+            "pin_cites": [
+                {
+                    "parenthetical": "specific intent element counters vagueness challenges"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/us/325/0091-01"
+            ]
+        },
+        {
+            "cite": "455 U.S. 489",
+            "category": "reporters:federal",
+            "reporter": "U.S.",
+            "case_ids": [
+                11306266
+            ],
+            "year": 1982,
+            "pin_cites": [
+                {
+                    "page": "495"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/us/455/0489-01"
+            ]
+        },
+        {
+            "cite": "417 U.S. 733",
+            "category": "reporters:federal",
+            "reporter": "U.S.",
+            "case_ids": [
+                1519615
+            ],
+            "year": 1974,
+            "pin_cites": [
+                {
+                    "page": "757"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/us/417/0733-01"
+            ]
+        },
+        {
+            "cite": "342 U.S. 337",
+            "category": "reporters:federal",
+            "reporter": "U.S.",
+            "case_ids": [
+                641157
+            ],
+            "weight": 2,
+            "year": 1952,
+            "pin_cites": [
+                {
+                    "page": "340"
+                },
+                {
+                    "page": "342",
+                    "parenthetical": "requirement of specific intent does much to destroy any force in argument that application of statute would be unfair or that complainant would not know his conduct is proscribed"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/us/342/0337-01"
+            ]
+        },
+        {
+            "cite": "407 U.S. 104",
+            "category": "reporters:federal",
+            "reporter": "U.S.",
+            "case_ids": [
+                9136789
+            ],
+            "weight": 2,
+            "year": 1972,
+            "pin_cites": [
+                {
+                    "page": "110"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/us/407/0104-01"
+            ]
+        },
+        {
+            "cite": "402 S.E.2d 238",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "year": 1991,
+            "pin_cites": [
+                {
+                    "page": "241",
+                    "parenthetical": "citations omitted"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "12 Va. App. 65",
+            "category": "reporters:state",
+            "reporter": "Va. App.",
+            "case_ids": [
+                4400034
+            ],
+            "year": 1991,
+            "pin_cites": [
+                {
+                    "page": "69",
+                    "parenthetical": "citations omitted"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va-app/12/0065-01"
+            ]
+        },
+        {
+            "cite": "408 U.S. 104",
+            "category": "reporters:federal",
+            "reporter": "U.S.",
+            "case_ids": [
+                1782877
+            ],
+            "weight": 2,
+            "year": 1972,
+            "pin_cites": [
+                {
+                    "page": "108-09",
+                    "parenthetical": "footnote omitted"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/us/408/0104-01"
+            ]
+        },
+        {
+            "cite": "91 S.E.2d 660",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "year": 1956,
+            "pin_cites": [
+                {
+                    "page": "669"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "197 Va. 782",
+            "category": "reporters:state",
+            "reporter": "Va.",
+            "case_ids": [
+                2061350
+            ],
+            "year": 1956,
+            "pin_cites": [
+                {
+                    "page": "794"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va/197/0782-01"
+            ]
+        },
+        {
+            "cite": "372 U.S. 29",
+            "category": "reporters:federal",
+            "reporter": "U.S.",
+            "case_ids": [
+                1765606
+            ],
+            "weight": 2,
+            "year": 1963,
+            "pin_cites": [
+                {
+                    "page": "32"
+                },
+                {
+                    "page": "33",
+                    "parenthetical": "citation omitted"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/us/372/0029-01"
+            ]
+        },
+        {
+            "cite": "368 S.E.2d 298",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "year": 1988,
+            "opinion_index": 0
+        },
+        {
+            "cite": "6 Va. App. 296",
+            "category": "reporters:state",
+            "reporter": "Va. App.",
+            "case_ids": [
+                2345539
+            ],
+            "year": 1988,
+            "opinion_index": 0,
+            "case_paths": [
+                "/va-app/6/0296-01"
+            ]
+        },
+        {
+            "cite": "364 S.E.2d 239",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "weight": 2,
+            "year": 1988,
+            "pin_cites": [
+                {
+                    "page": "241"
+                },
+                {
+                    "page": "241"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "5 Va. App. 459",
+            "category": "reporters:state",
+            "reporter": "Va. App.",
+            "case_ids": [
+                4392375
+            ],
+            "weight": 2,
+            "year": 1988,
+            "pin_cites": [
+                {
+                    "page": "462"
+                },
+                {
+                    "page": "462"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va-app/5/0459-01"
+            ]
+        },
+        {
+            "cite": "377 S.E.2d 412",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "year": 1989,
+            "pin_cites": [
+                {
+                    "page": "413",
+                    "parenthetical": "liability found only where the conduct was outrageous and intolerable in that it offends against the generally accepted standards of decency and morality"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "237 Va. 366",
+            "category": "reporters:state",
+            "reporter": "Va.",
+            "case_ids": [
+                2102923
+            ],
+            "year": 1989,
+            "pin_cites": [
+                {
+                    "page": "368",
+                    "parenthetical": "liability found only where the conduct was outrageous and intolerable in that it offends against the generally accepted standards of decency and morality"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va/237/0366-01"
+            ]
+        },
+        {
+            "cite": "93 S.E.2d 328",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "year": 1956,
+            "pin_cites": [
+                {
+                    "page": "331"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "198 Va. 196",
+            "category": "reporters:state",
+            "reporter": "Va.",
+            "case_ids": [
+                2058733
+            ],
+            "year": 1956,
+            "pin_cites": [
+                {
+                    "page": "199"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va/198/0196-01"
+            ]
+        },
+        {
+            "cite": "128 S.E. 578",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.",
+            "year": 1925,
+            "pin_cites": [
+                {
+                    "page": "579"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "142 Va. 620",
+            "category": "reporters:state",
+            "reporter": "Va.",
+            "case_ids": [
+                8691488
+            ],
+            "year": 1925,
+            "pin_cites": [
+                {
+                    "page": "625"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va/142/0620-01"
+            ]
+        },
+        {
+            "cite": "309 S.E.2d 308",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "year": 1983,
+            "pin_cites": [
+                {
+                    "page": "311"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "226 Va. 382",
+            "category": "reporters:state",
+            "reporter": "Va.",
+            "case_ids": [
+                2076464
+            ],
+            "year": 1983,
+            "pin_cites": [
+                {
+                    "page": "387-88"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va/226/0382-01"
+            ]
+        },
+        {
+            "cite": "210 S.E.2d 145",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "year": 1974,
+            "pin_cites": [
+                {
+                    "page": "148"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "215 Va. 338",
+            "category": "reporters:state",
+            "reporter": "Va.",
+            "case_ids": [
+                2123160
+            ],
+            "year": 1974,
+            "pin_cites": [
+                {
+                    "page": "342"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va/215/0338-01"
+            ]
+        },
+        {
+            "cite": "400 S.E.2d 160",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "weight": 2,
+            "year": 1991,
+            "pin_cites": [
+                {
+                    "page": "162"
+                },
+                {
+                    "page": "163",
+                    "parenthetical": "quoting Restatement (Second"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "241 Va. 23",
+            "category": "reporters:state",
+            "reporter": "Va.",
+            "case_ids": [
+                2109327
+            ],
+            "weight": 2,
+            "year": 1991,
+            "pin_cites": [
+                {
+                    "page": "26"
+                },
+                {
+                    "page": "27"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va/241/0023-01"
+            ]
+        },
+        {
+            "cite": "424 U.S. 936",
+            "category": "reporters:federal",
+            "reporter": "U.S.",
+            "case_ids": [
+                12041328,
+                12041418,
+                12041236,
+                12041284
+            ],
+            "year": 1976,
+            "pin_cites": [
+                {
+                    "parenthetical": "citations omitted"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/us/424/0936-03",
+                "/us/424/0936-04",
+                "/us/424/0936-01",
+                "/us/424/0936-02"
+            ]
+        },
+        {
+            "cite": "218 S.E.2d 730",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "year": 1975,
+            "pin_cites": [
+                {
+                    "page": "733"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "216 Va. 362",
+            "category": "reporters:state",
+            "reporter": "Va.",
+            "case_ids": [
+                2124912
+            ],
+            "year": 1975,
+            "pin_cites": [
+                {
+                    "page": "366"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va/216/0362-01"
+            ]
+        },
+        {
+            "cite": "461 U.S. 352",
+            "category": "reporters:federal",
+            "reporter": "U.S.",
+            "case_ids": [
+                11298570
+            ],
+            "weight": 2,
+            "year": 1983,
+            "pin_cites": [
+                {
+                    "page": "357"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/us/461/0352-01"
+            ]
+        },
+        {
+            "cite": "402 S.E.2d 229",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "weight": 3,
+            "year": 1991,
+            "pin_cites": [
+                {
+                    "page": "232"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "12 Va. App. 7",
+            "category": "reporters:state",
+            "reporter": "Va. App.",
+            "case_ids": [
+                4400403
+            ],
+            "weight": 3,
+            "year": 1991,
+            "pin_cites": [
+                {
+                    "page": "14"
+                },
+                {
+                    "page": "15-16"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va-app/12/0007-01"
+            ]
+        },
+        {
+            "cite": "407 S.E.2d 301",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "year": 1991,
+            "pin_cites": [
+                {
+                    "page": "306",
+                    "parenthetical": "citations omitted"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "12 Va. App. 774",
+            "category": "reporters:state",
+            "reporter": "Va. App.",
+            "case_ids": [
+                4401387
+            ],
+            "year": 1991,
+            "pin_cites": [
+                {
+                    "page": "783",
+                    "parenthetical": "citations omitted"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va-app/12/0774-01"
+            ]
+        },
+        {
+            "cite": "252 S.E.2d 313",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "year": 1979,
+            "pin_cites": [
+                {
+                    "page": "314",
+                    "parenthetical": "\"[ijntent is the purpose formed in a person's mind which may, and often must, be inferred from the facts and circumstances in a particular case\""
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "219 Va. 834",
+            "category": "reporters:state",
+            "reporter": "Va.",
+            "case_ids": [
+                2133485
+            ],
+            "year": 1979,
+            "pin_cites": [
+                {
+                    "page": "836",
+                    "parenthetical": "\"[ijntent is the purpose formed in a person's mind which may, and often must, be inferred from the facts and circumstances in a particular case\""
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va/219/0834-01"
+            ]
+        },
+        {
+            "cite": "405 S.E.2d 1",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "year": 1991,
+            "pin_cites": [
+                {
+                    "page": "4",
+                    "parenthetical": "citation omitted"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "12 Va. App. 476",
+            "category": "reporters:state",
+            "reporter": "Va. App.",
+            "case_ids": [
+                4399879
+            ],
+            "year": 1991,
+            "pin_cites": [
+                {
+                    "page": "484",
+                    "parenthetical": "citation omitted"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va-app/12/0476-01"
+            ]
+        },
+        {
+            "cite": "83 S.E.2d 369",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "year": 1954,
+            "pin_cites": [
+                {
+                    "page": "373"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "196 Va. 210",
+            "category": "reporters:state",
+            "reporter": "Va.",
+            "case_ids": [
+                337918
+            ],
+            "year": 1954,
+            "pin_cites": [
+                {
+                    "page": "216"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va/196/0210-01"
+            ]
+        },
+        {
+            "cite": "399 S.E.2d 450",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "weight": 2,
+            "year": 1991,
+            "pin_cites": [
+                {
+                    "page": "452-53"
+                },
+                {
+                    "page": "452"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "11 Va. App. 530",
+            "category": "reporters:state",
+            "reporter": "Va. App.",
+            "case_ids": [
+                4398641
+            ],
+            "weight": 2,
+            "year": 1991,
+            "pin_cites": [
+                {
+                    "page": "534"
+                },
+                {
+                    "page": "533"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va-app/11/0530-01"
+            ]
+        },
+        {
+            "cite": "354 S.E.2d 95",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "year": 1987,
+            "pin_cites": [
+                {
+                    "page": "98",
+                    "parenthetical": "en banc"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "4 Va. App. 83",
+            "category": "reporters:state",
+            "reporter": "Va. App.",
+            "case_ids": [
+                4391737
+            ],
+            "year": 1987,
+            "pin_cites": [
+                {
+                    "page": "88",
+                    "parenthetical": "en banc"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va-app/4/0083-01"
+            ]
+        },
+        {
+            "cite": "351 S.E.2d 598",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "year": 1986,
+            "pin_cites": [
+                {
+                    "page": "601-02"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "3 Va. App. 523",
+            "category": "reporters:state",
+            "reporter": "Va. App.",
+            "case_ids": [
+                2284757
+            ],
+            "year": 1986,
+            "pin_cites": [
+                {
+                    "page": "528"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va-app/3/0523-01"
+            ]
+        },
+        {
+            "cite": "366 S.E.2d 719",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "year": 1988,
+            "pin_cites": [
+                {
+                    "page": "721",
+                    "parenthetical": "citations omitted"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "6 Va. App. 172",
+            "category": "reporters:state",
+            "reporter": "Va. App.",
+            "case_ids": [
+                2345672
+            ],
+            "year": 1988,
+            "pin_cites": [
+                {
+                    "page": "176",
+                    "parenthetical": "citations omitted"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va-app/6/0172-01"
+            ]
+        },
+        {
+            "cite": "100 S.E.2d 1",
+            "category": "reporters:state_regional",
+            "reporter": "S.E.2d",
+            "year": 1957,
+            "pin_cites": [
+                {
+                    "page": "3"
+                }
+            ],
+            "opinion_index": 0
+        },
+        {
+            "cite": "199 Va. 397",
+            "category": "reporters:state",
+            "reporter": "Va.",
+            "case_ids": [
+                2055714
+            ],
+            "year": 1957,
+            "pin_cites": [
+                {
+                    "page": "400"
+                }
+            ],
+            "opinion_index": 0,
+            "case_paths": [
+                "/va/199/0397-01"
+            ]
+        }
+    ],
+    "analysis": {
+        "cardinality": 1211,
+        "char_count": 24661,
+        "ocr_confidence": 0.905,
+        "pagerank": {
+            "raw": 1.1487984083190435e-06,
+            "percentile": 0.9866536620474784
+        },
+        "sha256": "8236a6d81d5fd13900917c939191510ada59a45c6c52e61345e37c999f594739",
+        "simhash": "1:b6d52620b27ea558",
+        "word_count": 3946
+    },
+    "last_updated": "2024-02-27T22:43:34.379479+00:00",
+    "provenance": {
+        "date_added": "2019-08-29",
+        "source": "Harvard",
+        "batch": "2018"
+    },
+    "casebody": {
+        "judges": [],
+        "parties": [
+            "ANDERSON L. WOOLFOLK, JR. v. COMMONWEALTH OF VIRGINIA"
+        ],
+        "opinions": [
+            {
+                "text": "Opinion\nFITZPATRICK, J.\nBACKGROUND\nUnder well-established principles of appellate review, we restate the evidence in the light most favorable to the Commonwealth. Jane Woolfolk, the victim in this case, divorced appellant in June 1991, after fifteen years of marriage. Ms. Woolfolk retained custody of the two minor children born of the marriage, and the final decree of divorce granted appellant the right \u201cto see and visit with the children at reasonable times and places.\u201d By mid-July 1992, Ms. Woolfolk, acting upon the recommendation of appellant\u2019s psychologist, suspended all contact and communication between appellant and the children.\nFollowing appellant\u2019s separation from Ms. Woolfolk in 1987, he engaged in a pattern of conduct that frequently involved following her and maintaining surveillance on her residence.\nIn the summer of 1992, after Ms. Woolfolk began dating Bill Carter, appellant\u2019s surveillance activities increased dramatically. These activities included driving up and down the dead-end street where Ms. Woolfolk lived, parking within sight of the residence, and watching the house for extended periods of time. These activities occurred at both day and night. In addition, appellant followed Ms. Woolfolk or her guests on several occasions with his vehicle. In July 1992, Ms. Woolfolk was \u201calarmed\u201d after discovering appellant had followed her to an out-of-town wedding she had attended with a female neighbor.\nOn August 11, 1992, someone let the air out of a tire on Mr. Carter\u2019s car while the car was parked in Ms. Woolfolk\u2019s driveway. Thereafter, appellant was served with a \u201cno trespass\u201d notice, forbidding him from coming in or upon Ms. Woolfolk\u2019s premises. Appellant continued to drive past or park near Ms. Woolfolk\u2019s residence.\nOn September 19, 1992, at 7:00 a.m., Mr. Carter awoke to a telephone call from a male caller who stated, \u201cIf you don\u2019t stop seeing her, I\u2019m going to shoot both your asses.\u201d At trial, Mr. Carter testified that he was dating only Ms. Woolfolk during this period of time and that he recognized the caller\u2019s voice as appellant\u2019s. After Mr. Carter received the call, he contacted Ms. Woolfolk and informed her of appellant\u2019s threat. The next day, Mr. Carter saw appellant drive through his, Mr. Carter\u2019s, Fredricksburg apartment complex, forty miles from appellant\u2019s Louisa County residence.\nOn September 21, 1992, at approximately 10:00 p.m., two days after the threatening telephone call, Ms. Woolfolk saw appellant\u2019s unoccupied car parked near her home. Charlta H. Richardson, one of Ms. Woolfolk\u2019s neighbors, testified that she saw appellant drive down the street several times that night. Ms. Woolfolk became upset and feared that appellant was somewhere near her home on foot. Throughout the following week, appellant continued to park near or in sight of Ms. Woolfolk\u2019s home. He was within view of her residence every day from September 24 until the date of his arrest on September 28, 1992.\nThe evidence established that in response to appellant\u2019s threat and course of conduct, Ms. Woolfolk carried tear gas in her purse, had motion detector lights installed on the outside of her home, and \u201cslept with a hammer\u201d beside her bed. She watched for appellant everywhere she went and, on one occasion, she obtained a police escort when she drove Mr. Carter\u2019s car back to Fredricksburg.\nAppellant denied making the threatening telephone call to Mr. Carter. He stipulated at trial that he was frequently within view of Ms. Woolfolk\u2019s home, that he followed Mr. Carter and that he drove through Mr. Carter\u2019s apartment complex on September 20, 1992. However, appellant argues that he engaged in all these activities to monitor his children\u2019s environment and prepare for a future custody hearing.\nSUFFICIENCY OF THE EVIDENCE\nAppellant argues that the Commonwealth failed to prove that he acted with the intent to cause emotional distress, and that \u201c[a] fair reading of the record in this case reveals nothing more than a father who was worried and concerned about his children.\u201d\nThe Commonwealth proved beyond a reasonable doubt that appellant acted with a specific intent when he engaged in his pattern of \u201cstalking\u201d conduct. See Code \u00a7 18.2-60.3 (1992). \u201c \u2018[Sjpecific intent may, like any other fact, be shown by circumstances. Intent is a state of mind which can be evidenced only by the words or conduct of the person who is claimed to have entertained it.\u2019 \u201d Bell, 11 Va. App. at 533, 399 S.E.2d at 452 (quoting Banovitch v. Commonwealth, 196 Va. 210, 216, 83 S.E.2d 369, 373 (1954)). \u201cA person\u2019s conduct may be measured by its natural and probable consequences. The finder of fact may infer that a person intends the natural and probable consequences of his acts.\u201d Campbell v. Commonwealth, 12 Va. App. 476, 484, 405 S.E.2d 1, 4 (1991) (citation omitted).\nThe evidence proved that appellant stalked his ex-wife. From mid-summer 1992 until his arrest in September 1992, he persistently followed Ms. Woolfolk. He watched her in her home at all hours of the day and night, and even began to follow her boyfriend, Mr. Carter, who lived in Fredricksburg. Appellant threatened to shoot Ms. Woolfolk and Mr. Carter. He followed this threat by driving through Mr. Carter\u2019s apartment complex and repeatedly driving by Ms. Woolfolk\u2019s residence. Ms. Woolfolk testified that appellant\u2019s threat, combined with his persistent course of conduct, \u201cterrified\u201d her. In addition, she believed that appellant wanted to shoot or kill her.\nVAGUENESS\nAppellant next argues that Code \u00a7 18.2-60.3 (1992) is unconstitutionally vague. The statute in effect in September 1992, provided, in part:\nAny person who on more than one occasion engages in conduct with the intent to cause emotional distress to another person by placing that person in reasonable fear of death or bodily injury shall be guilty of a Class 2 misdemeanor.\nCode \u00a7 18.2-60.3(A) (1992). Appellant argues, inter alia, that \u201cthe statutory phrase \u2018intent to cause emotional distress\u2019 is hopelessly vague in that it fails to appraise a potential defendant of what sort of conduct might violate its terms.\u201d We disagree.\nAs a threshold matter, the Commonwealth argues that appellant lacks standing to make a vagueness challenge to former Code \u00a7 18.2-60.3 (1992) because \u201can allegation that a statute is unconstitutionally vague cannot be lodged by one who has engaged in conduct \u2018clearly proscribed\u2019 by the statute.\u201d We have previously considered and rejected this argument in Perkins v. Common wealth, 12 Va. App. 7, 402 S.E.2d 229 (1991), where we held that a defendant had standing to challenge the statutes in question on overbreadth and vagueness grounds. Id. at 12, 402 S.E.2d at 232; see also Kolender v. Lawson, 461 U.S. 352, 358 n.8 (1983).\nWe reject appellant\u2019s contention that the term \u201cemotional distress\u201d is \u201chopelessly vague.\u201d \u201cIn determining whether a legislative enactment is unconstitutionally vague, the Supreme Court [of the United States] has considered whether the words used have a well-settled common-law meaning, and whether the state\u2019s case law demonstrates that the language used, while otherwise vague, has been judicially narrowed.\u201d Flannery v. City of Norfolk, 216 Va. 362, 366, 218 S.E.2d 730, 733 (1975), appeal dismissed, 424 U.S. 936 (1976) (citations omitted). The term \u201cemotional distress\u201d is a common and well-recognized legal term that has been judicially narrowed by existing Virginia law. See Russo v. White, 241 Va. 23, 26, 400 S.E.2d 160, 162 (1991); Womack v. Eldridge, 215 Va. 338, 342, 210 S.E.2d 145, 148 (1974).\nWhen statutory construction is required, we construe a statute to promote the end for which it was enacted, if such an interpretation can reasonably be made from the language used. VEPCO v. Board of County Supervisors, 226 Va. 382, 387-88, 309 S.E.2d 308, 311 (1983); Harris v. Commonwealth, 142 Va. 620, 625, 128 S.E. 578, 579 (1925). Generally, the words and phrases used in a statute should be given their ordinary and usually accepted meaning unless a different intention is fairly manifest. See Huffman v. Kite, 198 Va. 196, 199, 93 S.E.2d 328, 331 (1956).\nThe ordinary meaning of distress is as follows:\nDistress commonly implies conditions or circumstances that cause physical or mental stress or strain, suggesting strongly the need for assistance; in application to a mental state, it implies the strain of fear, anxiety, shame or the like.\nWebster\u2019s Third New International Dictionary 660 (1981). In addition, Dorland\u2019s Medical Dictionary defines distress as: \u201cphysical or mental anguish or suffering.\u201d Dorland\u2019s Illustrated Medical Dictionary 398 (26th ed. 1981).\nThe Supreme Court of Virginia has also discussed the meaning of the term \u201cemotional distress\u201d in the context of civil tort actions. Former Code \u00a7 18.2-60.3 (1992) imposes criminal liability for specific conduct that, in the civil arena, could give rise to a claim for damages for the intentional infliction of emotional distress. Those cases which define the elements of the tort of the intentional infliction of emotional distress are instructive as to the intended meaning of the term \u201cemotional distress\u201d used in former Code \u00a7 18.2-60.3. In Russo, the Supreme Court of Virginia explained:\nThe term \u201cemotional distress\u201d travels under many labels, such as, \u201cmental suffering, mental anguish, mental or nervous shock. . . .\u201d But liability arises only when the emotional distress is extreme, and only where the distress inflicted is so severe that no reasonable person could be expected to endure it.\nRusso, 241 Va. at 27, 400 S.E.2d at 163 (quoting Restatement (Second) of Torts \u00a7 46, comment j (1965)) (emphasis added). See also Ruth v. Fletcher, 237 Va. 366, 368, 377 S.E.2d 412, 413 (1989) (liability found only where the conduct was outrageous and intolerable in that it offends against the generally accepted standards of decency and morality). Accordingly, we construe the term \u201cemotional distress\u201d as used in former Code \u00a7 18.2-60.3 to mean the suffering or mental anguish that arises from being placed in reasonable fear of death or bodily injury and is so severe that no reasonable person could be expected to endure it.\n\u201cIn assessing the constitutionality of a statute, we must presume that the legislative action is valid. The burden is on the challenger to prove the alleged constitutional defect.\u201d Perkins, 12 Va. App. at 14, 402 S.E.2d at 233 (citing Coleman v. City of Richmond, 5 Va. App. 459, 462, 364 S.E.2d 239, 241, reh\u2019g denied, 6 Va. App. 296, 368 S.E.2d 298 (1988)). See also United States v. National Dairy Products Corp., 372 U.S. 29, 32 (1963); Almond v. Day, 197 Va. 782, 794, 91 S.E.2d 660, 669 (1956). Further, \u201cwe may construe our statutes to have a limited application if such a construction will tailor the statute to a constitutional fit.\u201d Coleman, 5 Va. App. at 462, 364 S.E.2d at 241.\n\u201cAs generally stated, the void-for-vagueness doctrine requires that a penal statute define the criminal offense with sufflcient definiteness that ordinary people can understand what conduct is prohibited and in a manner that does not encourage arbitrary and discriminatory enforcement.\u201d Kolender, 461 U.S. at 357. In Grayned v. City of Rockford, 408 U.S. 104 (1972), the Supreme Court of the United States explained that:\n[criminal] laws [must] give the person of ordinary intelligence a reasonable opportunity to know what is prohibited, so that he may act accordingly. ... A vague law impermissibly delegates basic policy matters to policemen, judges, and juries for resolution on an ad hoc and subjective basis, with the attendant dangers of arbitrary and discriminatory applications.\nId. at 108-09 (footnote omitted). However, \u201c[i]f the terms of the statute, when measured by common understanding and practices, sufficiently warn a person as to what behavior is prohibited, then the statute is not unconstitutionally vague.\u201d Stein v. Commonwealth, 12 Va. App. 65, 69, 402 S.E.2d 238, 241 (1991) (citations omitted).\nWe conclude that former Code \u00a7 18.2-60.3 gave fair notice of the proscribed activity and is not unconstitutionally vague. Appellant reads the statute as proscribing all conduct done with the intent to cause the victim to suffer any type of emotional distress. In addition, appellant contends that the statute creates a subjective standard requiring \u201ca potential defendant to engage in sheer guesswork as to whether his actions will cause \u2018emotional distress\u2019 or not in each specific case.\u201d By attempting to interpret each word separately, instead of reading the statute as a whole, appellant has misconstrued the clear meaning of former Code \u00a7 18.2-60.3.\nIn our view, the statute does not create a subjective standard, but in fact creates a \u201creasonable person\u201d standard, and therefore, the proscribed conduct does not vary with the particular psychological makeup of the victim. In addition, the statute prohibits only conduct engaged in with the intent to cause the specific emotional distress generated by placing a victim in reasonable fear of death or bodily injury. The statute\u2019s application is further narrowed by our interpretation that the emotional distress contemplated by former Code \u00a7 18.2-60.3 must be so severe that no reasonable person could be expected to endure it. In addition, the statute requires that the Commonwealth prove that an accused engaged in such activity \u201con more than one occasion.\u201d\nIn Colten v. Kentucky, 407 U.S. 104 (1972), the Supreme Court of the United States explained as follows:\nThe root of the vagueness doctrine is a rough idea of fairness. It is not a principle designed to convert into a constitutional dilemma the practical difficulties in drawing criminal statutes both general enough to take into account a variety of human conduct and sufficiently specific to provide fair warning that certain kinds of conduct are prohibited.\nId. at 110. Accordingly, \u201cno more than a reasonable degree of certainty can be demanded.\u201d Boyce Motor Lines v. United States, 342 U.S. 337, 340 (1952). Here, the clear legislative intent of former Code \u00a7 18.2-60.3 was to stop serious threatening and harassing conduct before it escalated into violence. As Professor Tribe has noted, \u201cthe legislature confronts a dilemma: to draft with narrow particularity is to risk nullification by easy evasion of the legislative purpose; to draft with great generality is to risk ensnarement of the innocent in a net designed for others.\u201d Lawrence H. Tribe, American Constitutional Law \u00a7 12-31, at 1033 (2d ed. 1988) (footnote omitted).\nAs a practical matter, it is impossible to draft legislation delineating every possible act of stalking that would provide adequate protection for potential victims without infringing upon our constitutional freedoms. Former Code \u00a7 18.2-60.3 struck an appropriate balance between these two concerns by requiring proof beyond a reasonable doubt that an accused acted with a specific intent. \u201cIn determining the sufficiency of the notice a statute must of necessity be examined in the light of the conduct with which a defendant is charged.\u201d National Dairy Products Corp., 372 U.S. at 33 (citation omitted). See also Parker v. Levy, 417 U.S. 733, 757 (1974). By requiring a specific intent in conjunction with more than one overt act, the statute gives a person of ordinary intelligence a reasonable opportunity to know what is proscribed. See Village of Hoffman Estates v. Flipside, 455 U.S. 489, 495 (1982); see also Boyce, 342 U.S. at 342 (requirement of specific intent does much to destroy any force in argument that application of statute would be unfair or that complainant would not know his conduct is proscribed); Screws v. United States, 325 U.S. 91 (1945) (specific intent element counters vagueness challenges). Accordingly, we find that appellant failed to prove that former Code \u00a7 18.2-60.3 is void for vagueness.\nOVERBREADTH\nAppellant also contends that former Code \u00a7 18.2-60.3 is unconstitutionally overbroad. \u201cAn overbroad statute is one that is designed to burden or punish activities which are not constitutionally protected, but the statute includes within its scope activities which are protected by the First Amendment.\u201d Hill v. City of Houston, 764 F.2d 1156, 1161 (5th Cir. 1985) (footnote omitted), cert. denied, 483 U.S. 1001 (1987). However, the overbreadth doctrine, which is designed to guard against laws that interfere with activities protected by the First Amendment, is not without limitation.\nIn Broadrick v. Oklahoma, 413 U.S. 601 (1973), the Supreme Court of the United States ruled that \u201csubstantial overbreadth\u201d may be required to invoke the doctrine, particularly where speech is joined with conduct:\n[The function of the overbreadth doctrine is] a limited one at the outset, [and] attenuates as the otherwise unprotected behavior that it forbids the State to sanction moves from \u201cpure speech\u201d toward conduct and that conduct\u2014even if expressive\u2014falls within the scope of otherwise valid criminal laws that reflect legitimate state interests in maintaining comprehensive controls over harmful, constitutionally unprotected conduct. ... To put the matter another way, particularly where conduct and not merely speech is involved, we believe that the overbreadth of a statute must not only be real, but substantial as well, judged in relation to the statute\u2019s plainly legitimate sweep.\nId. at 615.\nFormer Code \u00a7 18.2-60.3 was designed to proscribe certain impermissible conduct and not speech.\n[T]he mere fact that one can conceive of some impermissible application of a statute is not sufficient to render it susceptible to an overbreadth challenge; . . . there must be a realistic danger that the statute itself will significantly compromise recognized First Amendment protections of parties not before the court for [the statute] to be facially challenged on overbreadth grounds.\nCity Council v. Taxpayers for Vincent, 466 U.S. 789, 800-01 (1984) (citations omitted) (footnote omitted). See also Perkins, 12 Va. App. at 15-16, 402 S.E.2d at 234. No such \u201crealistic danger\u201d is present in this case.\nAppellant argues that former Code \u00a7 18.2-60.3 is broad enough to reach constitutionally protected activities. While we do not agree with appellant\u2019s construction of the statute, it is well settled that \u201c[i]f a statute can be made constitutionally definite by a reasonable construction, the court is under a duty to give it that construction.\u201d Pedersen v. City of Richmond, 219 Va. 1061, 1065, 254 S.E.2d 95, 98 (1979). Applying this principle, we read former Code \u00a7 18.2-60.3 as proscribing only conduct having no legitimate purpose engaged in with the intent to cause the specific emotional distress generated by placing a victim in reasonable fear of death or bodily injury. Such a narrowing construction is not strained and prevents the possibility of overbreadth. Beyond all reasonable doubt, appellant\u2019s conduct violated the terms of the statute as herein construed. Because we find that former Code \u00a7 18.2-60.3 is directed primarily at conduct that has no legitimate purpose and, if directed at speech then without regard to its content, we conclude that appellant has not shown any overbreadth of the statute that is \u201csubstantial . . . judged in relation to the statute\u2019s plainly legitimate sweep.\u201d Broadrick, 413 U.S. at 615. Accordingly, appellant\u2019s overbreadth challenge to former Code \u00a7 18.2-60.3 must fail.\nCONCLUSION\nMoon, C.J., and Hodges, S.J., concurred.\nCode \u00a7 18.2-60.3 was amended by the General Assembly during the 1994 regular session. The current statute provides, in part:\nAny person who on more than one occasion engages in conduct directed at another person with the intent to place, or with the knowledge that the conduct places, that other person in reasonable fear of death, criminal sexual assault, or bodily injury to that other person or to that other person\u2019s spouse or child shall be guilty of a Class 2 misdemeanor.\nIt is a well settled principle of statutory construction that the whole body of a statute should be examined to determine the true intention of each part. \u201c[A] statute is not to be construed by singling out a particular phrase.\u201d VEPCO v. Citizens for Safe Power, 222 Va. 866, 869, 284 S.E.2d 613, 615 (1981) (citation omitted).\n\u201c[T]he maxim \u2018noscitur a sociis,\u2019 which translates \u2018it is known from its associates,\u2019 provides that the meaning of a word takes color and expression from the purport of the entire phrase of which it is a part, and it must be read in harmony with its context.\u201d Turner v. Commonwealth, 226 Va. 456, 460, 309 S.E.2d 337, 339 (1983). Here, the general words \u201cintent to cause emotional distress\u201d are qualified by the related phrase \u201cby placing that person in reasonable fear of death or bodily injury.\u201d Code \u00a7 18.2-60.3. \u201c[W]hen general words and specific words are grouped together, the general words are limited and qualified by the specific words and will be construed to embrace only objects similar in nature to those objects identified by the specific words.\u201d Commonwealth v. United Airlines, Inc., 219 Va. 374, 389, 248 S.E.2d 124, 132-33 (1978). See also Cape Henry Towers, Inc. v. National Gypsum Co., 229 Va. 596, 601, 331 S.E.2d 476, 479 (1985).",
+                "type": "majority",
+                "author": "FITZPATRICK, J."
+            }
+        ],
+        "attorneys": [
+            "Counsel",
+            "Franklin P. Hall (Hall & Hall, on briefs), for appellant.",
+            "Margaret Ann B. Walker, Assistant Attorney General (James S. Gilmore, III, Attorney General, on brief), for appellee."
+        ],
+        "corrections": "",
+        "head_matter": "Richmond\nANDERSON L. WOOLFOLK, JR. v. COMMONWEALTH OF VIRGINIA\nNo. 1173-93-2\nDecided August 23, 1994\nCounsel\nFranklin P. Hall (Hall & Hall, on briefs), for appellant.\nMargaret Ann B. Walker, Assistant Attorney General (James S. Gilmore, III, Attorney General, on brief), for appellee."
+    },
+    "file_name": "0840-01",
+    "first_page_order": 848,
+    "last_page_order": 861
+}
