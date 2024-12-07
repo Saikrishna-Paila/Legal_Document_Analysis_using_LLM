@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # AI Meets Law: Transforming Legal Research with RAG, Fine-Tuning, and Few-Shot Learning
 
 ## Project Overview
@@ -222,3 +222,4 @@ streamlit run app.py
 - **Interactive Visualizations**: Build dashboards for exploring case patterns and trends.
 
 ---
+
