@@ -10,9 +10,9 @@ The system is designed to address the challenges of legal research, such as sift
 ---
 
 ## Team Members
-- **Saikrishna Paila** – Lead Developer and Data Science Specialist
-- **Aneri Patel** – AI Researcher and Workflow Designer
-- **Srivallabh Siddharth N** – Backend Developer and Optimization Engineer
+- **Saikrishna Paila** 
+- **Aneri Patel** 
+- **Srivallabh Siddharth N** 
 
 ---
 
