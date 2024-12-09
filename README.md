@@ -3,7 +3,7 @@
 # AI Meets Law: Transforming Legal Research with RAG, Fine-Tuning, and Few-Shot Learning
 
 ![Logo](LOGO.webp)
-<img src="LOGO.webp" alt="Logo" width="200" height="100" />
+
 
 
 ## Project Overview
