@@ -1,0 +1,59 @@
+{
+  "id": 2096009,
+  "name": "Allen, et al. v. Allen, et al.",
+  "name_abbreviation": "Allen v. Allen",
+  "decision_date": "1769-04",
+  "docket_number": "",
+  "first_page": "47",
+  "last_page": "47",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 86"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 100,
+    "char_count": 1211,
+    "ocr_confidence": 0.46,
+    "sha256": "4174aa23d9a79f2b0dd165a3f7887a8e3da4e78d306c53d3df3607628173edfa",
+    "simhash": "1:86435f410d377216",
+    "word_count": 211
+  },
+  "last_updated": "2023-07-14T19:43:08.706124+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "*Allen, et al. v. Allen, et al."
+    ],
+    "opinions": [
+      {
+        "text": "In this case, one question among others was, whether, where a father entitled to a reversion in slaves dies, and afterwards the particular estate (which here was for life) falls in, the heir at law shall be obliged to account to his brothers and sisters for a proportion of their value? And the court determined he should. It was also insisted that some children by a second wife, (whose mother had by a marriage contract reserved a right of appointing her own slaves at her death as she pleased,) should bring into hotchpot whatever they should get under such appointment, or not be entitled to take with the children of the first marriage, a proportionable part of the value of the father\u2019s proper slaves. But the court determined that the right of hotchpot, does not take place in dividing the value of slaves.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "*Allen, et al. v. Allen, et al.\nApril, 1769.\nSlaves \u2014 Reversion in \u2014 Right of Younger Children to Share. \u2014 A father entitled to a reversion in slaves dies, and afterwards the particular estate, which was for life, falls in. Hhij), the heir at law must account to the younger children for a proportion of the value.\nSlaves \u2014 Hotchpot.\u2014Hotchpot does not take place in dividing' the value of slaves."
+  },
+  "file_name": "0047-01",
+  "first_page_order": 47,
+  "last_page_order": 47
+}

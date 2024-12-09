@@ -1,0 +1,179 @@
+{
+  "id": 2288215,
+  "name": "ELEANOR D. MITCHELL v. COUNTY OF HANOVER",
+  "name_abbreviation": "Mitchell v. County of Hanover",
+  "decision_date": "1986-02-18",
+  "docket_number": "No. 0077-85",
+  "first_page": "486",
+  "last_page": "490",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 486"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "167 S.E. 371",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "year": 1933,
+      "pin_cites": [
+        {
+          "page": "373"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Va. 968",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        4859116
+      ],
+      "year": 1933,
+      "pin_cites": [
+        {
+          "page": "973"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/159/0968-01"
+      ]
+    },
+    {
+      "cite": "627 P.2d 1316",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "1320"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 Wash. 2d 574",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1160958
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/95/0574-01"
+      ]
+    },
+    {
+      "cite": "217 S.E.2d 893",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "897"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "216 Va. 297",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2124959
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/216/0297-01"
+      ]
+    },
+    {
+      "cite": "101 S.E. 230",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "year": 1919,
+      "pin_cites": [
+        {
+          "page": "231"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "126 Va. 763",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        1991350
+      ],
+      "year": 1919,
+      "pin_cites": [
+        {
+          "page": "767"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/126/0763-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 371,
+    "char_count": 6499,
+    "ocr_confidence": 0.909,
+    "pagerank": {
+      "raw": 2.441893913680234e-07,
+      "percentile": 0.803141225608134
+    },
+    "sha256": "59c4ce254be7c6fd9a13277b64745c47c1b43483f8bcf3f03880bd75de7dfc77",
+    "simhash": "1:2b87f0d1caef73d5",
+    "word_count": 1080
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ELEANOR D. MITCHELL v. COUNTY OF HANOVER"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nKEENAN, J.\nEleanor Mitchell was convicted of driving under the influence of alcohol in violation of Hanover County Code \u00a7 15-2. The court imposed a fine of $250 and suspended her operator\u2019s license for a period of six months. The issues presented in this appeal are: (1) whether County Code \u00a7 15-2 was valid at the time of Mitchell\u2019s arrest; and (2) if not, whether Mitchell\u2019s conviction can be sustained based on the wording of the warrant describing the offense.\nIn order to decide these issues, we must begin by considering the effect of certain legislative enactments of the General Assembly and the Hanover County Board of Supervisors. Virginia Code \u00a7 15.1-132 permits local governing bodies to enact legislation prohibiting driving under the influence of alcohol or drugs. On January 30, 1974, the Hanover County Board of Supervisors approved an ordinance reenacting \u00a7 9-1 of the County Code. The approved language provided that: \u201cArticle 6 of Chapter 2 of Title 18.1 of the 1950 Code of Virginia (Section 18.1-54 through 18.1-59) as amended or hereafter amended, is hereby adopted by reference.\u201d\nIn 1975, the General Assembly repealed Virginia Code Title 18.1. Title 18.2 was enacted in its place. Hanover County, however, did not pass any further legislation dealing with the crime of driving under the influence until 1982. At that time, the Board of Supervisors passed an ordinance which recodified the County Code. This ordinance stated: \u201cThat the Code of Ordinances, consisting of Chapters 1 to 24, each inclusive, is hereby adopted and enacted as the \u2018Code of the County of Hanover, Virginia,\u2019 which Code shall supersede all general and permanent ordinances of the County adopted on or before January 28, 1981 . . . .\u201d Under the recodification, County Code \u00a7 9-1 became \u00a7 15-2. The 1982 ordinance made no provision reflecting the repeal of Virginia Code Title 18.1 and the passage of Title 18.2. Therefore, as of the date of Mitchell\u2019s arrest, September 16, 1983, Hanover County had not passed an ordinance adopting Virginia Code Title 18.2\nAlthough never authorized by ordinance, a reference to. Virginia Code \u00a7 18.2-266 et seq. was inserted into \u00a7 15-2 of the County Code, in place of the authorized reference to former Virginia Code \u00a7\u00a7 18.1-54 through 18.1-59. Because the reference to Code \u00a7 18.2-266 et seq. was not adopted by ordinance as required by Code \u00a7 15.1-504, it is a nullity. Therefore, the 1974 version, incorporating by reference former Virginia Code \u00a7\u00a7 18.1-54 through 18.1-59, was the authorized version in effect as of the date of Mitchell\u2019s arrest.\nThe 1974 version contained a provision that \u201c[a]rticle 6 of Chapter 2 of Title 18.1 (Section 18.1-54 through 18.1-59) ... as amended or hereafter amended is hereby adopted by reference.\u201d However, Virginia Code Title 18.1 was not amended. It was repealed. A void act cannot be made the subject of an amendment. Burks v. Commonwealth, 126 Va. 763, 767, 101 S.E. 230, 231 (1919). Therefore, the language providing for prospective amendment to the County Code does not apply here, and Code \u00a7 18.2-266 et seq. was not incorporated into the County Code by operation of this provision. Based on this finding, we need not decide the validity of a local ordinance providing for the incorporation of prospective amendments to the Virginia Code.\nHaving found that Virginia Code \u00a7 18.2-266 et seq. was not incorporated into the Hanover County Code at the time of Mitchell\u2019s arrest, we must conclude that County Code \u00a7 15-2, at that time, did not state an offense.\nNext, we consider whether, absent reference to a valid code section, the wording of the warrant formed a sufficient basis for Mitchell\u2019s prosecution and conviction. The Commonwealth relies on Williams v. City of Petersburg, 216 Va. 297, 217 S.E.2d 893 (1975), in support of its position that the wording of the warrant alone was sufficient. Williams, however, presented a different issue. There, the defendant had been charged with driving under the influence and refusing to submit to a breath test. The warrant charging the refusal violation erroneously referred to former Code \u00a7 18.1-54.1, rather than former Code \u00a7 18.1-55.1. The court held that this did not invalidate the conviction because the warrant properly recited the gravamen of the offense set out in former Code \u00a7 18.1-55.1, and the statement of the offense was sufficient to enable the defendant to adequately prepare his defense. Id. at 301-02, 217 S.E.2d at 897. Thus, Williams addressed the effect of a mistaken reference to a valid code section. It did not deal, as we do, with a code section that was itself invalid. Under the facts before us, notice to the defendant is not the issue. Mitchell knew she was being charged with driving under the influence. Instead, the issue before us is whether the warrant itself stated an offense.\nDriving under the influence of alcohol was not an offense at common law. It exists solely as a creature of statute. Therefore, the words set out in the warrant before us had no effect unless they described a crime under a valid County Code section. This is not altered by the fact that the wording on the warrant described a violation of Virginia Code \u00a7 18.2-266 et seq. Mitchell was not charged with violating a provision of the Virginia Code. The existence of a state statute defining the same crime does not form a basis for conviction where a defendant has not been so charged. See Jenkins v. Bellingham Municipal Court, 95 Wash. 2d 574, 627 P.2d 1316, 1320 (1981). We find that the warrant before us did not state an offense and was, therefore, insufficient to form the basis of a conviction. See Commonwealth v. Doss, 159 Va. 968, 973, 167 S.E. 371, 373 (1933).\nIn summary, because Hanover County Code \u00a7 15-2 was invalid at the time of Mitchell\u2019s arrest, and the wording of the warrant was of itself insufficient to establish an offense, the conviction is invalid and must be dismissed.\nReversed and dismissed.\nBarrow, J., and Benton, J., concurred.\nThe arrest warrant stated that Mitchell: \u201cdid unlawfully in violation of \u00a7 15.2 [sic] . . . operate a motor vehicle while under the influence of alcohol or other self administered drug or intoxicants.\u201d\nHanover County Ordinance No. 82-5, effective June 1, 1982.",
+        "type": "majority",
+        "author": "KEENAN, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Ivy P. Blue, for appellant.",
+      "Wade Kizer (Eddie R. Vaughn, Jr., Commonwealth\u2019s Attorney, on brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Richmond\nELEANOR D. MITCHELL v. COUNTY OF HANOVER\nNo. 0077-85\nArgued September 12, 1985\nDecided February 18, 1986\nCounsel\nIvy P. Blue, for appellant.\nWade Kizer (Eddie R. Vaughn, Jr., Commonwealth\u2019s Attorney, on brief), for appellee."
+  },
+  "file_name": "0486-01",
+  "first_page_order": 510,
+  "last_page_order": 514
+}

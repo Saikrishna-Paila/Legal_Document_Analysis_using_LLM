@@ -1,0 +1,59 @@
+{
+  "id": 2096022,
+  "name": "The King v. McClanahan",
+  "name_abbreviation": "The King v. McClanahan",
+  "decision_date": "1733-10",
+  "docket_number": "",
+  "first_page": "11",
+  "last_page": "11",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 9"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 88,
+    "char_count": 1028,
+    "ocr_confidence": 0.381,
+    "sha256": "85fed2780de1f994e1167c9c18b10b1796801afdd30a1fa0c21c3aeb0b70fcb6",
+    "simhash": "1:3ac661955874b3fb",
+    "word_count": 176
+  },
+  "last_updated": "2023-07-14T19:43:08.706124+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The King v. McClanahan."
+    ],
+    "opinions": [
+      {
+        "text": "The case was: The defendant was the first of three recommended by the county court; a blank commission was sent up to the clerk of the county court, under the seal, with directions from Mr. Robertson to offer the commission to the defendant, and if he refused, to put in the name of the next person recommended. Defendant refused before the county court, and the commission was filled up with the name of another; and whether the defendant was liable to the penalty of the act, was the question. The words of the act are, \u2018that every person hereafter commissionated to be sheriff, and refusing, shall forfeit, \u2019 &c. In this case the defendant never was commissionated; his name was never in the commission, and so not within the act. \u2014 Judgment for the defendant.\nIt was said, the practice of sending out blank commissions under the seal, was of dangerous consequence, and it was not safe for any man to fill them up.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "The King v. McClanahan.\nOctober, 1733.\nCommissionating- -What Constitutes.\nReported by Edward Barradall, Esq."
+  },
+  "file_name": "0011-01",
+  "first_page_order": 11,
+  "last_page_order": 11
+}

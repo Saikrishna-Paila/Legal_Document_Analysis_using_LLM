@@ -1,0 +1,546 @@
+{
+  "id": 2288221,
+  "name": "JAMES WARREN SCOTT v. COMMONWEALTH OF VIRGINIA",
+  "name_abbreviation": "Scott v. Commonwealth",
+  "decision_date": "1986-02-18",
+  "docket_number": "No. 0278-85",
+  "first_page": "447",
+  "last_page": "454",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "286 S.E.2d 257",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "259"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "566 F.2d 68",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        902196
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "71-72"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/566/0068-01"
+      ]
+    },
+    {
+      "cite": "455 U.S. 209",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11304618
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "228-31",
+          "parenthetical": "Marshall, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/455/0209-01"
+      ]
+    },
+    {
+      "cite": "339 U.S. 162",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        362765
+      ],
+      "weight": 2,
+      "year": 1950,
+      "pin_cites": [
+        {
+          "page": "172"
+        },
+        {
+          "page": "179-80",
+          "parenthetical": "Black, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/339/0162-01"
+      ]
+    },
+    {
+      "cite": "316 U.S. 679",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        368139,
+        368155,
+        368212,
+        368221
+      ],
+      "year": 1949,
+      "pin_cites": [
+        {
+          "parenthetical": "in murder of farmer by sharecropper, no prejudice presumed in veniremen who were farmers"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/316/0679-03",
+        "/us/316/0679-04",
+        "/us/316/0679-02",
+        "/us/316/0679-01"
+      ]
+    },
+    {
+      "cite": "16 S.E.2d 808",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "812",
+          "parenthetical": "in murder of farmer by sharecropper, no prejudice presumed in veniremen who were farmers"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "178 Va. 294",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        1980676
+      ],
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "304-05",
+          "parenthetical": "in murder of farmer by sharecropper, no prejudice presumed in veniremen who were farmers"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/178/0294-01"
+      ]
+    },
+    {
+      "cite": "118 S.E.2d 679",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "680",
+          "parenthetical": "in a trial for larceny of oysters, no error in refusing to question veniremen as to whether any owned, leased or operated oyster grounds"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "202 Va. 511",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        563300
+      ],
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "512-13",
+          "parenthetical": "in a trial for larceny of oysters, no error in refusing to question veniremen as to whether any owned, leased or operated oyster grounds"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/202/0511-01"
+      ]
+    },
+    {
+      "cite": "326 S.E.2d 685",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "687",
+          "parenthetical": "sister of former Commonwealth's Attorney and former clients of incumbent Commonwealth's Attorney"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "229 Va. 113",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2070549
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "116",
+          "parenthetical": "sister of former Commonwealth's Attorney and former clients of incumbent Commonwealth's Attorney"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/229/0113-01"
+      ]
+    },
+    {
+      "cite": "331 S.E.2d 422",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "431-32",
+          "parenthetical": "several veniremen sitting on other murder trials at same term of court"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "229 Va. 469",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2070484
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "480",
+          "parenthetical": "several veniremen sitting on other murder trials at same term of court"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/229/0469-01"
+      ]
+    },
+    {
+      "cite": "311 S.E.2d 409",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "410"
+        },
+        {
+          "page": "410"
+        },
+        {
+          "page": "409-10"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "226 Va. 591",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2076429
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "593"
+        },
+        {
+          "page": "594"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/226/0591-01"
+      ]
+    },
+    {
+      "cite": "307 S.E.2d 896",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "898"
+        },
+        {
+          "page": "900",
+          "parenthetical": "veniremen for whom Commonwealth's Attorney had been counsel in civil case and drafted will"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "226 Va. 256",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2076440
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "258"
+        },
+        {
+          "page": "263",
+          "parenthetical": "veniremen for whom Commonwealth's Attorney had been counsel in civil case and drafted will"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/226/0256-01"
+      ]
+    },
+    {
+      "cite": "225 S.E.2d 199",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 4,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "200"
+        },
+        {
+          "page": "200-01"
+        },
+        {
+          "page": "199-200"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "217 Va. 92",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2128474
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "93"
+        },
+        {
+          "page": "94"
+        },
+        {
+          "page": "92-94"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/217/0092-01"
+      ]
+    },
+    {
+      "cite": "227 S.E.2d 734",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "735"
+        },
+        {
+          "page": "735"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "217 Va. 297",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2128360
+      ],
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "298"
+        },
+        {
+          "page": "298"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/217/0297-01"
+      ]
+    },
+    {
+      "cite": "271 S.E.2d 123",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "128",
+          "parenthetical": "footnotes omitted"
+        },
+        {
+          "page": "129"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "221 Va. 436",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2138864
+      ],
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "444",
+          "parenthetical": "footnotes omitted"
+        },
+        {
+          "page": "445"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/221/0436-01"
+      ]
+    },
+    {
+      "cite": "266 S.E.2d 87",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "90"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "220 Va. 971",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2136061
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "975"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/220/0971-01"
+      ]
+    },
+    {
+      "cite": "279 S.E.2d 151",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "222 Va. 180",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2083497
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/222/0180-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 659,
+    "char_count": 11010,
+    "ocr_confidence": 0.91,
+    "pagerank": {
+      "raw": 3.5892904781493075e-07,
+      "percentile": 0.8871490191126973
+    },
+    "sha256": "87337b6c7ab9589b405256dcf4025dc0d360acb2b87fbb65a4d7cc95470ec5a4",
+    "simhash": "1:07616962778c2182",
+    "word_count": 1860
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JAMES WARREN SCOTT v. COMMONWEALTH OF VIRGINIA"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nBENTON, J.\nIn this appeal by James Warren Scott we consider whether a prospective juror\u2019s employment by the establishment where the offense occurred constitutes grounds for disqualification of the juror \u201cfor cause.\u201d Scott argues that we should adopt a per se rule that would disqualify a prospective juror under these circumstances. Alternatively, Scott contends that, even if the juror was not per se disqualified, the record demonstrates that the juror was not questioned sufficiently to determine his qualifications for serving on the jury. We reject both contentions and affirm the conviction.\nScott was indicted for the robbery of a cashier at the Ukrops Supermarket in Chester. The court examined the venire in accordance with Rule 3A:14. One juror, Mr. Henderson, responded affirmatively to the court\u2019s question: \u201cAre any of you officers, directors, stockholders, agents or employees of Ukrops?\u201d The voir dire of Henderson continued:\nTHE COURT: What is your affiliation?\nA JUROR: I work as the morning man with Ukrops. I just work in the store, the morning man.\nTHE COURT: All right, do you think that your employment with Ukrops would in any way affect your ability to give this defendant a fair and impartial trial on this case today?\nA JUROR: I don\u2019t think so, but\u2014I\u2014I don\u2019t believe it would.\nTHE COURT: I\u2019ll let you pursue that further in just a minute.\nIt is not clear from the record to whom the court\u2019s last remark was directed.\nThe voir dire continued until the court completed the inquiries required by Rule 3A:14. Scott\u2019s trial counsel then asked:\nWould any of y\u2019all have difficulty if you shopped\u2014do any of you shop at Ukrops? I realize that is probably most of y\u2019all. Would you have any difficulty in finding for [Scott] considering your relationship to Ukrops, if the facts of the case should show that he was not the person involved in this robbery?\nThe members of the venire responded negatively. In response to further questions to the venire by Scott\u2019s trial counsel, Henderson also indicated that he previously had served on a jury and had been a victim of \u201ca home robbery.\u201d Counsel moved to strike Henderson because of his connection with Ukrops.\nThe court then examined Henderson:\nQ I previously asked you about the first question you answered. The second one I want to ask you about is the fact that you\u2019ve served on a jury. Obviously, that is no ground for not serving on this one. The fact that your home was\u2014you said a home robbery. Do you mean a robbery?\nA Yes, sir, I was robbed.\nQ Was anybody there?\nA No, I had no contact with the perpetrator.\nQ That is a burglary. I don\u2019t mean to get technical with you. You weren\u2019t robbed.\nA I was burglarized.\nQ Okay, fine. Does the fact that your home was burglarized\u2014do you think that in any way will affect your ability to give this defendant a fair trial\u2014\nA I don\u2019t think so.\nQ \u2014based on the law and the evidence in this case? Can you sit here and hear this case and not let that affect your judgment?\nA It wouldn\u2019t affect it.\nTHE COURT: I\u2019m not going to strike for cause. I think just the mere fact that he might make a better juror than some of the others. Who knows? I\u2019m not going to strike him for cause.\nHenderson was removed from the panel by peremptory challenge. The removal by peremptory challenge is irrelevant to our decision if the court erred in refusing to strike him for cause. L.E. Briley v. Commonwealth, 222 Va. 180, 181 n.1, 279 S.E.2d 151, 152 n.1 .(1981). \u201c[I]t is prejudicial error ... to force a defendant to use the peremptory strike ... to exclude a venireman who is not free from exception.\u201d Justus v. Commonwealth, 220 Va. 971, 975, 266 S.E.2d 87, 90 (1980).\n\u201c[A]n accused is entitled to an impartial jury as a matter of constitutional guarantee, reenforced by legislative mandate and by the Rules of . . . court.\u201d Martin v. Commonwealth, 221 Va. 436, 444, 271 S.E.2d 123, 128 (1980) (footnotes omitted); Breeden v. Commonwealth, 217 Va. 297, 298, 227 S.E.2d 734, 735 (1976). It is the court\u2019s duty to procure an impartial jury. Salina v. Commonwealth, 217 Va. 92, 93, 225 S.E.2d 199, 200 (1976). The court\u2019s fulfillment of this duty, however, involves the exercise of sound judicial discretion. Calhoun v. Commonwealth, 226 Va. 256, 258, 307 S.E.2d 896, 898 (1983); Martin, 221 Va. at 445, 271 S.E.2d at 129. The court\u2019s duty, in the exercise of its discretion, is to empanel jurors who are free from bias or prejudice against the parties and who \u201cstand indifferent in the cause.\u201d Breeden, 217 Va. at 298, 227 S.E.2d at 735.\nCode \u00a7 8.01-358, which is made applicable to criminal proceedings by Code \u00a7 19.2-260, provides for voir dire of a perspective juror \u201cto ascertain whether he is related to either party, or has any interest in the cause, or has expressed or formed any opinion, or is sensible of any bias or prejudice therein[.]\u201d Notwithstanding the trial court\u2019s powers and responsibilities in procuring an impartial jury, the Supreme Court has held that in certain cases a prospective juror should be disqualified due to a relationship with a party of record or a victim in a criminal prosecution.\nFor example, in Gray v. Commonwealth, 226 Va. 591, 593, 311 S.E.2d 409, 410 (1984), the Court held that a venireman related within the ninth degree of affinity to the victim of a crime is per se disqualified from serving on the jury panel. The Court founded its decision on the common-law rule disqualifying a venireman who is \u201crelated by blood or marriage to . . .a victim in a criminal prosecution.\u201d The Court held that \u201cthe potential for prejudice is inherent and the law conclusively presumes partiality.\u201d Id. at 594, 311 S.E.2d at 410.\nIn Salina v. Commonwealth, 217 Va. 92, 94, 225 S.E.2d 199, 200-01 (1976), the Court held that veniremen owning stock in a bank against which the offense was committed were disqualified from jury service. The Court concluded that the reasons for the disqualification on the ground of consanguinity \u201capply with even greater force where ... the criminal act suffered by the corporation [i.e. the banks] has the direct effect of diminishing the assets of the corporation held for the benefit of its stockholders.\u201d Id.\nIn both Gray and Salina the challenged jurors did not otherwise manifest any bias or prejudice. Each case rested squarely on the presumption of bias or prejudice inherent in the relationships. See Gray, 226 Va. at 594, 311 S.E.2d at 409-10; Salina, 217 Va. at 92-94, 225 S.E.2d at 199-200.\nPer se disqualifications are few in number and disfavored. The Supreme Court on several occasions has rejected either expressly or by clear implication the application of a per se rule. See, e.g., Watkins v. Commonwealth, 229 Va. 469, 480, 331 S.E.2d 422, 431-32 (1985) (several veniremen sitting on other murder trials at same term of court); Elam v. Commonwealth, 229 Va. 113, 116, 326 S.E.2d 685, 687 (1985) (sister of former Commonwealth\u2019s Attorney and former clients of incumbent Commonwealth\u2019s Attorney); Calhoun v. Commonwealth, 226 Va. 256, 263, 307 S.E.2d 896, 900 (1983) (veniremen for whom Commonwealth\u2019s Attorney had been counsel in civil case and drafted will); Melvin v. Commonwealth, 202 Va. 511, 512-13, 118 S.E.2d 679, 680 (1961) (in a trial for larceny of oysters, no error in refusing to question veniremen as to whether any owned, leased or operated oyster grounds); Waller v. Commonwealth, 178 Va. 294, 304-05, 16 S.E.2d 808, 812, cert. denied, 316 U.S. 679 (1949) (in murder of farmer by sharecropper, no prejudice presumed in veniremen who were farmers).\nWe believe a per se rule is unwarranted in this case. We recognize that a prospective juror employed by the victim of a crime may face overt or subtle influences on his capacity to hear the evidence and render judgment fairly and impartially. Cf. Dennis v. United States, 339 U.S. 162, 172 (1950); id. at 179-80 (Black, J., dissenting); Smith v. Phillips, 455 U.S. 209, 228-31 (1982) (Marshall, J., dissenting); United States v. Allsup, 566 F.2d 68, 71-72 (9th Cir. 1977). We conclude, however, that Henderson\u2019s employment by Ukrops, without more, should not lead us to impute a bias to him which is not disclosed by the record. We hold, therefore, that Henderson\u2019s employment does not constitute per se the \u201cinterest in the cause\u201d prohibited by Code \u00a7 8.01-358.\nSignificantly, in State v. Wilcox, 286 S.E.2d 257 (W. Va. 1982), one of the cases upon which Scott relies, the West Virginia court did not apply a per se rule. There, two veniremen were employees of the victim\u2019s brother and the court stated:\nAlthough we are of opinion that the trial court would not have abused its discretion by striking the two prospective jurors ... we conclude that the trial court did not commit error by refusing to strike the jurors for cause. The defense did not attempt to question those jurors to determine to what extent the employer-employee relationship might have influenced them, and there is no evidence indicating that they had any bias or prejudice toward the accused.\n286 S.E.2d at 259.\nThe quoted statement of the West Virginia court addresses Scott\u2019s second contention, that the trial court abused its discretion in failing to examine Henderson at length regarding his employment. As noted above, it is the duty of the court to procure an impartial jury. Consistent with this duty, the trial courts of Virginia conduct the examination of the venire, including the mandatory seven questions set out in Rule 3A:14. The trial court\u2019s responsibility in the matter of the venire, however, does not exclude the participation of counsel. Code \u00a7 8.01-358; Rule 3A: 14(a).\nIndeed, the court invited counsel to \u201cquestion the jurors.\u201d Although Scott\u2019s trial counsel asked whether the fact that veniremen shopped at Ukrops would affect their judgment, he did not pursue Henderson\u2019s employment relationship. The record does not disclose whether, in fact, Henderson was employed at the store where the robbery occurred, whether he had acquired information about the crime through his employment, or whether he was acquainted with the Ukrops\u2019 clerk who was robbed. We can only speculate as to whether this line of inquiry would have disclosed any bias or prejudice on Henderson\u2019s part.\nThe trial court examined Henderson twice as to his employment and experience as the victim of a crime. The court was satisfied that he would render a fair and impartial verdict. While it may have been more prudent for the trial court to have removed Henderson, on the record before us we cannot say that the court abused its discretion or that its decision is manifestly wrong. The conviction, therefore, must be affirmed.\nAffirmed\nKoontz, C.J., and Keenan, J., concurred.",
+        "type": "majority",
+        "author": "BENTON, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Patrick M. Crowling, Jr. (Cabell, Paris, Lowenstein & Bareford, on brief), for appellant.",
+      "Leah A. Darron, Assistant Attorney General (William G. Broaddus, Attorney General, on brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Richmond\nJAMES WARREN SCOTT v. COMMONWEALTH OF VIRGINIA\nNo. 0278-85\nArgued October 17, 1985\nDecided February 18, 1986\nCounsel\nPatrick M. Crowling, Jr. (Cabell, Paris, Lowenstein & Bareford, on brief), for appellant.\nLeah A. Darron, Assistant Attorney General (William G. Broaddus, Attorney General, on brief), for appellee."
+  },
+  "file_name": "0447-01",
+  "first_page_order": 471,
+  "last_page_order": 478
+}

@@ -1,0 +1,63 @@
+{
+  "id": 2288208,
+  "name": "COURTESY MOTORS, INC. v. FORD MOTOR COMPANY",
+  "name_abbreviation": "Courtesy Motors, Inc. v. Ford Motor Co.",
+  "decision_date": "1986-01-21",
+  "docket_number": "No. 0648-85",
+  "first_page": "366",
+  "last_page": "369",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 366"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 338,
+    "char_count": 5906,
+    "ocr_confidence": 0.913,
+    "sha256": "7bfd642e70f7ee208e53dcf3c9934279120e95991919cdfff19ef53ee506750b",
+    "simhash": "1:6bcb8b0a65e4c6c4",
+    "word_count": 959
+  },
+  "last_updated": "2023-07-14T20:14:53.885817+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COURTESY MOTORS, INC. v. FORD MOTOR COMPANY"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nBAKER, J.\nis an appeal by Courtesy Motors, Inc. (Courtesy) from an April 17, 1985 order of the Circuit Court for the City of Buena Vista (trial court) which confirmed an order of the Commissioner of Motor Vehicles (Commissioner) that permitted Ford Motor Company (Ford) to grant a franchise to Lexington Ford to operate a Ford dealership in the City of Lexington, Virginia. Lexington is located approximately six (6) miles from Buena Vista, the city in which Courtesy had operated a Ford dealership for approximately nineteen (19) years.\nWhen Ford gave notice that it intended to establish a new franchise in Lexington, Courtesy, pursuant to Code \u00a7 46.1-547(d), requested the Commissioner to cause a hearing to be held to determine whether the market would support such additional dealership.\nOn June 11, 1984, pursuant to the provisions of Code \u00a7 46.1-547(d), a hearing was held in Buena Vista before Hearing Officer William Nelson Alexander, II (Hearing Officer). After receiving evidence, the Hearing Officer filed a report with the Commissioner in which he held that the proposed new dealership was in the trade area of Courtesy, but recommended that the Lexington franchise be granted. Pursuant to the provisions of Code \u00a7 46.1-550.1 A, Courtesy appealed the decision of the Commissioner to the Circuit Court for the City of Buena Vista and, among others, assigned as error that the Motor Vehicles\u2019 Advisory Board was unlawfully constituted.\nThe Commissioner is required to appoint a Motor Vehicle Dealers\u2019 Advisory Board consisting of six members, which \u201cshall consult with and advise the Commissioner with respect to matters brought before the Commissioner,\u201d and no two of whom \u201cmay be franchised to sell automobiles or trucks manufactured or distributed by the same person or a subsidiary or affiliate of the same person.\u201d (emphasis added). See Code \u00a7 46.1-550.2.\nPrior to considering other errors assigned, we must decide whether the Motor Vehicle Dealers\u2019 Advisory Board (Board) was' validly constituted and, if not, whether such defect nullifies the action of the Commissioner which was sustained by the trial court. By law, the Commissioner must: (1) appoint a six-member Board; (2) with no two or more members franchised to sell the same motor vehicle; and (3) to consult with them and receive their advice. Until this is validly done, the Commissioner is not authorized to approve or disapprove the proposed new dealership. The Board which made the recommendation here contained two franchised Ford dealers. In this respect, the requirements of the statute were not met in that the Commissioner made his decision prior to consulting with and receiving the advice and recommendation of a Board whose membership was consistent with the mandate of Code \u00a7 46.1-550.2.\nFord argues that since one of the members of the Board owned three Mazda franchises and only one Ford franchise, for the purposes of Code \u00a7 46.1-550.2, this made him a Mazda dealer and not a Ford dealer. We disagree. The statute clearly provides that \u201cno two of such dealers may be franchised to sell automobiles . . . manufactured by the same person.\u201d The fact that the member may own franchises from other manufacturers does not alter the prohibition contained in the statute.\nFord further argues that there is no evidence that any \u201ceconomic pressure\u201d was brought to bear upon any Board member dealer by a franchisor or manufacturer. We agree that there is no such evidene in this record, but in enacting Code \u00a7 46.1-550.2, the General Assembly intended to remove even the temptation for such pressure. It is irrelevant that the record fails to disclose the existence of economic pressure being brought to bear on a franchised dealer member of the Board.\nNext, Ford argues that the opinion of the Board is advisory only and that the Commissioner is not required to follow the Board\u2019s recommendation. We also agree with this statement; however, Code \u00a7 46.1-550.IB specifically provides that ii[b]efore rendering any decision under this article, the Commissioner shall obtain recommendations on the subject from the Motor Vehicle Dealers\u2019 Advisory Board.\u201d (emphasis added). The clear mandate of this Code section and Code \u00a7 46.1-550.2 is that before the Commissioner can act he must receive a recommendation from a validly constituted Board. We hold that this Board was not comprised of members as required by Code \u00a7 46.1-550.2 and, therefore, that the Commissioner has acted without receiving the recommendations mandated by the General Assembly.\nFinally, Ford argues that if the Commissioner\u2019s decision is invalid, no impediment exists to Ford itself establishing a motor vehicle dealership in Lexington. In view of our decision here, that issue need not be decided in this cause.\nBecause the membership of the Board contained more than one dealer franchised by the same manufacturer, the determination of the Commissioner was not made in compliance with the cited sections of the code and is, therefore, void. For that reason, the judgment of the trial court is reversed and this cause is remanded so that a Board consisting of persons contemplated by Code \u00a7 46.1-550.2(b) may be selected to review the evidence elicited at a new hearing held pursuant to Code \u00a7 46.1-547(d) and give advice to the Commissioner according to law.\nIn view of the foregoing holding it is not necessary for us to review the remaining assignments of error.\nReversed and remanded.\nBarrow, J., and Hodges, J., concurred.\nHere, the meaning of the word \u201cperson\u201d for legal purposes includes corporations. See Code \u00a7 46.1-1(20).",
+        "type": "majority",
+        "author": "BAKER, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "W. T. Robey, III (Robey and Irvine, on brief), for appellant.",
+      "Joseph A. Ritok, Jr. (Bernard J. Natkin; Dykema, Gossett, Spencer, Goodnow & Trigg; Natkin, Heslep & Natkin, on brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Norfolk\nCOURTESY MOTORS, INC. v. FORD MOTOR COMPANY\nNo. 0648-85\nArgued October 15, 1985\nDecided January 21, 1986\nCounsel\nW. T. Robey, III (Robey and Irvine, on brief), for appellant.\nJoseph A. Ritok, Jr. (Bernard J. Natkin; Dykema, Gossett, Spencer, Goodnow & Trigg; Natkin, Heslep & Natkin, on brief), for appellee."
+  },
+  "file_name": "0366-01",
+  "first_page_order": 390,
+  "last_page_order": 393
+}

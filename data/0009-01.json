@@ -1,0 +1,59 @@
+{
+  "id": 2096010,
+  "name": "Waddy v. Sturman & al.",
+  "name_abbreviation": "Waddy v. Sturman",
+  "decision_date": "1731-04",
+  "docket_number": "",
+  "first_page": "9",
+  "last_page": "10",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 5"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 376,
+    "char_count": 7299,
+    "ocr_confidence": 0.445,
+    "sha256": "dcfccee89c3fddddf5eb5481fc53e18d6588b9c8956748e0da8a7e046bdd6209",
+    "simhash": "1:507ac06af6423b19",
+    "word_count": 1337
+  },
+  "last_updated": "2023-07-14T19:43:08.706124+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Waddy v. Sturman & al."
+    ],
+    "opinions": [
+      {
+        "text": "The case. John Jordan being possessed of a very considerable personal estate, sufficient to pay all iiis debts, with an overplus, by his last will and testament in writing, bearing date the 6th day of February 1693, gives several legacies to his sons-in-law, John Spence and Thomas Spence (who were brothers) in this manner. \u2018I give to my son, John Spence, twentj'-five pounds sterling, to be laid out in negroes, to be delivered to him upon the day of his marriage, also four cows, &c. Item, I give to my son, Thomas Spence, two negroes Mingo and Peggy, to be delivered at the day of his marriage, and ten head of cattle, &c. But my will is, that if the said John or Thomas should die without issue, that then whatsoever is bequeathed to them, the survivor shall have to him and his heirs and assigns.\u2019 The two negroes were delivered to Thomas, by Dorcas Jordan, the testator\u2019s wife and executrix, and he possessed them during his life, and died without issue in the life-time of John, who had the negroes in possession and died, leaving only one child (the complainant Waddy\u2019s wife). After John Spence\u2019s death, Dorcas Jordan brought an action of trespass in the General Court, against Lawrence Pope and his wife, who was the widow of John Spence, for recovering Mingo and Peggy and a child that was born of her; and obtained a judgment accordingly the 23rd of October 1700, against the defendants; the complainant Jane, being at that time about two years old. After the judgment, the negroes were taken by execution, and sold or disposed of by Dorcas Jordan, and are now with their increase in the possession of a person in Maryland; and the complainants have exhibited their bill against the defendants, executors of the last will and testament of John Sturman, who was the surviving executor of Dorcas Jordan, and the end of the bill is to recover the value of these negroes, with interest, out of the estate of Dorcas, which came to the hands of the defendant\u2019s testator. They severally pleaded the act of parliament, made in the fourth year of the reign of Henry IV., and the act of limitation made in Virginia, anno 1705 in bar to the bill, and have answered that John Sturman acted jointly with other executors, that they paid all the debts and legacies, that they do not know that any part of the estate came to his hands separately from the other executors. But they believe no part of it remained in his hands at the time of his death, the residue of the estate being divided and distributed according to the will, and as to the judgment, they believe there was no fraud or covin in the obtaining it, but that it was fairly given upon the justice and merits of the cause. And that several of the increase of these negroes, which were recovered by the judgment, were disposed of by the will of Dorcas and delivered accordingly: vide the answer as to this. The question is, whether the complainant (Waddy\u2019s wife) hath any right to demand those negroes, or the value of them, by the words of Jordan\u2019s will, and if she has, then whether the judgment, by the statute of Henry IV. or the act of limitation shall bar that right. As to the complainant\u2019s right to the legacy, given in remainder to her father after the death of Thomas, I think it is clear and the remainder good, for though the law doth not allow the remainder of a chattel (as negroes were then) to be limited after djfing without issue, generally, yet in a will, if a man give a a chattel to one, and if he die without issue within a short time, as the compass of one life, remainder to another, that remainder is good. It is true in the construction of the words (dying without issue), a man is said to die without issue when his posterity *fails, if it be a hundred years after his death, but in common parlance, or according to the vulgar acceptation, a man is said to die without issue when he leaves no issue at his death. And wherever, by the words of a will, the vulgar acceptation can take place, law and equity will construe it so as not to frustrate the testator\u2019s intent. So in this case, the testator plainly intended that if Thomas died without issue in the life-time of John, then, and not otherwise, his legacy should goto John; therefore the remainder was good and vested in John when he survived Thomas. So is the case of Pinbury and Elkin, 2 Vern. 766, 768, where chattels were devised to one, and if he died without issue after her decease, to another, it was held by the Lord Chancellor, that the words (after her decease) shewed the testator\u2019s intent to be, that if she left no issue living at her death, the remainder should take place, and therefore decreed accordingly; but if the remainder was not good, the whole property vested in Thomas, and then we claim as next of kin. Then consider the right Dorcas had to recover these negroes. It is admitted in the case, that she delivered them to Thomas, and after that she had no right to demand them again, not even for the payment of debts. But the property -absolutely vested in Thomas upon the assent and delivery. So is the case of Noel and Robinson. 1 Vern. 90; 2 Vent. 358. Now as to the matter of the pleas, the statute of Henry IV. was never intended to take away the jurisdiction of the Court of Chancery, as appears upon the case stated upon that statute and the arguments upon it, at the end of the 1st Cha. Rep.; but if it did, that statute cannot be carried farther in equity than at law, and no judgment by that statute can bar any but those who were parties to the judgment. So is the case of Lock and Norborn, 3 Mod. 141. As to the statute of limitations, that is likewise no bar in this case, because it is a suit for a legacy, and a legacy is not within that statute: between Parker and Ash, 1 Vern. 256, by the Lord Chancellor. Now we have a right, and are not barred by either of these statutes. We can, by the rules of equity, pursue the estate of the testator, John Jordan, or his executrix Dorcas, into whose hands soever it shall come. So is the case of Nicholson and Sherman, Cha. Cas. 57. And if the executors of the surviving executor of Dorcas have nothing in their hands, and it be true that her estate was delivered to several legatees of her will, we must make them parties to the bill and bring them to answer.\nReported by Sir John Randolph.\nAnd it was decreed accordingly by the Court.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Waddy v. Sturman & al.\nApril, 1731.\nWills\u2014 Construction. \u2014 A testator by his will gives to his son John certain legacies, and to his son Thomas certain other legacies, and then says: 'My will is, that if the said John or Thomas should die without issue, that then whatsoever is bequeathed to them the survivor shall have to him and Ms heirs and assigns.' Held, that the remainder was good and vested in John when he survived Thomas, who died without issue.\nStatutes \u2014 Construction.\u2014The statute of Henry IV. was never intended to take away the jurisdiction of the court of chancery, and if it did, that statute cannot be carried further in equity than at. law. and no judgment by that statute can bar any but those who were parties to the judgment.\nStatute of Limitations \u2014 Application to Legacies. \u2014 The statute of limitations is likewise no bar in this case, because it is a suit for a legacy, and a legacy is not v.ji.hin that statute."
+  },
+  "file_name": "0009-01",
+  "first_page_order": 9,
+  "last_page_order": 10
+}

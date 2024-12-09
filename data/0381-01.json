@@ -1,0 +1,272 @@
+{
+  "id": 2288246,
+  "name": "CORNELL PENDLETON v. FLIPPO CONSTRUCTION COMPANY",
+  "name_abbreviation": "Pendleton v. Flippo Construction Co.",
+  "decision_date": "1986-01-21",
+  "docket_number": "No. 0242-85",
+  "first_page": "381",
+  "last_page": "384",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 381"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "28 S.E.2d 730",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "735-36"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Va. 293",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        1973182
+      ],
+      "weight": 2,
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "305"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/182/0293-01"
+      ]
+    },
+    {
+      "cite": "4 S.E.2d 739",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 3,
+      "year": 1939,
+      "pin_cites": [
+        {
+          "page": "741"
+        },
+        {
+          "page": "741"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "174 Va. 50",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        8684319
+      ],
+      "weight": 2,
+      "year": 1939,
+      "pin_cites": [
+        {
+          "page": "57"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/174/0050-01"
+      ]
+    },
+    {
+      "cite": "1 Va.App. 141",
+      "category": "reporters:state",
+      "reporter": "Va. App.",
+      "case_ids": [
+        2288244
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "144"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va-app/1/0141-01"
+      ]
+    },
+    {
+      "cite": "275 S.E.2d 605",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "606-07"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "221 Va. 910",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2138756
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "912-13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/221/0910-01"
+      ]
+    },
+    {
+      "cite": "288 S.E.2d 485",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "486"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "223 Va. 354",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2082082
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "356"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/223/0354-01"
+      ]
+    },
+    {
+      "cite": "329 S.E.2d 46",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "47"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "229 Va. 253",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2070536
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "255-56"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/229/0253-01"
+      ]
+    },
+    {
+      "cite": "326 S.E.2d 702",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "703"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "229 Va. 196",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2070534
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "199"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/229/0196-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 468,
+    "char_count": 7552,
+    "ocr_confidence": 0.926,
+    "pagerank": {
+      "raw": 1.029853848263893e-07,
+      "percentile": 0.5477832877515253
+    },
+    "sha256": "1e4174eed6afebdf0140d5013805d546bd67dc6164583979a26ae4ee89875e73",
+    "simhash": "1:e57671abe788ea78",
+    "word_count": 1271
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CORNELL PENDLETON v. FLIPPO CONSTRUCTION COMPANY"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nCOLE, J.\nThis is an appeal from a decision of the Industrial Commission finding that Cornell Pendleton, the claimant, had not proved by a preponderance of the evidence that he suffered an injury by accident which arose out of his employment. The issue before us is whether there is sufficient credible evidence in the record to support the decision. We hold that there is and affirm.\nClaimant began working for Flippo Construction Company, the employer, on June 9, 1984, and his regular duty was to shovel asphalt. On June 25, 1984, he reported to work at 7:00 a.m. After VA to 2 hours had elapsed, he commenced unloading the first truck load of asphalt and began to experience back trouble and muscle pain. Claimant stated that, \u201cas our group work goes on during the day I felt it got worser and so around, just before quitting time, when we finished our last load, I picked up a shovel and I could feel myself pain.\u201d Claimant testified that he told his foreman that he thought he had pulled a muscle in his back, but he continued to work in some pain for a period of approximately three weeks until July 18, 1984, when he was seen in the emergency room at Alexandria Hospital. The emergency room hospital report indicates a two week history of bilateral low back ache with a diagnosis of \u201clumbar muscle strain\u2014acute.\u201d He was referred to an orthopedist, who also indicated a history of an injury two weeks earlier while shoveling asphalt at work, and his diagnosis was also acute lumbosacral strain.\nThe full Commission found that during the course of his work day shoveling asphalt the claimant developed back pain which became worse not only during that day, but during the course of the following three weeks while he continued to work. After giving consideration to all of the evidence, the Commission found that the claimant had not sustained his burden to prove a movement made or action taken at a particular time at work which had caused his injury, and accordingly, dismissed the application for compensation.\nThe claimant acknowledges that in order to establish an injury by accident he must prove \u201can identifiable incident that occurs at some reasonably definite time\u201d which causes \u201can obvious sudden mechanical or structural change in the body,\u201d and that the evidence in this case describing what occurred on the morning of June 25, 1984, does not meet the tests set forth in Lane Co. v. Saunders, 229 Va. 196, 199, 326 S.E.2d 702, 703 (1985). See also Kraft Dairy Group, Inc. v. Bernardini, 229 Va. 253, 255-56, 329 S.E.2d 46, 47 (1985); Virginia Electric & Power Co. v. Cogbill, 223 Va. 354, 356, 288 S.E.2d 485, 486 (1982); Badische Corp. v. Starks, 221 Va. 910, 912-13, 275 S.E.2d 605, 606-07 (1981); Bradley v. Philip Morris, U.S.A., 1 Va.App. 141, 144,_ S.E.2d_(1985).\nHowever, the claimant testified that near quitting time on June 25, 1984, he bent over to pick up his shovel and \u201cfelt something in my back.\u201d He argues that this was a new injury, or at least an aggravation of the injury sustained in the morning, and that this incident does meet the standards set forth in the cases enumerated above. The claimant asserts that the required causal connection is established when a claimant proves a compensable incident which materially aggravates or accelerates a preexisting condition, which then becomes the direct and immediate cause of the disability. He cites Liberty Mutual Insurance Co. v. Money, 174 Va. 50, 4 S.E.2d 739 (1939) and Ellis v. Commonwealth, 182 Va. 293, 28 S.E.2d 730 (1944) as authority for this position. The claimant contends that the Industrial Commission did not consider this second incident and failed to address this issue in its opinion. He argues that the second incident, when considered in connection with the incident in the morning, is compensable and that the decision should be reversed.\nWhile we agree with the claimant\u2019s interpretation of the principles stated in Liberty Mutual Insurance Co. and Ellis, we do not believe that it aids the claimant in this case. The claimant in Ellis had a preexisting sarcoma, which was followed by a compensable fall. The Supreme Court stated that a trauma may cause a latent sarcoma to become active and accelerated, and that since the recognized indicia of sarcoma became manifest immediately after the accident and increased until the leg was amputated, it was impossible under the evidence in the case to separate the injury from the fall from the aggravation of the latent sarcoma. Ellis, 182 Va. at 305, 28 S.E.2d at 735-36. For this reason, the Court held that aggravation of the sarcoma was properly classed as a proximate cause of the disability.\nIn Liberty Mutual Insurance Co. the claimant suffered a compensable injury to his groin while unloading a beer truck. Shortly thereafter he died of pneumonia. There was conflicting evidence as to the cause of death since the claimant had at the time of the accident underlying conditions of nephritis, diabetes, and general toxemia from diseased teeth, which made him more susceptible to an infection from accidental causes. The Supreme Court upheld the Commission\u2019s holding that the accident was of traumatic origin and that the pneumonia, which was the immediate cause of death, was produced by the accident. Liberty Mutual Insurance Co., 174 Va. at 57, 4 S.E.2d at 741.\nThe general rule pronounced in Liberty Mutual Insurance Co. was that presence of a preexisting physical condition is immaterial if the injury is proximately caused by an accident arising out of and in the course of the employment. The fact that the accident in and of itself would not have been sufficient to cause the injury in the absence of a preexisting disease is no defense, for the employer takes the employee as he finds him. If the accident accelerates or aggravates a preexisting condition, the injured party is entitled to compensation. On the other hand, an injury due solely to the natural progress of the preexisting disease is not compensable. Id. at 54-55, 4 S.E.2d at 741.\nWe believe when the evidence in the present case is considered in its entirety and as a whole, it is obvious that there were not two incidents, but one. It also is clear that the one incident commenced in the morning, pain continued from the incident throughout the day, and for the following three weeks until the claimant went to the hospital. The pain was a natural progression of the morning incident, admittedly not compensable, that gradually developed during the day of the occurrence.\nWe do not agree with the claimant\u2019s argument that the Commission failed to consider the second incident. In its opinion the Commission specifically stated that the claimant\u2019s pain continued to worsen during the day and referred to the fact that an incident occurred about 4:00 p.m. when the claimnat bent over and picked up the shovel. The Commission found as a fact that there was one gradual progression of events during the day and that the claimant had not sustained the burden of proving that he had suffered an injury by accident that arose out of his employment. We, therefore, hold that there is credible evidence to support the decision of the Industrial Commission. For this reason, we affirm their decision.\nAffirmed.\nDuff, J., and Moon, J., concurred.",
+        "type": "majority",
+        "author": "COLE, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Julie Butler (Ashcraft & Gerel, on brief), for appellant. Edward H. Grove, III (Brault, Geschickter, Palmer & Grove, on brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Alexandria\nCORNELL PENDLETON v. FLIPPO CONSTRUCTION COMPANY\nNo. 0242-85\nArgued October 10, 1985\nDecided January 21, 1986\nCounsel\nJulie Butler (Ashcraft & Gerel, on brief), for appellant. Edward H. Grove, III (Brault, Geschickter, Palmer & Grove, on brief), for appellee."
+  },
+  "file_name": "0381-01",
+  "first_page_order": 405,
+  "last_page_order": 408
+}

@@ -1,0 +1,72 @@
+{
+  "id": 2096045,
+  "name": "Major v. Dudley",
+  "name_abbreviation": "Major v. Dudley",
+  "decision_date": "1737-10",
+  "docket_number": "",
+  "first_page": "31",
+  "last_page": "31",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 51"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "5 Gratt. 6",
+      "category": "reporters:state",
+      "reporter": "Gratt.",
+      "case_ids": [
+        4375072
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/46/0006-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 136,
+    "char_count": 1511,
+    "ocr_confidence": 0.462,
+    "sha256": "f8102506e701d0a52b93417b37052e96ceab8e02674e81b4550a7a7839a66592",
+    "simhash": "1:9627ccd18cc3ebe5",
+    "word_count": 256
+  },
+  "last_updated": "2024-02-27T21:13:56.724571+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Major v. Dudley."
+    ],
+    "opinions": [
+      {
+        "text": "A bill was brought against the defendant, who had married an executrix that was dead, for an account of the testator\u2019s estate come to his hands. The defendant about twenty years before had exhibited in the county court, an account of debts and disbursments paid out of the testator\u2019s estate, to which he made oath, and the same was received and recorded, without any examination into the truth of these payments. As the children of the testator came of age, they severally petitioned the county court, and some of them brought suit to have their shares of their father\u2019s estate. Upon which petitions and suits, several orders were made for persons to settle an account of the testator\u2019s estate, and in all these settlements the account first exhibited by the defendant, was allowed as a good discharge for so much. In the present case, it was referred to persons to settle an account of the estate, who having some doubt about allowing this account, they prayed the opinion and direction of the court.\nThe court was unanimously of opinion for allowing the account, in regard to the distance of time, though the defendant had not one voucher to produce. And as to the length of time, the transaction *was of little more than twenty years standing, and the suit has been depending ten years.\nSee monographic note on '\u2018Executors and Administrators\" appended to Rosser v. Depriest, 5 Gratt. 6.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Major v. Dudley.\nOctober, 1737.\nExecutors \u2014 Settlement of Accounts \u2014 Lapse of Time. \u2018\nReported by Edward Barradall, Esq."
+  },
+  "file_name": "0031-02",
+  "first_page_order": 31,
+  "last_page_order": 31
+}

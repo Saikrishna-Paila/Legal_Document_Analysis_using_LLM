@@ -1,0 +1,66 @@
+{
+  "id": 2096044,
+  "name": "Edmonds v. Hughes",
+  "name_abbreviation": "Edmonds v. Hughes",
+  "decision_date": "1730-04",
+  "docket_number": "",
+  "first_page": "7",
+  "last_page": "8",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 2"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "37 H. 6",
+      "category": "reporters:state",
+      "reporter": "H.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 343,
+    "char_count": 5708,
+    "ocr_confidence": 0.511,
+    "sha256": "6c066d895356f2a8c5e1b2c1d361f02c1606286853c1a6e226bf662bba172a6f",
+    "simhash": "1:0d063fa254636164",
+    "word_count": 1048
+  },
+  "last_updated": "2024-02-27T21:13:56.724571+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edmonds v. Hughes."
+    ],
+    "opinions": [
+      {
+        "text": "*Richard Alderson was possessed of several negroes in the declaration mentioned, and made his last will and testament (dated the 15th of September, 1695) in these words, \u2018My will is, that Margaret my wife, shall be sole possessor, and disposer of what estate it hath pleased Almighty God to endue me withal, during her life, providing she keep herself unmarried, or in case she do marry again, that she, nor her husband, or any person or persons in their behalf, by any means or instruments to embezzle or make waste of the said estate, to any indemnity to my children.\u2019 Then by another clause, he gives his whole estate, chattel and chattels, to his son Richard, please God he lives, &c. Margaret, after her husband\u2019s death, married the plaintiff who carried off several of the slaves, and as it is said, married one of them, and had several children by her. Margaret died, and Richard Alderson the son, took the negroes in the declaration mentioned, and sold them to the defendant. And the question will be whether the remainder of the negroes (which were chattels at the time of the testator\u2019s death) first given to Margaret for life, be a good remainder to Richard; and I think clearly that it is. The devise that his wife should be sole possessor of his estate during her life, if it had gone no further, would have been construed as to chattels, no more than the devise of the use, and in that case, without doubt, a remainder might, by the' rules of law, be limited over. But where he goes on and says, she shall be sole possessor and disposer of every part of his estate during her life, it may be a question whether it be not the same as if he had given his estate to his wife for life, remainder over. And admit it to be so, yet the remainder will be good, and Richard had a good right to the negroes after his mother\u2019s death. There is a difference taken in the old books: where the thing itself is devised, a devise over is void, but where only the use is devised to one for a certain time, is it otherwise; and the principal case to this purpose is 37 H. 6; 36 Bro. Abr. title devise pl. 13, upon which several other resolutions have been built, viz. Plowd. 521; C. Owen 33; Marsh. Rep. 106. But these authorities are certainly too rigid in the case of a will, where a construction ought to be made as far as the law will admit, that the intention of the testator may take place; for a man upon his death bed being supposed to be inops consilii, the Judges will so expound his words, that the whole will may stand and take effect. And as to the case here, of later times, it has often been resolved upon a great debate contrary to the old books, and at this day the law is not so strict as it was formerly taken to be in the disposition of personal chattels. Por instance, in the case of Catchmay and Nicholas, anno 1673, where one devised all his ^estate to his sister during her life, and after her decease he gave four hundred pounds a piece to his four nieces, which estate consisted of personal things, there it was insisted that the legacy to the nieces was void, it being the devise of the remainder of a personal thing after the death of another, to whom it had been already given. The Master of the Rolls referred this point to Justice Ellis for his opinion, which was, that the remainder was good, and it was so decreed at the Rolls, and upon an appeal to the Eord Keeper, the decree was affirmed. See Lord Nottingham\u2019s reports, 1, 16, for the first devise being construed a trust. Sir Thomas Charges\u2019 case, anno 1691. Nelson, the old Duke of Albemarle, devised his jewels and plate to his wife for life, and afterwards to his son Christopher, which was a plain devise of a chattel personal with a remainder, and the Master of the Rolls held, this should be construed a devise of the use of the jewels, in order to support the will and intention of the testator. S. C. is reported, 2 Vern. 245, and the Eord Chancellor decreed accordingly, and the remainder to the young Duke was held good. In the case of Hide and Perret, 2 Vern. 331, the plaintiff\u2019s father devised to his wife all his household goods in his dwelling house at Hoddesden, during her natural life, and after her decease, to his son Joseph, and the question was, whether the devise over of these chattels, was good or not. The Eord Keeper held, that the devise over was good, for as to the personal chattels, the civil and common law is considered, and there the rule is, where personal chattels are devised for a limited time, it shall be intended the use of them only, and not the devise of the thing itself, and therefore allowed the remainder over to be good. These cases were determined upon solemn arguments, and are conformable to the resolutions in several other cases cited in the reports. They come up expressly to the case at bar, and there can be no question, but according to them, Richard had a good right to the negroes now in question.\nAnd it was adjudged for the defendant.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Edmonds v. Hughes.\nApril, 1730.\nSlaves in Remainder--Validity. \u2014 Hiebard Alderson being possessed of several slaves, made his last \u2022will and testament in these words: \u201cMy will is, that Margaret my wife, shall be sole possessor, and disposer of what estate it hath pleased Almighty God to endue me withal, during her life,\u201d etc. And by a subsequent clause he gave to his son Richard his whole estate, chattel and chattels. Held, that the remainder of the slaves (which were chattels at the time of the testator\u2019s death) is a good remainder to the son.\nReported by Sir John Randolph.\nThe special verdict in this case is very-imperfect and uncertain, so that no title in the plaintiff can be collected from it.\nBut the case is thus."
+  },
+  "file_name": "0007-02",
+  "first_page_order": 7,
+  "last_page_order": 8
+}

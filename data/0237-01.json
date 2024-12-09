@@ -1,0 +1,191 @@
+{
+  "id": 2288239,
+  "name": "DELMER L. SMITH v. H. L. UNDERWOOD, SUPERINTENDENT",
+  "name_abbreviation": "Smith v. Underwood",
+  "decision_date": "1985-12-03",
+  "docket_number": "No. 0316-85",
+  "first_page": "237",
+  "last_page": "240",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 237"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "208 S.E.2d 749",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "752"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "215 Va. 269",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2123189
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "272-73"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/215/0269-01"
+      ]
+    },
+    {
+      "cite": "419 U.S. 1108",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6500967,
+        6501161,
+        6501450,
+        6500684,
+        6500780,
+        6500590,
+        6500881,
+        6500498,
+        6501074,
+        6501246,
+        6501343
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/419/1108-06",
+        "/us/419/1108-08",
+        "/us/419/1108-11",
+        "/us/419/1108-03",
+        "/us/419/1108-04",
+        "/us/419/1108-02",
+        "/us/419/1108-05",
+        "/us/419/1108-01",
+        "/us/419/1108-07",
+        "/us/419/1108-09",
+        "/us/419/1108-10"
+      ]
+    },
+    {
+      "cite": "205 S.E.2d 680",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "682"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "215 Va. 27",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2123158
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "29-30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/215/0027-01"
+      ]
+    },
+    {
+      "cite": "171 S.E.2d 243",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "246"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "210 Va. 318",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2037694
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "321"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/210/0318-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 254,
+    "char_count": 3886,
+    "ocr_confidence": 0.903,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.07870632612171598
+    },
+    "sha256": "efab51e7b8325b9c40aafbfd90f8e9bd06db3429a7a190d01403f4ea0c2f59d6",
+    "simhash": "1:45ec4b4b4512ad5a",
+    "word_count": 646
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "DELMER L. SMITH v. H. L. UNDERWOOD, SUPERINTENDENT"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nKOONTZ, C.J.\nThis is an appeal from a denial of a petition for a writ of habeas corpus filed in the Circuit Court of Pulaski County. Appellant, Delmer L. Smith, contends that a suspended misdemeanor sentence was improperly revoked at a probation revocation hearing.\nWe find that Smith lacks standing to raise this issue in a habeas corpus proceeding.\nOn June 3, 1982, pursuant to a plea agreement, Smith pled guilty to an indictment charging unlawful wounding and to a misdemeanor warrant charging trespass. The sentencing order of the Pulaski County Circuit Court read, in part, as follows:\n[I]t is the judgment of this Court that the defendant is hereby sentenced in accordance with the aforementioned plea agreement to three (3) years in the penitentiary upon Indictment No. 82.75 and sentenced to six (6) months in jail upon the misdemeanor charge of trespass. And being of the opinion that it is compatible with the public interest so to do, the Court doth further ORDER that said sentences be, and they are hereby, suspended, and the defendant is placed on probation under the active supervision of a Probation Officer of this Court for a period of three (3) years upon the usual conditions of probation and upon the express condition that the defendant pay the costs of these proceedings by the September, 1982, term of this Court.\nOn October 31, 1983, acting on a complaint from Smith\u2019s probation officer, the court determined that he had violated the terms of his probation. The court then entered an order stating that \u201cthe suspension of the execution of the sentence in the penitentiary for a term of three (3) years and in the jail for a term of six (6) months and the placing of the defendant on probation under the supervision of a Probation Officer as heretofore pronounced be, and the same is hereby, revoked. . . .\u201d\nThe court then sentenced Smith to consecutive terms of three years in the penitentiary and six months in jail. Smith filed a petition for appeal with the Virginia Supreme Court. The petition was denied.\nThereafter, Smith filed a petition for a writ of habeas corpus in the Pulaski County Circuit Court. The petition was denied. This appeal followed.\nSmith contends that the wording of the June 3, 1982, sentencing order is ambiguous as to whether the misdemeanor sentence suspension was conditioned upon the three year probation and its terms.\nWe find that Smith lacks standing to raise this issue for the first time in a habeas corpus proceeding. \u201cThe function of a writ of habeas corpus is to inquire into jurisdictional defects amounting to want of legal authority for the detention of a person on whose behalf it is asked.\u201d Brooks v. Peyton, 210 Va. 318, 321, 171 S.E.2d 243, 246 (1969). The validity of the revocation of the suspended misdemeanor sentence could have been raised and adjudicated at the probation revocation hearing and upon direct appeal therefrom. See Slayton v. Parrigan, 215 Va. 27, 29-30, 205 S.E.2d 680, 682 (1974), cert. denied, 419 U.S. 1108 (1975); Ferguson v. Superintendent, 215 Va. 269, 272-73, 208 S.E.2d 749, 752 (1974).\nFurthermore, we find no ambiguity in the June 3, 1982, sentencing order that would support Smith\u2019s claim that the misdemeanor sentence suspension could not be revoked. Its terms are clear. Both the felony and misdemeanor sentences were suspended and Smith was placed on probation for a period of three years.\nThe judgment of the court below denying the petition for a writ of habeas corpus is affirmed.\nAffirmed.\nBaker, J., and Moon, J., concurred.",
+        "type": "majority",
+        "author": "KOONTZ, C.J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "(Byron R. Shankman, on brief), for appellant. Appellant submitting on brief.",
+      "(Gerald L. Baliles, Attorney General; M. Katharine Spong, Assistant Attorney General, on brief), for appellee. Appellee submitting on brief."
+    ],
+    "corrections": "",
+    "head_matter": "Salem\nDELMER L. SMITH v. H. L. UNDERWOOD, SUPERINTENDENT\nNo. 0316-85\nOral Argument Waived\nDecided December 3, 1985\nCounsel\n(Byron R. Shankman, on brief), for appellant. Appellant submitting on brief.\n(Gerald L. Baliles, Attorney General; M. Katharine Spong, Assistant Attorney General, on brief), for appellee. Appellee submitting on brief."
+  },
+  "file_name": "0237-01",
+  "first_page_order": 261,
+  "last_page_order": 264
+}

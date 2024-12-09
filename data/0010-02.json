@@ -1,0 +1,61 @@
+{
+  "id": 2096042,
+  "name": "The King v. Moore",
+  "name_abbreviation": "The King v. Moore",
+  "decision_date": "1733-10",
+  "docket_number": "",
+  "first_page": "10",
+  "last_page": "11",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 8"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 235,
+    "char_count": 3514,
+    "ocr_confidence": 0.438,
+    "sha256": "755e986a110a1d880980c87664dae8ce4b0320b4685abc2946751f68afb08a68",
+    "simhash": "1:f237a7db76c08405",
+    "word_count": 646
+  },
+  "last_updated": "2023-07-14T19:43:08.706124+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The King v. Moore."
+    ],
+    "opinions": [
+      {
+        "text": "An information was .brought against the defendant upon the act 5 and 6 Geo. 2, laying a duty upon slaves, for not transmitting to the collector of the duties, a list of the slaves by him sold, imported in the ship A. The defendant offered as witnesses, the master and steward of the ship, to whom Mr. Attorney objected, as parties interested, having- slaves of their own on board; but the Court seemed to think it no objection, and said at the bar, if two are concerned in a trespass and one is indicted, the other may be a witness for or against him. And by Sir John .Randolph, if one is sued for any matter for which another is also chargeable, that other person may be a witness. The jury found a special verdict, that the act vyas passed July 1st, 1732, about four in the afternoon, and the ship came to an anchor off Back river the said first of July, about two leagues from the shore, came into the capes about twelve, and came to an anchor between seven and eight, and could have got up to York if they had had a pilot. On the second of July got into the mouth of York, on the third to Yorktown, *and entered the fifth.\nReported by Edward Barrada)), Esa.\nHopkins, for the defendant,\nagreed there was no fraction of a day, but insisted the day of passing the act was excluded, and consequently this importation was before the act, and cited Clayton\u2019s case supra, and the case in Dyer, 5 Eliz. 218, there cited, which seemed to be in point. As to the second, I insisted for the King, that the place where the ship anchored the 1st of July was not within any port, and so no importation. To which it was answered, there are no ports laid out here as in England, and that coming within the capes, with an intent to come straight to Virginia, is an importation. \u2014 Judgment for the defendant.\nVide Hopkins\u2019s argument, in Libro. Parso. 84, 2 H.\nTwo questions were made upon the verdict. 1. Whether the day of passing the act was exclusive or inclusive. 2. Whether this was an information. The words of the act are, \u2018Erom and after the passing of this act, there shall be paid, &c. for all slaves imported or brought into this colony and dominion for sale, &c. \u2019 As to the first, for the King, it was insisted, there could be no fraction of a day, and the act being passed the first of July, that whole day must be included; and Clayton\u2019s case, 5 Rep. 1, was cited.\nHolt's opinion also cited, Rob. How\u2019s case. 2 Salk. 625; Lord Rockingham v. Oxendem, 2 Salk. 578.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Hopkins, for the defendant,"
+    ],
+    "corrections": "",
+    "head_matter": "The King v. Moore.\nOctober, 1733.\nEvidence \u2014 Witnesses\u2014Competency.\u2014Upon an infor mation against the defendant upon the Act of 5 & 6 Geo. 2, laying a duty upon slaves, for not transmitting to the collector of duties, a list of the slaves imported and sold by him, the defendant offered as witnesses the master and steward of the ship, to which it was objected that they were incompetent as parties interested, since they had slaves of their own on board. Hr.r.rt, this was no objection, since if two are concerned in a trespass and one indicted, the other may be a witness for or against him.\nStatutes \u2014 Construction\u2014importation\u2014What Constitutes. \u2014 The act was passed about four in the afternoon of July 1st, 1732. Defendant\u2019s ship came to anchor about two leagues from shore without the capes on the day of its passage, and came within the capes about noon of the same day, and anchored about eight in the evening. Held, that there being no defined port limits as in England, this constituted an importation, and defendant was not within the statute."
+  },
+  "file_name": "0010-02",
+  "first_page_order": 10,
+  "last_page_order": 11
+}

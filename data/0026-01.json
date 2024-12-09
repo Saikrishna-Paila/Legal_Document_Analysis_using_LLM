@@ -1,0 +1,62 @@
+{
+  "id": 2096034,
+  "name": "Tayloe v. Graves",
+  "name_abbreviation": "Tayloe v. Graves",
+  "decision_date": "1736-10",
+  "docket_number": "",
+  "first_page": "26",
+  "last_page": "27",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 40"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 400,
+    "char_count": 8402,
+    "ocr_confidence": 0.505,
+    "sha256": "1cd8673cd54403001585fc9e8331230b1a12c7169ce6a25d17ed97ae8b74fec6",
+    "simhash": "1:9597ce29a6459c07",
+    "word_count": 1588
+  },
+  "last_updated": "2023-07-14T19:43:08.706124+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "*Tayloe v. Graves."
+    ],
+    "opinions": [
+      {
+        "text": "Judgment for the defendant, per totam curiam ; but upon what point, I could not learn.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Mr. Attorney General.",
+      "Barradall, for the defendant."
+    ],
+    "corrections": "",
+    "head_matter": "*Tayloe v. Graves.\nOctober, 1736.\nSlaves \u2014 Detinue.\u2014In 1713 the testator devised to his daughter Mary, the use, labor and services of certain slaves during her life and after her death the said slaves and their increase, to go to the heirs of her body forever. Mary had issued a daughter, living at the time of the devise and the death of the testator, hut died before her mother, who was also dead at the time of this action. Held, that the plaintiff who claimed as heir of the testator could not maintain an action of detinue for the slaves.\nIn detinue. A case was agreed; viz. W. P. possessed of the slaves in question, by his will, dated 1712, devises to his daughter Mary, the use, labor and service of them during her life, and after her decease, the said slaves and their increase, to fall to the heirs of her body begotten forever. Mary had issue, a daughter, living at the time of the devise and the death of the testator, but died before her mother, who is also dead, and the plaintiff claims as heir to the testator.\nMr. Attorney General.\nBy the act of 1705, slaves are made real estate, though the law is now altered by the act of 1727, with respect to gifts and devises of slaves, that they can only be given and devised as chattels personal. There is, however, a proviso in this last act, that where slaves have been before given for life, and the remainder thereupon limited to another, that such remainder shall be good in law to transfer the absolute property to the remainder man. The testator here has given only an estate for life to his daughter, with a contingent remainder to the heirs of her body, and there being no such when the contingency happened, viz. at her death, the remainder is void, and the plaintiff as heir at law to the testator, is entitled to these slaves.\nBarradall, for the defendant.\nSlaves in this case are to be considered merely as chattels; but before I speak to that, I shall shew that taking them to be real estate, the plaintiff can have no title. If this was a devise of lands, Mary would take an estate tail by the words of this will, and not an estate for life with a contingent remainder to the heirs of her body. It is a rule laid down in Shelley\u2019s case, 1 Rep. 104, b.; 1 Inst. 22. b. that where the ancestor takes an estate of .freehold, a limitation to his right heir or heirs of his body, are words of limitation and not of purchase, and so it was adjudged, 1 Vent. 214. 225; King and Melling and Fitzgib. 7. Shaw and Weigh. There is, however, some exceptions to this general rule, in the case of wills, where the testator\u2019s intention is apparent to lodge the inheritance in the issue, as Loddington and Kime, and Bachhouse and Wells, cited Fitzgib. 22; Shaw and Weigh. See Raymond\u2019s argument in that case. In Wild\u2019s case, 6 Co. 17, a difference is taken where the ancestor has issue living at the time of the devise, and where not. That in the first case, the issue shall take by way of remainder, and so Hale\u2019s opinion seems to be, 1 Vent. 229. upon the authourity of that case. But I take the law to be otherwise settled at this day, nor is there any authority to support that opinion, since Wild\u2019s case, which too was *against the opinion of two Judges. I conceive then that by this devise, Mary had an estate tail, and then the absolute property vested in her; for slaves could never be entailed before the act of 1727, and under that act only when annexed to lands. The constant resolutions of this Court have been so. On the other side, if heirs of the body here are taken as words of purchase, and slaves are to be considered as real estate, then, the remainder being contingent and void in event, by Mary\u2019s leaving no issue, the plaintiff is certainly well entitled. But slaves in this case are no more than chattels. It is true the act of 1705 makes slaves real estate to some purposes, but not to all; they are to descend to the heir, if a man dies intestate, and a woman is to be endowed of them. But there is an express proviso, that sales and alienations of them may be made in the same manner, as before making the act. There was some difference of opinion in the construction of this act, which occasioned the act of 1727, not to alter the first act, but to explain and amend it; and where a subsequent act explains a former, it cannot be said to alter it, but only point out the true construction. The words of the last act respecting the present question, are worthy of observation. It recites the difference of opinion in construing the first act, and then enacts, \u2018That the said act shall hereafter be construed, and the true intent and meaning is hereby declared to be;\u2019 no other construction then can now be made than what is hereby declared to be the true construction. It is not at all material whether the case happened before or since the act of 1727. The law was always the same. This last act does not alter the first, as I said; it only explains and points out the true construction; and the words of the last act are mighty plain (and so indeed I think are the words of the first) that in sales, gifts and devises, slaves are to be regarded merely as chattels. A sale, gift, or devise, is to transfer the absolute property as if such slave were a chattel. Taking slaves then to be chattels, the plaintiff can have no kind of pretence. It will not be denied but that a chattel may be given for life, with remainder over; it is not material whether the chattel itself be given, or only the use for life. The law makes the same construction in both cases, viz. that the first devisee has only the use, and the absolute property vests in the remainder man. The use only is given by his will to Mary for life, and after her death the slaves are to fall to the heirs of her body. If heirs of the body here are taken as words of purchase, as descriptio vel designatio personae, the daughter of Mary took the remainder as a person well described, and then the absolute property vested in her, and the slaves must go to her heir and not to the testator\u2019s. If they are not words of purchase, but words of limitation, then *Mary has an estate tail given to her, and such a devise will pass the absolute property of a chattel. But suppose the rem'ainder void by Mary\u2019s leaving no issue at her death; in that case I conceive the absolute property vested in Mary, for I take the law to be very clear, that if a chattel is given to one for life, or the use for life, (for there is no difference) and no remainder is limited, or a remainder that is void either in its creation or in event, the absolute property vests in the devisee for life, and can never evert back again to the representative of the testator. Quaere de hoc. It has been endeavored to compare slaves in this case to chattels real, and many cases there are of devises of this sort, some of which have been cited, to what purpose I am still to learn. Cotton and Heath, 1 Rol. Abr. 612, was a devise of a term for life, and after to the eldest issue male : adjudged the issue male shall have it as an executory devise, though none in being at the time of the devise, which is stronger than our case, there being here an heir of the body living at the time of the devise. Peacock v. Spooner, 2 Vern. 195, is exactly this case, only stronger, as it was in the case of a deed: a term was adjudged in trust to permit husband and wife, and the survivor, to receive the profits during their lives, and after their deaths to the use of the heirs o\u00ed the body of the wife. Here the heirs of the body took by purchase, and as a person well described. Id. 362; Dalforn and Goodman. S. P. adjudged. But Webb and Webb, id. 688, the same point coming in question, it was adjudged the devisee for life had the whole term; and that case is the same with ours. It is not material to the plaintiff whether the devisee for life, or the heir of the body, has the right, for in either case he has none, and I cannot imagine upon what rule of law he can pretend to any. I shall only observe further, that in all the cases upon the subject, the question is between the heirs of the body and the executor of the first devisee, who shall have the remainder; but there is no instance that ever the executor or heir of the testator set up a title to such remainder.\nReported lay Edward Barradall, Esq."
+  },
+  "file_name": "0026-01",
+  "first_page_order": 26,
+  "last_page_order": 27
+}

@@ -1,0 +1,133 @@
+{
+  "id": 2288280,
+  "name": "FRANK WILLIAMS v. ROBERT N. LANDON, DIRECTOR, DEPARTMENT OF CORRECTIONS, STATE OF VIRGINIA",
+  "name_abbreviation": "Williams v. Landon",
+  "decision_date": "1985-11-19",
+  "docket_number": "No. 0142-85",
+  "first_page": "206",
+  "last_page": "208",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 206"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "404 U.S. 910",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6376738,
+        6375142,
+        6376586,
+        6376940,
+        6376238,
+        6374510,
+        6375697,
+        6376117,
+        6374902,
+        6376405,
+        6374680,
+        6375516
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/404/0910-11",
+        "/us/404/0910-04",
+        "/us/404/0910-10",
+        "/us/404/0910-12",
+        "/us/404/0910-08",
+        "/us/404/0910-01",
+        "/us/404/0910-06",
+        "/us/404/0910-07",
+        "/us/404/0910-03",
+        "/us/404/0910-09",
+        "/us/404/0910-02",
+        "/us/404/0910-05"
+      ]
+    },
+    {
+      "cite": "438 F.2d 323",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2206301
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/438/0323-01"
+      ]
+    },
+    {
+      "cite": "310 F. Supp. 233",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        166846
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "239"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/310/0233-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 180,
+    "char_count": 1924,
+    "ocr_confidence": 0.911,
+    "pagerank": {
+      "raw": 3.1550870391903615e-07,
+      "percentile": 0.8629304256734659
+    },
+    "sha256": "c735f0471f96ff1d58a760a440de82fdb1f36d0924ae7dcdb18e89d2bbc0fa2b",
+    "simhash": "1:182357e5580f883d",
+    "word_count": 325
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "FRANK WILLIAMS v. ROBERT N. LANDON, DIRECTOR, DEPARTMENT OF CORRECTIONS, STATE OF VIRGINIA"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nMOON, J.\nAppellant, Frank Williams, appeals pro se from a decision of the Circuit Court for the City of Richmond dismissing his habeas corpus petition pursuant to Code \u00a7 8.01-654(B)(2) on the ground that the allegation of facts upon which petitioner relied were known to him when he filed previous petitions. The Commonwealth claims the appeal must be dismissed because Williams failed to timely file the notice of appeal in accordance with our rules. We agree.\nWilliams\u2019 petition was dismissed in the Circuit Court for the City of Richmond on November 29, 1984. Williams filed his notice of appeal dated January 5, 1985, with the Circuit Court Clerk for the City of Richmond on January 8, 1985. A copy of that notice was not filed with the clerk of the Court of Appeals until February 4, 1985. Rule 5A:6(a) provides:\nNo appeal shall be allowed unless, within 30 days after entry of final judgment or other appealable order or decree, counsel files with the clerk of the trial court a notice of appeal, and at the same time mails or delivers a copy of such notice to all opposing counsel and the clerk of the Court of Appeals.\nRule 5A:3 provides: \u201cThe times prescribed for filing the notice of appeal (Rule 5A:6. . .). . .are mandatory.\u201d\nHabeas corpus petitioners must follow the rules of court just as all other parties desiring an appeal. Meade v. Cox, 310 F. Supp. 233, 239 (W.D. Va. 1970), aff'd, 438 F.2d 323 (4th Cir.), cert. denied, 404 U.S. 910 (1971). Therefore, for failure to timely file the notice of appeal, the appeal is dismissed.\nDismissed.\nDuff, J., and Hodges, J., concurred.",
+        "type": "majority",
+        "author": "MOON, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Frank Williams, for appellant.",
+      "Russell C. Williams, Assistant Attorney General (Gerald L. Baliles, Attorney General of Virginia, on brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Arlington\nFRANK WILLIAMS v. ROBERT N. LANDON, DIRECTOR, DEPARTMENT OF CORRECTIONS, STATE OF VIRGINIA\nNo. 0142-85\nArgued June 18, 1985\nDecided November 19, 1985\nCounsel\nFrank Williams, for appellant.\nRussell C. Williams, Assistant Attorney General (Gerald L. Baliles, Attorney General of Virginia, on brief), for appellee."
+  },
+  "file_name": "0206-01",
+  "first_page_order": 230,
+  "last_page_order": 232
+}

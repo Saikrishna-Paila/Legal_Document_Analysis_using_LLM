@@ -1,0 +1,114 @@
+{
+  "id": 2288249,
+  "name": "LEROY JOHNSON a/k/a GARY JONES v. COMMONWEALTH OF VIRGINIA",
+  "name_abbreviation": "Johnson v. Commonwealth",
+  "decision_date": "1986-02-18",
+  "docket_number": "No. 1303-85",
+  "first_page": "510",
+  "last_page": "514",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 510"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "210 S.E.2d 140",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "142"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "215 Va. 328",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2123263
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "329"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/215/0328-01"
+      ]
+    },
+    {
+      "cite": "336 S.E.2d 907",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Va.App. 206",
+      "category": "reporters:state",
+      "reporter": "Va. App.",
+      "case_ids": [
+        2288280
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va-app/1/0206-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 315,
+    "char_count": 6221,
+    "ocr_confidence": 0.916,
+    "pagerank": {
+      "raw": 1.3655404958417566e-07,
+      "percentile": 0.6372031728490735
+    },
+    "sha256": "43b7e2260f6735c3ddf212e16104d490ed9ff45465b76f6ad060746fe55278bc",
+    "simhash": "1:8c2b8ff4901e6809",
+    "word_count": 1149
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "LEROY JOHNSON a/k/a GARY JONES v. COMMONWEALTH OF VIRGINIA"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nCOLE, J.\nThe appellant has failed to comply with Rule 5A:6(a) of the Rules of the Court of Appeals, which requires counsel to file his notice of appeal within 30 days after entry of final judgment with the clerk of the trial court, and at the same time to mail or deliver a copy of such notice to all opposing counsel and the clerk of the Court of Appeals. He has failed to comply since he did not mail or deliver a copy of the notice of appeal to the clerk of the Court of Appeals. The sole issue is whether that part of the rule requiring a copy of the notice of appeal to be mailed or delivered to the clerk of the Court of Appeals is jurisdictional. We hold that it is not.\nOn August 20, 1985, the appellant, Leroy Johnson, a/k/a Gary Jones, was convicted of breaking and entering with intent to commit larceny and grand larceny, and was sentenced to serve 15 years in the penitentiary. He appealed these convictions and his notice of appeal was filed with the clerk of the trial court on September 6, 1985. Counsel for the appellant mailed a copy of the notice of appeal to the Commonwealth\u2019s Attorney, but failed to mail a copy of the notice of appeal to the clerk\u2019s office of this Court. On motion of the appellant, we are asked to grant an extension of time to permit compliance with the rule. The Commonwealth has not responded to the motion.\nRule 5A:6(a) provides:\n(a) Timeliness. -No appeal shall be allowed unless, within 30 days after entry of final judgment or other appealable order or decree, counsel files with the clerk of the trial court a notice of appeal, and at the same time mails or delivers a copy of such notice to all opposing counsel and the clerk of the Court of Appeals.\nRule 5A:3 deals with extensions of time and provides:\n(a) The times prescribed for filing the notice of appeal (Rules 5A:6 and 5A:11), a petition for appeal (Rule 5A:12), a petition for rehearing (Rule 5A:33), and a request for rehearing en banc (Rule 5A:34) are mandatory ....\n(b) Except as provided in subsection (a) of this Rule, the times prescribed in these Rules for filing papers may be extended by a judge of the court in which the papers are to be filed on motion for good cause shown and to attain the ends of justice.\nWe have held that the failure to file a notice of appeal with the clerk of the trial court within 30 days after entry of final judgment as required in Rule 5A:6(a) is jurisdictional and that we have no authority to extend the time under Rule 5A:3. Williams v. Landon, 1 Va.App. 206, 336 S.E.2d 907 (1985); cf. Vaughn v. Vaughn, 215 Va. 328, 329, 210 S.E.2d 140, 142 (1974).\nSince Rule 5A:6(a) differs from Supreme Court Rule 5:9(a) in that the latter contains no provision for mailing or delivering a copy of the notice of appeal to the clerk\u2019s office, no precedents of the Supreme Court provide us guidance.\nBoth our Rule 5A:6(a) and the Supreme Court Rule 5:9(a) require that a copy of the notice of appeal be mailed or delivered to all opposing counsel. Our rule connects the mailing and delivering a copy of the notice of appeal to opposing counsel with mailing and delivering a copy to our clerk\u2019s office. We find no reported case where the Supreme Court has held that failure to mail or deliver a copy of the notice of appeal to opposing counsel is jurisdictional.\nThe requirement to mail or deliver a copy of the notice of appeal to the clerk of the Court of Appeals was initially adopted in our Rules at the inception of the Court. It was thought that the clerk of the Court of Appeals would find a copy of the notice of appeal useful in his office for informational purposes. The rule wqs written to accommodate this need. This informs him that an appeal is in process, permits him to establish a file, aids him in handling early motions that might be filed by the parties, and enables him to answer inquiries about the case from counsel and the public. Thus, the origin of this rule is of an administrative nature.\nWe conclude that the act of mailing and delivering a copy of the notice of appeal to the clerk of the Court of Appeals is not jurisdictional. Rule 5A:6(a) provides that a notice of appeal shall be filed with the clerk of the trial court, and we believe that this original paper filed in the trial court is the notice of appeal referred to in Rule 5A:3(a) as mandatory. We hold that the copies of the notice of appeal required to be mailed or delivered to the clerk of this Court are not the \u201cnotice of appeal\u201d specified in Rule 5A:3(a). Furthermore, Rule 5A:6 sets forth the contents required in the notice of appeal and the requirements of the .certificate to be included with the notice of appeal, and a reading of this rule in its totality does not lead us to the conclusion that a copy of the notice of appeal was envisioned as a mandatory document under Rule 5A:3(a).\nIn holding the requirement of mailing to the clerk administrative rather than jurisdictional, we do not minimize the necessity of adherence to the mandate of the Rule by members of the Bar. We consider the requirement in the Rule to be significant and one that should not be ignored. Litigants and their attorneys must read and comply with the plain language contained therein. Sanctions may be imposed unless an extension of time for complying with the Rule is granted for good cause shown in accordance with Rule 5A:3(b).\nThe appellant has moved the Court to extend the time for mailing or delivering a copy of the notice of appeal to the clerk of this Court, claiming that he has shown good cause under Rule 5A:3(b). The record discloses that counsel was appointed by the trial court to represent the defendant at a late date and that only by the exercise of diligence on his part was he able to file the notice of appeal on time. We find that good cause has been shown, and we extend the time for filing a copy of the notice of appeal with the clerk of this Court. The motion of the defendant is granted and he is directed to comply with Rule 5A:6(a) within 10 days from the order of this Court.\nMotion Granted.\nDuff, J., and Benton, J., concurred.",
+        "type": "majority",
+        "author": "COLE, J."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Arlington\nLEROY JOHNSON a/k/a GARY JONES v. COMMONWEALTH OF VIRGINIA\nNo. 1303-85\nArgued November 21, 1985\nDecided February 18, 1986"
+  },
+  "file_name": "0510-01",
+  "first_page_order": 534,
+  "last_page_order": 538
+}

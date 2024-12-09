@@ -1,0 +1,59 @@
+{
+  "id": 2096007,
+  "name": "The King v. Harrison",
+  "name_abbreviation": "The King v. Harrison",
+  "decision_date": "1737-10",
+  "docket_number": "",
+  "first_page": "31",
+  "last_page": "31",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 50"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 133,
+    "char_count": 1306,
+    "ocr_confidence": 0.442,
+    "sha256": "59c016141ef9ecd83c04b93254e61b839ffaade229661da100d0d9a4b8f8aa1f",
+    "simhash": "1:b6f7b43beefc0cc9",
+    "word_count": 236
+  },
+  "last_updated": "2023-07-14T19:43:08.706124+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The King v. Harrison."
+    ],
+    "opinions": [
+      {
+        "text": "The defendant was presented by the grand jury for erecting gates on the King\u2019s highway. The defendant pleaded a license *from the county court, to which Mr. Attorney demurred, and upon argument, insisted that all gates erected on the highway are nuisances at the common law, and that the county courts here had no power to give license to erect a nuisance. He cited Cro. Ca. 184. See also 1 Inst. 221; 1 Bulst. 203; 2 Rol. Abr. 137. and Hawk. P. C. 199. 9. 212. 50. For the defendant it was urged, there was a great difference between England and this country as to this matter; travellers here are not so numerous now or wheel carriages very common, so that the inconvenience would be but small; and on the other hand, considering the manner of fencing here, a small piece of land would be rendered useless if gates were not allowed. It was further urged, that the act of the 4. of Ann. c. 39. did seem to give the county courts a kind of absolute power with respect to roads.\nThe court were unanimously of opinion that the plea was good.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "The King v. Harrison.\nOctober, 1737.\nHighways \u2014 Obstruction of \u2014 License.\u2014The defendant was presented by the grand jury for erecting gates on the King\u2019s highway. He pleaded a license from the county court. Held, the plea was good.\nReported by Edward Barradall. Esq."
+  },
+  "file_name": "0031-01",
+  "first_page_order": 31,
+  "last_page_order": 31
+}

@@ -1,0 +1,75 @@
+{
+  "id": 2096036,
+  "name": "Tutt v. Freeman",
+  "name_abbreviation": "Tutt v. Freeman",
+  "decision_date": "1736-10",
+  "docket_number": "",
+  "first_page": "18",
+  "last_page": "18",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 24"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Gratt. 457",
+      "category": "reporters:state",
+      "reporter": "Gratt.",
+      "case_ids": [
+        6716085
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/49/0589-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 83,
+    "char_count": 709,
+    "ocr_confidence": 0.53,
+    "sha256": "a13232b10271676023c793c3fcf98e85b2bc2d9ae9981a7acc412005a8692e47",
+    "simhash": "1:33e4152d1ffacb73",
+    "word_count": 118
+  },
+  "last_updated": "2024-02-27T21:13:56.724571+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tutt v. Freeman."
+    ],
+    "opinions": [
+      {
+        "text": "And the motion was overruled.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Randolph",
+      "Barradall, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Tutt v. Freeman.\nOctober, 1736.\nJurisdiction \u2014 Amount in Controversy.\nReported by Edward Barradall, Esq.\nIndebitatus assumpsit for goods sold, money lent, and paid, and s.ervices done. The jury found only nine pounds three shillings damages.\nRandolph\nmoved that no judgment ought to be given, the damages being under ten pounds sterling. So the action will not lie in this court.\nBarradall, contra.\nJudgments are given here every day, where the damages found by the jury are under ten pounds, if the cause of action laid in the declaration, is for so much, and so the practice was agreed to be.\nSee monographic note on \u201cJurisdiction\u201d appended to Phippen v. Durham, 8 Gratt. 457."
+  },
+  "file_name": "0018-01",
+  "first_page_order": 18,
+  "last_page_order": 18
+}

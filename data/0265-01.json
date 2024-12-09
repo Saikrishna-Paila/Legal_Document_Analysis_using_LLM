@@ -1,0 +1,440 @@
+{
+  "id": 2288271,
+  "name": "CITY OF WAYNESBORO SHERIFF'S DEPARTMENT v. EDGAR GRADY HARTER",
+  "name_abbreviation": "City of Waynesboro Sheriff's Department v. Harter",
+  "decision_date": "1985-12-17",
+  "docket_number": "No. 0186-85",
+  "first_page": "265",
+  "last_page": "271",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 265"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "50 S.E.2d 390",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "394"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "188 Va. 502",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2150468
+      ],
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "510"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/188/0502-01"
+      ]
+    },
+    {
+      "cite": "65 S.E.2d 565",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1951,
+      "pin_cites": [
+        {
+          "page": "568"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "192 Va. 548",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2158700
+      ],
+      "year": 1951,
+      "pin_cites": [
+        {
+          "page": "554"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/192/0548-01"
+      ]
+    },
+    {
+      "cite": "76 S.E.2d 195",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "199"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "194 Va. 975",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2162389
+      ],
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "980"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/194/0975-01"
+      ]
+    },
+    {
+      "cite": "326 S.E.2d 702",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "703"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "225 S.E.2d 357",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "358"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "217 Va. 19",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2128420
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/217/0019-01"
+      ]
+    },
+    {
+      "cite": "252 S.E.2d 319",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "321"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "219 Va. 845",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2133544
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "848"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/219/0845-01"
+      ]
+    },
+    {
+      "cite": "241 S.E.2d 775",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "777"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "218 Va. 844",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2130563
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "847"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/218/0844-01"
+      ]
+    },
+    {
+      "cite": "237 S.E.2d 97",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "99"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "218 Va. 210",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2130599
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "214"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/218/0210-01"
+      ]
+    },
+    {
+      "cite": "169 S.E.2d 582",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "585"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "210 Va. 209",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2037643
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "212"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/210/0209-01"
+      ]
+    },
+    {
+      "cite": "54 S.E.2d 109",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "113"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "189 Va. 509",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2152672
+      ],
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "517"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/189/0509-01"
+      ]
+    },
+    {
+      "cite": "199 S.E. 504",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "506"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Va. 439",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        1952351
+      ],
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "443"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/171/0439-01"
+      ]
+    },
+    {
+      "cite": "205 S.E.2d 410",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "411"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "215 Va. 18",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2123223
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/215/0018-01"
+      ]
+    },
+    {
+      "cite": "28 S.E.2d 725",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "729"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Va. 212",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        1973162
+      ],
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "221"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/182/0212-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 628,
+    "char_count": 10813,
+    "ocr_confidence": 0.898,
+    "pagerank": {
+      "raw": 4.5093537132190484e-07,
+      "percentile": 0.923282013739025
+    },
+    "sha256": "bd7a6a9eeea0ee9656562b47ed91a63eb1c0a9b86caf6ac2f8a01ea7465151bc",
+    "simhash": "1:c620aa5ce8bb87d6",
+    "word_count": 1740
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CITY OF WAYNESBORO SHERIFF\u2019S DEPARTMENT v. EDGAR GRADY HARTER"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nHODGES, J.\nThis is an appeal from a decision of the Industrial Commission awarding compensation to Edgar G. Harter (claimant). The appellant, the City of Waynesboro Sheriff\u2019s Department (the \u201cCity\u201d), contends that the Commission erred in awarding compensation to the claimant for a second heart attack which he suffered. The controlling issue is whether claimant, who was entitled to the presumption of Code \u00a7 65.1-47.1, was subject to the time limitation contained in Code \u00a7 65.1-99 when he suffered additional disability from the same occupational disease.\nThe claimant began his employment as a deputy sheriff with the City in 1976. On March 9, 1979, he suffered a heart attack while on the job and received compensation for the disability period. He returned to work as a deputy sheriff in May, 1979, and continued in that position without further disability until March 13, 1983. On that date, he suffered a second heart attack, and subsequently filed a compensation claim based upon \u201cheart disease.\u201d\nAt the initial hearing on January 26, 1984, the City contended that the claim was barred by Code \u00a7 65.1-99. It argued that claimant\u2019s second heart attack was not a new occupational disease, but merely a change in condition of a previously compensated occupational disease. Thus, they contended, the claim was barred since no request for review had been filed within two years of the last compensation payment pursuant to the prior award, as required by Code \u00a7 65.1-99.\nThe claimant testified that he became ill while in bed at home on the morning of March 13, 1983. He was taken to the hospital and subsequently informed that he had suffered a heart attack. Claimant explained that the nature of his job as a deputy required him to remain on call twenty-four hours a day, although he was not working at the time of his attack.\nThe pertinent medical evidence showed that following the heart attack on March 13, 1983, the claimant remained in the hospital until March 25, 1983, when he was discharged. Dr. David Crawford, who treated claimant after both heart attacks, summarized his discharge diagnosis as myocardial infarction (heart attack) and arterioscleratic heart disease. Following discharge, claimant continued to have substantial pain. He was seen on April 11, 1983, by Dr. Charles Shilling of the Group Health Association, who concluded that Harter had coronary artery disease with a history of two heart attacks, and angina subsequent to the second attack. The claimant was referred to Dr. Jack Horton, a cardiologist. Dr. Horton performed a cardiac catheterization with coronary angiography, and reported that these tests revealed claimant had severe triple-vessel coronary artery disease. Coronary artery bypass surgery was recommended, and claimant underwent a quadruple bypass operation on May 23, 1983.\nThe deputy commissioner, by opinion dated October 10, 1984, held that Harter was entitled to compensation for the second heart attack. He rejected the City\u2019s contention that the second attack was merely a change in condition. He found that the statutory language of Code \u00a7 65.1-47.1 was broad enough to include a claim based on coronary artery disease and/or a second heart attack as new (emphasis added) occupational diseases. The deputy was persuaded that claimant\u2019s 1983 heart problem was a new and different disease episode because the 1979 heart attack involved the lateral side of the heart with blockage of a single vessel, while the 1983 attack involved multiple blockages and the lower surface of the heart. Therefore, the limitation of Code \u00a7 65.1-99 was found to be inapplicable. The City appealed.\nThe full Commission upheld the award on a different basis. Its opinion reviewed the medical evidence, with particular emphasis on the conclusions reached by Doctors Gots, Davia and Mauk. Doctors Gots and Davia, of the National Medical Advisory Service, had compiled a summary of claimant\u2019s medical history and concluded that claimant\u2019s second heart attack was consistent with coronary artery disease. Their report noted the disease progresses in severity over the years, and frequently expresses itself in the form of angina pectoris (chest pains), heart attack or sudden death. Claimant\u2019s history included both angina and a subsequent heart attack. In addition, Dr. H. Page Mauk, Jr., of the Cardiopulmonary Laboratories of the Medical College of Virginia, reviewed claimant\u2019s medical records and concluded that the second heart attack represented \u201cnot a new event but simply a clinical manifestation in the natural progression of the chronic occlusive disease process in the coronary arteries.\u201d\nBased upon the medical evidence, the Commission held that, but for the presumption of Code \u00a7 65.1-47.1, claimant\u2019s evidence established that the second heart attack was a change in condition and not a \u201cnew\u201d occupational disease. However, they decided that the legislative intent of Code \u00a7 65.1-47.1 was to award compensation in cases where the presumption was applicable; therefore, claimants entitled to the presumption, who had additional disability from the same disease for which they had previously been compensated, were not subject to the limitations of Code \u00a7 65.1-99. The claimant was awarded compensation.\nThe Workers\u2019 Compensation Act is to be liberally construed for the benefit of employees and their dependents, and it appears that the Commission\u2019s interpretation of Code \u00a7 65.1-47.1 is based upon this long-established principle. See Byrd v. Stonega Coke Co., 182 Va. 212, 221, 28 S.E.2d 725, 729 (1944). While the Commission\u2019s construction of the Act is entitled to great weight on appeal, see Meade v. Clinchfield Coal Co. 215 Va. 18, 19, 205 S.E.2d 410, 411 (1974), an award based upon surmise or conjecture must be set aside. Sullivan v. Suffolk Peanut Co., 171 Va. 439, 443, 199 S.E. 504, 506 (1938). In addition, it is clear that the \u201cconclusions of the Commission upon questions of law, or mixed questions of law and fact, are not binding on [appeal].\u201d Brown v. Fox, 189 Va. 509, 517, 54 S.E.2d 109, 113 (1949).\nAll of the medical experts concluded that claimant\u2019s second heart attack was related to his continuing coronary artery disease. While claimant argues that the evidence was sufficient to find that the second heart attack was a new disease episode, it is apparent that is was only a part of the ongoing heart disease process. Dr. David Crawford, the treating physician, stated that the second heart attack was a new attack but he conceded that:\nHarter\u2019s recent Acute Myocardial Infarction was preceded by prior coronary artery disease. His arteriosclerotic coronary artery disease has been an ongoing process since his first heart attack in 1979.\nClaimant\u2019s second heart attack fits the definition of a change in condition.\nThe \u201cchange in condition\u201d which justifies reopening and modification is ordinarily a change, for better or worse, in claimant\u2019s physical condition. This change may take such forms as progression, deterioration, or aggravation of the compensable condition.\n3 A. Larson, Workmen\u2019s Compensation Law \u00a7 81.31(a) (1983). See also Hawkeye-Security v. McDaniel, 210 Va. 209, 212, 169 S.E.2d 582, 585 (1969); Leonard v. Arnold, 218 Va. 210, 214, 237 S.E.2d 97, 99 (1977).\nTherefore, the question which remains is whether the Commission erred in finding that Code \u00a7 65.1-47.1 made the limitation of Code \u00a7 65.1-99 inapplicable. The claimant conceded in argument that the exemption from the limitations period was not argued by him, but was conceived by the Commission.\nThe presumption in Code \u00a7 65.1-47.1 was intended to eliminate the necessity of proof, by claimants entitled to it, of the causal connection between their employment and their occupational disease. Page v. City of Richmond, 218 Va. 844, 847, 241 S.E.2d 775, 777 (1978). Without the presumption, firemen or policemen who suffered heart attacks would have to carry the burden of proving that such attack was an occupational disease suffered in the line of duty, as other claimants must do. Mallory v. Phillips, 219 Va. 845, 848, 252 S.E.2d 319, 321 (1979). However, we can find no indication in the statute itself, or in the change in condition statute, which indicates that the General Assembly intended the presumption statute to override limitation periods otherwise applicable.\nThe Act contains various limitation periods which must be complied with by one who seeks compensation. See, e.g., Code \u00a7\u00a7 65.1-86 (notification of accident to employer within thirty days), 65.1-87 (right to compensation barred unless claim filed within two years of accident), and 65.1-52 (limitations period for filing occupational disease claim); see also Top Notch Coal Co. v. Porter, 217 Va. 19, 21, 225 S.E.2d 357, 358 (1976). If the General Assembly intended for claims filed under Code \u00a7 65.1-47.1 to have no time limitation at all, they could have expressly said so. While the Act is to be interpreted liberally, it is not to be converted into a form of health insurance. Lane Co. v. Saunders, _ Va. _, 326 S.E.2d 702, 703 (1985); Rust Engineering Co. v. Ramsey, 194 Va. 975, 980, 76 S.E.2d 195, 199 (1953). The construction to be given to the act does not include the power to broaden the intended scope of the statute or enlarge the limitations set out therein. Van Geuder v. Commonwealth, 192 Va. 548, 554, 65 S.E.2d 565, 568 (1951); Commonwealth v. Granger, 188 Va. 502, 510, 50 S.E.2d 390, 394 (1948).\nFor the reasons stated, the award of the Industrial Commission is reversed, and the case is remanded for further proceedings consistent with this opinion.\nReversed and remanded.\nDuff, J., and Moon, J., concurred.\nCode \u00a7 65.1-47.1 reads in pertinent part as follows:\n\u201cThe death of, or any condition or impairment of health of ... a sheriff, or of a deputy sheriff . . . caused by hypertension or heart disease, resulting in total or partial disability shall be presumed to be an occupational disease suffered in the line of duty that is covered by this Act unless the contrary be shown by a preponderance of competent evidence. . . .\u201d\nCode \u00a7 65.1-99 reads in pertinent part as follows:\n\u201cUpon its own motion or upon the application of any party in interest, on the ground of a change in condition, the Industrial Commission may review any award and on such review may make an award ending, diminishing or increasing the compensation previously awarded.... No such review shall be made after twenty-four months from the last day for which compensation was paid. . . .\u201d",
+        "type": "majority",
+        "author": "HODGES, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Ralph L. Whitt, Jr. (Sands, Anderson, Marks & Miller, on brief), for appellant.",
+      "Stewart C. Sullivan, III (Franklin, Franklin & Denney, on brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Arlington\nCITY OF WAYNESBORO SHERIFF\u2019S DEPARTMENT v. EDGAR GRADY HARTER\nNo. 0186-85\nArgued June 20, 1985\nDecided December 17, 1985\nCounsel\nRalph L. Whitt, Jr. (Sands, Anderson, Marks & Miller, on brief), for appellant.\nStewart C. Sullivan, III (Franklin, Franklin & Denney, on brief), for appellee."
+  },
+  "file_name": "0265-01",
+  "first_page_order": 289,
+  "last_page_order": 295
+}

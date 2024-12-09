@@ -1,0 +1,86 @@
+{
+  "id": 2096008,
+  "name": "Waddill v. Chamberlayne",
+  "name_abbreviation": "Waddill v. Chamberlayne",
+  "decision_date": "1733-04",
+  "docket_number": "",
+  "first_page": "11",
+  "last_page": "13",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 10"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "9 H. 5",
+      "category": "reporters:state",
+      "reporter": "H.",
+      "pin_cites": [
+        {
+          "page": "3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 H. 6",
+      "category": "reporters:state",
+      "reporter": "H.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "53"
+        },
+        {
+          "page": "53"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 634,
+    "char_count": 11720,
+    "ocr_confidence": 0.468,
+    "sha256": "8b078233883f3fa31150beaa808adbbc882e098144406a4bf57d90785bded20f",
+    "simhash": "1:62669ae03933663d",
+    "word_count": 2185
+  },
+  "last_updated": "2024-02-27T21:13:56.724571+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Waddill v. Chamberlayne."
+    ],
+    "opinions": [
+      {
+        "text": "The plaintiff declares that the defendant clandestinely and deceitfully sold him a slave, for a great price, to wit, twenty-five pounds, knowing the said slave at the time, and for a long time before, labored under an incurable disease, not discovered by the plaintiff, and was of no value.\nThere is a verdict for the plaintiff, and I have moved an arrest of judg\u2019ment that this action will not lie without warranty. This is an action upon the case in nature of deceit, and such actions I agree will lie in some cases, but not in this: the charge here is no more than selling a thing of small value for a great price, not discovering the defects ; and however inconsistent this may be with natural justice, it is tolerated by the universal consent of mankind, where buying and selling is used. The principal advantage in the wa3\u201d of commerce is to sell dearer than you buy ; and so as to the goodness or quality of a. commodity, the law has left it at large *pretty much to the conscience of the seller, who too often takes advantage of the buyer\u2019s ignorance. The law has provided a guard against those impositions, to those who are prudent enough to make use of it; that is, a warranty from the vendor of the goodness, value, &c. But without such warranty no action will lie for any little fraud or over-reaching, in the value or goodness of the thing sold. But in such case the rule is caveat ernptor, and if the law was otherwise there would be no end to actions; but every contract, almost, in buying and selling, might produce one. There is no rule in law perhaps more universally known than this; it is in every one\u2019s mouth, what frauds are practised every day in the sale of horses; yet I never heard of an action brought without warranty. No man thinks himself obliged to discover the defects of the thing he sells, and unless the buyer is prudent enough to exact a warranty, I take it' he is without remedy. I will not deny but there are some instances where an action will lie for deceit in a sale, without express warranty, as where it is a thing unlawful in itself, as the selling of bad victuals. 9 H. 6, 53; C. 11; E. 4, 6; C. Rol. 91; Cro. Ja. 197, 470. But the reason given in all these cases is, that it is prohibited by law to sell bad victuals, which proves the action would not lie but for that reason. So if I sell a thing, affirming it to be mine when it is another\u2019s; this affirmation amounts to a warranty, if I am in possession, otherwise not. Medina v. Stoughton, 1 Salk. 210. So are divers other cases which prove there must be either an express warranty, or something that amounts to it in construction of law, and it is evident from the case of Medina and Stoughton, that if I sell a thing out of my possession, affirming it to be mine, (though this is an apparent fraud) no action will lie, for there caveat emptor says the book. There is a case I suppose will be quoted against me, and if that is law, then this action will lie; but I humbly conceive it is not. 9 H. 6, 53; C. in 1 Rol. Abr. 90, if a man sells a piece of cloth, knowing it not to be well fulled, an action of deceit lies, for this is a warranty in law, says Rolle, but the book says no such thing, nor indeed was the point adjudged in the case, but cited to be adjudged in another case; it is only a saying obiter of one of the Judges, and can carry no authority with it; especially as it is not supported by any subsequent resolutions, but the whole current of authorities since is contrary. There is the opinion of Frowick in Kel. 91, and of Popham in new Dyer, 75 margine; Chandler v. Lopus, in favor of this point. But the first is a single opinion, and as to the second, though it Was *adjudged in the King\u2019s Bench according to the opinion of Popham, yet the judgment was reversed in the Exchequer Chamber. Cro. Ja. 4. If a man sells a pipe of wine that is corrupted, and does not warrant it to be good, no action lies. F. N. B. C. 94; C. Bridgman, 127. And 1 Rol. Abr. cont. 90, is not warranted by the book, for it appears in the case there was a warranty. It is said, indeed, the warranty is not material; but what is the reason given? Why, because it is prohibited to sell bad victuals. Bridgman, 127. Southern v. How, was a case of a counterfeit jewel, which the defendant knew to be so; adjudged no action lay without a warranty. In the report of this case, Cro. Ja. 468, the counsel for the plaintiff labor this distinction, where the deceit is sciens or not; no judgment is given by the report there, but in Bridgman, judgment was given for the defendant, because the action would not lie without warranty, except in the case of bad victuals, which goes upon another reason as I have shewed. If a man sells a horse that is lame or diseased, without warranty, no action lies. F. N. B. 94; C. Bridgman, 127; 1 Rol. Abr. 90, 4. This is a common case, and what every body knows, and was never yet denied, nay, if there is an actual warranty, it extends only to secret infirmities, not such as are visible and apparent, as the want of an eye, or any other defect within the knowledge of the five senses. See the book of 11 E. 4, 6, C. Yet it is a fraud and deceit in the seller not to discover the defect to the buyer, but here caveat emptor. 1 Salk. 211; Butterfield and Burroughs is not contra, but rather warrants this opinion, for there the court say they would intend it a secret infirmity, being after a verdict. This case of a horse I take to be directly in point, for where is the difference between a horse and a slave, as to this matter? If an action will not lie in the one case, neither will it in the other, as I conceive. As to the difference taken where the deceit is sciens or not, it has its foundation from that opinion in 9 H. 5, 3, C. only cited, as I have observed, with no one adjudged case since to support it; but the whole current of authorities, as well as common experience, is against it. I will agree, the difference taken with respect to the property in several cases. 1 Dam. 178. If a man sells a thing, knowing it to be another\u2019s, an action will lie without warranty; but this case is settled in Medina v. Stoughton, cited before. In my little reading, I could never find a precedent of such a declaration as this; but the precedents are all upon warranties, and I believe no such precedent can be shewn, and if there cannot, it will' go a great way to prove my argument. Sir E. Coke says an argument taken from the books of precedents and entries is very forcible. In short, Sir, if this action is maintainable, a great deal of learning we meet with in the books upon *the subject of warranties, might have been spared; it must be useless and insignificant, and the rule caveat emptor may be thrown out of doors. I expect to be told this is arguing in favor of fraud, that this makes buying and selling a mere cheat, and learned lessons we shall hear, no doubt, concerning the immorality of the thing; but however such kind of reasoning may serve to gain popular applause, and raise a high idea of the orator\u2019s integrity, it will never, I am sure, prevail with discerning Judges. The laws of society and civil government are not founded upon the strict rules of natural justice. Public convenience oft requires they should be dispensed with; the punishment of theft bears no proportion to the crime, yet it is found necessary to make it so severe. I need not mention other instances, they are obvious enough; therefore to make specious harangues concerning the morality or immorality of ail action that is to be determined by the laws of a particular society, is arguing neither like a lawyer nor a politician. It is the rule of all governments, I believe, that the good of the majority is to be preferred ; agreeably to this we have a maxim in the common law, \u2018Lex citius tolerabit privatum damnum quam publicum malum therefore the Judges in their determinations do not so much regard what the injury is to particular persons, but what the general convenience or inconvenience may be. An argument ab inconvenienti is very forcible in law, for the rule is \u2018quod est inconveniens est illicitum. \u2019 Now, Sir, I conceive the inconveniences will be manifold, if it be established for law, that an action will lie for selling a thing of small value for a great price, or fcr selling a commodity not discovering the defects; which are the charges in this declaration. It will tend to multiply suits without end; every man that is displeased with his bargain, will have it to say the thing is not so good or worth so much as he expected, and if this shall be a foundation for an action, a desire of revenge or proneness to be litigious may produce a law suit out of every bargain that is made. How much more reasonable is it that a particular person should sometimes suffer, than such a general inconvenience be introduced, especially since the law thus puts it in the power of every man to secure himself against impositions of this kind bj' requiring a warranty, and if he does not do it, he suffers through his own folly and negligence, and the law is not to be blamed. If this action will lie, every vendor of slaves will be subject to the same action. It frequently happens that there are distempers among the slaves, but the seller does not think himself obliged to publish this to the world, nor is it thought criminal to use arts to conceal it. Numbers of these distempered slaves have been sold, and the consequences sometimes very fatal. But I never *yet heard of an action being brought; though we may expect to see them very frequent if this is established as a precedent. I will beg leave to mention a case adjudged here last court; Lewis v. Golston; it was in Chancery. Lewis brought a bill against Golston, suggesting the want of witnesses, to be relieved concerning the sale of two slaves, which he alleged the defendant warranted to be sound, but were in truth distempered. The defendant denied the warranty, and though it was proved the slaves had been distempered for some time, and till just before Lewis bought them, and that the defendant knew it, yet the Court denied any relief, because the warranty was not proved. If equity would not relieve in such a case, much less can an action at law be maintained. I remember very well Sir John Randolph, who was then of my side of the question, argued an action would not lie, without a warranty. He said these little arts that are used every day in the way of buying and selling, and in putting off bad commodities, were no ground for an action ; nay, he went so far as to say, all trade was a kind of fraud. How right he is in his opinion I must submit, but I am apt to think his argument now, will not be very consistent with his doctrine then. There is one thing I have omitted, and that is the rule of the Civil law in buying and selling \u2018in pretio emptionis et venditionis naturaliter licet contrahentibus se circumvenire.\u2019 The civil law is universally allowed to be the most equitable perfect law in the world, and yet this kind of art of over-reaching in buying and selling is tolerated. There would be no such thing as buying and selling if it were not. I am persuaded, then, your honors will not be induced, from any plausible pretence of the immorality of the thing, to give judgment against the law. I take the law to be clear in favor of the defendant, and I pray that judgment may be stayed. \u2014 Judgment for the plaintiff.\nReported by Edward Barradall, Esq.\nRol. Rep. 5, 6.\nCro. Eliz. 44; Cro. Jac. 4, 74; 1 Rol. Abr. 90; 3 Mod. 261; Shaw 68.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Waddill v. Chamberlayne.\nApril, 1733.\nDeceit \u2014 Sale of Slave--Incurable Disease.- -An action of deceit will lie for the sale of a .slave who has an incurable disease."
+  },
+  "file_name": "0011-04",
+  "first_page_order": 11,
+  "last_page_order": 13
+}

@@ -1,0 +1,59 @@
+{
+  "id": 2096014,
+  "name": "Reeves v. Waller",
+  "name_abbreviation": "Reeves v. Waller",
+  "decision_date": "1733-10",
+  "docket_number": "",
+  "first_page": "10",
+  "last_page": "10",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 8"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 121,
+    "char_count": 1306,
+    "ocr_confidence": 0.504,
+    "sha256": "709f16eea159b9009d14822f355e594a7929e51eaf7e958bc04d915faf1ab9d8",
+    "simhash": "1:cfa340df8cf800a1",
+    "word_count": 241
+  },
+  "last_updated": "2023-07-14T19:43:08.706124+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "*Reeves v. Waller."
+    ],
+    "opinions": [
+      {
+        "text": "The plaintiff brought an action upon the case in Essex. County Codrt for forty shillings, won upon a horse race, and had a verdict in his favor. In arrest of judgment, it was objected, that the plaintiff ought to have sued by way of petition upon the act of 1 Geo. 2, for recovering of small debts, and for this reason judgment was stayed, and the plaintiff ordered to pay costs. And now I moved for a writ of error. The doubt was, whether it could be allowed, the principal debt being under five pounds, and no appeal or supersedeas ought to be granted by the act of 1 Geo. 2. I insisted that the act did not mention writs of error, and that the subject was 'entitled to them of common right. But the Court seemed to incline, that writs of error were within the act: however, a writ of error was allowed upon the authority of Spots-wood and Harrison in this Court, in which the Court came to a solemn resolution, that the act did not intend to exclude the plaintiff from an appeal, &c. but the defendant only, see act C. 3, S. 44.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "*Reeves v. Waller.\nOctober, 1733.\nAppeals \u2014 Act ior Recovering Small Debts. \u2014 The Act of 1 Geo. 2, for recovering small debts, does not exclude the plaintiff from an appeal, etc., but the defendant only.\nReported by Edward Barradall, Esq.\nSee monographic note on \u201cAppeals.\u201d"
+  },
+  "file_name": "0010-01",
+  "first_page_order": 10,
+  "last_page_order": 10
+}

@@ -1,0 +1,398 @@
+{
+  "id": 2288228,
+  "name": "BABATUNDE KEHINDE v. COMMONWEALTH OF VIRGINIA",
+  "name_abbreviation": "Kehinde v. Commonwealth",
+  "decision_date": "1986-01-07",
+  "docket_number": "No. 0047-84",
+  "first_page": "342",
+  "last_page": "348",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 342"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "248 S.E.2d 784",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "786"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "219 Va. 516",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2133474
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "518"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/219/0516-01"
+      ]
+    },
+    {
+      "cite": "65 S.E.2d 540",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1951,
+      "pin_cites": [
+        {
+          "page": "542"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "192 Va. 422",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2158692
+      ],
+      "year": 1951,
+      "pin_cites": [
+        {
+          "page": "426"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/192/0422-01"
+      ]
+    },
+    {
+      "cite": "459 N.E.2d 910",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "912"
+        },
+        {
+          "page": "912"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 Ohio App. 3d 282",
+      "category": "reporters:state",
+      "reporter": "Ohio App. 3d",
+      "case_ids": [
+        6708966
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "284"
+        },
+        {
+          "page": "284"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-app-3d/9/0282-01"
+      ]
+    },
+    {
+      "cite": "456 N.E.2d 736",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11045513
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "741"
+        },
+        {
+          "page": "741"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/456/0736-01"
+      ]
+    },
+    {
+      "cite": "358 N.W.2d 156",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        10666111
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "161"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/358/0156-01"
+      ]
+    },
+    {
+      "cite": "137 S.E. 603",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "year": 1927,
+      "pin_cites": [
+        {
+          "page": "607"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "147 Va. 692",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        472363
+      ],
+      "year": 1927,
+      "pin_cites": [
+        {
+          "page": "705"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/147/0692-01"
+      ]
+    },
+    {
+      "cite": "142 S.E.2d 484",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "493"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "206 Va. 241",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        4201169
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "252"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/206/0241-01"
+      ]
+    },
+    {
+      "cite": "321 S.E.2d 202",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "204"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "228 Va. 296",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2072461
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "300"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/228/0296-01"
+      ]
+    },
+    {
+      "cite": "263 S.E.2d 55",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "57-58"
+        },
+        {
+          "page": "58"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "220 Va. 792",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2136147
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "796"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/220/0792-01"
+      ]
+    },
+    {
+      "cite": "326 S.E.2d 685",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "686"
+        },
+        {
+          "page": "686"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "229 Va. 113",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2070549
+      ],
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "115"
+        },
+        {
+          "page": "115"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/229/0113-01"
+      ]
+    },
+    {
+      "cite": "313 S.E.2d 382",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "383"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "227 Va. 119",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2074599
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "122"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/227/0119-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 617,
+    "char_count": 11255,
+    "ocr_confidence": 0.905,
+    "pagerank": {
+      "raw": 7.456775226109773e-08,
+      "percentile": 0.44480778609100374
+    },
+    "sha256": "113128956333ccf77bde27190f16e134dd8a637a860913045235a9e4aed4c2d9",
+    "simhash": "1:ee84e7eb25ecbc11",
+    "word_count": 1921
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BABATUNDE KEHINDE v. COMMONWEALTH OF VIRGINIA"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nKEENAN, J.\nBabatunde Kehinde was found guilty of rape and sentenced, in accordance with the jury\u2019s verdict, to five years in the penitentiary. The issues on appeal are (1) whether the evidence was sufficient to support the conviction and (2) whether the court erred in allowing the eleven year old victim to use a doll for the purpose of demonstrating where on her body the alleged penetration took place.\nI.\nThe victim lived with her mother and half-sister at Kehinde\u2019s home from September, 1983 through January, 1984. The victim testified that one evening in late January, 1984, while her mother was at work, Kehinde came into the bedroom where she and her half-sister were sleeping. According to the victim, Kehinde put his hand on her chest. She tried to push him away; however Kehinde took the victim\u2019s housecoat off and pulled her pants down. The victim stated that Kehinde then \u201cput his thing in me.\u201d She further testified that after Kehinde touched her chest, \u201c[H]e kept on doing to me and he kept on putting his hand on my chest.\u201d When asked what Kehinde did to her she replied, \u201c[H]e stuck it in me,\u201d and related that by \u201cit\u201d she meant his penis.\nThe Assistant Commonwealth Attorney asked the victim where, on her body, Kehinde had put his penis. She replied, \u201c[D]own, way down in there ... I call it my stuff.\u201d In an attempt to clarify the victim\u2019s meaning of \u201cstuff,\u201d the Commonwealth was allowed, over defense counsel\u2019s objection, to give the victim a doll and have her point to the area of the doll\u2019s body where she meant. After she had done so, the Commonwealth stated for the record that the victim had pointed to the vaginal area of the doll. Defense counsel objected to this characterization. The court made no ruling on the objection, stating only that the matter could be covered on cross-examination.\nIn a motion to set aside the verdict, made immediately after the jury was discharged, defense counsel stated that the victim had pointed to the doll\u2019s right leg. The motion was denied, without the court expressing an opinion as to where the victim had pointed. At the sentencing hearing, however, the court observed:\nWhen the jury was excused, you (defense counsel) made a statement that the court did not agree with and to the effect that your contention was that the victim was pointing to her thigh at the time that she was gesturing before the jury. I didn\u2019t want the record to show silence as agreement on the part of the court, (parenthetical added).\nAfter the incident in the bedroom, the victim used the bathroom and said that \u201cit burned.\u201d She also saw \u201csomething that looked like cream.\u201d There was conflicting testimony from the victim about when she first reported what Kehinde had done and when she first told her mother. She said that she told a friend about it a few days afterwards; however, she also said that she first told the friend after she and her mother had moved from Kehinde\u2019s home. This move took place during the first week of February, 1984. The victim believed that she told her mother about the incident before they moved and that the move occurred because of what Kehinde had done to her. This was contradicted by the victim\u2019s mother who testified that the victim did not report the incident to her until February 11, 1984, after their move. The victim also testified that she did not tell her mother at first because she was afraid of Kehinde. It appears, however, from her testimony that she voluntarily chose to stay alone with him on the day following this incident while her mother and sister went out. She stated that on this occasion Kehinde pulled her down on a couch and \u201cdid the same thing he did before.\u201d\nSometime in mid-February, the victim began complaining to her mother about being sore \u201cin her privates.\u201d As a result, the victim was taken to a doctor. Weekly visits to the doctor continued through mid-April when the victim was admitted into a hospital for these complaints. No medical testimony was presented at trial.\nThe victim\u2019s mother reported her daughter\u2019s story to the police and to the local child protective services agency. She also testified she called Kehinde and told him that she had learned what he had done. Kehinde took the stand in his own behalf and denied having raped the victim. He also denied that the victim\u2019s mother ever spoke to him about the alleged rape.\nII.\nKehinde argues that the testimony of the victim, with or without the doll, was insufficient to establish penetration. In addition, he argues that the court erred in allowing the victim to use a doll to demonstrate where penetration, if any, had occurred.\nIn considering Kehinde\u2019s arguments, we view the evidence and all reasonable inferences fairly deducible therefrom in the light most favorable to the Commonwealth. Dukes v. Commonwealth, 227 Va. 119, 122, 313 S.E.2d 382, 383 (1984). In addition, we apply the well-defined legal principles relevant to rape cases. One essential element of rape is penetration, however slight, of a vagina by a penis. Elam v. Commonwealth, 229 Va. 113, 115, 326 S.E.2d 685, 686 (1985). This element, as with any other, may be established solely by the testimony of the victim unless such testimony is inherently incredible or so contrary to human experience or usual human behavior as to render it unworthy of belief. Snyder v. Commonwealth, 220 Va. 792, 796, 263 S.E.2d 55, 57-58 (1980).\nIn the present case, there were certain inconsistencies in the victim\u2019s testimony and some of what she said was contradicted by her mother. These inconsistencies, however, were \u201cnot so material or so unusual that her version of the events on the night in question was rendered unbelievable as a matter of law.\u201d Id. at 796, 263 S.E.2d at 58; cf. Fisher v. Commonwealth, 228 Va. 296, 300, 321 S.E.2d 202, 204 (1984).\nOn the issue of penetration, the victim stated, \u201c[H]e stuck it in me.\u201d (emphasis added). She further explained that \u201cit\u201d meant \u201cpenis.\u201d We believe that this testimony is sufficient to establish penetration. The remaining question is whether the victim\u2019s testimony adequately informed the jury where the penetration occurred. Initially, she stated that it occurred \u201cway down in there . . . I call it my stuff.\u201d She was then allowed to point to a doll. Kehinde maintains that this was inherently improper. We disagree.\nUse of demonstrative evidence is a matter within the discretion of the trial court, and the decision in this regard will not be disturbed on appeal unless there has been an abuse of discretion. Barber v. Commonwealth, 206 Va. 241, 252, 142 S.E.2d 484, 493 (1965); Peoples v. Commonwealth, 147 Va. 692, 705, 137 S.E. 603, 607 (1927).\nIn the present case, an eleven year old girl was attempting to describe, with difficulty, where the defendant had put his penis \u201cin\u201d her. It cannot be expected that children will know enough to use the word \u201cvagina,\u201d nor is such specificity required. It is enough if the trier of fact can reasonably infer from the evidence adduced where the penetration took place.\nIn order to aid the witness in explaining her testimony, the court allowed use of a doll. Though there are no Virginia cases on this subject, use of dolls for such a purpose has been approved in other jurisdictions. State v. Eggert, 358 N.W.2d 156, 161 (Minn. App. 1984); Newton v. State, 456 N.E.2d 736, 741 (Ind. App. 1983); State v. Lee, 9 Ohio App. 3d 282, 284, 459 N.E.2d 910, 912 (1983). The court\u2019s comments in Lee are particularly relevant to the present case. There it was stated:\nThe trial court found that the young witness was aided by the models she used. The record indicates that the witness was unable to relate to the jury the events using the appropriate sexual or physiological terminology. The dolls were used to clarify the witness\u2019 explanation and to insure a common understanding between the witness and jury as to the events which took place.\n9 Ohio App. 3d at 284, 459 N.E.2d at 912.\nWe agree with the authorities cited that use of dolls under these circumstances is entirely appropriate and find no abuse of discretion in the trial court\u2019s ruling here. We note, however, that the scope of our decision is defined by counsel\u2019s objection at trial. The objection was to the use of \u201cany kind of doll,\u201d because \u201cwhatever happened didn\u2019t happen to a doll, but it happened to her.\u201d No objection was made to the nature of the doll used. It is of some concern that the record does not disclose whether the doll was anatomically correct. Since counsel\u2019s objection, however, went to the use of dolls in general rather than to the nature of the specific doll used, we do not consider that issue at this time. See Newton v. State, 456 N.E.2d at 741.\nOne final issue regarding the doll must be addressed. Kehinde argues that once presented with the doll, the victim pointed to the leg of the doll, not the vagina. The Assistant Commonwealth Attorney noted for the record that the victim had pointed to the vagina. The jury saw where the victim pointed and was able to judge for itself whether she pointed to the vagina or the leg. Counsel was able to argue his interpretation of where the victim had pointed. Under these circumstances, the meaning of the victim\u2019s gestures with the doll was a factual matter to be resolved by the jury. We cannot say that the record fails to support an inference that the victim pointed towards the vaginal area of the doll, rather than the leg.\nPenetration can be established by circumstantial, as well as direct evidence. McCall v. Commonwealth, 192 Va. 422, 426, 65 S.E.2d 540, 542 (1951). Further, in rape cases, hearsay testimony of the victim is allowed as corroboration. Cartera v. Commonwealth, 219 Va. 516, 518, 248 S.E.2d 784, 786 (1978). Here, in addition to the direct testimony of penetration, the victim reported certain circumstantial facts which support a finding of penetration. When she used the bathroom immediately after the incident, she felt a \u201cburning\u201d and she also saw something that \u201clooked like cream.\u201d She reported the incident along with a soreness \u201cin her privates\u201d to her mother within a few weeks of when it had happened. Therefore, viewing all the evidence in the light most favorable to the Commonwealth, we find that the element of penetration was sufficiently shown.\nIn summary, we find that the victim\u2019s testimony was not inherently incredible or otherwise unworthy of belief as a matter of law. We further find that the evidence was sufficient to show penetration of the victim\u2019s vagina by the defendant\u2019s penis. Finally, we find no abuse of discretion in the court\u2019s decision to allow use of a doll for demonstrative purposes. Accordingly, the conviction of rape is hereby affirmed.\nAffirmed.\nKoontz, C.J., and Benton, J. concurred.\nCf. Elam, 229 Va. at 115, 326 S.E.2d at 686, where the court found that given the compelling medical and forensic evidence adduced by the Commonwealth, the jury could rationally discount the prosecutrix\u2019s uncertainty whether penetration occurred.",
+        "type": "majority",
+        "author": "KEENAN, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Sterling H. Moore, for appellant.",
+      "Margaret Poles Spencer, Assistant Attorney General (William G. Broaddus, Attorney General, on brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Richmond\nBABATUNDE KEHINDE v. COMMONWEALTH OF VIRGINIA\nNo. 0047-84\nArgued October 17, 1985\nDecided January 7, 1986\nCounsel\nSterling H. Moore, for appellant.\nMargaret Poles Spencer, Assistant Attorney General (William G. Broaddus, Attorney General, on brief), for appellee."
+  },
+  "file_name": "0342-01",
+  "first_page_order": 366,
+  "last_page_order": 372
+}

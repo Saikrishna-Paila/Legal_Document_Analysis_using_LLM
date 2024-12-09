@@ -1,0 +1,97 @@
+{
+  "id": 2288238,
+  "name": "CHARCOAL HEARTH RESTAURANT, et al. v. SUSAN ANNE KANDETZKI",
+  "name_abbreviation": "Charcoal Hearth Restaurant v. Kandetzki",
+  "decision_date": "1986-01-07",
+  "docket_number": "No. 0136-85",
+  "first_page": "327",
+  "last_page": "329",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 327"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "109 S.E.2d 387",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1959,
+      "pin_cites": [
+        {
+          "page": "392"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "201 Va. 128",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2050362
+      ],
+      "year": 1959,
+      "pin_cites": [
+        {
+          "page": "134"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/201/0128-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 238,
+    "char_count": 3122,
+    "ocr_confidence": 0.921,
+    "pagerank": {
+      "raw": 9.505882454708161e-08,
+      "percentile": 0.5209840419267687
+    },
+    "sha256": "5076754c3c704d990afbbdce574dec23259d00d8aecbafac5fdf1cf05f9bde93",
+    "simhash": "1:111e272210999e0e",
+    "word_count": 501
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CHARCOAL HEARTH RESTAURANT, et al. v. SUSAN ANNE KANDETZKI"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nBARROW, J.\nIn this appeal from the Industrial Commission the issue is whether a medical report received after a hearing before a deputy commissioner was properly considered by the full Commission upon its review. We conclude that the report should not have been considered and reverse.\nSusan Anne Kandetzki was receiving compensation for a work-related injury to her back and right side when her employer, Charcoal Hearth Restaurant, and its insurer filed an application for a change in condition. Following a hearing on June 11, 1984, the deputy commissioner found that her incapacity had ceased and on June 21, 1984, vacated the award.\nOn December 4, 1984, the full Commission restored Kandetzki\u2019s compensation upon finding that the employer had failed to meet its burden of proof. The Commission relied upon a report of Dr. Matthew N. Smith, a neurosurgeon, dated October 4, 1983, but not received by the Commission until August 21, 1984, after the hearing before the deputy commissioner.\nRule 3 of the Industrial Commission, then in effect, provided, in part:\nAfter the hearing of a case by a Commissioner, or Deputy Commissioner ... no additional testimony will be introduced upon review, and any petition for a reopening of the case and the taking of additional testimony will only be favorably acted upon by the full Commission where it appears to the Commission that such course is absolutely necessary and advisable and also where the party requesting the same is able to conform to the rules prevailing in courts of this State for the introduction of after-discovered evidence. A formal petition shall be filed previous to the hearing upon review in all cases where such request is made with the Commission and a copy of the same furnished the opposite party, or his attorney. Such petition shall conform to those required in courts upon applications for the introduction of newly-discovered evidence.\nThis rule was not followed. A formal petition requesting the reopening of the case and the taking of additional testimony was not filed nor was there any action by the full Commission allowing the case to be reopened and additional testimony taken.\nThis rule serves important goals. It assures an opposing party the opportunity to rebut additional testimony introduced after the hearing of a case. It also supports finality in the decision making process.\nThe Commission erred in considering the report filed after the hearing of the case without insisting upon compliance with its own rule. See Pittston Co. v. Fulks, 201 Va. 128, 134, 109 S.E.2d 387, 392 (1959). Accordingly, we reverse the Commission\u2019s decision and remand this case for further proceedings consistent with this opinion.\nReversed and remanded.\nBenton, J., and Keenan, J., concurred.\nRule 3 was amended effective September 1, 1985.",
+        "type": "majority",
+        "author": "BARROW, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "J. Alvernon Smith, Jr. (Samuel Baronian, Jr.; Smith, Blank, Isaacs, & Hinton, on brief), for appellant. Julia H. Butler (Ashcraft & Gerel, on brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Richmond\nCHARCOAL HEARTH RESTAURANT, et al. v. SUSAN ANNE KANDETZKI\nNo. 0136-85\nArgued September 10, 1985\nDecided January 7, 1986\nCounsel\nJ. Alvernon Smith, Jr. (Samuel Baronian, Jr.; Smith, Blank, Isaacs, & Hinton, on brief), for appellant. Julia H. Butler (Ashcraft & Gerel, on brief), for appellee."
+  },
+  "file_name": "0327-01",
+  "first_page_order": 351,
+  "last_page_order": 353
+}

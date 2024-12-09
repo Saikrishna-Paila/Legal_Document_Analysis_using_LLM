@@ -1,0 +1,217 @@
+{
+  "id": 2288266,
+  "name": "SERGIO'S PIZZA, et al. v. JULIA NORMA SONCINI",
+  "name_abbreviation": "Sergio's Pizza v. Soncini",
+  "decision_date": "1986-01-21",
+  "docket_number": "No. 0687-85",
+  "first_page": "370",
+  "last_page": "377",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 370"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "171 S.E.2d 254",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "256"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "210 Va. 408",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2037597
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "410"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/210/0408-01"
+      ]
+    },
+    {
+      "cite": "278 S.E.2d 870",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "873"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "222 Va. 249",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2083537
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "255"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/222/0249-01"
+      ]
+    },
+    {
+      "cite": "237 S.E.2d 97",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "100"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "218 Va. 210",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2130599
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "215"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/218/0210-01"
+      ]
+    },
+    {
+      "cite": "339 U.S. 306",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        362818
+      ],
+      "year": 1950,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/339/0306-01"
+      ]
+    },
+    {
+      "cite": "270 S.E.2d 723",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 6,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "725"
+        },
+        {
+          "page": "725-26"
+        },
+        {
+          "page": "725"
+        },
+        {
+          "page": "726-27"
+        },
+        {
+          "page": "727"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "221 Va. 411",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2138822
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "415"
+        },
+        {
+          "page": "418"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/221/0411-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 681,
+    "char_count": 15099,
+    "ocr_confidence": 0.886,
+    "pagerank": {
+      "raw": 4.1376733038736784e-07,
+      "percentile": 0.9110363191058629
+    },
+    "sha256": "6d1bad12c54b05e53c9244593808c3be1215a292f4982a07982647261f55e2f8",
+    "simhash": "1:ef31ac073013d890",
+    "word_count": 2378
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SERGIO\u2019S PIZZA, et al. v. JULIA NORMA SONCINI"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nCOLEMAN, J.\nThis workers\u2019 compensation appeal raises the novel question whether the Industrial Commission has authority at the review stage to modify an application for benefits from injury or occupational disease to a request for review on change of condition. The employer, Sergio\u2019s Pizza, and its carrier, Hartford Casualty Insurance Company (collectively, employer), contend that the Commission\u2019s action resulted in a determination of the employee\u2019s claim without affording them proper notice and a reasonable opportunity to defend. The employer complains that at the hearing before the deputy commissioner it defended a claim for an original injury under Code \u00a7 65.1-85, but on review before the Commission, the inquiry became whether there had been a change of condition under Code \u00a7 65.1-99, which it had no opportunity to defend.\nThe Supreme Court of Virginia in Oak Hill Nursing Home, Inc. v. Back, 221 Va. 411, 270 S.E.2d 723 (1980), was confronted with strikingly similar facts and issues. The legal principles enunciated in Oak Hill will serve as the basis for resolution of the issue now before us, but the procedural differences in the present case are significant and compel a different result. The employee in Oak Hill received a compensable injury to her wrist diagnosed as \u201ctenosynovitis\u201d for which temporary total benefits were paid under a memorandum of agreement. Upon termination of benefits, the Commission informed the employee that her claim could be reopened if further disability resulted. Several months later she experienced wrist pain while performing a job-related task, and by personal letter informed the Commission of the incident and of her doctor\u2019s advice that she not work. The employer had filed an employer\u2019s first report of accident shortly after being informed of the \u201csecond injury.\u201d The Commission treated the claimant\u2019s letter as an original application. At the hearing before the deputy commissioner, the Commission consolidated the claim with the earlier file for which benefits had been terminated, and, although the claimant\u2019s letter was initially treated as an original application, the deputy commissioner considered the claim as a review on change of condition and awarded further compensation benefits. Id. at 415, 270 S.E.2d at 725.\nOn review, the full Commission affirmed and ruled that even though the claim was initially treated as an original application, consolidation with the original claim at the hearing stage gave the employer sufficient notice for the claim to have been treated as one for a change of condition of the earlier compensable injury. Id. at 415-416, 270 S.E.2d at 725-26.\nOn appeal, the Supreme Court affirmed, emphasizing that the procedure adopted by the Commission of consolidation of the claims at the hearing level satisfied the minimal due process requirements of Mullane v. Central Hanover Bank & Trust Co., 339 U.S. 306 (1950). The employer had notice of the time, location and subject matter of the proceeding which was reasonably calculated to afford the employer an opportunity to be heard. The Court approved the Commission\u2019s consolidation of the claims, finding it to be \u201ca matter within its discretion\u201d and compatible with a \u201clongstanding approved workmen\u2019s compensation practice that all possible relevant aspects of a matter be considered and determined in one hearing proceeding.\u201d Oak Hill, 221 Va. at 415, 270 S.E.2d at 725. The Court found no prejudice to the employer because consolidation of the claims not only gave the employer adequate notice of the issues to be defended, but also gave the employer advance knowledge of the medical evidence to be presented. Id. at 417, 270 S.E.2d at 726-27.\nBy comparison, in the present case, Julia Norma Soncini (claimant), employed as manager of Sergio\u2019s Pizza, sustained a compensable burn injury to her right hand on July 19, 1984. She developed a staph aureus infection characterized by a swollen erythemateous right arm with lymphangitis for which she was hospitalized two days. Claimant testified that during her hospitalization on August 5, she first experienced pain in her right forearm and elbow. On August 21, her treating physician detected no swelling or tenderness or lymphangitis; he stated that claimant\u2019s pain in the area of the right elbow was an inflammatory \u201creaction\u201d over the lateral epicondyle for which he administered butazoldin. The attending physician\u2019s medical reports indicate that claimant continued to experience pain in the right elbow which was diagnosed as \u201ctennis elbow.\u201d Claimant was released to pre-injury employment on September 17, with compensation benefits paid for work incapacity to that date, although she was still complaining of elbow pain.\nAfter returning to work at Sergio\u2019s, claimant experienced elbow pain while performing her duties. She sought further medical assistance for her elbow complaints, but in late November, she voluntarily terminated her employment for other work. Dr. H. Sheldon St. Clair, an orthopedist, diagnosed her elbow problems as lateral epicondylitis (tennis elbow), with possible posterior interosseous syndrome, \u201ca chronic indolent problem which is related to her work.\u201d\nOn December 11, 1984, the claimant filed an Application for Hearing on the printed form furnished by the Industrial Commission, alleging epicondylitis as her injury or occupational disease and specifying the date of accident as August 29, 1984, while employed with Sergio\u2019s. File correspondence between the parties and Commission indicate that from the outset the claim was considered a new application for benefits from a more recent injury or occupational disease. An employer\u2019s first report was filed pursuant to Code \u00a7 65.1-124. The Commission assigned the claim a new and separate claim number from that of the burn injury of July 19.\nBefore receiving evidence at the hearing on January 3, the deputy commissioner defined the issue as being the determination of the employee\u2019s claim of \u201coccupational disease attributable to her employment with a communication date of August 29, 1984.\u201d Significantly, the deputy commissioner did not consolidate the present claim for occupational disease with the earlier traumatic burn injury claim, nor did the record reflect that consideration would be or was given to the alternative position that the \u201ctennis elbow\u201d was a compensable aggravation, progression, or complication of the earlier burn injury. In fact, the opinion of the deputy commissioner specifically stated that despite his finding that claimant\u2019s \u201ctennis elbow\u201d was not an occupational disease related to her employment at Sergio\u2019s, \u201c[w]e make no finding . . . whether claimant\u2019s lateral epicondylitis is a compensable consequence of her July 20, 1984 right hand burn injury or the subsequent complications and medical treatment for these complications.\u201d The opinion noted that the Commission\u2019s fifty day limitation of Rule 13 of the Rules of the Industrial Commission would not apply should claimant file a change of condition application for the earlier traumatic injury claim, implying that a change of condition determination remained open for consideration.\nOn review before the full Commission, the deputy commissioner\u2019s finding that the lateral epicondylitis was not a compensable occupational disease was affirmed; however, the Commission reversed the deputy commissioner and awarded benefits by modifying the opinion to find that \u201cclaimant\u2019s elbow complaints were the result of a staph infection following the industrial accident (burns) rather than a separate occupational disease.\u201d The Commission effectually changed the claim at the review stage to an application for review on change of condition. The result of the Commission\u2019s finding will expose the employer to liability for future medical expenses related to \u201cclaimant\u2019s elbow complaints\u201d attributable to the staph infection, and possibly for compensation benefits should claimant be deemed incapacitated to perform her pre-injury employment within the statutory time limitation.\n\u201cAn application for compensation based on a \u2018change in condition\u2019 cannot be used as a substitute for an original hearing on a new and separate accident.\u201d Leonard v. Arnold, 218 Va. 210, 215, 237 S.E.2d 97, 100 (1977). It does not follow, however, that the converse of this proposition is equally true. In Oak Hill, the Supreme Court of Virginia held that the Industrial Commission may, under circumstances which do accord at least the minimal notice requirements that due process demands, treat an application for original injury or disease as an application for review on change of condition. Oak Hill, 221 Va. at 418, 270 S.E.2d at 727. In fact, the Commission is authorized to conduct a review for change of condition on its own motion at any time, subject to due process limitations. Code \u00a7 65.1-99.\nPleading requirements in administrative proceedings before the Industrial Commission are traditionally more informal than judicial proceedings. See 3 A. Larson, Workmen\u2019s Compensation Law \u00a7 77A.30-31 (1985). While some degree of formality or the use of standardized uniform procedures and forms may be more conducive to an orderly and expeditious process, rigid or technical rules of pleading, evidence, or practice in the conduct of hearings shall not apply so long as the procedures adopted protect the substantial rights of the parties. Rule 1 of the Industrial Commission of Virginia; Reese v. Wampler Foods, Inc., 222 Va. 249, 255, 278 S.E.2d 870, 873 (1981); Dowdy v. Giant, 210 Va. 408, 410, 171 S.E.2d 254, 256 (1969). However, the Commission\u2019s authority to consider an application for original injury benefits as an application for review on change of condition is not without limitation. The procedure utilized must afford the parties minimal due process safeguards.\nAs previously suggested, we conclude that the procedures utilized in the present case, contrasted to those employed in Oak Hill, are significant and compel a different result. The proceeding here was devoid of any procedure that gave notice to the employer prior to the review stage of the need to defend the claim as one for a change of condition. To the contrary, the deputy commissioner\u2019s ruling that defined the issue as whether the claimant suffered from a new occupational disease would have led the employer to believe that a defense to a claim for change of condition was not necessary at the hearing before the Commission. Even if the employer had considered from the medical evidence or testimony that the claim might arguably be a compensable consequence of the earlier burn injury, the procedure adopted rendered any available defense unnecessary and immaterial. Unlike in Oak Hill, at the hearing level there was no consolidation of the present claim with the earlier file. Also, at the hearing, the medical evidence did not clearly suggest a relationship between the two. \u201cinjuries.\u201d Even if we assume that the medical evidence presented should have alerted the employer to the possibility of a connection, the procedure employed precluded an adequate opportunity to defend the claim since it was litigated only as an occupational disease.\nWe agree with the Commission that cl\u00e1imant\u2019s application could and should have been considered a petition for review on change of condition. Admittedly, the Commission had the authority to do so by consolidating the application with the prior claim or by adopting a procedure which would have provided the employer minimal notice to permit an adequate defense at some stage of the proceedings. But, the course of action adopted precluded an adequate opportunity to defend at the hearing stage, during the deputy commissioner\u2019s consideration of the issues, or at any stage at which the employer could have submitted evidence.\nThe Commission, after it determined to address the claim as one for change of condition on review, did not permit or require either party to present additional evidence, although it was empowered to do so. Code \u00a7 65.1-97; Rule 3 of the Industrial Commission. Under these circumstances, to consider the issue of change of condition for the first time at the review stage, without providing the employer an adequate and reasonable opportunity to present evidence or defend, fails to comport with due process notions of fair play and substantial justice.\nAccordingly, we affirm the Commission\u2019s holding that the application be for a review on change of condition, but reverse and vacate its finding of fact and remand the claim with directions that the Commission afford both parties the opportunity to present evidence on the issue whether claimant\u2019s condition was a compensable result of her prior injury or the result of her medical treatment for that injury.\nAffirmed in part, reversed in part, and remanded.\nDuff, J., and Hodges, J. concurred.\nCode \u00a7 65.1-99 provides:\nUpon its own motion or upon the application of any party in interest, on the ground of a change in condition, the Industrial Commission may review any award and on such review may make an award ending, diminishing or increasing the compensation previously awarded, subject to the maximum or minimum provided in this Act, and shall immediately send to the parties a copy of the award. No such review shall affect such award as regards any moneys paid except pursuant to \u00a7\u00a7 65.1-143, 65.1-144 and 65.1-151. No such review shall be made after twenty-four months from the last day for which compensation was paid, pursuant to an award under this Act, except thirty-six months from the last day for which compensation was paid shall be allowed for the filing of claims payable under \u00a7 65.1-56.\nThe consolidation was authorized by Rule 1 of the Industrial Commission of Virginia which provides, in part:\nThe Commission will not be bound by statutory or common law rules of pleading or evidence, nor by any technical rules of practice in conducting hearings, but will conduct such hearings and make such investigations in reference to the questions at issue in such manner as in its judgment are held adapted to ascertain and determine expeditiously and accurately the substantial rights of the parties and to carry out justly the spirit of the Workmen\u2019s Compensation Act; and to that end, hearsay evidence may be received.\nEffective September 1, 1985, the Rules of the Industrial Commission were amended to extend the limitation for additional compensation to ninety days prior to the filing of the application.\nRule 13 of the Industrial Commission of Virginia provides, in part:\n\u201cRule 13. Applications for Review upon the Ground of a Change in Condition.\n****\nB. In the case of employees, the application must state the change in condition relied upon . . .\nEffective September 1, 1985, the provisions of Rule 3 relating to the taking of additional testimony have been incorporated into Rule 2(c).",
+        "type": "majority",
+        "author": "COLEMAN, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Peter C. Manson, Jr. (Pender & Coward, on brief), for appellant. No brief or argument for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Norfolk\nSERGIO\u2019S PIZZA, et al. v. JULIA NORMA SONCINI\nNo. 0687-85\nArgued September 11, 1985\nDecided January 21, 1986\nCounsel\nPeter C. Manson, Jr. (Pender & Coward, on brief), for appellant. No brief or argument for appellee."
+  },
+  "file_name": "0370-01",
+  "first_page_order": 394,
+  "last_page_order": 401
+}

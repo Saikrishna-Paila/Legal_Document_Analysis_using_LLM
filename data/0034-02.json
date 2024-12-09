@@ -1,0 +1,59 @@
+{
+  "id": 2096026,
+  "name": "Rogers Adm'r of Rogers v. Spalden",
+  "name_abbreviation": "Rogers v. Spalden",
+  "decision_date": "1738-04",
+  "docket_number": "",
+  "first_page": "34",
+  "last_page": "35",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 58"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 91,
+    "char_count": 988,
+    "ocr_confidence": 0.467,
+    "sha256": "9f880c63f5cfeb8d30cc3c91d51729bef3d8324fb0779f662b0aecacd6191a6a",
+    "simhash": "1:49c3aaa6510125fc",
+    "word_count": 174
+  },
+  "last_updated": "2023-07-14T19:43:08.706124+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rogers Adm\u2019r of Rogers v. Spalden."
+    ],
+    "opinions": [
+      {
+        "text": "The plaintiff living in England had taken proofs of her debt by affidavit, before the Lord Mayor, pursuant to the act of Parliament, (5 Geo. 2.) for recovery of debts in the plantations; and '\"'now upon the trial these affidavits were offered in evidence; but it was objected that when they were taken no suit was depending, and the act only extended to cases where suits were actually depending, and it was said the defendant ought to have notice, and of that opinion was the whole court, except Grymes and Digges; and so the affidavits were not allowed to be given in evidence-\nReported by Edward Barradall, Esq.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Rogers Adm\u2019r of Rogers v. Spalden.\nApril, 1738.\nAffidavit \u2014 When Allowed in Proof of Debts \u2014 Notice.\u2014 The plaintiff who lived in England took proofs of her debt* by affidavit and upon the trial offered them in evidence. Held, as no suit was pending at the time the affidavits were taken and the defendant did not have notice, the affidavits could not be given in evidence."
+  },
+  "file_name": "0034-02",
+  "first_page_order": 34,
+  "last_page_order": 35
+}

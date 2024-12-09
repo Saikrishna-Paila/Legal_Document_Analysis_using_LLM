@@ -1,0 +1,168 @@
+{
+  "id": 2288197,
+  "name": "AUGUSTUS JOSEPH SAUNDERS v. COMMONWEALTH OF VIRGINIA",
+  "name_abbreviation": "Saunders v. Commonwealth",
+  "decision_date": "1986-02-04",
+  "docket_number": "No. 0114-85",
+  "first_page": "396",
+  "last_page": "400",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 396"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "163 S.E.2d 181",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "185"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "209 Va. 266",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        4201994
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "271"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/209/0266-01"
+      ]
+    },
+    {
+      "cite": "409 U.S. 861",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6276640,
+        6276352,
+        6277573,
+        6273929,
+        6274510,
+        6274193,
+        6275775,
+        6273654,
+        6276089,
+        6274779,
+        6276956,
+        6275103,
+        6277247
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/409/0861-10",
+        "/us/409/0861-09",
+        "/us/409/0861-13",
+        "/us/409/0861-02",
+        "/us/409/0861-04",
+        "/us/409/0861-03",
+        "/us/409/0861-07",
+        "/us/409/0861-01",
+        "/us/409/0861-08",
+        "/us/409/0861-05",
+        "/us/409/0861-11",
+        "/us/409/0861-06",
+        "/us/409/0861-12"
+      ]
+    },
+    {
+      "cite": "187 S.E.2d 189",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 4,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "190",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "190"
+        },
+        {
+          "page": "191"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "212 Va. 745",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2115499
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/212/0745-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 385,
+    "char_count": 6614,
+    "ocr_confidence": 0.912,
+    "pagerank": {
+      "raw": 7.867030804716865e-08,
+      "percentile": 0.4594499524875775
+    },
+    "sha256": "ef00eacc149cb3ae28eb6b12529a9b5c6a2637579dafc678e752df61be8fbfdc",
+    "simhash": "1:97238d4441053251",
+    "word_count": 1048
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "AUGUSTUS JOSEPH SAUNDERS v. COMMONWEALTH OF VIRGINIA"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nBENTON, J.\nThe question presented in this appeal by Augustus Joseph Saunders, Jr., is whether photographs of recovered, stolen property may be admitted into evidence in a larceny prosecution if the Commonwealth fails to comply with Code \u00a7 19.2-270.1. We hold that the trial court did not err in admitting the photographs because they were received as illustrative, rather than substantive, evidence, and, thus, were not subject to the requirements of Code \u00a7 19.2-270.1.\nSaunders was tried and convicted by a jury on charges of statutory burglary, Code \u00a7 18.2-91, and grand larceny, Code \u00a7 18.2-95. The evidence shows that an automobile occupied by Saunders and three other passengers was stopped and searched after the police had observed the occupants breaking into a cold storage locker of a McDonald\u2019s restaurant and loading boxes from the cold storage locker into the automobile.\nJames P. Cook, a police officer who was present when the automobile was stopped and searched, described the contents of the automobile, including numerous boxes of meat with the labelling \u201cMcDONALDS\u201d. He testified that he took photographs showing the boxes in the trunk and interior of the automobile. The photographs, which were admitted over the objection of Saunders, bear an identifying exhibit number, the case style and the trial judge\u2019s initials. No other information appears on the photographs. The Attorney General concedes that the photographs do not satisfy the requirements of Code \u00a7 19.2-270.1.\nSaunders contends that the trial court erred in admitting the photographs because Code \u00a7 19.2-270.1 provides the exclusive means of authenticating photographs in prosecutions for larceny under Code \u00a7\u00a7 18.2-95 and 18.2-96. We disagree.\nThe general rules governing admissibility Qof photographs are stated at 29 Am. Jur. 2d Evidence \u00a7 785 (1967):\nPhotographs, when properly authenticated, are, as a general rule, held to be admissible under two distinct rules \u2014 (1) to illustrate the testimony of a witness, and (2) as \u201cmute,\u201d \u201csilent,\u201d or \u201cdumb\u201d independent photographic witnesses.\nSee also E. Cleary, McCormick on Evidence \u00a7 214 (3d ed. 1984).\nOur Supreme Court in Ferguson v. Commonwealth, 212 Va. 745, 187 S.E.2d 189, cert. denied, 409 U.S. 861 (1972), referred to the general rules and stated:\nWe have long recognized and admitted photographs in the first category by holding that a photograph which is verified by the testimony of a witness as fairly representing what that witness has observed is admissible in evidence and that it need not be proved by the photographer who made it.\nId. at 746, 187 S.E.2d at 190 (citations omitted).\nFurthermore, the Supreme Court in Ferguson adopted and applied for the first time in this State the \u201cindependent silent witness theory of admissibility of photographs.\u201d Id. at 746-47, 187 S.E.2d at 190. Having determined in Ferguson to admit the photograph under the silent witness theory and finding no witness who identified the scene depicted in the photograph, the Court was then required to examine the totality of the evidence to determine whether the evidence was \u201csufficient to provide an adequate foundation assuring the accuracy of the process producing it.\u201d Id. at 747, 187 S.E.2d at 191.\nCode \u00a7 19.2-270.1, which was enacted subsequent to Ferguson, now provides an alternative means of establishing an adequate foundation to authenticate a photograph which is offered under the independent silent witness theory in prosecutions under Code \u00a7\u00a7 18.2-95 and 18.2-96. Whenever a photograph of the \u201cgoods or merchandise alleged to have been taken or converted\u201d bears the sworn writing of the arresting officer and the photographer\u2019s signature, the photograph \u201cshall be deemed competent evidence of such goods or merchandise and shall be admissible. . .to the same extent as if such goods and merchandise had been introduced as evidence.\u201d Code \u00a7 19.2-270.1. When a photograph is so authenticated and admitted it becomes not just an illustration of the testimony of a witness but an independent silent witness constituting substantive evidence. See 2 Scott, Photographic Evidence \u00a7 1021 (2d ed. Supp. 1984).\nCode \u00a7 19.2-270.1 is not applicable in the circumstances of this case, because the proof problems of authentication and verification which Code \u00a7 19.2-270.1 addresses are not present. The photographs are admissible under the general rules governing admissibility of photographs.\nCook\u2019s testimony adequately verified the photographs as accurately representing what he observed and photographed. The trial judge correctly ruled that the photographs had been properly authenticated and could be used to illustrate the witness\u2019s testimony. See State Farm Ins. Co. v. Futrell, 209 Va. 266, 271, 163 S.E.2d 181, 185 (1968). The judgment is affirmed.\nAffirmed.\nBarrow, J., and Keenan, J., concurred.\nCode \u00a7 19.2-270.1 states:\nIn any prosecution for larceny under the provisions of \u00a7 18.2-95 or \u00a7 18.2-96, or for shoplifting under the provisions of \u00a7 18.2-103, or for burglary under the provisions of \u00a7\u00a7 18.2-89, 18.2-90, 18.2-91 or \u00a7 18.2-92, photographs of the goods or merchandise alleged to have been taken or converted shall be deemed competent evidence of such goods or merchandise and shall be admissible in any proceeding, hearing or trial of the case to the same extent as if such goods and merchandise had been introduced as evidence. Such photographs shall bear a written description of the goods or merchandise alleged to have been taken or converted, the name of the owner of such goods or merchandise, and the manner of the identification of the same by such owner, or the name of the place wherein the alleged offense occurred, the name of the accused, the name of the arresting police officer or conservator of the peace, the date of the photograph and the name of the photographer. Such writing shall be made under oath by the arresting police officer or conservator of the peace, and the photographs identified by the signature of the photographer. Upon the filing of such photograph and writing with the police authority or court holding such goods and merchandise as evidence, such goods or merchandise shall be returned to their owner, or the proprietor or manager of the store or establishment wherein the alleged offense occurred.",
+        "type": "majority",
+        "author": "BENTON, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Ramon E. Chalkley, III (Ganey and Chalkley, on brief), for appellant.",
+      "Russell C. Williams, Assistant Attorney General (William G. Broaddus, Attorney General, on brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Richmond\nAUGUSTUS JOSEPH SAUNDERS v. COMMONWEALTH OF VIRGINIA\nNo. 0114-85\nArgued September 13, 1985\nDecided February 4, 1986\nCounsel\nRamon E. Chalkley, III (Ganey and Chalkley, on brief), for appellant.\nRussell C. Williams, Assistant Attorney General (William G. Broaddus, Attorney General, on brief), for appellee."
+  },
+  "file_name": "0396-01",
+  "first_page_order": 420,
+  "last_page_order": 424
+}

@@ -1,0 +1,128 @@
+{
+  "id": 2288211,
+  "name": "LESLIE THURMAN ELLERSON v. W.O. GRUBB STEEL ERECTION CO., INC., et al.",
+  "name_abbreviation": "Ellerson v. W.O. Grubb Steel Erection Co.",
+  "decision_date": "1985-10-01",
+  "docket_number": "No. 0133-84",
+  "first_page": "97",
+  "last_page": "102",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 97"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "322 S.E.2d 839",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "841"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "228 Va. 378",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2072521
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "382"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/228/0378-01"
+      ]
+    },
+    {
+      "cite": "302 S.E.2d 507",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "510"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "225 Va. 405",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2078339
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "411"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/225/0405-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 517,
+    "char_count": 10241,
+    "ocr_confidence": 0.919,
+    "pagerank": {
+      "raw": 2.6331871325785376e-07,
+      "percentile": 0.822409144316908
+    },
+    "sha256": "014dbf8af3c6ee0657f936b6f348efaacea81bda44225ee2a451b55230812390",
+    "simhash": "1:7b72886032acd29d",
+    "word_count": 1697
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "LESLIE THURMAN ELLERSON v. W.O. GRUBB STEEL ERECTION CO., INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nBAKER, J.\nThis is an appeal from a decision of the Industrial Commission which terminated the worker\u2019s compensation benefits of Leslie Thurman Ellerson (claimant), who was injured while in the employ of W. O. Grubb. Steel Erection Co., Inc. The Commission founded its decision upon a review of the evidence heard before a deputy commissioner and held that \u201cthis employee has unjustifiably refused selective employment which has been made available through the employer.\u201d This finding was made pursuant to the provisions of Code \u00a7 65.1-63 which reads as follows:\nIf an injured employee refuses employment procured for him suitable to his capacity, he shall not be entitled to any compensation at any time during the continuance of such refusal, unless in the opinion of the Industrial Commission such refusal was justified.\nThe findings of the Industrial Commission must be based on credible evidence. Caskey v. Dan River Mills, Inc., 225 Va. 405, 411, 302 S.E.2d 507, 510 (1983). In order to support a finding based upon Code \u00a7 65.1-63, the record must disclose (1) a bona fide job offer suitable to the employee\u2019s capacity; (2) procured for the employee by the employer; and (3) an unjustified refusal by the employee to accept the job. We find that the evidence in this case does not meet these requirements.\nIn February, 1982, claimant was an employee of W. O. Grubb Steel Erection Co., Inc. whose compensation carrier was United States Fidelity and Guaranty Company (U.S.F.&G.) (collectively, the employer). On March 17, 1982, the Industrial Commission entered an award for the payment of weekly compensation to claimant for injuries received on February 10, 1982.\nOn December 16, 1983, U.S.F.&G. employed Mr. Herman Gray Broughton, a job placement specialist, to locate selective employment for claimant. Broughton made over one hundred unsuccessful attempts to obtain such employment before claimant told him that he had learned through a friend of a job opportunity with Electrolux Company of Richmond. Broughton advised claimant to seek a job interview which claimant alone accomplished.\nFollowing a meeting on March 19, 1984, between claimant, Broughton, and Mr. R. P. Norgang, Richmond Branch Manager of Electrolux, Broughton, on the same day, wrote a letter to U.S.F.&G., a copy of which was received by claimant\u2019s attorney on March 22, 1984, and advised that Norgang had offered claimant a job. Broughton\u2019s letter stated in pertinent part:\nThere is, however, one problem, Les (Ellerson) needs transportation. As we discussed previously you will attempt to work something out through a settlement with Les.\nAs can be seen, no settlement of the transportation issue had been made as of March 22, 1984.\nOn March 22, 1984, the employer\u2019s Notice of Application for Hearing was mailed to claimant and the Commission. In the application, the employer stated that the compensation payments would be suspended because, as of March 22, 1984, claimant had failed \u201cto accept selective employment.\u201d This hearing application was opposed by counsel for claimant by letter dated March 26, 1984. By letter dated April 13, 1984, Mr. Andrew Edelstein, Claims Manager for the Industrial Commission, rejected the application on the basis that a bona fide job offer had not been made in that the job required claimant \u201cto have reliable transportation\u201d which was not available to him.\nOn May 1, 1984, the employer mailed claimant and the Commission a second Notice of Application for Hearing stating as its reason the claimant\u2019s \u201c[fjailure to accept selective employment even when transportation offered (See attached letter from R. P. Norgang, Branch Manager, Electrolux.)\u201d The attached letter was dated April 17, 1984, and was addressed to Broughton. It stated that on March 19, 1984, Norgang had offered claimant a job to start on March 20, 1984, and that Norgang had informed claimant that he would \u201carrange for transportation until he could get a\ncar.\u201d It should be noted that if Norgang\u2019s offer of transportation is believed, when Broughton wrote to U.S.F.&G. on March 19, 1984, he still thought transportation was \u201ca problem.\u201d Norgang\u2019s April 17 letter to Broughton further stated that claimant did not show up for work that morning (March 20), but instead came in about four days later wanting a letter stating that he needed a car to obtain this job. It closed by saying that Norgang told claimant:\nhe felt he wanted the car more than a job. I felt I was being used. I told him I wished him all the luck in the world but I could not comply with his request, (emphasis added).\nIt should be noted that March 19, 1984, was Monday; March 20, 1984, was Tuesday; and four days later was Saturday.\nThe second request for a hearing was granted by Mr. Kenneth S. Wilhoit, deputy commissioner, and held before him on June 14, 1984. At the hearing the following additional evidence was submitted by the parties:\nPrior to the March 19, 1984, meeting with Norgang and Broughton, claimant through his own effort had obtained a letter from his doctor advising that he could accept the sales position with Electrolux. Broughton stated that claimant had told him that if he wanted a job he could get one with Electrolux but that there was a problem involving transportation. When Broughton heard Norgang tell claimant that he could come to work \u201cthe next day,\u201d Broughton responded that \u201cthere might be a problem, it would take a few days to get it straight,\u201d to which Norgang replied \u201cfine, that to just let him know when he could start.\u201d Exactly what U.S.F.&G. was going to do about transportation was not known when Norgang made his overture of a job.\nNorgang testified that claimant had been recommended to him by an Electrolux salesman who was employed by Norgang at the time. After the initial interview, Norgang told claimant that he could come to work for him. He first denied transmitting the offer by letter but admitted his error when shown a letter dated March 19, 1984, in which he advised claimant to report for work on March 20, 1984. If mailed, it would have been received after claimant was scheduled to report to work. Norgang then stated that claimant was in his office on a Saturday and he was to start working on Monday. As indicated, March 19, 1984, was a Monday and March 20, 1984, was a Tuesday.\nAlthough Norgang\u2019s letter to Broughton dated April 17, 1984, attached to employer\u2019s second hearing application, stated that he refused claimant\u2019s request for a letter verifying the need for transportation, Norgang testified that he assured claimant that he would give him such letter because \u201cobviously you need a car.\u201d Norgang then stated that he prepared such a letter but discarded the same when claimant came to get it on Monday rather than the immediately preceding Saturday.\nClaimant did not report to work on March 20, 1984. In his testimony, he explained that he failed to report for work because the job required that he provide his own transportation and that he could not afford to do so. He did report to Norgang on or about Thursday, March 22, 1984, and requested that Norgang provide him with a letter clearly stating the transportation requirements.\nDuring the discussion of employment between claimant, Broughton, and Norgang, Broughton indicated he would recommend that U.S.F.&G. make a payment to claimant which would enable him to procure his own transportation. However, this continued to remain an open question both as to what payment would be made and for what purpose, as well as claimant\u2019s financial ability to handle car payments.\nExcept for advising claimant to seek a job interview with Electrolux, Broughton did nothing to locate the job opportunity, make initial contact with the company or even procure claimant\u2019s doctor\u2019s approval of the prospective work. All of these were accomplished solely by claimant. Although Broughton attended the initial interview and in his testimony used the word \u201cwe\u201d to describe his role in procuring the prospective employment, we hold that his assistance, if any, did not constitute \u201cprocured for him\u201d within the meaning of Code \u00a7 65.1-63. See Big D Quality Homebuilders v. Hamilton, 228 Va. 378, 382, 322 S.E.2d 839, 841 (1984), wherein the Supreme Court held that the relief allowed by that section is limited to cases in which the employer procured selective employment.\nNor does the evidence disclose that there was a refusal of a bona fide offer of employment. One cannot be certain from the evidence when Norgang required claimant to report to work, what form the tender took, or when it was made and withdrawn. Although the testimony revealed that at one time Jeffrey David Mountz of U.S.F.&G. offered claimant $1,500.00, the record is not clear for what purpose the money was to be used nor what U.S.F.&G. expected to receive in exchange therefor. Mountz testified that it was \u201cto be utilized for whatever reason he (Ellerson) wanted to utilize it for.\u201d\nIn order to obtain relief under Code \u00a7 65.1-63, it is the employer\u2019s burden to prove that a bona fide offer of selective employment has been procured by the employer and unjustifiably refused by the employee. We hold that the evidence presented to the Commission in this case does not sustain the burden imposed on the employer. When the offer of employment was withdrawn the matter of transportation had not been resolved so as to have constituted a bona fide offer of employment. Therefore, claimant did not unjustifiably refuse selective employment.\nOur findings make it unnecessary to consider the issues raised concerning res judicata and estoppel, and we do not decide those issues.\nFor the reasons stated, the order of the Commission dated December 14, 1984, will be set aside and this cause remanded to the Commission with instructions to review claimant\u2019s present employment status and restore his compensation benefits accordingly.\nReversed and remanded.\nBenton, J., and Duff, J., concurred.",
+        "type": "majority",
+        "author": "BAKER, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Ronald E. Kuykendall (Minor & Kuykendall, P. C., on brief), for appellant.",
+      "Randolph P. Tabb, Jr. (Taylor, Hazen, Kauffman & Lipscomb, on brief), for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Richmond\nLESLIE THURMAN ELLERSON v. W.O. GRUBB STEEL ERECTION CO., INC., et al.\nNo. 0133-84\nArgued April 9, 1985\nDecided October 1, 1985\nCounsel\nRonald E. Kuykendall (Minor & Kuykendall, P. C., on brief), for appellant.\nRandolph P. Tabb, Jr. (Taylor, Hazen, Kauffman & Lipscomb, on brief), for appellees."
+  },
+  "file_name": "0097-01",
+  "first_page_order": 121,
+  "last_page_order": 126
+}

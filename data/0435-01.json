@@ -1,0 +1,481 @@
+{
+  "id": 2288200,
+  "name": "PILOT FREIGHT CARRIERS, INC. v. ROBERT BRUCE REEVES",
+  "name_abbreviation": "Pilot Freight Carriers, Inc. v. Reeves",
+  "decision_date": "1986-02-04",
+  "docket_number": "No. 0878-85",
+  "first_page": "435",
+  "last_page": "446",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 435"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "155 F.2d 3",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1139200
+      ],
+      "year": 1946,
+      "pin_cites": [
+        {
+          "page": "6"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/155/0003-01"
+      ]
+    },
+    {
+      "cite": "419 U.S. 1108",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6500967,
+        6501161,
+        6501450,
+        6500684,
+        6500780,
+        6500590,
+        6500881,
+        6500498,
+        6501074,
+        6501246,
+        6501343
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/419/1108-06",
+        "/us/419/1108-08",
+        "/us/419/1108-11",
+        "/us/419/1108-03",
+        "/us/419/1108-04",
+        "/us/419/1108-02",
+        "/us/419/1108-05",
+        "/us/419/1108-01",
+        "/us/419/1108-07",
+        "/us/419/1108-09",
+        "/us/419/1108-10"
+      ]
+    },
+    {
+      "cite": "205 S.E.2d 680",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "682"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "215 Va. 27",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2123158
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/215/0027-01"
+      ]
+    },
+    {
+      "cite": "153 S.E.2d 278",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "281"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "207 Va. 906",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        6813038
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "911"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/207/0906-01"
+      ]
+    },
+    {
+      "cite": "49 S.E.2d 600",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "601"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "188 Va. 367",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2150485
+      ],
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "370"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/188/0367-01"
+      ]
+    },
+    {
+      "cite": "334 S.E.2d 148",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Va. App. 57",
+      "category": "reporters:state",
+      "reporter": "Va. App.",
+      "case_ids": [
+        2288233
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "58",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va-app/1/0057-01"
+      ]
+    },
+    {
+      "cite": "80 S.E.2d 533",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "535"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "195 Va. 762",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2063440
+      ],
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "766"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/195/0762-01"
+      ]
+    },
+    {
+      "cite": "292 Or. 683",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        2171531
+      ],
+      "weight": 4,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "693"
+        },
+        {
+          "page": "1153"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/292/0683-01"
+      ]
+    },
+    {
+      "cite": "323 S.E.2d 102",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "105"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "228 Va. 419",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2072520
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/228/0419-01"
+      ]
+    },
+    {
+      "cite": "162 S.E. 8",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "year": 1932,
+      "pin_cites": [
+        {
+          "page": "9"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 Va. 468",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        4877679
+      ],
+      "year": 1932,
+      "pin_cites": [
+        {
+          "page": "471"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/157/0468-01"
+      ]
+    },
+    {
+      "cite": "29 S.E.2d 234",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "237-38"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Va. 446",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        1973156
+      ],
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "453"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/182/0446-01"
+      ]
+    },
+    {
+      "cite": "169 S.E.2d 443",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "445"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "210 Va. 185",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2037527
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "188"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/210/0185-01"
+      ]
+    },
+    {
+      "cite": "94 S.E.2d 202",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1956,
+      "pin_cites": [
+        {
+          "page": "204"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "198 Va. 370",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2058716
+      ],
+      "year": 1956,
+      "pin_cites": [
+        {
+          "page": "373"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/198/0370-01"
+      ]
+    },
+    {
+      "cite": "299 S.E.2d 698",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "699"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "224 Va. 568",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2079886
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "571"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/224/0568-01"
+      ]
+    },
+    {
+      "cite": "312 U.S. 275",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        358993
+      ],
+      "year": 1941,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/312/0275-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1020,
+    "char_count": 18134,
+    "ocr_confidence": 0.892,
+    "pagerank": {
+      "raw": 6.214208777285406e-07,
+      "percentile": 0.9571270371361419
+    },
+    "sha256": "fddc6b80e9c67e96488292a9dfcdf364e92ab2df85c8215bbdb16cb973e461f3",
+    "simhash": "1:ad23ff3e6227afa7",
+    "word_count": 3033
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PILOT FREIGHT CARRIERS, INC. v. ROBERT BRUCE REEVES"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nCOLE, J.\nThis appeal by Pilot Freight Carriers, Inc., the employer, raises two issues: (1) whether the finding of the Commission that Pilot had failed to prove a change in condition of the claimant, Robert Bruce Reeves, was justified from the evidence presented; and (2) whether the temporary total award of the Commission should have been terminated since Reeves had not returned to work, but was operating his own trucking business. We find that credible evidence supports the findings of the Commission on both issues and affirm the decision of the Commission.\nReeves owned and operated a tractor/trailer unit and had a contract with Pilot. The agreement provided that Pilot would furnish loads of freight and Reeves would furnish the tractor/trailer unit and the driver, who was Reeves himself. Pilot paid Reeves a percentage of the proceeds received for a trip and also withheld \u2022taxes from the wages of the driver. On September 1, 1983, Reeves sustained a work related back injury when he twisted his back while attempting to chain down a load of pipe. Pilot accepted his claim as compensable and began making temporary total disability payments.\nAfter September 1, 1983, Reeves, unable to drive himself, employed a driver to operate his tractor/trailer unit. Reeves testified, and it is not disputed, that when Dr. Chappell told him that for at least two years he would not be able to drive, he decided that he was too much in debt to sell out and could not stay in business with one truck and a driver. Accordingly, fie purchased a second tractor/trailer in October of 1983. In January of 1984 he purchased a third tractor and refinanced all of the units, three tractors and two trailers, in one loan.\nShortly after the accident, Pilot cancelled its contract with Reeves, but he entered into a similar agreement with Huss, Incorporated. Reeves employed truck drivers to drive his two units and he supervised and managed the other aspects of the business. In 1982, when Reeves was operating and driving one truck, the business earned a profit of $158.00. However, in 1983 and 1984, he lost approximately $40,000.00 each year. He paid each driver from $1,500 to $3,000 per month to drive a tractor. Reeves withdrew from the business approximately $200 per week, which he used to buy gas for his personal car that was used to run business errands, to purchase business supplies, and to pay his eating expenses.\nThe employer filed an application for a hearing on October 9, 1984, alleging that Reeves was no longer disabled as a result of his September 1, 1983, accident, that he was operating his own trucking business, and that the temporary total award should be terminated or modified. The full Commission on June 4, 1985, dismissed the application and this appeal followed.\nIn support of its contention that Reeves was no longer disabled, Pilot submitted a report of Dr. Edward Chappell, Jr. dated September 24, 1984. Dr. Chappell, the treating physician and an orthopedist, examined Reeves on September 24, 1984, and reported essentially a normal examination and stated:\nAP and lateral X-rays of the lumbar spine were taken which are equivocal for slight disc space narrowing at L-4, L-5 and L-5, S-l.\nI have told Mr. Reeves that in my opinion any problem that he is currently experiencing is not a result of the 9/1/83 injury.\nReeves submitted a report by Dr. Neal I. Aronson dated October 25, 1984. He reported subjective complaints of back pain and diminished left ankle jerk. He stated in his report that:\nI reviewed X-rays which revealed narrowing of L4-5 and L5-S1. I also reviewed a CAT scan which he brought which shows evidence of bulging discs at L5-S1, worse on the left than the right, midline bulge of significant size at L4-5 and a moderate bulge at L3-4.\nIt is my opinion that this patient may have had degenerative disc disease which was asymptomatic and was then definitely aggravated by a work injury. He is now intermittently incapacitated and the prognosis is guarded. The options include further conservative management, wearing of a corset and work restrictions on the one hand as opposed to myelography and possible surgical intervention. The latter would be considered elective at this time but the prognosis is guarded. . . .\nIn an application for review of an award on the ground of a change in condition, the burden is on the party alleging such change to prove his allegations by a preponderance of the evidence. J. A. Jones Const. Co. v. Martin, 198 Va. 370, 373, 94 S.E.2d 202, 204 (1956).\nIn cases where there is conflicting medical evidence, the Supreme Court has established the rule as follows:\nThe general rule is that when an attending physician is positive in his diagnosis of a disease, great weight will be given by the courts to his opinion. However, when it appears . . . that the diagnosis is shaded by doubt, and there is medical expert opinion contrary to the opinion of the attending physician, then the trier of the fact is left free to adopt that view which is most consistent with reason and justice.\nMcPeek v. P. W. & W. Coal Co., Inc., 210 Va. 185, 188, 169 S.E.2d 443, 445 (1969); Baltimore v. Benedict Coal Corp., 182 Va. 446, 453, 29 S.E.2d 234, 237-38 (1944); Bristol Builders\u2019 Supply Co. v. McReynolds, 157 Va. 468, 471, 162 S.E. 8, 9 (1932).\nWhile Pilot accurately states the principles regarding medical expert testimony, we must disagree with its assertion that in this case no medical evidence conflicted with the testimony of the treating physician. Dr. Aronson\u2019s report stated that Reeves suffered a work related injury from which he had not yet recovered. Clearly, this conflicted with Dr. Chappell\u2019s opinion that any back problems Reeves is suffering are not a result of the accident of September 1, 1983. Given this conflict of medical expert opinions, it is for the Commission to determine the probative weight to be accorded such evidence. Having resolved the conflict in favor of Reeves on the basis of credible evidence, the finding by the Commission is binding on this Court on appeal.\nThe employer next contends that the claimant is no longer incapacitated as a result of the accident of September 1, 1983, because he has returned to work and is working full time as the owner and manager of a trucking business at wages in excess of the pre-injury amount, although admittedly he has not returned to work as a truck driver. In Sargent Electric Co. v. Woodall, 228 Va. 419, 323 S.E.2d 102 (1984), the contention was made that the Commission had authority under Code \u00a7 65.1-99 to make an award ending, diminishing or increasing the compensation previously awarded, but the Supreme Court stated that an employee\u2019s entitlement to benefits for partial incapacity is based upon \u201cthe difference between his average weekly wages before the injury and the average weekly wages he is able to earn thereafter.\u201d Id. at 425, 323 S.E.2d at 105; see Code \u00a7 65.1-55.\nThe degree of disability under Code \u00a7 65.1-55 is determined by comparing average weekly wages which the employee actually earns before the injury and the average weekly wages that he is able to earn after the injury. Professor Larson in his treatise on Workmen\u2019s Compensation Law comments upon this distinction as follows:\nIt is at once apparent that the two items in the comparison are not quite the same. Actual earnings are a relatively concrete quantity .... Earning capacity, however, is a more theoretical concept. It obviously does not mean actual earnings, since the legislature deliberately chose a different phrase for the post-injury earnings factor .... But the concept of wages he \u201cis able\u201d to earn cannot mean definite actual wages alone, especially in the absence of a fixed period of time within which post-injury wages are to be taken as controlling.\n2 A. Larson, The Law of Workmen\u2019s Compensation \u00a7 57.21 (1980).\nLarson summarizes the problem of determining \u201cwages he is able to earn thereafter\u201d as follows:\nIn essence, the problem is one of tying earnings to a period of time .... Obviously we cannot take an arbitrary period of, say, six months after the injury as conclusive, since for a multitude of reasons that period might be entirely nonrepresentative. On the other hand, we cannot wait out the rest of claimant\u2019s life to see what his average weekly wage loss ultimately turned out to be. The normal solution i$ to make the best possible estimate of future impairments of earnings, on the strength not only of actual post-injury earnings but of any other available clues.\nIt is uniformly held, therefore, without regard to statutory variations in the phrasing of the test, that a finding of disability may stand even when there is evidence of some actual post-injury earnings equaling or exceeding those received before the accident. The position may be best summarized by saying that actual post-injury earnings will create a presumption of earning capacity commensurate with them, but the presumption may be rebutted by evidence independently showing incapacity or explaining away the post-injury earnings as an unreliable basis for estimating capacity.\nId. at \u00a7 57.21.\nIn Compensation of Harris v. Saif Corp., 292 Or. 683, 642 P.2d 1147 (1982), the claimant made substantial earnings through real estate investments. The Supreme Court of Oregon held that his disability award could not be revoked or diminished solely on the basis of these earnings. The court held that under such circumstances, the claimant\u2019s (unscheduled) permanent total disability award could only be revoked or diminished upon a specific and express finding that he or she was presently able to regularly perform a gainful and suitable occupation and noted that a claimant\u2019s ability to generate income is only relevant as it tends to establish his or her employability at some such occupation. A claimant\u2019s demonstrated ability to earn money is, in itself, insufficient. Id. at 693, 642 P.2d at 1153.\nThe Supreme Court of Virginia has stated that benefits awarded under former Code \u00a7 65-51 (now \u00a7 65.1-54) and former Code \u00a7 65-52 (now \u00a7 65.1-55) cover losses occasioned by the impairment of the claimant\u2019s earning capacity. The first section applies where the loss is total, and the second where it is partial. The extent of earning capacity must be ascertained from the evidence, and such is not limited to any special class of proof. All legal facts and circumstances surrounding the claim should properly be considered and due weight given them by the Commission. J. A. Foust Coal Co. v. Messer, 195 Va. 762, 766, 80 S.E.2d 533, 535 (1954).\nIt was the duty of the Commission to make the best possible estimate of future impairments of earnings from the evidence adduced at the hearing, and to determine the average weekly wage that Reeves was able to earn. This is a question of fact to be determined by the Commission which, if based on credible evidence, will not be disturbed on appeal. Jackson v. Loveland Distributing Co., 1 Va. App. 57, 58, 334 S.E.2d 148, 14 9 (1985) (per curiam). We believe that the record clearly supports the Commission\u2019s finding on this point. The Commission specifically stated that, \u201cThe supervisory work being performed by this claimant may have some value but there is no evidence before us in this regard.\u201d We agree with this finding.\nWe do not mean to imply that owning and operating a business can never be a sufficient reason to hold that the employee is presently able to return to work. Under the facts and circumstances of this case the evidence clearly shows that the employee is trying to rehabilitate himself, but at this time he is losing substantial sums of money in his business and is living on borrowed funds. The employer is unwilling to employ him and immediately cancelled its contract with him. Neither has it offered him any selective work under Code \u00a7 65.1-63 suitable to his capacity.\nFor the reasons stated, we find that the record in this case supports the findings of the Commission, and the opinion of the Commission is hereby affirmed.\nAffirmed.\nDuff, J., and Benton, J., concurred.\nOrder\nVIRGINIA:\nIn the Court of Appeals of Virginia on Wednesday, the 5th day of February, 1986.\nPaul D. Collison,\nAppellant,\nagainst\nH. L. Underwood, Superintendent\nAppellee,\nBefore Judges Coleman, Moon and Cole\nOn October 9, 1984, Paul B. Collison, proceeding pro se, petitioned the Circuit Court of Grayson County for a writ of habeas corpus following his convictions in March of 1983 for breaking and entering, grand larceny, and uttering forged checks. The grounds asserted by petitioner were as follows:\n(1) He was denied effective assistance of counsel in that:\n(a) defense counsel and the Commonwealth\u2019s Attorney knew everyone on the jury panel and picked the ones they wanted;\n(b) defense counsel would not allow petitioner to testify;\n(c) defense counsel did not defend petitioner properly as he was a close friend of the prosecutor;\n(2) Insufficiency of the evidence to establish statutory burglary;\n(3) Petitioner was intoxicated at the time he gave a statement;\nOn appeal petitioner asserted five additional grounds for relief which were addressed in brief and by correspondence from petitioner to the Attorney General on November 15 and 20, 1984:\n(4) The Commonwealth\u2019s Attorney offered to help two of the jurors concerning sentencing;\n(5) The deputy sheriff who pressed charges against petitioner was with the jury the whole time they were in the room;\n(6) Two checks were improperly used as evidence of statutory and grand larceny because, at the time of trial, petitioner had not been convicted of any offense involving the checks;\n(7) One witness was convicted of a felony, breaking and entering, in 1983; and\n(8) The petitioner was never advised of his right to appeal.\nThese additional grounds for relief were never raised in the trial court.\nOn January 22, 1985, Judge Duane E. Mink summarily denied the petition. Petitioner appealed from that order, and asserts that he should have received a plenary hearing on the grounds set forth in his petition and by amendment.\nPetitioner\u2019s claims (4) through (8) which were not raised in the court below, cannot be considered on appeal.\nThe trial court\u2019s summary dismissal without a plenary hearing of the following grounds for relief was proper and is affirmed based upon the authority and reasons hereafter stated: ground (l)(a), there being no allegation that the jury was not fair and impartial; ground (l)(c), there being no factual allegations sufficient for habeas corpus relief, see Penn v. Smyth, 188 Va. 367, 370, 49 S.E.2d 600, 601 (1948); ground (2), as the sufficiency of the evidence to support a conviction cannot be challenged in a state habeas corpus proceeding, Pettus v. Peyton, 207 Va. 906, 911, 153 S.E.2d 278, 281 (1967); and ground (3), there being no objection made on this ground at trial or on appeal. Slayton v. Parrigan, 215 Va. 27, 30, 205 S.E.2d 680, 682 (1974), cert. denied, 419 U.S. 1108 (1975).\nConcerning petitioner\u2019s allegation that his trial attorney did not allow him to testify, the right of an accused to testify on his own behalf is fundamental to the concept of due process. Virginia codifies this right in Code \u00a7 19.2-268. In his sworn pleading petitioner states: \u201cI want[ed] to tell my side of the story,\u201d but \u201c[m]y lawyer didn\u2019t let me testify in my behalf.\u201d Petitioner\u2019s trial attorney, Mr. Graham M. Parks, by unsigned affidavit, answered that he advised petitioner before trial of his right to testify, and, although Mr. Parks advised petitioner not to testify, the decision of whether to testify or not was left to petitioner.\nA prima facie showing by affidavit or other evidence of facts which, if true, show that a petitioner is illegally detained entitles a petitioner to a hearing on his petition. Davis v. Smyth, 155 F.2d 3, 6 (4th. Cir. 1946). Code \u00a7 8.01-654 (B)(4) provides, however, that where a writ petitioner\u2019s allegations \u201ccan be fully determined on the basis of recorded matters, the court may make its determination whether such writ should issue on the basis of the record.\u201d\nAlthough Mr. Parks\u2019 affidavit is a part of the \u201ccomplete record\u201d as contemplated by Code \u00a7 8.01-654 (B)(4), nevertheless, petitioner\u2019s allegation cannot be fully determined on the basis of the recorded matters alone. Mr. Parks\u2019 affidavit, even if it had been signed, does not resolve the issue; the affidavit demonstrates that a factual dispute exists as to whether petitioner was denied his right to testify. When a factual dispute remains, evidence from witnesses examined ore tenus or by depositions is required to resolve the issue. See Walker v. Johnson, 312 U.S. 275 (1941); Walker v. Mitchell, 224 Va. 568, 571, 299 S.E.2d 698, 699 (1983). A plenary hearing is necessary to determine the factual issue of whether petitioner was denied his right to testify.\nAccordingly, it is ordered that the petition for writ of habeas corpus be remanded to the Circuit Court for a hearing on the question whether petitioner was denied his right to testify on his own behalf. Upon remand petitioner may consider whether he desires to seek leave of court to amend his petition pursuant to Rule 1:8 to include grounds (4) through (8) which he attempted to raise for the first time on appeal.\nIt is ordered that the trial court allow counsel for the appellant a fee of $200 for services rendered the appellant on this appeal, in addition to counsel\u2019s costs and necessary direct out-of-pocket expenses. \u2019\nThe Commonwealth shall recover the amount paid court-appointed counsel to represent him in this proceeding, counsel\u2019s costs and necessary direct out-of-pocket expenses, and the fee and costs to be assessed by the clerk of this Court and the clerk of the trial court.\nThis order shall be certified to the trial court.\nA copy,\nTeste:\nDavid B. Beach, Clerk By:\nPatricia G. Davis,\nDeputy Clerk",
+        "type": "majority",
+        "author": "COLE, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Mary Louise Kramer and S. Vernon Priddy, III (Sands, Anderson, Marks & Miller), for appellant.",
+      "Dabney Overton, Jr., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Arlington\nPILOT FREIGHT CARRIERS, INC. v. ROBERT BRUCE REEVES\nNo. 0878-85\nArgued November 19, 1985\nDecided February 4, 1986\nCounsel\nMary Louise Kramer and S. Vernon Priddy, III (Sands, Anderson, Marks & Miller), for appellant.\nDabney Overton, Jr., for appellee."
+  },
+  "file_name": "0435-01",
+  "first_page_order": 459,
+  "last_page_order": 470
+}

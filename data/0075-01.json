@@ -1,0 +1,316 @@
+{
+  "id": 2288196,
+  "name": "JAMES PUGH SAWYER v. BARBARA LEE BRINN SAWYER",
+  "name_abbreviation": "Sawyer v. Sawyer",
+  "decision_date": "1985-09-17",
+  "docket_number": "No. 0076-85",
+  "first_page": "75",
+  "last_page": "81",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 75"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "267 S.E.2d 89",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "221 Va. 1",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2138853
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/221/0001-01"
+      ]
+    },
+    {
+      "cite": "10 U.S.C.A. \u00a7 1408",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)",
+          "parenthetical": "A"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "453 U.S. 210",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11722354
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/453/0210-01"
+      ]
+    },
+    {
+      "cite": "10 U.S.C. \u00a7 1331",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(2)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 S.E.2d 170",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "172"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "212 Va. 237",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2115520
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "239"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/212/0237-01"
+      ]
+    },
+    {
+      "cite": "248 S.E.2d 791",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "795"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "219 Va. 529",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2133329
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "536"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/219/0529-01"
+      ]
+    },
+    {
+      "cite": "129 S.E. 379",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "year": 1925,
+      "pin_cites": [
+        {
+          "page": "382"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "143 Va. 187",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        1862581
+      ],
+      "year": 1925,
+      "pin_cites": [
+        {
+          "page": "195"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/143/0187-01"
+      ]
+    },
+    {
+      "cite": "468 N.E.2d 784",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "787"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Ohio App. 3d 194",
+      "category": "reporters:state",
+      "reporter": "Ohio App. 3d",
+      "case_ids": [
+        6707918
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "197"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-app-3d/13/0194-01"
+      ]
+    },
+    {
+      "cite": "450 N.E.2d 1333",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "1337"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 Ill. App. 3d 610",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        3557599
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "616"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/115/0610-01"
+      ]
+    },
+    {
+      "cite": "279 S.C. 116",
+      "category": "reporters:state",
+      "reporter": "S.C.",
+      "case_ids": [
+        2151554
+      ],
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/sc/279/0116-01"
+      ]
+    },
+    {
+      "cite": "191 Colo. 317",
+      "category": "reporters:state",
+      "reporter": "Colo.",
+      "case_ids": [
+        4564356
+      ],
+      "weight": 2,
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/colo/191/0317-01"
+      ]
+    },
+    {
+      "cite": "269 Ark. 523",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1712481
+      ],
+      "weight": 2,
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/269/0523-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 659,
+    "char_count": 12696,
+    "ocr_confidence": 0.908,
+    "pagerank": {
+      "raw": 4.6776885489801775e-07,
+      "percentile": 0.9280606707186404
+    },
+    "sha256": "8513c5035273204a8d74a9900e508c3f666df5e2b1af3c8e3ee0f1e730c20c53",
+    "simhash": "1:f8820c6eac3aeee6",
+    "word_count": 2143
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JAMES PUGH SAWYER v. BARBARA LEE BRINN SAWYER"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nMOON, J.\nJames P. Sawyer appeals from a judgment requiring him to pay $700 per month spousal support, and in addition, $40,000, payable in monthly installments of $250, as part of the wife\u2019s equitable distribution of the marital property which consists almost entirely of Mr. Sawyer\u2019s military retirement pension. Mr. Sawyer seeks reversal on the following grounds: (1) that his military retirement pension is not property subject to equitable distribution as contemplated in Code \u00a7 20-107.3; (2) that if his pension is property it is separate property; (3) that the trial court, in violation of Code \u00a7 20-107.3(C), awarded Mrs. Sawyer a share of the pension; (4) that the court disregarded Code \u00a7 20-107.3(B) by ignoring all of the marital property except the pension in granting an award; (5) that there was no evidence to support the finding that the pension\u2019s present value is $103,700; and (6) that it was error to award Mrs. Sawyer an equitable share of the pension and also spousal support which Mr. Sawyer claims must both be paid from the pension. We disagree.\nThe Sawyers were married in 1952, One year after Mr. Sawyer entered the Air Force. The couple\u2019s two children were both emancipated when Mr. Sawyer left the marital home on February 15, 1982. Mr. Sawyer retired from the Air Force in 1972, at which time he began receiving his pension of $850 per month. He presently grosses $31,000 per year as a long-haul truck driver. His net income from all sources, including his military pension, is $2,244 per month. Mrs. Sawyer earned substantial sums during the marriage but because of illness now earns only $248 per month. She has established a need of $1,567 per month to meet her living expenses. She continues to live in the marital home which she and her husband rented during the marriage.\nThe parties owned a parcel of real estate in Florida jointly titled in the names of both parties. When they separated, Mr. Sawyer kept a sewing machine and was in possession of a 1975 jointly titled Cadillac and a Toronado Oldsmobile titled to him but having a lien equal to its fair market value. Mrs. Sawyer retained all of the home furnishings, including the silver. She also had about $4,500 in inventory from a former business and $1,400 in the bank.\nWe must first decide if a military retirement pension is \u201cpersonal property\u201d as contemplated by Code \u00a7 20-107.3, which states:\nUpon decreeing the dissolution of a marriage, and also upon decreeing a divorce from the bond of matrimony, the court, upon motion of either party, shall determine the legal title as between the parties, and the ownership and value of all real and personal property of the parties and shall consider which of such property is separate property and which is marital property.\nMr. Sawyer argues that a military pension is not susceptible to equitable distribution because it is neither property acquired by the husband nor is it property acquired during the marriage. He also alleges that it is a stream of income that has no cash value, and cannot be assigned, borrowed against, redeemed, or converted.\nMr. Sawyer cites numerous cases from other jurisdictions where courts have held that military pensions are not property subject to equitable distribution. The rationale of those cases primarily is that a military retirement pension is income only and is without the qualities normally associated with assets. See, e.g., Paulsen v. Paulsen, 269 Ark. 523, 601 S.W.2d 873 (1980); Ellis v. Ellis, 191 Colo. 317, 552 P.2d 506 (1976); Brown v. Brown, 279 S.C. 116, 302 S.E.2d 860 (1983).\nMrs. Sawyer cites authority from other states where the military retirement pension has been considered property susceptible to equitable distribution. See, e.g., In re Marriage of Campise, 115 Ill. App. 3d 610, 616, 450 N.E.2d 1333, 1337 (1983); Anderson v. Anderson, 13 Ohio App. 3d 194, 197, 468 N.E.2d 784, 787 (1984).\nAssuming that our statute is ambiguous and in need of construction, it is our duty to try to ascertain the intent of the legislature from the statute itself. Stanley v. Tomlin, 143 Va. 187, 195, 129 S.E. 379, 382 (1925). A statute is to be construed from its four corners, and we should not give the term \u201cpersonal property\u201d a narrow meaning suggested by Mr. Sawyer when it has other meanings. See Commonwealth Natural Resources, Inc. v. Commonwealth, 219 Va. 529, 536, 248 S.E.2d 791, 795 (1978). This reasoning is particularly true where the narrow meaning will frustrate the intent of the legislature. See Kohlberg v. Virginia Real Estate Commission, 212 Va. 237, 239, 183 S.E.2d 170, 172 (1971); 17 Michie\u2019s Jurisprudence Statutes \u00a7 38 (Repl. vol. 1979).\nThe legislature enacted Code \u00a7 20-107.3 to give the courts power to compensate a spouse for his or her contribution to the acquisition of property obtained during the marriage without regard to title when the marriage is dissolved. Mr. Sawyer\u2019s position would frustrate this intent.\nWe agree that pensions do not have the normal attributes of assets as such but they are property rights. Mr. Sawyer can enforce his right to his pension in the courts of the United States. Code \u00a7 20-107.3(E)(8) specifically requires the Chancellor to consider the present value of pensions and retirement benefits in deciding upon an equitable distribution award. This reference alone does not necessarily lead to the conclusion that a pension or retirement benefit is marital property; however, the legislature made clear its intent by providing in Code \u00a7 20-107.3(G) that \u201c[n]o part of any monetary award based upon the value of pension or retirement benefits, whether vested or nonvested, shall become effective until the party against whom such award is made actually begins to receive such benefits.\u201d Our reading of the statute leads us to conclude that the legislature intended all pensions, including military pensions, to be personal property and subject to equitable distribution.\nMr. Sawyer further submits that the military pension, if it is property at all, is property acquired prior to the marriage, and thus separate property. Mr. Sawyer entered the Air Force the year preceding his marriage. He remained in the Air Force for twenty years during the marriage. Had he left the Air Force the day he was married, he would have no pension. Had he left the Air Force at anytime during the first nineteen years of his marriage, he would have no pension. His right to a military pension did not accrue until the day he had served twenty years, 10 U.S.C. \u00a7 1331(a)(2)' (1982), which occurred during the marriage. He began receiving the pension ten years before he left his wife. Code \u00a7 20-107.3(A)(2) provides: \u201cAll property acquired by either spouse during the marriage is presumed to be marital property in the absence of satisfactory evidence that it is separate property.\u201d The pension was acquired during the marriage, and is, therefore, marital property.\nMr. Sawyer next argues that the court has no authority to grant the wife an equitable share of the pension because of Code \u00a7 20-107.3(C) which states: \u201cThe court shall have no authority to order the conveyance of separate property or marital property not titled in the names of both parties.\u201d\nMr. Sawyer also relies upon McCarty v. McCarty, 453 U.S. 210 (1981) where the Supreme Court of the United States held that federal law precluded a state court from dividing military retirement pay pursuant to state community property laws. Subsequently, McCarty was legislatively overruled by the Uniformed Services Former Spouses\u2019 Protection Act, 10 U.S.C.A. \u00a7 1408(a) (2)(A)-(C) (West 1983 & Supp. 1985) effective February 1, 1983. That act provides that courts may treat retirement benefits either as property solely of the retired service member or as property of the retired service member and spouse, in accordance with state law. Mr. Sawyer argues that Code \u00a7 20-107.3 must be amended to allow Virginia Courts to make awards of part of the pension.\nThe answer to Mr. Sawyer\u2019s argument is that the court did not order the conveyance of part of the pension. It ordered Mr. Sawyer to pay his wife the sum of $250 per month until she had been paid $40,000. The pension remains in his name. He can pay his wife from the proceeds of the pension or from whatever source he chooses.\nMr. Sawyer also contends that the Chancellor wrongfully considered only one item of marital property, the military pension, and ignored other marital property required to be considered under Code \u00a7 20-107.3(B). See Bristow v. Bristow, 221 Va. 1, 267 S.E.2d 89 (1980). He argues that he is entitled to a credit from other marital property possessed by the wife against the $40,000 award. The record of the case simply does not support this contention. The evidence showed that the wife owned approximately $4,500 worth of inventory from a former business; that she had $1,400 in the bank; and that she retained household goods and furnishings, including silver flatware which Mr. Sawyer claimed to have a value of $6,675, but Mrs. Sawyer\u2019s evidence showed to be valued at less than $3,000. There are a number of schedules and exhibits in the record setting forth the property held by the two parties. The court ordered that a 1975 Cadillac automobile jointly owned by the parties be sold and the proceeds equally divided. As to all marital property other than the pension, the trial judge followed the recommendation of the Commissioner in Chancery that there be no other equitable award. This ruling recognized a status quo with regard to the possession of the other property. The parties admitted during oral argument that except for the military pension, the assets in possession of each of them were of little significance. Both parties retained any tangible marital personal property of special meaning to them. There was no separate property. Assuming the correctness of the determination that the present value of the pension was $103,700, the Chancellor\u2019s decision that Mrs. Sawyer was entitled to $40,000 as her share of the marital property still left her with less than half the value of the marital property, even using Mr. Sawyer\u2019s estimate of the value of the other marital property.\nMr. Sawyer further argues that there was no evidence to support the finding that the pension had a present value of $103,700. The evidence showed that he will receive $850 per month for the rest of his life. Considering his life expectancy at age 52, it is probable that he will receive during his life more than $200,000 from the pension. This consideration justified a finding by the trial court that the military pension had a present value of $103,700. The finding that the wife is entitled to $40,000 payable at the rate of $250 is in accord with Code \u00a7 20-107.3(G) which requires that the wife receive no more than fifty percent of the amount received by the husband. Under the circumstances of this case, where the payments to the wife are contingent upon the husband continuing to receive already ascertained monthly payments, the present value of the pension may be inferred from the evidence, although expert testimony may have been preferable. Under circumstances where the pension is not vested or not being collected, the testimony of an expert or other evidence may be required.\nMr. Sawyer\u2019s final contention is that a wife cannot receive spousal support and substantial payments under Code \u00a7 20-107.3 when the sole source of both is the husband\u2019s taxable income. He claims that the court gave $250 of the monthly $850 pension to Mrs. Sawyer and then considered the full amount of the pension along with the $1,400 per month income as a truck driver in determining that he should pay $700 a month support to his wife.\nMrs. Sawyer proved financial needs of $1,567 per month. She had an income of $248 per month. She will receive $250 monthly from the equitable distribution award and $700 as spousal support. She still has a $369 deficit per month which she must make up by expending other assets or reducing her standard of living. Mrs. Sawyer was without fault when her husband left her after more than thirty years of marriage. Considering the needs of the wife, and the resources of the husband, we cannot say that the trial court abused its discretion in this case. Therefore, the decision of the trial court shall be affirmed.\nAffirmed.\nHodges, J., and Cole, J., concurred.\n. Code \u00a7 20.107.3 was so amended effective July 1, 1985, after entry of the decree in this case.",
+        "type": "majority",
+        "author": "MOON, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Henry M. Schwann for appellant.",
+      "Janet B. Brydges (Brydges and Brydges, on brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Chesapeake\nJAMES PUGH SAWYER v. BARBARA LEE BRINN SAWYER\nNo. 0076-85\nArgued May 29, 1985\nDecided September 17, 1985\nCounsel\nHenry M. Schwann for appellant.\nJanet B. Brydges (Brydges and Brydges, on brief), for appellee."
+  },
+  "file_name": "0075-01",
+  "first_page_order": 99,
+  "last_page_order": 105
+}

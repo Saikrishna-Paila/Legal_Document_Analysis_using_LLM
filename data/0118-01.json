@@ -1,0 +1,912 @@
+{
+  "id": 2288226,
+  "name": "RAFAEL D. PARRA v. ANA C. PARRA",
+  "name_abbreviation": "Parra v. Parra",
+  "decision_date": "1985-10-15",
+  "docket_number": "No. 0069-84",
+  "first_page": "118",
+  "last_page": "135",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 118"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "103 Wis. 2d 411",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8674591
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "parenthetical": "divorce may be granted prior to final disposition on property division; however, the better practice is to withhold the divorce until all evidence relevant to any issue in the case is completed."
+        },
+        {
+          "page": "908",
+          "parenthetical": "divorce may be granted prior to final disposition on property division; however, the better practice is to withhold the divorce until all evidence relevant to any issue in the case is completed."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/103/0411-01"
+      ]
+    },
+    {
+      "cite": "253 A.2d 67",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8107293
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "71",
+          "parenthetical": "where practice not forbidden by statute, no reason exists why determination of property rights should be foreclosed by divorce decree if the right to do so is expressly reserved"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/253/0067-01"
+      ]
+    },
+    {
+      "cite": "447 A.2d 847",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "848",
+          "parenthetical": "trial court did not lose jurisdiction over equitable distribution where a specific reservation was made in the final decree of divorce, even though the statutory ninety day period for making an award of equitable distribution had expired"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "294 Md. 10",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1972607
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "12",
+          "parenthetical": "trial court did not lose jurisdiction over equitable distribution where a specific reservation was made in the final decree of divorce, even though the statutory ninety day period for making an award of equitable distribution had expired"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/294/0010-01"
+      ]
+    },
+    {
+      "cite": "422 So. 2d 1097",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9567528
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "1098",
+          "parenthetical": "court may enter non-final order, bifurcating proceedings, entering final judgment of dissolution and reserving jurisdiction on all other issues"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/422/1097-01"
+      ]
+    },
+    {
+      "cite": "94 Nev. 34",
+      "category": "reporters:state",
+      "reporter": "Nev.",
+      "case_ids": [
+        8555935
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "1181"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nev/94/0034-01"
+      ]
+    },
+    {
+      "cite": "95 Nev. 443",
+      "category": "reporters:state",
+      "reporter": "Nev.",
+      "case_ids": [
+        4797095
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "239"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nev/95/0443-01"
+      ]
+    },
+    {
+      "cite": "552 S.W.2d 536",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9943534
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "537"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/552/0536-01"
+      ]
+    },
+    {
+      "cite": "649 S.W.2d 172",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "174",
+          "parenthetical": "where statute stated, \"At the time a divorce decree is entered ... all marital property shall be distributed\", the court saw \"no reason why, if the parties so desire and specifically agree, that the trial court cannot postpone the division of the property until a later date\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "279 Ark. 115",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1746993
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/279/0115-01"
+      ]
+    },
+    {
+      "cite": "313 N.W.2d 743",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        10680682
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "745"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/313/0743-01"
+      ]
+    },
+    {
+      "cite": "219 S.E.2d 864",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "867"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "216 Va. 457",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2124890
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "459"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/216/0457-01"
+      ]
+    },
+    {
+      "cite": "263 S.E.2d 49",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "52"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "220 Va. 749",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2136109
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "752"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/220/0749-01"
+      ]
+    },
+    {
+      "cite": "1 Va. App. 136",
+      "category": "reporters:state",
+      "reporter": "Va. App.",
+      "case_ids": [
+        2288277
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va-app/1/0136-01"
+      ]
+    },
+    {
+      "cite": "120 S.E.2d 385",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "387"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "202 Va. 849",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        563217
+      ],
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "852"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/202/0849-01"
+      ]
+    },
+    {
+      "cite": "302 S.E.2d 63",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "65"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "225 Va. 394",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2078373
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/225/0394-01"
+      ]
+    },
+    {
+      "cite": "137 S.E. 503",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "weight": 3,
+      "year": 1927,
+      "pin_cites": [
+        {
+          "page": "505"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "147 Va. 277",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        472397
+      ],
+      "year": 1927,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/147/0277-01"
+      ]
+    },
+    {
+      "cite": "456 U.S. 63",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6183519
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "71"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/456/0063-01"
+      ]
+    },
+    {
+      "cite": "284 S.E.2d 613",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "615"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "222 Va. 866",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2083587
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "869"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/222/0866-01"
+      ]
+    },
+    {
+      "cite": "114 S.E. 664",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "year": 1922,
+      "pin_cites": [
+        {
+          "page": "667"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 Va. 641",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        1860996
+      ],
+      "year": 1922,
+      "pin_cites": [
+        {
+          "page": "653"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/134/0641-01"
+      ]
+    },
+    {
+      "cite": "237 S.E.2d 164",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "166",
+          "parenthetical": "quoting, Buzzard v. Commonwealth, 134 Va. 641, 653, 114 S.E. 664, 667 (1922)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "218 Va. 346",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2130617
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "350",
+          "parenthetical": "quoting, Buzzard v. Commonwealth, 134 Va. 641, 653, 114 S.E. 664, 667 (1922)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/218/0346-01"
+      ]
+    },
+    {
+      "cite": "7 S.E. 323",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "weight": 4,
+      "year": 1888,
+      "pin_cites": [
+        {
+          "page": "325"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "85 Va. 128",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        4370206
+      ],
+      "year": 1888,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/85/0128-01"
+      ]
+    },
+    {
+      "cite": "299 S.E.2d 351",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "353"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "224 Va. 641",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2079946
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "645"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/224/0641-01"
+      ]
+    },
+    {
+      "cite": "265 S.E.2d 750",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "752-53"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "220 Va. 1051",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2136042
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "1054"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/220/1051-01"
+      ]
+    },
+    {
+      "cite": "311 S.E.2d 786",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "788"
+        },
+        {
+          "page": "788"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "226 Va. 575",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2076433
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "579"
+        },
+        {
+          "page": "578"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/226/0575-01"
+      ]
+    },
+    {
+      "cite": "96 S.E. 845",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "year": 1918,
+      "pin_cites": [
+        {
+          "page": "846"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 Va. 355",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        4729362
+      ],
+      "year": 1918,
+      "pin_cites": [
+        {
+          "page": "360"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/123/0355-01"
+      ]
+    },
+    {
+      "cite": "104 S.E.2d 17",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "22"
+        },
+        {
+          "page": "24"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "200 Va. 77",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2052751
+      ],
+      "weight": 2,
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "82"
+        },
+        {
+          "page": "86-87"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/200/0077-01"
+      ]
+    },
+    {
+      "cite": "281 S.E.2d 857",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "862"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "222 Va. 454",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2083568
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "463"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/va/222/0454-01"
+      ]
+    },
+    {
+      "cite": "436 A.2d 524",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "525"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "50 Md. App. 185",
+      "category": "reporters:state",
+      "reporter": "Md. App.",
+      "case_ids": [
+        2276767
+      ],
+      "year": 1981,
+      "opinion_index": 1,
+      "case_paths": [
+        "/md-app/50/0185-01"
+      ]
+    },
+    {
+      "cite": "93 S.E.2d 309",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1956,
+      "pin_cites": [
+        {
+          "page": "313"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "198 Va. 213",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2058684
+      ],
+      "year": 1956,
+      "pin_cites": [
+        {
+          "page": "218"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/va/198/0213-01"
+      ]
+    },
+    {
+      "cite": "234 S.E.2d 301",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "302"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "217 Va. 845",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2128547
+      ],
+      "year": 1977,
+      "opinion_index": 1,
+      "case_paths": [
+        "/va/217/0845-01"
+      ]
+    },
+    {
+      "cite": "95 Nev. 443",
+      "category": "reporters:state",
+      "reporter": "Nev.",
+      "case_ids": [
+        4797095
+      ],
+      "weight": 5,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "239"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nev/95/0443-01"
+      ]
+    },
+    {
+      "cite": "552 S.W.2d 536",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9943534
+      ],
+      "weight": 2,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "538"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/552/0536-01"
+      ]
+    },
+    {
+      "cite": "1 Va. App. 136",
+      "category": "reporters:state",
+      "reporter": "Va. App.",
+      "case_ids": [
+        2288277
+      ],
+      "year": 1985,
+      "opinion_index": 1,
+      "case_paths": [
+        "/va-app/1/0136-01"
+      ]
+    },
+    {
+      "cite": "137 S.E. 503",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "weight": 2,
+      "year": 1927,
+      "pin_cites": [
+        {
+          "page": "506"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "147 Va. 277",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        472397
+      ],
+      "year": 1927,
+      "opinion_index": 1,
+      "case_paths": [
+        "/va/147/0277-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1255,
+    "char_count": 36546,
+    "ocr_confidence": 0.913,
+    "pagerank": {
+      "raw": 1.0589945685896232e-06,
+      "percentile": 0.9844782456428927
+    },
+    "sha256": "79e2151a77a41dc3f1dc3024377111affd53025d8c436a071d3d9d1be0d5f4c0",
+    "simhash": "1:db2ff5a5350ee83c",
+    "word_count": 6073
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "RAFAEL D. PARRA v. ANA C. PARRA"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nKEENAN, J.\nThe issues in this appeal are: (1) whether a circuit court retains jurisdiction to make an award of equitable distribution under Code \u00a7 20-107.3, after twenty-one days have elapsed from entry of a divorce decree, when a specific reservation of such a right is contained in the decree; and (2) whether in making its award of equitable distribution, the trial court should have honored the terms of a partial property settlement agreement entered into by the parties but repudiated by the wife. We conclude that the trial court properly retained jurisdiction but erred when it entered an award of equitable distribution inconsistent with the settlement agreement.\nAppellant (husband) filed a bill of complaint against appellee (wife) on November 3, 1983, in the Circuit Court of Fairfax County, praying for a divorce and an award of equitable distribution under Code \u00a7 20-107.3. The wife filed a cross-bill for divorce on November 28, 1983, which also prayed for equitable distribution.\nOn December 16, 1983, the parties entered into a contract titled \u201cSettlement Agreement\u201d which set out their agreement regarding the disposition of the marital home and certain jointly-owned property in Colombia. The contract provided for sale of the marital home with sixty percent (60%) of the proceeds going to the wife and forty percent (40%) to the husband. It is undisputed that the wife later failed to acquiesce in the sale of the home.\nIn addition, it was agreed that \u201cneither party shall attempt to assert a claim to the other party\u2019s share of the said proceeds.\u201d The parties further agreed that the Colombian property would be divided by having each party retain one condominium. On July 22, 1984, a decree was entered by the court awarding the wife a divorce on the grounds of desertion. In addition, the divorce decree concluded with the following:\nADJUDGED, ORDERED and DECREED that the Circuit Court of Fairfax County reserves the power to hear matters of equitable distribution, spousal and child support; and that said cause be and hereby is continued for such purposes.\nAn equitable distribution hearing was held on October 10, 1984, and concluded on October 29, 1984. At the beginning of the equitable distribution hearing, counsel for the husband tendered to the court a document entitled \u201cHusband\u2019s Proposed Findings of Fact and Conclusions of Law.\u201d These proposed findings recited that the parties had entered into an agreement as to the disposition of the marital home and the Colombian property and asked the court to \u201cdecline to consider any further evidence as regards the equitable distribution of said property.\u201d A copy of the agreement was tendered along with this document. The court reviewed both documents.\nDuring the course of the hearing, counsel for the husband noted, again, his position that the agreement of December 16, 1983, represented a final settlement between the parties of the items dealt with therein.\nCounsel for the wife contended that the agreement could not be enforced by the court as it had not been incorporated into the decree of divorce. In addition, counsel for the wife urged the court to consider that the agreement was entered into the same day foreclosure proceedings had begun on the house, that it was close to Christmas, and that the wife had been under pressure. Although no evidence was offered on this point, her attorney argued that her mind had not been clear.\nThe court never made a specific ruling as to whether the agreement was valid; however, during the course of the hearing the court stated that counsel \u201cneed not deal with the property settlement agreement . . . to as great a degree as we need to deal with what is going to work.\u201d\nThe court also made the following comments regarding the agreement:\nWell, the problem that I have with the agreement is that in effect Mrs. Parra has disavowed the agreement and has not moved to have it incorporated. ... At this point, there is an agreement which is to be treated as a contract if nothing else. I think that based upon that, it certainly would go to the issue of what the understanding between the parties was and how they lived under this agreement during the period of time, and I am going to allow him to go into it.\nIn making its final distribution award, the court did not mention the contract. The final order of distribution was consistent with the contract as to the Colombian properties. However, in awarding the marital home to the wife, the court went against the express terms of the contract. No reason for deviating from the contract was given by the court.\nThe first issue we address is the trial court\u2019s authority to reserve jurisdiction over equitable distribution matters beyond twenty-one days from entry of the decree of divorce. Though this issue was not raised by either party, it is well settled that questions of jurisdiction may be raised at any time. Smith v. Smith, 200 Va. 77, 82, 104 S.E.2d 17, 22 (1958). Further, subject matter jurisdiction cannot be conferred as a result of either party failing to raise the issue. Catron v. Bostic, 123 Va. 355, 360, 96 S.E. 845, 846 (1918).\nA question of jurisdiction is raised in this case by the wording of the equitable distribution statute. In pertinent part, that statute provided:\n[U]pon decreeing a divorce from the bond of matrimony, the court, upon motion of either party, shall determine the legal title as between the parties, and the ownership and value of all real and personal property of the parties and shall consider which of such property is separate property and which is marital property.\nCode \u00a7 20-107.3(A)\nThe question before us is whether the language of the statute compels the trial court to make its equitable distribution award at the same time the decree of divorce is entered. If it does, the court loses its jurisdiction over matters of equitable distribution once twenty-one days have elapsed from entry of the divorce decree. Rule 1:1.\nThis would be true regardless of any attempts by the court to reserve its jurisdiction. A decree is void if the judgment exceeded the power of the court, or if the mode of procedure employed by the court was not in accordance with the law. Lapidus v. Lapidus, 226 Va. 575, 579, 311 S.E.2d 786, 788 (1984); Watkins v. Watkins, 220 Va. 1051, 1054, 265 S.E.2d 750, 752-53 (1980).\nIn divorce suits, jurisdiction is purely statutory and cannot be acquired inferentially or through indirection. Lapidus, 226 Va. at 578, 311 S.E.2d at 788; Johnson v. Johnson, 224 Va. 641, 645, 299 S.E.2d 351, 353 (1983). Therefore, if the statute mandates a simultaneous determination of divorce and equitable distribution, the court had no authority to provide otherwise.\nThe issue has been dealt with in other states; however, each determination turned on the particular statute involved and the prior case law of the jurisdiction. For those reasons, the resolution of this problem is not aided significantly by examining the law of other states.\nThe statutory scheme adopted by the Virginia General Assembly in conferring equitable distribution jurisdiction upon the circuit courts contains no provision which expressly allows the circuit court to enter consecutive decrees on the subjects of divorce and equitable distribution. It is clear, however, that no decree of equitable distribution can be made before the parties are divorced. We believe this is implicit in the phrase \u201cupon decreeing a divorce.\u201d This phrase defines the earliest time at which the court may award equitable distribution. It also is clear that under our statute the court is not empowered to make an award of equitable distribution unless requested to do so by either party.* * Therefore, two prerequisites must be satisfied before the court can make an award of equitable distribution: (1) the court must decree a divorce; and (2) must also have before it a request by either party to make an award of equitable distribution.\nIn the present case, both parties moved for equitable distribution. Later, they asked the court to exercise that part of its subject matter jurisdiction that dealt with the divorce while reserving its jurisdiction over equitable distribution. We find nothing in the wording of Code \u00a7 20-107.3(A) to prevent the court from proceeding in this manner.\nIn defining \u201cupon,\u201d within the context of this statute, we note first that, although former Code \u00a7 20-107 was worded somewhat differently than Code \u00a7 20-107.3(A), the words \u201cupon decreeing a divorce\u201d were not interpreted to mandate a simultaneous divorce and property decree. See Smith, 200 Va. at 86-87, 104 S.E.2d at 24. We do not believe they should be given a more restrictive interpretation under Code \u00a7 20-107.3(A).\nOur conclusion is supported by use of the word \u201cupon\u201d in two other phrases contained in Code \u00a7 20-107.3(A). First, as noted above, equitable distribution is only made \u201cupon request of either party.\u201d The legislature could not have intended to require an immediate award of equitable distribution \u201cat the time of\u2019 the request. Such a literal interpretation would necessarily lead to awards of equitable distribution before the final divorce decree, which is clearly not permitted by the statute.\nSecond, the legislature has now provided that Virginia courts of proper jurisdiction also may award equitable distribution \u201cupon the filing with the court ... of a certified copy of a final divorce decree obtained without the Commonwealth.\u201d Code \u00a7 20-107.3. Despite use of the word \u201cupon\u201d in this provision, it is clear that a court cannot make an immediate award of equitable distribution at the moment a foreign divorce decree is filed. Before such an award can be made, evidence must be taken and reviewed by the court. The filing of a foreign divorce decree is, therefore, the event which triggers the court\u2019s equitable distribution jurisdiction. We believe this is true of domestic divorce decrees as well. The court\u2019s equitable distribution jurisdiction begins \u201cupon\u201d the granting of the divorce.\nThe word \u201cupon\u201d is defined in Sutton v. Commonwealth, 85 Va. 128, 7 S.E. 323 (1888). In Sutton, the Court considered the meaning of a statute which allowed a person on trial for a capital offense to elect to be tried in the circuit court \u201cupon his arraignment in the county court.\u201d Id. at 132, 7 S.E. at 325. In interpreting this language, the Court stated that while \u201cupon\u201d may be interpreted to mean \u201cat the time of,\u201d it is interchangeable with \u201con\u201d and that among the interpretations of the latter are \u201cat or near,\u201d \u201cin consequence of or following,\u201d and \u201cat or in the time of.\u201d Id. Ultimately, the Court concluded that, \u201c[i]t would be sticking to the letter and discarding the sense to so construe the law as it is written, as to hold that \u2018upon\u2019 means \u2018at the time of and not after.\u201d Id.\nWe believe that the same can be said of an attempt in this case to apply \u201cupon\u201d in a very literal sense. As has been said, \u201cwhen the literal meaning of a particular provision of a statute appears to conflict with the \u2018subject matter and the reason and spirit of the law\u2019, the literal meaning \u2018must yield to a reasonable and fair interpretation to be gathered from the context.\u2019 \u201d City of Virginia Beach v. Virginia Electric and Power Company, 218 Va. 346, 350, 237 S.E.2d 164, 166 (1977) (quoting, Buzzard v. Commonwealth, 134 Va. 641, 653, 114 S.E. 664, 667 (1922)).\nIn the case before us, we cannot conclude that \u201cupon\u201d means \u201cat the time of\u2019 in one portion of Code \u00a7 20-107.3(A) while meaning \u201cin consequence of or following\u201d in two other places in that section. Nor can we conclude that \u201cupon\u201d means \u201cat the time of\u2019 throughout the section. As noted, this latter interpretation would lead to such obvious practical impossibilities that we cannot say that the legislature intended to bring them about. It is well settled that the General Assembly does not intend application of statutes to lead to irrational consequences. Virginia Electric and Power Co. v. Citizens for Safe Power, 222 Va. 866, 869, 284 S.E.2d 613, 615 (1981). In addition, statutes should be interpreted to avoid untenable distinctions and unreasonable results whenever possible. American Tobacco Co. v. Patterson, 456 U.S. 63, 71 (1982).\nTherefore, in order to interpret the word \u201cupon\u201d both consistently and reasonably throughout Code \u00a7 20-107.3(A), we believe that in this statute, \u201cupon\u201d means \u201cin consequence of or following,\u201d rather than \u201cat the time of.\u201d\nOne other aspect of the statute must be considered. In 1985, the legislature clarified the scope of partition jurisdiction under the equitable distribution statute. As amended, Code \u00a7 20-107.3(C) reads in part:\n[I]n the final decree of divorce the court may partition marital property which is titled in the names of both parties or retain jurisdiction for the purpose of such partition, (emphasis added).\nPrior to this amendment, it had appeared that, when ordered as part of an equitable distribution award, partition had to be done in the final decree of divorce. By this amendment, the legislature clearly provided that in an equitable distribution proceeding, partition need not take place in the final decree of divorce. We believe that in so doing, the legislature sought to make Code \u00a7 20-107.3(C) consistent with the other provisions of Code \u00a7 20-107.3 to the effect that, when properly reserved, the circuit court does not lose any of its equitable distribution jurisdiction upon entry of a final decree of divorce.\nOnce equitable distribution jurisdiction attaches, there is nothing in the statute to prevent the courts from using their inherent powers in equity. One such power was discussed in Brinn v. Brinn, 147 Va. 277, 137 S.E. 503 (1927). There it was said that:\n[T]he power of a court of chancery need not be exhausted or fully exercised at one time. It is one of the peculiar advantages of a court of equity that it may adapt its relief to the circumstances of the particular case, as the demands of justice may require.\nId. at 285, 137 S.E. at 505.\nIn Brinn, the Court ruled that a court of equity has the power, in the absence of statute, to make or change an award of alimony by the proper reservation of such power in the divorce decree. Id. The principles expressed in Brinn have been followed in subsequent cases. It is established in Virginia that a divorce court may specifically reserve its right to consider questions of alimony beyond the time of a final decree. Thomasson v. Thomasson, 225 Va. 394, 397 n.1, 302 S.E.2d 63, 65 (1983); Perry v. Perry, 202 Va. 849, 852, 120 S.E.2d 385, 387 (1961). Though alimony, unlike equitable distribution, is a matter which is subject to changing circumstances, there is nothing in the Brinn analysis of inherent equitable powers which limits its operation to alimony alone.\nWe conclude, therefore, that Code \u00a7 20-107.3 does not preclude a court from granting a divorce while making a clear and explicit reservation of jurisdiction over the issue of equitable distribution. We note, however, that even where there is such a reservation, the court must still use the date of the filing of the bill of complaint for divorce as the date at which the equities of the parties in their property are determined. This date is mandated by Code \u00a7 20-107.3(A)(2). A reservation by the trial court cannot alter the statutory factors or time references, but simply permits the trial court to exercise its subject matter jurisdiction subsequent to the entry of the divorce decree. In addition, we note that the court\u2019s decision to reserve jurisdiction over equitable distribution, when granting a final decree of divorce, is one within its sound discretion. As with any exercise of discretionary authority, the court\u2019s decision in this regard may be reviewed for abuse. Shaughnessy v. Shaughnessy, 1 Va. App. 136, _ S.E.2d _ (1985).\nNext, we will address the issue of the property settlement agreement. The wife has argued that the court could not enforce the partial settlement agreement entered into by the parties because it had not been incorporated into the divorce decree. The husband has argued that the court should have excluded the property dealt with in the contract from its award of equitable distribution. We agree with the husband.\nVirginia\u2019s equitable distribution statute does not specifically state whether the court must honor a property settlement agreement presented to it. However, it has been recognized in Virginia that \u201cmarital property settlements entered into by competent parties upon valid consideration for lawful purposes are favored in the law and such will be enforced unless their illegality is clear and certain.\u201d Cooley v. Cooley, 220 Va. 749, 752, 263 S.E.2d 49, 52 (1980).\nFurthermore, Code \u00a7 20-109, referred to in Code \u00a7 20-107.3(H); provides that where the parties have entered into a contract and such contract is filed with the pleadings, \u201cno decree or order directing the payment of support and maintenance for the spouse, suit money, or counsel fee or establishing or imposing any other condition or consideration, monetary or nonmonetary, shall be entered except in accordance with that stipulation or contract.\u201d (emphasis added).\nWhen the two statutes are read together, it is apparent that the legislature intended to impose the same restrictions on a court in making an equitable distribution award as exist in making awards of support and maintenance. Specifically, to the extent that the parties have already stipulated to a particular disposition of their property, the court may not decree an equitable distribution award that is inconsistent with that contract.\nTo hold otherwise would not only fail to give full effect to the property division statutes, but also would fail to support Virginia\u2019s public policy in favor of prompt resolution of property disputes in divorce cases through voluntarv court-approved agreements. See Morris v. Morris, 216 Va. 457, 459, 219 S.E.2d 864, 867 (1975). If divorce litigants know that they may repudiate, with impunity, valid property settlement agreements in hopes of getting a better result from the court, or because they no longer wish to honor their commitments, the usefulness and validity of all such contracts will be lessened. See Peterson v. Peterson, 313 N.W.2d 743, 745 (N.D. 1981).\nIn the case before us, the parties agreed to a disposition of their home and their condominiums. Both were represented by counsel and, in the contract, both promised not to attempt to assert a claim to the other\u2019s share of the proceeds. We see no reason why the court should allow a party to avoid the consequences of a valid contract. Nothing in the equitable distribution statute mandates such a result.\nThis conclusion does not bind a court to incorporate such a contract into its decree if one of the parties has since repudiated its provisions. The decisions whether to incorporate a contract and whether to recognize its provisions involve different concerns. Incorporation does nothing more than allow the court to enforce the contract through its contempt powers pursuant to Code \u00a7 20-109.1. It is not a prerequisite to the binding effect of the contract as between the two parties. While nothing prevents either party from challenging the validity of the contract, such determinations should be measured by the same standards used for judging the validity of any contract. The fact that the subject matter is disposition of marital property does nothing to deprive the agreement of its contractual dignity.\nIn the present case, the husband presented the contract to the court along with his proposed findings of fact and conclusions of law. His request was not that the court incorporate or enforce the contract, but that no decree be entered inconsistent with the provisions contained therein. No finding was ever made that the contract was invalid. Indeed, the wife never made a serious attempt to show invalidity, though there was some comment by counsel on the circumstances surrounding the execution of the contract. This falls far short of the \u201cclear and certain\u201d illegality standard set forth in Cooley.\nWe believe that, in the absence of a showing that the contract of the parties was invalid, the court erred in ignoring the provisions of the contract when arriving at a final award of equitable distribution. In view of this decision, we do not reach the issue of the overall fairness of the court\u2019s equitable distribution award. The decree appealed will, therefore, be reversed and this cause is remanded for further proceedings in accordance with the conclusions stated herein.\nReversed and remanded.\nKoontz, C.J., concurred.\nEffective July 1, 1985, the legislature amended this section to give Virginia courts jurisdiction to award equitable distribution in certain cases where a divorce has been granted out of state.\nForrest v. Forrest, 279 Ark. 115, 649 S.W.2d 172, 174 (1983) (where statute stated, \u201cAt the time a divorce decree is entered ... all marital property shall be distributed\u201d, the court saw \u201cno reason why, if the parties so desire and specifically agree, that the trial court cannot postpone the division of the property until a later date\u201d). But cf. Adam v. Stewart, 552 S.W.2d 536, 537 (Tex. Civ. App. 1977) (statute reading \u201cin a decree of divorce or annulment the court shall order a division of the estate of the parties in a manner that the court deems just and right. . .\u201d construed to mean that divorce court must rule on property division at the same time the divorce is granted).\nIn Nevada it has been held that when the trial court proceeds to enter a decree of divorce it must contemporaneously dispose of the community property of the parties. Gojack v. Second Judicial District Court, 95 Nev. 443, 596 P.2d 237, 239 (1979). Where both parties agree, however, the court may enter an interlocutory degree terminating the marital relationship but expressly reserving jurisdiction to later make a final property distribution. Ellett v. Ellett, 94 Nev. 34, 573 P.2d 1179, 1181 (1978).\nOther cases dealing with this issue include: Carruthers v. Carruthers, 422 So. 2d 1097, 1098 (Fla. Dist. Ct. App. 1982) (court may enter non-final order, bifurcating proceedings, entering final judgment of dissolution and reserving jurisdiction on all other issues); Brodak v. Brodak, 294 Md. 10, 12, 447 A.2d 847, 848 (1982) (trial court did not lose jurisdiction over equitable distribution where a specific reservation was made in the final decree of divorce, even though the statutory ninety day period for making an award of equitable distribution had expired); Husband v. Wife, 253 A.2d 67, 71 (Del. Super. Ct. 1969) (where practice not forbidden by statute, no reason exists why determination of property rights should be foreclosed by divorce decree if the right to do so is expressly reserved); Roeder v. Roeder, 103 Wis. 2d 411, 308 N.W.2d 904, 908 (Ct. App. 1981) (divorce may be granted prior to final disposition on property division; however, the better practice is to withhold the divorce until all evidence relevant to any issue in the case is completed.)\nAt the time this award was entered, the statute provided that the court would award equitable distribution \u201cupon motion of either party.\u201d It has now been amended to read \u201cupon request of either party.\u201d We perceive no difference in this wording for purposes of the present case.\nThe dissent infers that this finding allows the parties to confer jurisdiction on the court. We disagree. Though in this case both parties agreed to the reservation of jurisdiction, our holding is not dependent upon such an agreement. The courts are vested with jurisdiction over equitable distribution in all divorce cases. The only question is whether that jurisdiction may be reserved in a divorce decree.",
+        "type": "majority",
+        "author": "KEENAN, J."
+      },
+      {
+        "text": "Baker, J.,\nconcurring in part, dissenting in part.\nI agree with the majority that the trial court erred when it entered an award of equitable distribution inconsistent with the settlement agreement which had been fully executed by the parties. However, I do not believe that the legislature intended to empower a trial judge to delay an award of equitable distribution beyond twenty-one days after a decree is entered which dissolves the marriage between the parties and, accordingly, I dissent from the majority opinion confirming such authority.\nThe subject matter that brought this cause before the court is divorce. All other matters pleaded were merely ancillary to that subject matter. Thus, I would hold that the trial court lacked jurisdiction to enter an equitable distribution award as it did more than three months after the decree a vinculo matrimonii became final.\nIn its opinion, the majority states that as to jurisdiction the issue to be decided is whether the language of the statute (\u00a7 20-107.3) compels the trial court to make its equitable distribution award at the same time the decree of divorce is entered. Subsequently the majority held that Code \u00a7 20-107.3 does not preclude a court from granting a divorce while making a clear and explicit reservation of jurisdiction over the issue of equitable distribution.\nI do not see the jurisdictional issue to be whether the trial court is \u201ccompelled\u201d by the language of Code \u00a7 20-107.3(A) to make its equitable distribution award at the same time, contemporaneously with, or following the entry of the decree dissolving the matrimonial bonds. Rather, I see the issue to be whether any language in Code \u00a7 20-107.3(A) extends the jurisdiction of the trial court beyond twenty-one days after entering a final divorce decree adjudicating the subject matter of the suit.\nThe facts of this case are not in dispute. The husband filed a divorce suit in which, inter alia, he asked for an award of equitable distribution. He did not file a suit for equitable distribution. The wife filed a cross bill for divorce (the subject matter) and requested ancillary awards for child and spousal support, costs, attorney\u2019s fees and equitable distribution. Equitable distribution was a mere adjunct to the subject matter of this suit, as were the requests for child and spousal support, costs and attorney\u2019s fees.\nOn July 27, 1984, the trial judge entered a decree adjudicating the subject matter. It was a decree of divorce a vinculo matrimonii completely dissolving the marriage between the parties. It was a final decree as contemplated by Rule 1:1 of the Rules of the Supreme Court of Virginia, and was immediately appealable. The trial court could not alter the decree after the expiration of twenty-one days from its entry. No decree was entered vacating or modifying that decree within the twenty-one days prescribed in Rule 1:1, which provides:\nAll final judgments, orders, and decrees, irrespective of terms of court, shall remain under the control of the trial court and subject to be modified, vacated, or suspended for twenty-one days after the date of entry, and no longer, (emphasis added).\nThe Supreme Court of Virginia has required strict adherence to this rule. In Godfrey v. Williams, 217 Va. 845, 234 S.E.2d 301 (1977), the trial judge entered a judgment order for the plaintiff. On the twenty-first day thereafter, he entered an order \u201cextending . . . the twenty-one day period established by Rule 1:1.\u201d After the twenty-one days had passed, the trial court reversed its original finding in favor of the plaintiff and entered judgment for the defendant. The Supreme Court reversed that finding, reinstated the verdict for the plaintiff and held that the trial judge was not empowered to extend the time stated by the Rule. Id. at 846, 234 S.E.2d at 302. If the trial judge in the matter now pending is empowered to extend the twenty-one day limitation set forth in the rule, we must find the empowering language in Code \u00a7 20-107.3(A), or elsewhere. I find no such language.\nIn Harvey v. Chesapeake and Potomac Telephone Co., 198 Va. 213, 218, 93 S.E.2d 309, 313 (1956), the Court required an actual ruling within twenty-one days on any motion to modify or vacate a judgment order, and rejected an argument that the filing of such a motion extended the time. The Harvey case obviously declines to allow a party to control the finality of an order or decree. The Court noted that this attempt by a party to extend the time that a judgment becomes final \u201cshows the necessity of strict compliances with the rule.\u201d Id.\nIn Russell v. Russell, 50 Md. App. 185, 436 A.2d 524 (1981), the Maryland Court of Appeals reviewed a matter involving court and party attempts to extend the limitation time. In declining to permit extension of jurisdiction, the court said:\nThe question then arises as to whether or not the court had jurisdiction to make any determination concerning marital property. It is perfectly obvious that had the trial judge made this determination at the time he granted the divorce his action would have been binding. Instead, the judge reserved the issue of marital property extending his jurisdiction for the ninety day period allowed in section 3-6A-05(a). However, having failed to designate the marital property within this time, the court lost jurisdiction and any determination thereafter concerning the appellee\u2019s pension rights were nugatory. The parties could not confer jurisdiction by consent where the jurisdiction did not exist under the appropriate law; this deficiency may be raised at any time, (emphasis added).\nId. at 187, 436 A.2d at 525.\nThus, neither the trial court nor the parties, jointly or severally, cari extend the twenty-one day period provided in Rule 1:1 once a final decree adjudicating the subject matter has been entered. Therefore, they cannot avoid the limitations period by requesting the trial court to provide in the final decree that a decision regarding equitable distribution shall be made at some future indefinite time beyond twenty-one days. See also In re Department of Corrections, 222 Va. 454, 463, 281 S.E.2d 857, 862 (1981), wherein the Court stated that an expression of a mere desire to consider a sentencing order at a time later than twenty-one days after entry of the final order was not sufficient to continue jurisdiction.\nI believe this cause to be controlled by Rule 1:1 and the cases cited above. Citations to cases beyond Virginia merely disclose the concern of courts in states with similar equitable distribution statutes if bifurcated trials are permitted. See for example, Adam v. Stewart, 552 S.W.2d 536 (Tex. Civ. App. 1977), which held that when the jurisdiction of the court is invoked by the pleadings of either spouse the court must decree a division of the property and the trial court may not sever the property division from the divorce action. In addition, the court illustrated a number of chaotic conditions which could result if severances were permitted after the decree of divorce had been entered. Id. at 538.\nIn Gojack v. Second Judicial District Court, 95 Nev. 443, 596 P.2d 237 (1979), the Supreme Court of Nevada was petitioned to construe a statute which provided that \u201cin granting a divorce, the court . . . shall make disposition of the community property of the parties.\u201d The Court interpreted the statute to mean that the decree of community property distribution must be made contemporaneously with the dissolution of the marriage, and specifically held that if this did not occur the trial court lost jurisdiction to make further rulings pertaining to the marital property. Gojack, 596 P.2d at 239. That court also made reference to some of the undesirable circumstances which could result if they permitted bifurcated hearings. Id. The observations of the Texas and Nevada Courts apply with equal reason and logic here.\nIn its opinion, the majority states that, \u201cIt is well settled that the General Assembly does not intend application of statutes to lead to irrational consequences.\u201d I concur. See Adam v. Stewart and Gojack v. Second Judicial District Court, supra, for examples of \u201cirrational consequences\u201d which will result by granting the decree dissolving the marriage and reserving for some future unknown date the award of equitable distribution.\nIn a footnote, the majority says that its holding is not dependent upon the fact that the parties agreed to the reservation of jurisdiction. It cites Shaughnessy v. Shaughnessy, 1 Va. App. 136, _ S.E.2d _ (1985), and notes that the reservation of jurisdiction is within the sound discretion of the trial judge. But it does not say for how long. Can it be just for twenty days? Twenty months? Or for what period? Nor does it say whether an overruled objection made by one party would be an abuse of discretion, or must both parties object. And the opinion is silent as to when a party objecting but overruled would have a right to appeal. Would it be upon the entry of the decree reserving jurisdiction? If not, must a party wait an unspecified time to appeal? If so, at what time? What could an attorney tell his client when the right to appeal would come? Suppose there was a claimed error in the granting of the divorce itself, could that be appealed while the parties awaited the court\u2019s exercise of its discretion as to the award of equitable jurisdiction? Do we now say that these are the rational consequences that were intended by the General Assembly? I think not.\nFinally, the majority appears to hold that no statutory words to change Rule 1:1 are necessary because Brinn v. Brinn, 147 Va. 277, 137 S.E. 503 (1927); gives the trial court the \u201cinherent power\u201d to avoid the Rule. I disagree.\nIn Brinn, the trial court reserved the right in a divorce decree to modify alimony payments. The Supreme Court upheld the trial court\u2019s action by recognizing inherent power in equity to modify future alimony payments even though there was no specific statute to permit modification after the decree became final. The limitation of that decision was made clear by the following statement:\nThe propriety of making such a reservation is so manifest, in order to meet the changed condition of parties and to attain the ends of justice, and is so consonant with the practice in other cases in chancery, that we are satisfied that the right to make such reservation is inherent in courts of chancery, (emphasis added).\nId. at 287, 137 S.E. at 506.\nThe considerations peculiar to alimony which constitute the basis of the Brinn decision are not present in the distribution of marital property under Code \u00a7 20-107.3(A). Marital property is a static concept, definite at the point in time that divorce a vinculo matrimonii is decreed. After the decree, the parties cannot acquire property together in such a way that its character is \u201cmarital.\u201d Conversely, the necessity for and proper amount of spousal support is a dynamic concept. The needs of the parties and their financial abilities are ever subject to change. This consideration of changed conditions underlays the Brinn holding, a concept foreign to marital property distribution. I would not extend the inherent power of equity courts to reserve jurisdiction to meet changed conditions to the adjudication of equitable distribution where all conditions can be known at the time the final decree of divorce is entered.\nAs noted throughout this opinion, it is my judgment that Rule 1:1 bars the bifurcated hearings purportedly reserved by the terms of the November 13, 1984, decree entered herein. Definitions of words used in Code \u00a7 20-107.3(A) are significant only if they specifically except adherence to Rule 1:1. The clear intent of that rule is to enable a final decree or order to conclude the subject matter of the suit, and the ancillary issues raised therein. I find no meaning of words used in Code \u00a7 20-107.3(A) which avoids the mandate of Rule 1:1 and if Code \u00a7 20-107.3(A) does not contain language to alter the effect of Rule 1:1, jurisdiction is lost after twenty-one days following entry of the final divorce decree.\nI am of opinion that after the expiration of twenty-one days from the date the trial court entered its decree of divorce a vinculo matrimonii, the court was without jurisdiction to enter a further decree affecting the parties\u2019 marital property. To the extent that the November 13, 1984, decree adjudicates an award of equitable distribution pursuant to Code \u00a7 20-107.3(A), I would hold that decree to be a nullity.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "Baker, J.,"
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Robert F. Zaniel (Robert A. Ades & Associates, P.C., on brief), for appellant.",
+      "Michael Kelley Maggs (Moyes & Maggs, on brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Fairfax\nRAFAEL D. PARRA v. ANA C. PARRA\nNo. 0069-84\nArgued May 29, 1985\nDecided October 15, 1985\nCounsel\nRobert F. Zaniel (Robert A. Ades & Associates, P.C., on brief), for appellant.\nMichael Kelley Maggs (Moyes & Maggs, on brief), for appellee."
+  },
+  "file_name": "0118-01",
+  "first_page_order": 142,
+  "last_page_order": 159
+}

@@ -1,0 +1,190 @@
+{
+  "id": 2288210,
+  "name": "JAMES PAYNE BOX v. KATHERINE BOX TALLEY",
+  "name_abbreviation": "Box v. Talley",
+  "decision_date": "1986-01-07",
+  "docket_number": "No. 0282-85",
+  "first_page": "289",
+  "last_page": "294",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 289"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "303 S.E.2d 917",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "921"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "225 Va. 606",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2078314
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "611-12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/225/0606-01"
+      ]
+    },
+    {
+      "cite": "291 S.E.2d 218",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "220"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "223 Va. 505",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2082110
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "508-09"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/223/0505-01"
+      ]
+    },
+    {
+      "cite": "229 S.E.2d 875",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "876"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "217 Va. 477",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2128408
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "479"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/217/0477-01"
+      ]
+    },
+    {
+      "cite": "290 S.E.2d 887",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "890",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "223 Va. 557",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2082122
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "563",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/223/0557-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 447,
+    "char_count": 8197,
+    "ocr_confidence": 0.924,
+    "pagerank": {
+      "raw": 2.3177812411622298e-07,
+      "percentile": 0.7891438844504062
+    },
+    "sha256": "8203f36f566cf0a73711ad4811e4de79ac389387ff007f9f58bffbb181ee48b3",
+    "simhash": "1:ca6b5426e24c91c1",
+    "word_count": 1307
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JAMES PAYNE BOX v. KATHERINE BOX TALLEY"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nBAKER, J.\nAppellant, James Payne Box (father), appeals from the February 1, 1985, judgment of the Smyth County Circuit Court (trial court) which denied his petition requesting exclusive custody of his ten year old daughter (daughter). The trial court\u2019s final order ruled, in effect, that father must continue to share daughter\u2019s custody with appellee, Katherine Box Talley (mother), his former wife and the natural mother of daughter.\nThe shared custody arrangement dates from an October, 1978, divorce decree of the trial court which fully dissolved the parties\u2019 marriage. The decree, in part, directed father to support daughter and the parties\u2019 two older children. Regarding daughter\u2019s custody, the decree provided that daughter reside with mother throughout the school year, and that she reside with father during the summer months. The decree allowed each party liberal visitation of daughter during the time she resides with the other party.\nThe trial court\u2019s February 1, 1985, judgment reversed an August 28, 1984, judgment of the Smyth County Juvenile and Domestic Relations District Court (juvenile court) which first considered and granted father\u2019s petition. Mother appealed the juvenile court\u2019s judgment, thereby commencing this litigation in the trial court.\nOn appeal, father raises three issues concerning the trial court proceedings: (1) whether mother, as the unsuccessful litigant in the juvenile court, must carry the burden of proof in the trial court; (2) whether the trial court followed an incorrect procedure when it \u201creviewed the correctness\u201d of the juvenile court judgment, and allegedly failed to apply the \u201cchanged circumstances\u201d and \u201cbest interest\u201d tests in arriving at its decision concerning daughter\u2019s custody; and, (3) whether sufficient evidence exists in the record to support the trial court\u2019s decision.\nFather initiated this litigation on June 27, 1984, when he petitioned the juvenile court to award him daughter\u2019s exclusive custody. The record reveals that father\u2019s petition followed closely after a juvenile court proceeding was initiated by mother, which sought to collect from father arrearages due in child support payments.\nThe juvenile court directed the Smyth County Department of Social Services (social services) to prepare a relevant report. The report, dated August 24, 1984, found both father and mother to be fit parents, and recommended that daughter\u2019s primary custody remain with mother.\nFollowing an evidentiary hearing and consideration of the social services report, the juvenile court granted father\u2019s petition, and provided specific visitation rights to mother. Mother timely appealed the juvenile court\u2019s decision.\nOn December 3, 1984, the trial court conducted an ore terms hearing, wherein it received stipulations from the parties and testimony from several witnesses. The trial court required mother to present her evidence first, as she was the party \u201cwho appealed this matter.\u201d In addition, at the outset of the hearing, counsel for father went unchallenged in his assertion that mother carried the burden \u201cto show a change in circumstances from the last court\u2019s order.\u201d\nOn January 25, 1985, the trial court sent a letter to trial counsel commenting upon the evidence presented on December 3, 1984, and the social services report, and stating that he had obtained daughter\u2019s preference \u201cconcerning the custody question.\u201d The trial court did not disclose daughter\u2019s preference.\nThe letter expressed the trial court\u2019s intent to reinstate daughter\u2019s custody arrangement as it existed prior to August 28, 1984, and requested counsel to prepare an appropriate order.\nOn February 1, 1985, the trial court issued its order, consistent with the content of the January 25, 1985, letter. The court concluded from the evidence that the juvenile court \u201cshould not have changed\u201d daughter\u2019s custody to father.\nI.\nIt is apparent from the record that the trial court perceived its role in this case as a court of review regarding mother\u2019s appeal from the juvenile court decision. The order in which the court required the parties to present their evidence at the ore tenus hearing, the unchallenged statement by father\u2019s counsel regarding the burden of proof, and the language of the February 1, 1985, order all support this conclusion. An examination of relevant statutes and case authority reveals that the trial court\u2019s perception of itself as a court of review was incorrect.\nAppeals from the Juvenile and Domestic Relations District Court are provided for as follows in Code \u00a7 16.1-296:\nFrom any final order or judgment of the juvenile court affecting the rights or interests of any person coming within its jurisdiction, an appeal may be taken in accordance with the provisions of Chapter 7 (\u00a7 16.1-123.1 et seq.) of Title 16.1.\nThe reference to Chapter 7 of Title 16.1 includes Code \u00a7 16.1-136, which provides that appeals taken from the juvenile court \u201cshall be heard de novo in the appellate court.\u201d A de novo hearing means a trial anew, with the burden of proof remaining upon the party with whom it rested in the juvenile court.\nWe have repeatedly held that an appeal to the circuit court from a court not of record under Code \u00a7 16.1-136 annuls the judgment of the inferior tribunal as completely as if there had been no previous trial . . . and that such a trial de novo in the circuit court grants to a litigant every advantage which would have been his had the case been tried originally in such court.\nWalker v. Department of Public Welfare, 223 Va. 557, 563, 290 S.E.2d 887, 890 (1982) (citations omitted).\nThus, the burden of proof should have been placed upon father in the trial court, as the party seeking to modify a previous child custody order. See Harper v. Harper, 217 Va. 477, 479, 229 S.E.2d 875, 876 (1976).\nThe trial court\u2019s mistaken view regarding the procedure to be followed in this case did not affect its final conclusion, which was favorable to mother. Therefore, we find that no prejudice resulted.\nII.\nThe judgment of a trial court sitting in equity, when based upon an ore tenus hearing, will not be disturbed on appeal unless plainly wrong or without evidence to support it. Carter v. Carter, 223 Va. 505, 508-09, 291 S.E.2d 218, 220 (1982); see also Code \u00a7 8.01-680.\nWe hold that ample evidence exists in this record to support the trial court\u2019s judgment. On December 3, 1984, the trial court conducted an exhaustive evidentiary hearing upon the issue of daughter\u2019s custody. The court received for consideration the social services report and evidence regarding daughter, father and mother, the parties\u2019 homes, as well as the parties\u2019 lifestyles.\nFrom the evidence, it appears that daughter has flourished regardless of which parent has custody. She is, and has been, a clean, healthy and well adjusted child who does well in school. Each parent appears fit to care for daughter, with conditions in mother\u2019s home improving in recent times.\nIn addition, the trial court knew of the recommendation contained in the social services report, the circumstances surrounding initiation of father\u2019s June 27, 1984, petition, and the fact that father traditionally has not exercised fully his custodial rights over daughter.\nThe language of the trial court\u2019s January 25, 1985, letter to counsel and the February 1, 1985, order confirm that the court considered thoroughly the evidence in this case. In particular, the letter to counsel comments upon the demeanor and parental fitness of both father and mother, daughter\u2019s adjustment at home and at school, and the adjustment of daughter\u2019s siblings. We are convinced that the trial court properly considered daughter\u2019s best interests as well as the circumstances surrounding her custody in reaching its decision. Keel v. Keel, 225 Va. 606, 611-12, 303 S.E.2d 917, 921 (1983).\nAccordingly, the February 1, 1985, judgment of the trial court is affirmed.\nAffirmed.\nKoontz, C.J., and Moon, J., concurred.",
+        "type": "majority",
+        "author": "BAKER, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Gilbert K. Davis (Gilbert K. Davis & Associates, on brief), for appellant.",
+      "Frederick W. Adkins (Cline, McAfee & Adkins, on brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Salem\nJAMES PAYNE BOX v. KATHERINE BOX TALLEY\nNo. 0282-85\nArgued September 17, 1985\nDecided January 7, 1986\nCounsel\nGilbert K. Davis (Gilbert K. Davis & Associates, on brief), for appellant.\nFrederick W. Adkins (Cline, McAfee & Adkins, on brief), for appellee."
+  },
+  "file_name": "0289-01",
+  "first_page_order": 313,
+  "last_page_order": 318
+}

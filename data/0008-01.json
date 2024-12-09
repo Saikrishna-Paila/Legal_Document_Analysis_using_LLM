@@ -1,0 +1,74 @@
+{
+  "id": 2096038,
+  "name": "Tucker v. Sweny",
+  "name_abbreviation": "Tucker v. Sweny",
+  "decision_date": "1731-04",
+  "docket_number": "",
+  "first_page": "8",
+  "last_page": "9",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 5"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Rob. 1",
+      "category": "reporters:state",
+      "reporter": "Rob.",
+      "case_ids": [
+        1399819,
+        8504855
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny-super-ct/24/0001-01",
+        "/rob/1/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 116,
+    "char_count": 1390,
+    "ocr_confidence": 0.411,
+    "sha256": "fc20bc79f2301d9d458087b756cd6729c5cb60404d43b78353293872a01f2d38",
+    "simhash": "1:97f28d41cda0e367",
+    "word_count": 243
+  },
+  "last_updated": "2024-02-27T21:13:56.724571+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "*Tucker v. Sweny."
+    ],
+    "opinions": [
+      {
+        "text": "The case. Mr. Richard Dandridge recovered judgment against the executors of Nicholas Curie for \u00a3507. Curie died possessed of several slaves, and of those slaves after his death, there was a considerable increase. Mr. Dandridge took out a fieri facias, which was served upon several of the slaves which Curie died possessed of, and likewise upon several of the negroes born after his death, and the question is, whether the increase of the negroes may be taken to satisfy this judgment; and it was held clearly they may. Negroes, notwithstanding the act making them real estate, remain in the hands of the executors by that act as chattels, and as such, do vest in them for payment of debts. So that in this case, they are considered no otherwise than as horses or cattle, and there is no doubt but the increase of any living creature, after the death of the testator, are looked upon as a part of his estate, and are liable to be taken for his debts.\nThe authority for this is Wentworth 83, and it was so adjudged by the Court.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "*Tucker v. Sweny.\nApril, 1731.\nDebts of Decedent \u2014 Liability of increase of Slaves.\u2014 Notwithstanding- the act making slaves real estate, kucIi slaves and their increase are liable to satisfy a judgment obtained against the executors of the debtor.\nReported by Sir John Randolph.\nSee monographic note on \u201cDebts of Decedent\u201d appended to Shores v. Wares, 1 Rob. 1."
+  },
+  "file_name": "0008-01",
+  "first_page_order": 8,
+  "last_page_order": 9
+}

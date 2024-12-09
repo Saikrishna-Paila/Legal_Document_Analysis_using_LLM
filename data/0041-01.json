@@ -1,0 +1,66 @@
+{
+  "id": 2096023,
+  "name": "Custis et al. v. Fitzhugh",
+  "name_abbreviation": "Custis v. Fitzhugh",
+  "decision_date": "1768-10",
+  "docket_number": "",
+  "first_page": "41",
+  "last_page": "41",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 72"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "27 H. 8",
+      "category": "reporters:state",
+      "reporter": "H.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 331,
+    "ocr_confidence": 0.486,
+    "sha256": "00afe220765146a8a9ebf7990e5322fee7eec407ac25ee8b454c38f97a2c0e31",
+    "simhash": "1:87f6c59f254520f6",
+    "word_count": 58
+  },
+  "last_updated": "2024-02-27T21:13:56.724571+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Custis et al. v. Fitzhugh."
+    ],
+    "opinions": [
+      {
+        "text": "In this case it was adjudged, that slaves as well as lands might be conveyed to uses, and were within the statute of uses. 27 H. 8; 2. Hop. 3.\nThis reference is probably to Hopkins\u2019s own notes. \u2014 Edition 1829.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Custis et al. v. Fitzhugh.\nOctober, 1768.\nSlaves \u2014 Conveyance under Statute of Uses \u2014 Validity.\nReported by Mr. Hopkins."
+  },
+  "file_name": "0041-01",
+  "first_page_order": 41,
+  "last_page_order": 41
+}

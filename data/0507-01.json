@@ -1,0 +1,128 @@
+{
+  "id": 2288231,
+  "name": "BRENDA DARLENE MCGREGOR v. CRYSTAL FOOD CORPORATION, et al.",
+  "name_abbreviation": "McGregor v. Crystal Food Corp.",
+  "decision_date": "1986-02-18",
+  "docket_number": "No. 0429-85",
+  "first_page": "507",
+  "last_page": "509",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 507"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "281 S.E.2d 847",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "849"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "222 Va. 434",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2083561
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "438"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/222/0434-01"
+      ]
+    },
+    {
+      "cite": "80 S.E.2d 533",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "535"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "195 Va. 762",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2063440
+      ],
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "765"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/195/0762-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 265,
+    "char_count": 3942,
+    "ocr_confidence": 0.895,
+    "pagerank": {
+      "raw": 1.213492059640401e-07,
+      "percentile": 0.5965384468360897
+    },
+    "sha256": "dbd26d499776522bcc66987e30d7d456ff6631845b6dc60f177c58c937ffe43d",
+    "simhash": "1:6a1b844b15b1f127",
+    "word_count": 654
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BRENDA DARLENE MCGREGOR v. CRYSTAL FOOD CORPORATION, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nMOON, J.\nBrenda McGregor seeks reversal of the Industrial Commission\u2019s decision that she was able to return to work and that her employer, Crystal Food Corporation, was not responsible for her medical expenses incurred in an emergency room visit and subsequent hospitalization. We affirm the decision because it is supported by credible evidence.\nAt the outset, we note that the employer has the burden of proving that an employee\u2019s condition has changed so as to justify stopping payments of compensation. J.A. Foust Coal Co. v. Messer, 195 Va. 762, 765, 80 S.E.2d 533, 535 (1954). However, we also find it implicit in Code \u00a7 65.1-88 that an employee has the burden of proving that \u201cother necessary medical care,\u201d including emergency medical care by other than an authorized physician, should be paid by the employer. See Insurance Management Corp. v. Daniels, 222 Va. 434, 438, 281 S.E.2d 847, 849 (1981).\nThe evidence indicated that McGregor sustained a compensable back injury on September 30, 1983, and received treatment from Dr. John Bruno. On March 2, 1984, after conducting a myelogram, which proved negative, Dr. Bruno told McGregor that she needed no further treatment. However, he prescribed certain medication for her symptoms. McGregor testified that she called Dr. Bruno on March 4, 1984, and told him of increased back pain she was experiencing. She further testified that he told her to stay off her feet and continue the medication. Dr. Bruno denied speaking with McGregor after her last office visit of March 2, 1984. On March 7, she called Dr. Bruno and spoke to his associate, Dr. Davidson, who advised her to go to a hospital emergency room. She went to the National Orthopedic and Rehabilitation Hospital (NORH) emergency room. The physician on duty there called Dr. Davidson, and Davidson advised him that she had been released by the Mount Vernon Hospital and that they found no reason to keep her in the hospital. She remained at NORH for five weeks and incurred the medical expenses for which she now seeks payment.\nMcGregor did not present specific evidence that the back pain she was experiencing while at NORH was related to the accident of September 30, 1983. It was this specific finding by the Industrial Commission, that her back pain was not proven to be related to the industrial accident, that led to the denial of her claim for medical expenses and compensation for the period in which she was in the hospital.\nThe Commission found that McGregor did not meet her burden of proving that the medical treatment she received at NORH was for injuries she sustained in the industrial accident. Insofar as she claims that her medical expenses were incurred because Dr. Davidson advised her to go to the hospital emergency room, this advice could not be said to be a referral by Dr. Davidson for further treatment relating to the accidental injury. He specifically told the physician on duty at the NORH emergency room that, as far as he and Dr. Bruno were concerned, she had been released and needed no further treatment for any injury.\nOnly medical treatment resulting from an accident is compensable. See Code \u00a7\u00a7 65.1-7, 65.1-88. McGregor did not prove that the medical treatment received at NORH was related to her accident of September 30, 1983, or that the employer was responsible for it.\nThe evidence-also is very clear from Dr. Bruno that she was able to return to work as of March 2, 1984. This was credible evidence upon which the Commission could base its finding.\nTherefore, the judgment of the Industrial Commission is affirmed.\nAffirmed.\nDuff, J., and Cole, J., concurred.",
+        "type": "majority",
+        "author": "MOON, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Julia H. Butler (Ashcraft & Gerel, on brief), for appellant.",
+      "(Harold M. Walker, Jr.; Mountfort, Furr, Dowler & Jackson, on brief), for appellee. Appellee submitting on brief."
+    ],
+    "corrections": "",
+    "head_matter": "Alexandria\nBRENDA DARLENE MCGREGOR v. CRYSTAL FOOD CORPORATION, et al.\nNo. 0429-85\nArgued October 10, 1985\nDecided February 18, 1986\nCounsel\nJulia H. Butler (Ashcraft & Gerel, on brief), for appellant.\n(Harold M. Walker, Jr.; Mountfort, Furr, Dowler & Jackson, on brief), for appellee. Appellee submitting on brief."
+  },
+  "file_name": "0507-01",
+  "first_page_order": 531,
+  "last_page_order": 533
+}

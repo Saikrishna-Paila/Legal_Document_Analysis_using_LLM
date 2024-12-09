@@ -1,0 +1,59 @@
+{
+  "id": 2096013,
+  "name": "Smith v. Griffin",
+  "name_abbreviation": "Smith v. Griffin",
+  "decision_date": "1772-10",
+  "docket_number": "",
+  "first_page": "69",
+  "last_page": "69",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 132"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 104,
+    "char_count": 1111,
+    "ocr_confidence": 0.487,
+    "sha256": "06de78f84f4fc72d2ebda85371130e298b0f3a089c05f374bc6c539969d5aaaf",
+    "simhash": "1:1ee3d778d168d68a",
+    "word_count": 193
+  },
+  "last_updated": "2023-07-14T19:43:08.706124+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Smith v. Griffin."
+    ],
+    "opinions": [
+      {
+        "text": "The testator had by will, after some other legacies to his wife of about ^100 value, bequeathed to her \u2018one fourth part of his personal estate.\u2019 The persons to whom the other three fourths were given, of whom the heir at law was one, had divided with the widow the slaves as well as personal estate, and had signed the deed of partition. Afterwards, the widow dj'ing, the heir at law brought his bill for the slaves allotted her, insisting that by the devise of personal estate, slaves did not pass. But the court dismissed the bill ; two of the judges, the Secretary T. Nelson and Page, declaring their opinions in favor of the defendant, were founded on the partition made between the heir and widow, and that, had the question been simply, whether slaves would pass by a devise of personal estate, they should have determined it in the negative: in which they were not contradicted by the other judges. Present T. Nelson, Lee, Byrd, Burwell, Fairfax, Page and Wormley.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Smith v. Griffin.\nOctober, 1772.\nBequest ot Personalty \u2014 Slaves\u2014Whether They Pass.\u2014 Slaves do not pass under a bequest of personal estate."
+  },
+  "file_name": "0069-01",
+  "first_page_order": 69,
+  "last_page_order": 69
+}

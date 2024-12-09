@@ -1,0 +1,77 @@
+{
+  "id": 6667820,
+  "name": "Commonwealth vs. John Fisher",
+  "name_abbreviation": "Commonwealth v. Fisher",
+  "decision_date": "1850-10-28",
+  "docket_number": "",
+  "first_page": "1",
+  "last_page": "5",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Howison 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Henrico Cty. Cir. Ct.",
+    "id": 15577,
+    "name": "Henrico County Circuit Court"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 549,
+    "char_count": 9356,
+    "ocr_confidence": 0.494,
+    "sha256": "055b53d6bc2b188796333b00807b44c23e263a12f2e808cfb3284881ca9871bc",
+    "simhash": "1:3067958f1c2e11ff",
+    "word_count": 1751
+  },
+  "last_updated": "2023-07-14T21:06:18.843079+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "HON. JOHN S. CASKIE, JUDGE."
+    ],
+    "parties": [
+      "Commonwealth vs. John Fisher."
+    ],
+    "opinions": [
+      {
+        "text": "The evidence closed.\nThe case was earnestly argued, chiefly on the question whether at the time of passing the note the prisoner knew it was counterfeit.\nThe Jury retired at half past 8, P. M., were kept together during the night, and the next morning, at 11, returned into Court with a verdict of \u201c Not Guilty.\u201d\nThe prisoner was discharged.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "John B. Young, Commonwealth\u2019s Attorney in this Court, appeared for the prosecution, and Thomas P. August and John Howard for the defence.",
+      "Julia Bye, sworn",
+      "Cross-examined by T. P. August",
+      "Mr. August",
+      "J. B. Young",
+      "August",
+      "Young",
+      "Emma Hall, sworn",
+      "Thomas B. White, sworn",
+      "Cross-examined by August",
+      "C. W. Purcell, sworn",
+      "Cross-examined by August",
+      "John M. Clarke, sworn",
+      "Cross-examined by August",
+      "O. H. Rand, sworn"
+    ],
+    "corrections": "",
+    "head_matter": "TRIAL OF JOHN FISHER.\nHON. JOHN S. CASKIE, JUDGE.\nIn the Circuit Court of Law for the County of Henrico, Va. Term for the trial of Criminal Causes.\nCommonwealth vs. John Fisher.\nMonday, October 28th, 1850.\nJohn B. Young, Commonwealth\u2019s Attorney in this Court, appeared for the prosecution, and Thomas P. August and John Howard for the defence.\nThe prisoner was a young man, apparently not more than twenty-five years old, well made and stout, with dark hair and eyes. He was neatly dressed and was altogether rather prepossessing in appearance. He was brought into Court and on being arraigned pleaded \u201cNot Guilty.\u201d\nThe Indictment charged, that on the 23rd of February, 1850, the prisoner feloniously uttered and attempted to employ as true a Counterfeit Bank Note of which the following is an alleged copy.\n50. No. 123.\nThe Bank of the State of North Carolina, promises to pay on demand to J. Wetmore or Bearer, Fifty Dollars at the Branch Bank at Fayetteville; Raleigh, 1 June, 1845.\nC. Dewet, Cash'r. D\u00fcn. Camekon, Prest. 50.\nMade current in Virginia by usage, he, the prisoner, then well knowing said note to be counterfeit.\nFrom a panel of twenty-four qualified veniremen, the following twelve were, according to Law, sworn as the Jury: Bariteer H. Cox, Richard Tinsley, Josiah D. Smith, Bernard O\u2019Neil, Henry L. Reeve, Edward F. Blair, John Nettles, Thomas 0. Burton, Jr., Charles Hagan, Robert McCandlish, Jr., James R. Fisher and R. H. Allen.\nThe prosecution was under the third section of Chapter Fifth, Criminal Code, 1847-48, page 104, which is as follows\u2014\n\u201c Any free person who shall forge any coin current in this State, whether made current by Law or usage, or any note or bill of any banking company, or fraudulently make any base coin or note, or bill purporting to be the note or bill of a banking company, when no such banking company existed, or alter or attempt to employ as true any such false, forged or base coin, note or bill, knowing the same to be false, forged or base, shall be punished by confinement in the penitentiary for not less than two, nor more than ten years.\u201d\nThe Jury having been charged by the Clerk, the prosecution opened.\nJulia Bye, sworn\nOn the evening of Saturday, the 23rd of February last, after dark, the prisoner came to my house and after some conversation, asked me if I could change a fifty dollar North Carolina note, which he showed me. (Here the note from the papers was shewn to her.) I believe this is the same note, I have no doubt of it. I told the prisoner I had only thirty-five dollars in change: he said he would go out and try to get it changed: he did go out but after a while returned and said he had tried at several places but could not get the note changed. He then requested me to take the note, to give him the $35, to pay $5 for him to a person in my house, and said I might keep the remaining ten dollars,\u2014that he would return on Wednesday evening, and would probably bring a lady to board with me, and that the ten dollars might go to account of her board. Accordingly I took the note, gave him $35 and paid $5 for him to the person he mentioned\u2014this was Miss Mary Creekmore. I asked him his name\u2014he said he had no kind of objection to giving his name\u2014that it was Oliver.\nHe staid in the house that night, and left early in the morning, I did not see him again until he was arrested. He had been to my house once before this, and said something about bringing a lady to board with me.\nThe Monday after I received the note, feeling some doubt about the matter, I sent the note to Mr. Pairo, a broker, who pronounced it a counterfeit. I then gave information to the police and kept a look out myself: I was on the street frequently and went to the theatre, but saw nothing of the man until the Saturday following.\nOn the morning of that day, officer T. B. White saw me and told me he had heard something of the man\u2014he advised me to put on male clothes that he might not suspect me as we came up to him. Accordingly I did so, and about dark walked down main street\u2014officer White being near me. I saw the prisoner near a lamp in front of Saddler\u2019s Hotel\u2014I stepped up to him and asked him if he knew me and recollected passing a $50 note upon me\u2014on my raising my cap, he immediately said yes, he had given me the note and he knew who gave it to him. He was then arrested by the officer. After he was examined by the Mayor, I got back $21 of my money.\nCross-examined by T. P. August\nI handle a good deal of money of various kinds\u2014a good deal of North Carolina money\u2014 consider myself a tolerably good judge of money\u2014I did not hesitate to take this $50 note as good, and saw nothing suspicious about it.\nMr. August\nMiss Dye, I do not wish to ask any unpleasant questions, but it is proper the Jury should know the facts of this case. What kind of a house do you keep ?\nWitness I do not feel bound to answer that question and will not answer it.\nJ. B. Young\ndo not see any necessity for such an inquiry. The Jury must see and know the character of the house.\nThe question was not pressed.\nAugust\nHad the prisoner had any money dealings with Miss Creekmore ? Why did he request you to pay her the $5.\nYoung\nI think the question unnecessary.\nThe Court said the question was admissible and ought to be answered.\nWitness He staid with Miss Creekmore that night.\nCross-examined further I do not know that it is usual for gentlemen coming to houses like mine, to give fictitious names. I always take the names given by gentlemen as true. I have never known any other case in which the name given turned out not to be the true one.\nEmma Hall, sworn\nI live at Miss Dye\u2019s\u2014I know nothing of the money. I passed through the room on Saturday evening, the 23rd February, and saw Miss Dye and the prisoner in conversation. This is all I know about it.\nThomas B. White, sworn\nComplaint was made by Miss Dye, that the prisoner had passed a counterfeit note upon her. From her description, I knew I had seen the man passing about town and at the theatre : I directed that a look-out should be kept for him. On Saturday, the 2nd March, I heard he was down in the neighbourhood of Saddler\u2019s. I advised Miss Dye to disguise herself in male attire and go with me; she saw the prisoner near a lamp, stepped up to him, and raising her cap, asked him if he knew her and recollected passing a $50 note upon her; he said he remembered giving her the note, and that he had thought it was a good note and knew the man who gave it to him; he did not say who the man was. On being arrested and carried be\u00bb fore the Mayor, he gave his name as John 0. Fisher; I think he said it was John Oliver Fisher.\nCross-examined by August\nThe prisoner had appeared about town and at the theatre openly and freely ; he did not seem to be concealing himself.\nC. W. Purcell, sworn\nI am an exchange broker; I think myself well acquainted with paper money in circulation\u2014with North Carolina money. (Here the note was shewn to him.) I think this a counterfeit note; have no doubt of it.\nCross-examined by August\nIt is a very good counterfeit; nine persons out of ten would take it without suspicion; no one would be apt to detect it who had not skill in such matters\u2014 (Here the note was passed to the Jury, one of whom asked, how do you know it is a counterfeit?) The paper is somewhat rougher and coarser than the genuine; one of the signatures is different from the real; I tell also by the general appearance of the note.\nJohn M. Clarke, sworn\nI am an exchange broker; have had many years experience in the business; I think this note a counterfeit.\nCross-examined by August\nIt is an excellent counterfeit; would be apt to deceive 99 persons out of a hundred. Nothing but great familiarity with paper money can give the requisite skill to detect so good a counterfeit as this ; a counterfeit is detected by one skilled in such matters, by its general appearance and feeling, and by minute differences from genuine notes; it is very difficult to detect them when well executed ; I have sometimes detected false notes which had deceived bank officers, yet in a course of years my clerks have taken many counterfeits which are now in my office.\nHere the evidence for the prosecution closed.\nFor the defence:\nO. H. Rand, sworn\nI am the contractor for the masonry work on the Washington Monument, now going on in the Capitol Square; about the time when the work was to commence, the prisoner came to me, introduced by a gentleman who is now at work on the Monument; the prisoner asked if he could get work; I told him I thought it probable he could, that there was plenty of work about Richmond. I afterwards saw the prisoner aboard the Steam-Boat, going to Norfolk, I went down at the same time ; I saw him several times during the week, from the 23rd February, to the 2nd March, he boarded at the Washington Hotel and came often to the square; I saw him the day he was arrested ; the gentleman who introduced him to me, has been working on the Monument, and I consider him a very respectable man."
+  },
+  "file_name": "0001-01",
+  "first_page_order": 5,
+  "last_page_order": 9
+}

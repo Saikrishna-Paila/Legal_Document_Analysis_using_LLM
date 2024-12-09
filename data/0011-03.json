@@ -1,0 +1,59 @@
+{
+  "id": 2096025,
+  "name": "Darby v. Stringer",
+  "name_abbreviation": "Darby v. Stringer",
+  "decision_date": "1735-04",
+  "docket_number": "",
+  "first_page": "11",
+  "last_page": "11",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 10"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 269,
+    "ocr_confidence": 0.363,
+    "sha256": "08944d5209de8d4f9ca609ba2233d6faefc31e7f92216d4dffdd0069fc7934c7",
+    "simhash": "1:8d4c6629e388832a",
+    "word_count": 47
+  },
+  "last_updated": "2023-07-14T19:43:08.706124+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Darby v. Stringer."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for land granted in 1669, as lapsed for want of seating upon; slight proof of a seating many years ago, though no appearance of it now. Adjudged the land was saved.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Darby v. Stringer.\nApril, 1735.\nEvidence \u2014 Lapse of Lands.\nReported by Ed ward Barradall. Esq."
+  },
+  "file_name": "0011-03",
+  "first_page_order": 11,
+  "last_page_order": 11
+}

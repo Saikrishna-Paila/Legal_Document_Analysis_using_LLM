@@ -1,0 +1,72 @@
+{
+  "id": 2096035,
+  "name": "Marston v. Parish",
+  "name_abbreviation": "Marston v. Parish",
+  "decision_date": "1730-04",
+  "docket_number": "",
+  "first_page": "7",
+  "last_page": "7",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "8 Gratt. 578",
+      "category": "reporters:state",
+      "reporter": "Gratt.",
+      "case_ids": [
+        6716353
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/49/0674-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 273,
+    "char_count": 4552,
+    "ocr_confidence": 0.36,
+    "sha256": "79be57ca2fbf1261479b28a1b97a4ed9efb25d88239f9c603e87a18fdae4dbd0",
+    "simhash": "1:8f23a42a1c2913c9",
+    "word_count": 839
+  },
+  "last_updated": "2024-02-27T21:13:56.724571+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marston v. Parish."
+    ],
+    "opinions": [
+      {
+        "text": "John Williams was possessed of two negro boys, Arthur and Billy, and two negro women, Dinah and Nannjr, and made his last will the 22nd of April, 1713. He willed his negroes, and all other goods and chattels, to be valued and appraised, and equally divided between his wife and three children, and that his wife should keep his children\u2019s estates till they came of age; and died soon after making his will. After his death, the negro woman Nanny, had two children, Obey and James, and the negro woman Dinah, bad a child named Essex. Antbany, the widow, married John Marston, who, supposing his wife to be with child, by his will dated the first day of December, 1719, devised these negroes, viz. Arthur, Will, Nancy, Essex, Obey, and James, to the child his wife was ensient of, and gave all the residue of his estate, real and personal, to his wife and her heirs for ever, she paying his debts, and the orphans\u2019 estates in his hands; and died soon afterwards. But his wife did not prove with child, and the widow is married to her third husband, Parish, the defendant, and none of Williams\u2019s children are of age, and the plaintiff as heir at law to Marston, the second husband, hath brought an action of detinue, for Arthur, Will, Essex, Obey and James, which are properly Williams\u2019s estate, and for Nancy, which was Marston\u2019s proper estate.\nThe plaintiff, as to the negroes that were Williams\u2019s, cannot maintain an action of detinue, for by the will of Williams, they were to be equally divided between his wife and children, and until her part is ascertained by a partition, it is uncertain which of them is hers. Therefore, supposing her part vested in Marston, her second husband, and that it descended to the plaintiff as his heir at law, the plaintiff must know which of the negroes are his, to '\"support this action; for in detinue, the things demanded, must be certain, as in debt. But there is a stronger objection, and that is, to the plaintiff\u2019s right to the thing demanded upon the will of his brother. The devise to the child in ventre sa mere never vested, because no child was born, but was for that reason void, and whatever was intended to have been given to this child if it had been born, by law vested in the wife, to whom the residue of the estate was given. A residuary legatee, is in loco heredis and universal successor to the testator, and must have every thing that is not given away by the will. Here was only an intention to give, but no gift for want of a person to take. Though in the case of Sprigg and Sprigg, 2 Vern. 394, it was admitted, that in the devise of the residue of a personal estate, if the legatee was dead at the time of making the will, the residuary legatee shall not have the benefit of that legacy, and that it should not fall into the residue, because nothing was intended to pass by that devise but the residue, after that and other legacies paid. Yet the principal case there, was for a legacy to Thomas Sprigg, if he came from beyond sea, and the Bord Keeper was of opinion, that the devise being contingent, and on a condition precedent, which never happened, was as if never given, and the residuary legatees should have the benefit of that legacy. So here the case of a devise in ventre sa mere is a contingent devise, for in reality the woman was not with child, and the intent of the testator appears plainly to be, that his wife should have all his estate if there was no child, taking notice of nobody but his wife, and the child he supposed she went with. And there is a great deal of reason and justice she should have it. Eor all the negroes except one, came by her, and she is chargeable with all his debts and the estates of the orphans, out of the residuary estate,\nThe court were of opinion that the plaintiff had no right to recover the five negroes that were Williams\u2019s, and that the plaintiff should recover the negro that was Marston\u2019s, as his heir at law.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Marston v. Parish.\nApril, 1730.\nDetinue \u2014 When it Lies. \u2014 To support an action of detinue the thing's demanded must be certain, as in debt.\nWilis \u2014 Devise to a Chiid in Ventre Sa Here \u2014 Effect Where No Child is Born.- Where a testator makes a devise to a child of which he believes his wife is enceinte, and no child is born, such devise is void, and the property vests in the wife to whom the residue of the estate is given.\nSame -Same. \u2014 A devise to a child in ventre sa mere is a contingent devise.\nReported by Sir John Randolph.\nSee monographic note on \u201cDetinue and Replevin\" appended to Hunt v. Martin, 8 Gratt. 578."
+  },
+  "file_name": "0007-01",
+  "first_page_order": 7,
+  "last_page_order": 7
+}

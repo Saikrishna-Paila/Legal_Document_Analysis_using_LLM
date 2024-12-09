@@ -1,0 +1,216 @@
+{
+  "id": 2288218,
+  "name": "HORANCE H. FLOYD v. NANCY H. FLOYD",
+  "name_abbreviation": "Floyd v. Floyd",
+  "decision_date": "1985-08-20",
+  "docket_number": "No. 0208-85",
+  "first_page": "42",
+  "last_page": "46",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 42"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "216 S.E.2d 16",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "16-17"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "216 Va. 13",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2124995
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "14"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/216/0013-01"
+      ]
+    },
+    {
+      "cite": "29 S.E.2d 241",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "242"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Va. 461",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        1973143
+      ],
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "464"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/182/0461-01"
+      ]
+    },
+    {
+      "cite": "186 S.E.2d 82",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1972,
+      "opinion_index": 0
+    },
+    {
+      "cite": "212 Va. 538",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2115399
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/212/0538-01"
+      ]
+    },
+    {
+      "cite": "229 S.E.2d 887",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "890"
+        },
+        {
+          "page": "890"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "217 Va. 502",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2128439
+      ],
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "505"
+        },
+        {
+          "page": "505"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/217/0502-01"
+      ]
+    },
+    {
+      "cite": "211 S.E.2d 41",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "44"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "215 Va. 425",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2123253
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "427"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/215/0425-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 510,
+    "char_count": 7563,
+    "ocr_confidence": 0.901,
+    "pagerank": {
+      "raw": 1.1155670913978564e-07,
+      "percentile": 0.5721372172663348
+    },
+    "sha256": "e147011a60907509b5f4daebd2f684e0e2cfc549d8955ba127fbc092f7ab3f36",
+    "simhash": "1:8c93464b27ee30f5",
+    "word_count": 1251
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "HORANCE H. FLOYD v. NANCY H. FLOYD"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nHODGES, J.\nThe issue in this appeal is whether a motion for reduction or elimination of spousal support was properly denied.\nHorance and Nancy Floyd were married on February 12, 1955. In 1981, the parties separated, and on June 7, 1982, a pendente lite order was entered which granted support of $400.00 a month to Nancy Floyd. This award was continued in effect by the final divorce decree entered January 3, 1983, and again on April 20, 1983, when a property settlement agreement was incorporated into the final decree. Subsequently, on September 10, 1984, Mr. Floyd filed a motion praying for a reduction or elimination of the spousal support payments based on a change in circumstances. On October 10, 1984, the court heard the evidence ore tenus, and on November 27, 1984, ruled that Mr. Floyd had failed to show a substantial change in circumstances which would justify a modification of the spousal support orders.\nOn appeal, Mr. Floyd contends that there was sufficient evidence to show a change of circumstances in his ability to continue payment of spousal support and in Nancy Floyd\u2019s ability to support herself without further assistance from him. He specifically alleges that the trial court erred in: (1) finding no change of circumstances to merit a decrease or cessation of spousal support; (2) ruling that Code \u00a7 20-107.1 does not require both parties to work at their greatest earning capacity within their education and training; (3) failing to weigh earning ability of the respective ex-spouses based on their professions; and (4) not imputing tax increases, debt repayments, interest costs, and present financial obligations of Mr. Floyd.\nWe limit the question on appeal to Mr. Floyd\u2019s contention that there was sufficient evidence to merit reduction or elimination of spousal support. His other contentions are specific factors to be considered within the context of the sufficiency question. Therefore, the first assignment of error will be addressed as encompassing the other three.\nThe evidence shows that at the time of the hearing in October, 1984, Mr. Floyd was 56 years old and self-employed as a Certified Public Accountant. Nancy Floyd, then 54 years old, was employed by Lynchburg General Hospital as a laboratory clerk. It appears that, prior to the separation, she had not been employed for approximately ten years.\nMr. Floyd testified that the financial condition of his business was deteriorating, causing him great difficulty in making spousal support payments. His evidence indicated, in part, that: (1) his business bank account had been overdrawn in four out of the first eight months in 1984; (2) his past-due payroll tax liability amounted to $3,494.89; (3) his accounts payable had risen while his accounts receivable had dropped; and (4) his salary level had decreased in the past two years. Mr. Floyd\u2019s monthly living expenses included significant amounts expended for support of the children of his current wife; one such expense was payment of college tuition for one of her daughters. The monthly expenses also included payments on a second mortgage taken out on his current wife\u2019s home, where the couple live, to buy out the interest of her former husband, Mr. Floyd admitted testifying in prior hearings that his business also was in bad shape at those times.\nCynthia Page, daughter of the parties and a Certified Public Accountant, was called to testify for Mr. Floyd. Prior to the hearing, she had the opportunity to examine the balance sheets and income statements of Mr. Floyd\u2019s accounting business for the past two years. Her testimony was that Mr. Floyd\u2019s income since 1982 had at least remained stable, if not improved somewhat. While she verified Mr. Floyd\u2019s testimony that his salary had decreased, she noted that Mr. Floyd was withdrawing money from the company and characterizing it as loans rather than salary. This method eliminated payment of payroll withholding and F.I.C.A. on the money received. Mrs. Page also testified that the business\u2019 retained earnings had grown since 1982, while expenses had been reduced in 1983 and appeared constant for 1984.\nNancy Floyd testified that she was currently 54 years old and had earned a Bachelor\u2019s Degree from Lynchburg College in 1960. Her employment history included teaching positions in the Lynch-burg Public Schools from 1950 to 1954 and in the Amherst County School System from 1970 to 1972. While she had renewed her teaching certificate in 1970, it had expired in 1975. She also had worked in a retail setting at some unspecified time. Subsequent to the separation of the parties and at the time of the divorce hearing in 1982, Nancy had been employed at an early learning center. In addition, she worked as a temporary, part-time secretary at Randolph-Macon Women\u2019s College for ten weeks. Her evidence tended to show that her income level remained fairly constant between the entry of the final decree and the hearing date on Mr. Floyd\u2019s motion to reduce spousal support. Her testimony on the whole indicated that she had been able to save money for future expenditures by living frugally.\nThe trial court, in the final divorce decree, held that Nancy Floyd was entitled to support, and continued the previous award of $400.00 per month in spousal support. Neither this order, nor a subsequent order which continued the award, were appealed.\nSpouses deemed entitled to support have the right to be maintained in the manner to which they were accustomed during the marriage, but their needs must be balanced against the other spouse\u2019s financial ability to pay. Robertson v. Robertson, 215 Va. 425, 427, 211 S.E.2d 41, 44 (1975). In addition, a court retains jurisdiction to modify an award of periodic payments for support upon a showing that a change of circumstances has occurred, affecting the need for the payments or the ability to make them. Code \u00a7 20-109; Thomas v. Thomas, 217 Va. 502, 505, 229 S.E.2d 887, 890 (1976); see Treger v. Treger, 212 Va. 538, 186 S.E.2d 82 (1972).\nMr. Floyd alleged that there had been a change of circumstances which had affected his ability to keep up the payments previously ordered, as well as a change in his ex-wife\u2019s need for such payments. The burden was on him to prove such allegations by a preponderance of the evidence. Crosby v. Crosby, 182 Va. 461, 464, 29 S.E.2d 241, 242 (1944). The trial court held that he did not do so. When a trial court hears evidence ore tenus, its findings are entitled to the weight of a jury verdict, and will not be disturbed on appeal unless plainly wrong or without evidence to support them. Thomas v. Thomas, 217 Va. 502, 505, 229 S.E.2d 887, 890 (1976); Alls v. Alls, 216 Va. 13, 14, 216 S.E.2d 16, 16-17 (1975).\nUpon review of the record in this case, and consideration of the argument and authorities submitted in support of and in opposition to the granting of the appeal, it appears clear that the decision of the trial court was within its discretion. There was sufficient evidence to indicate that no substantial change of circumstances had occurred which would have justified modification or elimination of the spousal support previously ordered by the trial court. Accordingly, the decision of the court denying the appellant\u2019s motion for modification is affirmed.\nAffirmed.\nKoontz, C.J., and Benton, J., concurred.",
+        "type": "majority",
+        "author": "HODGES, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "William M. McClenny, Jr., for appellant.",
+      "Frank West Morrison (Seth E. Twery; Bell, Morrison & Spies, on brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Salem\nHORANCE H. FLOYD v. NANCY H. FLOYD\nNo. 0208-85\nArgued April 29, 1985\nDecided August 20, 1985\nCounsel\nWilliam M. McClenny, Jr., for appellant.\nFrank West Morrison (Seth E. Twery; Bell, Morrison & Spies, on brief), for appellee."
+  },
+  "file_name": "0042-01",
+  "first_page_order": 66,
+  "last_page_order": 70
+}

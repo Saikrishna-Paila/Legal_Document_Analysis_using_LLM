@@ -1,0 +1,73 @@
+{
+  "id": 2096041,
+  "name": "Goodloe v. Dudley, &c.",
+  "name_abbreviation": "Goodloe v. Dudley",
+  "decision_date": "1739-04",
+  "docket_number": "",
+  "first_page": "35",
+  "last_page": "36",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 59"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "4 H. 4",
+      "category": "reporters:state",
+      "reporter": "H.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 H. 6",
+      "category": "reporters:state",
+      "reporter": "H.",
+      "weight": 6,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 376,
+    "char_count": 5736,
+    "ocr_confidence": 0.499,
+    "sha256": "8856cb7454f35512b8514671a78174a9998ed23466db2622658699ba0efbad9b",
+    "simhash": "1:1b67e4e16dd77c44",
+    "word_count": 1106
+  },
+  "last_updated": "2024-02-27T21:13:56.724571+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Goodloe v. Dudley, &c."
+    ],
+    "opinions": [
+      {
+        "text": "I believe this is the first time the office of sheriff has been thought to be within this statute, for though it may seem to come *within the general words viz. \u2018An office that concerns the administration and execution of justice,\u2019 yet, if we consider the whole law, it will appear it never could be intended of the sheriff\u2019s office. The penalty is, that the party selling shall forfeit all his right, interest, and estate in the office, and the party buying be disabled in law to hold the office, and the promises and bonds to be void. Now I would ask what estate, right and interest a sheriff has in his office? Every one knows it is an office of burthen and charge ; men are subject to penalties if they refuse to execute it. The words right, estate and interest, plainly shew the act intended only offices of profit, for no man can be said to have an estate and interest in an office of burthen. Then he is to forfeit the office; it will be an easy expedient (though the notion, 1 believe, is somewhat new) for the sheriff to get rid of his office. If it is within this act, he has nothing to do but to make a bargain with an under-sheriff for a sum of money, and he is discharged. If- this could be done, men would not pay such great fines as they do in London for not serving.\nAt this rate there would hardly ever be a sheriff: every one would be shifting the office off himself. But there was no occasion for this act to extend to the sheriff; there was one made an hundred years before. 23 H. 6. 10. prohibiting sheriffs to let their counties to farm. This is the statute the defendant should have taken advantage of, and it is a plain mistake in his lawyer. No other statute was ever thought to extend to sheriffs as to this matter. The 23 H. 6. is a private act of which the judges cannot take notice, unless it be pleaded. 4 Co. 76; Hob. 13; 1 Vent. 85; 2 Lev. 151. But the question is now, whether the plea be good? And clearly it is not. The other statute is now out of the question. It does not appear in the condition that this tobacco was given for farming the office, and it might be for another cause. The demurrer only confesses it so far as that it might not be denied on the argument of this plea; but it is not such a confession as is any evidence of the fact. But if the 5 & 6 of Edw. 6. does not extend to sheriffs, it has been adjudged not to be in force in the plantations. 4 Mod. 222; 1 Salk. 411; Blankard v. Galdy. Farming of offices is not so unlawful as may be imagined. The statute only extends to cases where a sum in gross is agreed for. If the agreement is, to pay so much out of the fees and profits, and at all events, it is not within the statute. 2 Salk. 466; Culliford and D. Cardonell, 468; 6 Mod. 234; Godolphin v. *Tudor. So if there be a salary annexed and a lesser sum is received, it is not within the statute. Ibid. The statute intended only to prevent extortion in offices, which men would be tempted to, if they paid a large sum for a deputation at ail events. But if they have not a certain profit, or chance for a profit out of the fees, they are not to be under the same temptation. I shall agree if this bond is void as to the payment of tobacco, it is so for the whole. There is a difference, where part of a condition is void by the common law, and where by statute. In the first case it may be void in part, and stand good for the other part. But where part of a condition is against the statute, it is wholly void. The reason is, because the statute says the bond shall be void, and therefore, it cannot be set up in part. Hob. 14; Norton v. Sims, 3 Co. 82. b. 83. a. 1 Vent. 273; 1 Mod. 37; Carter 229; Pearson v. Humes, 2 Danv. 21. 8. I hope it will be considered how hard a case it will be upon the plaintiff, if the plea be adjudged good; the whole bond will be void and he without any remedy against his under sheriff, though guilty of ever so many breaches; it will be his utter ruin and destruction. This suit is chiefly brought to recover quit-rents, for which the plaintiff himself is sued. There is no honesty in the plea, the practice is usual, and, under some circumstances, justifiable.\nReported by Edward Barradall, Esq.\nJudgment for the plaintiff ; that the plea was not good, per totam curiam. N. B. in Brownlowe Latine Red. 216. 218. this statute is pleaded to a bond for payment of money, with an averment that the plaintiff sold the defendant the office of under-sheriff, for which money he gave the bond. There was an idle replication and demurrer. But the author observes, that the reason of such a replication was, because the date of the statute was mistaken, for otherwise the plea was good. Sed quaere et nota. The case of Blankard and Galdy was a deputation of the office of Provost Marshall, of Jamaica, (which is the same office as sheriff with us) and no exception taken that it was not an office within the act. In the argument of this case, it was said that the 23 H. 6 had no penalty, and therefore, the 5 & 6 Ed. 6. was necessary to be extended to the office of sheriff. But that is a mistake \u2014 there is a penalty of forty pounds by 23 H. 6.\nThere is an antienter statute than this of H. 6 viz. 4 H. 4. c. 5. in which there is no penalty. But there is in 23 H. 6 viz. \u00a340.\u2014Edition 1829.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Goodloe v. Dudley, &c.\nApril, 1739.\nSheriff\u2019s Office--Whether It May Be Farmed. \u2014 The office of sheriff may be farmed.\nBond from under sheriff and security to pay fifteen hundred pounds of tobacco, and save harmless and indemnify the high sheriff:, &c. Defendant pleads stat. 5, 6 E. 6. against buying and selling of offices, and avers the fifteen hundred pounds of tobacco was for the deputation of the defendant. Plaintiff demurs.\nBut see \u00a7 166, Code 1887."
+  },
+  "file_name": "0035-02",
+  "first_page_order": 35,
+  "last_page_order": 36
+}

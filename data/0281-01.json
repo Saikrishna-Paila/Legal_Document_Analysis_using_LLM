@@ -1,0 +1,210 @@
+{
+  "id": 2288235,
+  "name": "THE SOUTHLAND CORPORATION, et al. v. VERONICA L. PARSON",
+  "name_abbreviation": "Southland Corp. v. Parson",
+  "decision_date": "1985-12-17",
+  "docket_number": "No. 0515-85",
+  "first_page": "281",
+  "last_page": "288",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "236 S.W.2d 977",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "weight": 2,
+      "year": 1951,
+      "pin_cites": [
+        {
+          "page": "980"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "192 Tenn. 1",
+      "category": "reporters:state",
+      "reporter": "Tenn.",
+      "case_ids": [
+        8530069
+      ],
+      "year": 1951,
+      "opinion_index": 0,
+      "case_paths": [
+        "/tenn/192/0001-01"
+      ]
+    },
+    {
+      "cite": "234 S.E.2d 778",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "779"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "269 S.E.2d 667",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "672"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 N.C. App. 489",
+      "category": "reporters:state",
+      "reporter": "N.C. App.",
+      "case_ids": [
+        8551366
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc-app/48/0489-01"
+      ]
+    },
+    {
+      "cite": "1 Va. App. 166",
+      "category": "reporters:state",
+      "reporter": "Va. App.",
+      "case_ids": [
+        2288254
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va-app/1/0166-01"
+      ]
+    },
+    {
+      "cite": "152 S.E.2d 254",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "257"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "207 Va. 720",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        6812105
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/207/0720-01"
+      ]
+    },
+    {
+      "cite": "278 S.E.2d 877",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 3,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "879"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "222 Va. 283",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2083533
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "285-86"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/222/0283-01"
+      ]
+    },
+    {
+      "cite": "335 S.E.2d 257",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1985,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 639,
+    "char_count": 12062,
+    "ocr_confidence": 0.913,
+    "pagerank": {
+      "raw": 2.222534168952874e-07,
+      "percentile": 0.7777907128948445
+    },
+    "sha256": "399c784a4195c19c1e58535f4bbe53273d6d2c13cc7e8fff0def58c6eb210883",
+    "simhash": "1:0e352a7a028663ce",
+    "word_count": 2020
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "THE SOUTHLAND CORPORATION, et al. v. VERONICA L. PARSON"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nCOLE, J.\nThe question presented by this appeal from a decision of the Industrial Commission is whether the claimant, Veronica L. Parson, may be awarded compensation for injuries suffered in a fall at her place of employment resulting from a fainting episode. We hold that she is entitled to compensation under the facts of this case.\nOn August 14, 1984, the claimant filed an application for hearing before the Industrial Commission alleging disability as a result of an industrial accident. On November 27, 1984, a hearing was held before a hearing officer, who found that the claimant had failed to prove an industrial accident. The claimant requested a review before the full Commission and on April 8, 1985, the Commission reversed the hearing officer and held that the claimant had sustained injury as a result of an industrial accident and awarded benefits accordingly. From this decision the appellants, The Southland Corporation and American Motorists Insurance Company (collectively, the employer), have appealed.\nThe claimant was employed as a clerk at a 7-Eleven store located in Alexandria, Virginia. The facts as found by the Commission reveal that on the morning of July 3, 1984, she was called upon to put milk in the walk-in refrigerator. In order to perform this duty she stepped upon a milk crate about 18 inches high while holding two one-half gallon cartons of milk in the crook of her left arm and one in her right hand. She was reaching up in order to place the milk on the shelves. While in this position she lost consciousness and fell to the floor. When she regained consciousness she found herself lying on her stomach with an injury to the neck and left side of the forehead. In the fall she had landed on top of the milk cartons, which had burst beneath her. She could not recall what had happened and testified that she had no history of any prior lapses of consciousness. The claimant was taken to the emergency room of Alexandria Hospital, where she gave a history of standing on a crate at work, losing her balance, and hitting her head on the wall. The examining physician diagnosed a minor head trauma-acute and prescribed rest and medication.\nThrough appropriate referral the claimant was examined on July 11, 1984, by Dr. Juan L. Jammes, a neurologist, who made a diagnosis of a probable vasodepressor syncope and ordered further testing. The claimant had experienced a full recovery by the time she was last seen by Dr. Jammes on October 12, 1984.\nThe Commission fully considered whether this was an idiopathic fall or an unexplained fall. In the case of the former, the fall would be deemed an accidental injury caused by a preexisting personal disease of the employee. In the latter situation the fall would be deemed entirely unexplained. It found by a preponderance of the evidence that the claimant had suffered a vasodepressor syncope (fainting) episode as diagnosed by Dr. Jammes, which resulted in a temporary loss of consciousness due to a decreased blood supply to the brain, but concluded that the claim was compensable. See Central State Hospital v. Wiggers, _ Va. __, 335 S.E.2d 257 (1985); Richmond Memorial Hospital v. Crane, 222 Va. 283, 285-86, 278 S.E.2d 877, 879 (1981). Under the provisions of Code \u00a7 65.1-98, these findings of fact are conclusive and binding upon this Court if supported by credible evidence.\nFor an injury to be compensable under the Workers\u2019 Compensation Act, the claimant must prove by a preponderance of the evidence three elements: (1) that the injury was caused by an accident; (2) that the injury was sustained in the course of the employment; and (3) that the injury arose out of the employment. In the case before us, there is no dispute that an accident occurred and that the injury was sustained in the course of the employment. The issue is whether this accident and injury arose out of the claimant\u2019s employment. We note that the Commission found that the fall was not an unexplained fall, and we therefore do not consider the consequences of an unexplained fall by an employee.\nProfessor Larson, in his treatise on Workmen\u2019s Compensation Law, states the general principle as follows:\nInjuries arising out of risks or conditions personal to the claimant do not arise out of the employment unless the employment contributes to the risk or aggravates the injury. When the employee has a preexisting physical weakness or disease, this employment contribution may be found either in placing the employee in a position which aggravates the effects of a fall due to the idiopathic condition, or in precipitating the effects of the condition by strain or trauma.\n1 A. Larson, Workmen\u2019s Compensation Law \u00a7 12 (1984).\nLarson comments that \u201c[wjhen an employee, solely because of a nonoccupational heart attack, epileptic fit, or fainting spell, falls and sustains a skull fracture or other injury, the question arises whether the skull fracture (as distinguished from the internal effects of the heart attack or disease, which . . . are not compensable) is an injury arising out of the employment.\u201d Id. at \u00a7 12.11.\nThe crucial inquiry in cases of this nature is whether the disputed injury arose in the course of the employment. The resolution of this issue will depend upon the presence or absence of a \u201ccausal connection\u201d between the incidents of employment and the additional injuries. In such cases the causal connection is provided by the finding of some additional risk to the employee arising from his employment. Professor Larson states:\nThe basic rule, on which there is now general agreement, is that the effects of such a fall are compensable if the employment places the employee in a position increasing the dangerous effects of such a fall, such as on a height, near machinery or sharp corners, or in a moving vehicle.\nId.\nThe Supreme Court of Virginia in the case of Immer & Co. v. Brosnahan, 207 Va. 720, 152 S.E.2d 254 (1967), addressed a similar situation and stated:\nIt is not necessary, as the employer here contends, that the employee show that his presence on the street or highway where his additional injuries are suffered exposes him to an increased hazard peculiar to the work and not common to the public generally. Such a burden was imposed upon the employee by a test once applied by some courts in so-called \u201cstreet cases.\u201d That test is now characterized by Professor Larson as \u201cobsolete.\u201d Virginia, following the majority rule, has adopted what is known as the \u201cactual risk test,\u201d under which, in the words of Larson, \u201cit is immaterial even whether the degree of exposure is increased, if in fact the employment subjected the employee to the hazards of the street, whether continuously or infrequently.\u201d\nId. at 725, 152 S.E.2d at 257. (citation omitted).\nIn addition, this Court followed the \u201cactual risk\u201d test in Park Oil Co. v. Parham, 1 Va. App. 166, _ S.E.2d _ (1985). Many decisions of other states also support the principles set forth by Professor Larson.\nIn the case of Hollar v. Montclair Furniture Co., 48 N.C. App. 489, 269 S.E.2d 667 (1980), the plaintiff had not been subject to fainting spells, but the work environment was extremely hot and the ventilation was poor. The plaintiff was walking around a table, fainted, and fell, striking her back on the floor. In reciting the law of the case, the court summarized the law of the case as follows:\nOut of the cases we have reviewed, there seems to emerge a clear line of distinction: (1) Where the injury is clearly attributable to an idiopathic condition of the employee, with no other factors intervening or operating to cause or contribute to the injury, no award should be made; (2) Where the injury is associated with any risk attributable to employment, compensation should be allowed, even though the employee may have suffered from an idiopathic condition which precipitated or contributed to the injury.\nId. at 496, 269 S.E.2d at 672.\nIn Ware v. State Workmen\u2019s Compensation Commission, 234 S.E.2d 778 (W. Va. 1977), while standing at her work station, the claimant fell backward off a wooden platform onto a concrete floor, sustaining serious injuries. What caused the fall was in dispute. Claimant claimed that the wooden platform slid out of position. The employer claimed that the fall resulted from a dizzy spell brought on by a pre-existing inner ear disease. The court found as follows:\nOur disposition of this case makes it unnecessary to resolve the sharp factual dispute concerning the cause of claimant\u2019s fall. Regardless of the cause, we hold the claim compensable. If indeed claimant fell because of the platform\u2019s movement, she would be entitled to compensation. If, on the other hand, she fell because of a dizzy spell she would likewise be entitled to compensation in these circumstances. Such a fall may be classified as an idiopathic fall in which the claimant\u2019s employment contributed to the risk or aggravated the injuries. We join the majority of enlightened jurisdictions which agree on the basic rule that the effects of idiopathic falls \u201care compensable if the employment places the employee in a position increasing the dangerous effects of such a fall, such as on a height, near machinery or sharp corners, or in a moving vehicle.\u201d\nId. at 779. (citation omitted).\nIn Tapp v. Tapp, 192 Tenn. 1, 236 S.W.2d 977 (1951), the employee, while making a delivery for his employer, was injured in an automobile accident caused by a blackout resulting from an asthmatic condition. The court found that there was a causal connection between the employment and the injuries and that compensation should be awarded. The court stated:\n[I]t seems reasonable to conclude, based upon the authorities cited, that where epilepsy, or other physical disturbances, suddenly and without expectation occur and contribute to cause an injury to an employee while at work the same should be held compensable, provided there is present another hazard, incident to the employment which is generally known to exist and which is shown to be the immediate cause of the accident.\n236 S.W.2d at 980.\nThe Industrial Commission found in the present case that by standing on a milk crate, the increased distance of 18 inches from the floor increased the severity of the claimant\u2019s injury over and above that which she would have sustained if she had been at floor level at the time of the fall. While conceding that it is not possible to determine the specific additional velocity gained by falling from an 18 inch height, the Commission noted that logic and the laws of physics dictate that it is certain the claimant\u2019s body gained some additional momentum as a result of the fall from this elevation. Upon finding that the elevated height constituted an \u201cadded risk\u201d of the employment, the Commission determined that compensation should be awarded.\nWe are in agreement with the holding of the Industrial Commission. In addition to the height of the milk crate from the floor, there were additional risks arising out of the employment. The claimant was in a vault or refrigerator, enclosed with walls. She was not furnished with an appropriate ladder, had to stand on a milk crate in order to reach the shelving, and at the time this event occurred she had several one-half gallon milk cartons under her arm and was reaching up to place them upon the shelves. There was evidence that when she fell she struck her head against the wall.\nWhen all of these factors are considered, we are left with no doubt that this case is within the scope of the \u201cactual risk\u201d doctrine adopted in Inmer & Co., that the evidence supports the finding of a causal connection between the employment and the injury, and that the award of the Industrial Commission is correct. Accordingly, we affirm.\nAffirmed.\nDuff, J., and Moon, J., concurred.",
+        "type": "majority",
+        "author": "COLE, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Benjamin J. Trichilo (Lewis and Trichilo on brief), for appellant.",
+      "Barry Stiefel (Ashcraft & Gerel on brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Alexandria\nTHE SOUTHLAND CORPORATION, et al. v. VERONICA L. PARSON\nNo. 0515-85\nArgued October 8, 1985\nDecided December 17, 1985\nCounsel\nBenjamin J. Trichilo (Lewis and Trichilo on brief), for appellant.\nBarry Stiefel (Ashcraft & Gerel on brief), for appellee."
+  },
+  "file_name": "0281-01",
+  "first_page_order": 305,
+  "last_page_order": 312
+}

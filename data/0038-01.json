@@ -1,0 +1,74 @@
+{
+  "id": 6668609,
+  "name": "Commonwealth vs. Harriet Hooper",
+  "name_abbreviation": "Commonwealth v. Hooper",
+  "decision_date": "1851-04-29",
+  "docket_number": "",
+  "first_page": "38",
+  "last_page": "43",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Howison 38"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Henrico Cty. Cir. Ct.",
+    "id": 15577,
+    "name": "Henrico County Circuit Court"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 650,
+    "char_count": 12119,
+    "ocr_confidence": 0.52,
+    "sha256": "2df541b30a18e6619803542356696bebca1236417cd79f3760d495eea6c8408f",
+    "simhash": "1:40f2c8b25b56f322",
+    "word_count": 2309
+  },
+  "last_updated": "2023-07-14T21:06:18.843079+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "HON. JOHN 8. CASKIE, JUDGE."
+    ],
+    "parties": [
+      "Commonwealth vs. Harriet Hooper."
+    ],
+    "opinions": [
+      {
+        "text": "The evidence closed.\nThe case was argued at considerable length, and with much animation by all the counsel.\nMr. Scott, in opening his argument, remarked that he had, during many years, been practising his profession, and had defended many criminals, but never before, had been called to defend a woman charged with felony !\nWednesday, Jtpril 30th, 1851.\u2014The Jury came into Court with their verdict, finding the accused 11 Guilty\u201d of unlawful, but not malicious stabbing, and ascertaining her term of confinement in jail at 3 months, 23 days, and her fine at one dollar,\nThe Court,\nin passing sentence, said, the Jury had dealt mercifully with the accused ; the blow was given under circumstances which excluded the idea that it was in self-defence; the wound was dangerous and tended to death : the prisoner ought to be grateful to a Divine Direction, that she was not now before the Court to answer the grave charge of Murder; and he trusted the clemency of the Jury, and her escape from a worse fate, would induce her to restrain her passions, and in future pursue a more discreet course.",
+        "type": "majority",
+        "author": "The Court,"
+      }
+    ],
+    "attorneys": [
+      "For the Prosecution, J. B. Young.",
+      "For the Defence, R. G. Scott, T. P. August, M. Johnson.",
+      "Elizabeth Mitchell, sworn.",
+      "Cross-examined by Scott.",
+      "Scott.",
+      "Re-examined by Young.",
+      "Mary Fitz, sworn.",
+      "By Young.",
+      "Cadmus Johnson, officer of police, mom.",
+      "Officer Oreo W. H. Tyler, mom",
+      "W. D. Haskins, M. D., sworn.",
+      "Louisa Dunton, sworn."
+    ],
+    "corrections": "",
+    "head_matter": "TRIAL OF HARRIET HOOPER.\nHON. JOHN 8. CASKIE, JUDGE.\nIn the Circuit Court of Law for Henrico, County. Criminal Term.\nCommonwealth vs. Harriet Hooper.\nWednesday, April 29, 1851.\nFor the Prosecution, J. B. Young.\nFor the Defence, R. G. Scott, T. P. August, M. Johnson.\nThe prosecution was under Sec. 9, chap. 191, Code of Virginia, page 724.\n\u201c If any free person maliciously shoot, stab, cut or wound any person, or by any means cause him bodily injury, with intent to maim, disfigure, disable or kill, he shall, except where it is otherwise provided, be punished by confinement in the penitentiary not less than one nor more than ten years. If such act be done unlawfully, but not maliciously, with the intent aforesaid, the offender shall at the discretion of the Jury, if the accused be white, or of the Court if he be a negro, either be confined in the penitentiary not less than one nor more than five years, or be confined in jail not exceeding twelve months, and fined not exceeding Five Hundred Dollars.\u201d\nThe Indictment contained four counts;\u2014the first and third in various ways charged that on the 24th February, 1851, the accused maliciously stabbed Elizabeth Mitchell with intent to maim, disfigure, disable and kill;\u2014the second and fourth with like varieties, charged the act as done feloniously and unlawfully, but not maliciously.\nThe accused had been bailed by the Hustings Court and appeared in discharge of her recognizance. She seemed 25 or 26 years old, had blue eyes and rather well shaped features. She was dressed in a figured silk of green, with a drawn silk bonnet trimmed with green. On being arraigned she pleaded, \u201c Not Guilty,\u201d\nThe Jury were as follows :\nSamuel Wortham, James T. Cox, Washington B. Ross, H. P. Taylor, Josiah D. Smith, Fred. Weidemeyer, Littleton B. Reid, Henry L. Reeve, Thomas Crafton, Joseph Vaughn, William Grafton, E, B. Chiles.\nFor the prosecution,\nElizabeth Mitchell, sworn.\nOn Sunday night Miss Julia Dye walked out; when she returned Miss Harriet Hooper told her that I had been swearing in the parlour; Miss Dye said it waa against the rules of the house ; I said I didn\u2019t do it; she said I did. The next morning at the breakfast table I asked one of the young ladies if I had sworn in the parlor; she said she didn\u2019t hear me; Miss Hooper said I did, and then she abused and jawed me and carne round to me and pulled me down by the hair. Then Miss Dye parted us, and Miss Hooper said if Miss Julia did\u2019dt want us to fight she would\u2019nt. Afterwards she said she would kill me, and she would cut me up in pieces, so that no night-watchman should ever know it, to have her name in the papers. Then I went up stairs and some one of the young ladies said if she were me she would\u2019nt take as much as I had taken, and I came down and said, \u201c Now you have had your revenge I will have mine.\u201d She said, \u201cif you will let me go up stairs I will fight you,\u201d but I opened my sack and told her I had no weapon and she must not have any. Then she started to go up stairs and I caught her and pulled her back and pushed her up against the wall and slapped her on the face. Then we were parted, and she said she wasn\u2019t angry now, and went up stairs. I had heard her say she would kill me ; I went up stairs to dress to go and make complaint at the Mayor\u2019s office. When I came down and was standing in the parlor, waiting for a hack, Harriet came up near me, and as I passed her, she stabbed me in my right side. I staggered back, and as she went up stairs I heard her laugh.\nCross-examined by Scott.\nMiss Julia Dye is now in Lynchburg. Miss Higgins was there when it happened, she is now sick in bed; Miss Wright has gone away; Miss Dye kept the house; Harriet Hooper paid twelve dollars a week board; it was against the rules of the house to swear in the parlor; at the breakfast table I asked a young lady if she had heard me swear as I have told you. Harriet Hooper abused me ; I abused her back ; I didn\u2019t curse her; the worst I said was to call her a mulatto, and after that she pulled me down by the hair; after I went up stairs Frances Wright said I ought not to take it, and then I began to get angry. I had gone up to fix my room, and I had a towel which I generally put on my head when I fixed my room; Miss Wright tied the towel round my head and then I went down.\nScott.\nYou went down in fighting trim, Lizzie, did not you intend to fight ?\nWitness. I had said to Miss Dye I did not want to have any Court business, and I thought we ought to settle it here. She said \u201cgo on and settle it between yourselves.\u201d If Harriet Hooper had asked my pardon, we would have settled it that way, but if she didn\u2019t I intended to fight, I did not see any lamp and I don\u2019t know that the room had been cleared for a fight. I did not hear her say she didn\u2019t want to fight, until I pulled her back, but when I threw her down on the sofa, she said several times she did not want to fight; she was weak and not angry. When I went up stairs after our fight, I intended to have her taken up, and when I came down I was quite angry.\nRe-examined by Young.\nI was going to have her arrested because she threatened to kill me; she said she would kill me if it was ten years to come. When I came down, she was sitting in the window ; she got up and came to me as I was going out, and stabbed me ; I was sick four or five weeks; Miss Higgins has been very sick, and is still; she was very much burned by an accident with burning fluid for lamps.\nMary Fitz, sworn.\nI saw the quarrel at the breakfast table ; I saw them fight, and Miss Dye parted them; I saw Miss Elizabeth Mitchell come down with her head tied up, and she said to Harriet Hooper, \u201c you have had your revenge and now I must have mine Harriet said, \u201c I dou\u2019t want to fight, I am weak and not well, and my passion is over nowand then I saw Elizabeth Mitchell pull her back and they fought on the sofa and against the wall, When Harriet came down, before this, I saw her pay her board to Miss Dye, and she said she was going to leave the house; they did not injure each other, and there was not much fight; they went up stairs ; then, fifteen or twenty minutes passed, and Lizzie Mitchell came out of Miss Dye\u2019s room and asked the girls if the hack had come; she said she was going out to get a warrant. Harriet Hooper was sitting in the window, and as Lizzie Mitchell went out, I saw Harriet go up to her and stab her ; I saw her raise her arm. (Here a knife was shewn to the witness, it had a blade about four inches long and a spring in the back to keep the blade firm when open ; on the blade was an inscription, \u201c The Real IXL knife.\u201d) Witness\u2014I have seen that knife before ; 1 was with Harriet Hooper about a week before this affair, when she bought it.\nCross-examined.\u2014They abused each other equally much ; Harriet said something about Lizzie being in a house with coloured people, and Lizzie said, \u201c I have never been taken for a mulatto as you were in Baltimore.\u201d When Elizabeth came down with her head tied up, they said what I have told you ; I think Lizzie said, \u201c you shall fight; I will make you fightHarriet went towards the door, and Lizzie went and shut the door; I did not see any blows, but Elizabeth threw her down on the sofa and had the best of the struggle ; I don\u2019t know who went for the hack.\nBy Young.\nThe remark about a mulatto was made after Lizzie came down with her head tied up, and while they were quar-relling. I think I heard Harriet Hooper say, if she touched her she must abide the consequences; I think she said if Lizzie, didn\u2019t let her alone, she would cut her to pieces, and that she would have her satisfaction if it was ten years to come.\nCadmus Johnson, officer of police, mom.\nI was informed of this affair and went to the spot; I was told she had gone to Miss Louisa Dunton\u2019s; Mr. Tyler and I went there, and searched the house pretty thoroughly, but didn\u2019t find her; one of the crowd said she had not come out, so we looked farther, and after a while Miss Dunton came and asked if we were satisfied. I said we had looked every where except in one place, and we would be satisfied if she would let us look in the water-closet; she said she had not the key, but she would get it for us ; she called a girl, I think, by the name of Virginia, and after a time this girl came and gave us the key and told me she was in there, but we must not let Miss Dunton know. I found Harriet Hooper in there ; her dress seemed out of order and she asked me to let her dress, which I thought it right to do. I went over to Miss Dye\u2019s and there received from her this knife with which the blow is said to have been given.\nCross-examined.\u2014Her hair was disordered when I found her, and she seemed not dressed.\nOfficer Oreo W. H. Tyler, mom\nA message about this matter was received at the Mayor\u2019s office ; Mr. Young, Mr. Johnson and myself started; I ran on to Miss Dye\u2019s; the first thing I saw was the knife ; Julia Dye had it; \u2019twas very bloody, and the handle (horn) seemed to have been recently broken; (the knife was shewn to him,) this is the same knife I saw. I returned to the Mayor\u2019s Court before the prisoner was taken from Miss Dun-ton\u2019s, but I went down to the jail with her. I think she asked if I knew how Lizzie Mitchell was , I answered that I understood she was in a precarious condition; some one else asked her, (I think) how she came to be led away to do such a thing ; she said she hoped she would not die; she did not wish her to die, but she did not care for anything else; I think she farther said, that \u201cElizabeth Mitchell had treated her so badly or abused her so much that she could not help it.\u201d\nCross examined.\u2014I think this was all she said.\nW. D. Haskins, M. D., sworn.\nI was called to see Elizabeth Mitchell a few minutes after the blow was given; I found her lying on a bed, very pale and very much besmeared with blood: I laid bare the side and found a small external incision ; I then enquired into the circumstances and was told she was stabbed with a knife which was shewn to me. I probed the wound\u2014it was two and a half inches deep, extending obliquely down the inner wall of the chest; the pleura was somewhat injured; I was not then certain that the lung was injured ; there was no escape of air or difficulty of breathing; a few days afterwards there was expectoration of blood, which, with other symptoms, convinced me that the lung had been injured ; there was some inflammation, rendering active treatment necessary; the wound was a serious one, but yielded to treatment and the patient recovered in three or four weeks.\nHere the evidence for the prosecution closed.\nFor the defence:\nLouisa Dunton, sworn.\nI saw Harriet Hooper that morning; she had oa a morning gown and her hair was very much dishev-elled. I have known her five or six years ; she is of a very quiet, peaceable disposition; I have never known her guilty of any violent, disorderly conduct; her mother lives in Manchester.\n(By a Juror.)\u2014I believe she was raised in Richmond, and has been living here all her life."
+  },
+  "file_name": "0038-01",
+  "first_page_order": 42,
+  "last_page_order": 47
+}

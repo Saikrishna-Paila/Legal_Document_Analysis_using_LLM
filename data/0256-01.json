@@ -1,0 +1,147 @@
+{
+  "id": 2288204,
+  "name": "JERRY MELVIN BURNS v. C.W. WRIGHT CONSTRUCTION CO., INC.",
+  "name_abbreviation": "Burns v. C.W. Wright Construction Co.",
+  "decision_date": "1985-12-03",
+  "docket_number": "No. 0257-85",
+  "first_page": "256",
+  "last_page": "259",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 256"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "335 S.E.2d 257",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 S.E.2d 136",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1956,
+      "pin_cites": [
+        {
+          "page": "139"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "198 Va. 231",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2058740
+      ],
+      "weight": 2,
+      "year": 1956,
+      "pin_cites": [
+        {
+          "page": "235"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/198/0231-01"
+      ]
+    },
+    {
+      "cite": "194 S.E. 721",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "year": 1938,
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 Va. 470",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        1955072
+      ],
+      "year": 1938,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/169/0470-01"
+      ]
+    },
+    {
+      "cite": "187 S.E. 440",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "year": 1936,
+      "opinion_index": 0
+    },
+    {
+      "cite": "167 Va. 1",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        1960138
+      ],
+      "year": 1936,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/167/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 297,
+    "char_count": 5141,
+    "ocr_confidence": 0.922,
+    "pagerank": {
+      "raw": 2.9198150227848606e-07,
+      "percentile": 0.8464806249321871
+    },
+    "sha256": "ed13301ad8dc61020cdef1a72d0f5d8171697fe2233c9b74ead030812c0a5a45",
+    "simhash": "1:b353d24037a1a11f",
+    "word_count": 895
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JERRY MELVIN BURNS v. C.W. WRIGHT CONSTRUCTION CO., INC."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nMOON, J.\nWe are asked to decide whether Jerry Melvin Burns\u2019 appeal from a decision of the Industrial Commission must be dismissed because he failed to file the appeal bond required by Code \u00a7 8.01-676.1 and Rule 5A:17. We hold that the appeal must be dismissed.\nCode \u00a7 8.01-676.1(A) provides: \u201cA party filing a notice of an appeal of right to the Court of Appeals shall simultaneously file an appeal bond in the penalty of $500.\u201d The bond must be filed with the clerk of the Industrial Commission or the clerk of the Circuit Court, whichever is applicable. Code \u00a7 8.01-676.1(1).\nPrior to October 1, 1984, the date from which appeals of right existed to the Court of Appeals, the Supreme Court of Virginia, in construing the predecessors of Code \u00a7 8.01-676.1, consistently held that the failure to file an appeal bond in substantial compliance with the statutes required dismissal of the appeal. Under the predecessor of Code \u00a7 8.01-676.1, in cases involving appeals from the Industrial Commission and the circuit courts, the Supreme Court, upon granting an appeal, fixed in the Certificate of Appeal the date by which the appeal bond was to be filed. See Code \u00a7 8.01-676 (repealed effective Oct. 1, 1984). In Clinch Valley Lumber Corp. v. Hagan Estates, Inc., 167 Va. 1, 187 S.E. 440 (1936) and Forrest v. Hawkins, 169 Va. 470, 194 S.E. 721 (1938), the Supreme Court dismissed appeals in which bonds were filed that did not substantially comply with the statute. In Parker v. Prince William County, 198 Va. 231, 93 S.E.2d 136 (1956), the Supreme Court dismissed an appeal from the county court to the circuit court in which the required bond was not given as required by former Code \u00a7 15-259. In Parker, the Supreme Court stated, referring to Clinch Valley, Forrest, and other cases:\nThese cases make it abundantly clear that failure to substantially comply with the statutory requirements applicable to appeal bonds constitutes a jurisdictional defect which cannot be corrected after the expiration of the time within which an appeal may be taken.\nParker, 198 Va. at 235, 93 S.E.2d at 139.\nThe Supreme Court has reiterated that failure to file the appeal bond in appeals before its court is jurisdictional and that such failure is not a mere defect which may be corrected pursuant to its Rule 5:24. E. B. Rudiger & Sons, Inc. v. Hanckel-Smith Sales Co., 230 Va. __, 335 S.E.2d 257 (1985).\nOn January 24, 1985, the Industrial Commission of Virginia dismissed Jerry Melvin Burns\u2019 claim. Burns filed a notice of appeal to the Court of Appeals on February 25, 1985, but did not file an appeal bond with the clerk of the Industrial Commission. Prior to the hearing in this court, the appellee filed a motion to dismiss the appeal because of Burns\u2019 failure to file a bond.\nBurns argues that his failure to file a bond is cured by Rule 5A: 17(b), which provides:\nWhenever an appellant files an appeal bond, he shall contemporaneously give notice in writing of filing the bond to counsel for appellee. No appeal shall be dismissed because of defect in any bond unless an appellee, within 21 days after the giving of such notice, files with the clerk of the Court of Appeals a statement in writing of the defects in the bond, and unless the appellant fails to correct such defects, if any, within 21 days after such statement is filed.\nRule 5A: 17(b) (which corresponds to Rule 5:24 relating to Supreme Court appeals) clearly only applies \u201c[w]henever an appellant files an appeal bond.\u201d In both Clinch Valley and Forrest, bonds were filed but the cases were still dismissed because the bonds were so defective as to not substantially comply with the statute. In this case no bond was filed.\nRule 5A: 3(b) does not authorize an extension of time for filing the bond. It provides that \u201cthe times prescribed in these Rules for filing papers may be extended by a judge of the court in which the papers are to be filed on motion for good cause shown and to attain the ends of justice.\u201d (emphasis added). The bond is required by statute\u2014not by rules of court. Therefore, there is no authority for this or any court to extend the time for filing an appeal bond.\nThe Supreme Court has held that the statutory requirement to file an appeal bond is jurisdictional in the Supreme Court and in appeals to the circuit courts. The appeal bond required by the statutes and rules applicable to their filing are substantially the same in this court and the Supreme Court. We find no authority or rationale that allows us to depart from the Supreme Court\u2019s decisions on this issue.\nWe hold in this case that failure to file an appeal bond as required by Code \u00a7 8.01-676.1 requires that an appeal be dismissed and that neither Rule 5A:3(b) nor 5A:17(b) can be used to extend the time for filing of bonds when none has been given.\nDismissed.\nKoontz, C.J., and Baker, J., concurred.",
+        "type": "majority",
+        "author": "MOON, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Stuart C. Sullivan, III (Franklin, Franklin, Denney & Heatwole), for appellant.",
+      "James C. Joyce, Jr. (Gentry, Locke, Rakes & Moore), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Salem\nJERRY MELVIN BURNS v. C.W. WRIGHT CONSTRUCTION CO., INC.\nNo. 0257-85\nArgued September 18, 1985\nDecided December 3, 1985\nCounsel\nStuart C. Sullivan, III (Franklin, Franklin, Denney & Heatwole), for appellant.\nJames C. Joyce, Jr. (Gentry, Locke, Rakes & Moore), for appellee."
+  },
+  "file_name": "0256-01",
+  "first_page_order": 280,
+  "last_page_order": 283
+}

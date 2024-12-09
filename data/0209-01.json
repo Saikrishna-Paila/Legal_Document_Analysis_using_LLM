@@ -1,0 +1,206 @@
+{
+  "id": 2288273,
+  "name": "VINCENT R. CLEPHAS v. DORIS ELOISE CLEPHAS",
+  "name_abbreviation": "Clephas v. Clephas",
+  "decision_date": "1985-11-19",
+  "docket_number": "No. 0024-84",
+  "first_page": "209",
+  "last_page": "212",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 209"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "56 W.Va. 174",
+      "category": "reporters:state",
+      "reporter": "W. Va.",
+      "case_ids": [
+        8637613
+      ],
+      "year": 1904,
+      "pin_cites": [
+        {
+          "page": "179-81, 49"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/w-va/56/0174-01"
+      ]
+    },
+    {
+      "cite": "99 S.E. 785",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "year": 1919,
+      "pin_cites": [
+        {
+          "page": "787"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Va. 162",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        11279735
+      ],
+      "year": 1919,
+      "pin_cites": [
+        {
+          "page": "172"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/125/0162-01"
+      ]
+    },
+    {
+      "cite": "69 S.E.2d 459",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "461"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "193 Va. 390",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2160654
+      ],
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "392"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/193/0390-01"
+      ]
+    },
+    {
+      "cite": "135 S.E.2d 770",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "773"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "205 Va. 205",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2042238
+      ],
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "208"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/205/0205-01"
+      ]
+    },
+    {
+      "cite": "318 S.E.2d 292",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "297"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "227 Va. 569",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2074663
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "578"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/227/0569-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 337,
+    "char_count": 4683,
+    "ocr_confidence": 0.89,
+    "pagerank": {
+      "raw": 7.480882369975635e-08,
+      "percentile": 0.4455931600645443
+    },
+    "sha256": "4c32bffaa9982f575ff2518376779d188562deeb8050c8a7574abafce84a6687",
+    "simhash": "1:f52c7d8f771cdd72",
+    "word_count": 780
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "VINCENT R. CLEPHAS v. DORIS ELOISE CLEPHAS"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nBARROW, J.\nIn this case we are asked to interpret a separation agreement, but we must first answer a threshold question concerning the appealability of the trial court\u2019s order containing the issues presented. We conclude that the order is not appealable.\nThe separation agreement and its addenda contain provisions for spousal and child support as well as for increases in support and termination of support. The agreement required the husband to pay $400 per month in spousal support and $603 per month in child support and provided that if the husband received a raise in his salary, \u201chis payment shall be increased by one-third (V3) of said increase.\u201d The addendum signed nine years later provided that the husband would continue the \u201cmonthly support and maintenance payments to the wife . . . until both children shall have completed a four (4) year college education.\u201d\nThe husband did not make the payments required by the agreement. In January, 1981, the trial court found that he was in arrears in excess of $43,000, and, in March of that same year, he was found further in arrears for more than $3,000. Later, the wife again proceeded against the husband for arrearage, and the trial court, after four separate hearings, entered an order on September 12, 1984, finding the husband in arrears in the amount of $51,716.76.\nAnother order was entered by the trial court on October 13, 1984, reciting that the September order \u201cdid not in all respects conform to or address all of the rulings of the court on July 6, 1974 [apparently meaning July 6, 1984, the date of the last of its hearings before the entry of the September order] . . . and that a supplemental Order setting forth said rulings is appropriate. . . .\u201d It went on to decree that \u201cthe Addendum . . . does not. . . provide for a cessation of monthly support and maintenance payments to the wife after both of the children of the parties have completed a four-year college education; and . . . those sums due and payable to the wife based upon the increases in the Defendant\u2019s salary, shall not be reduced pro rata in proportion to the reduction of child support payments that are no longer due and owing. . . .\u201d This order was entered after a telephone conference on October 3, 1984, among the trial judge and attorneys for both parties.\nThe husband contends that spousal support should have been terminated when the youngest child graduated from college in May, 1983, and that the increases in support payments required by the separation agreement should have been proportionately divided between spousal and child support. He asks that the trial court\u2019s rulings relating to the termination of spousal support and the apportionment of the increases in the support payments be reversed and that this matter be remanded \u201cfor entry of an order terminating spousal support and recalculating the arrearages.\u201d\nHowever, we may not reach these issues if the trial court\u2019s ruling is not reviewable. The September order is not appealable since only orders entered on or after October 1, 1984, may be appealed to this court. Code \u00a7 17-116.05:4. Since the September order resolved the issues which the husband disputes, reversing or remanding the action of the trial court taken after October 1, 1984, will not affect the September order unless it was effectively modified by the trial court\u2019s action.\nThe September order was not modified by the telephone conference on October 3 because a court may speak only through its written orders. Hill v. Hill, 227 Va. 569, 578, 318 S.E.2d 292, 297 (1984); Cunningham v. Smith, 205 Va. 205, 208, 135 S.E.2d 770, 773 (1964). A judgment occurs when a court directs the clerk to enter it on the court\u2019s order book, not when the court rules on a motion or directs counsel to prepare an order. McDowell v. Dye, 193 Va. 390, 392, 69 S.E.2d 459, 461 (1952).\nThe September order was not modified by the October order since it could only be modified within twenty-one days after its entry. Rule 1:1. The September order was final since it disposed of all substantive issues. See Johnson v. Merrit, 125 Va. 162, 172, 99 S.E. 785, 787 (1919), even though the court may not have ruled on every issue in controversy. See Hill v. Cronin, 56 W.Va. 174, 179-81, 49.S.E. 132, 134-35 (1904).\nTherefore this court cannot grant the husband the relief he seeks, and, accordingly, this appeal will be dismissed without addressing the merits of the issues raised.\nDismissed.\nColeman, J., and Duff, J., concurred.",
+        "type": "majority",
+        "author": "BARROW, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Yvonne F. Weight, for appellant.",
+      "Michael Alan Ward, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Arlington\nVINCENT R. CLEPHAS v. DORIS ELOISE CLEPHAS\nNo. 0024-84\nArgued April 30, 1985\nDecided November 19, 1985\nCounsel\nYvonne F. Weight, for appellant.\nMichael Alan Ward, for appellee."
+  },
+  "file_name": "0209-01",
+  "first_page_order": 233,
+  "last_page_order": 236
+}

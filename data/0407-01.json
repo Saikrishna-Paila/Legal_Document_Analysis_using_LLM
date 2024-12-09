@@ -1,0 +1,363 @@
+{
+  "id": 2288275,
+  "name": "PRESTON SMITH, JR. v. C. E. THOMPSON, WARDEN",
+  "name_abbreviation": "Smith v. Thompson",
+  "decision_date": "1986-02-04",
+  "docket_number": "No. 0570-85",
+  "first_page": "407",
+  "last_page": "412",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 407"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "321 S.E.2d 637",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "228 Va. 219",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2072444
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/228/0219-01"
+      ]
+    },
+    {
+      "cite": "432 U.S. 98",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177400
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "116"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/432/0098-01"
+      ]
+    },
+    {
+      "cite": "409 U.S. 188",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6173155
+      ],
+      "weight": 2,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "198"
+        },
+        {
+          "page": "199-200"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/409/0188-01"
+      ]
+    },
+    {
+      "cite": "332 S.E.2d 802",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "804"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Va. App. 26",
+      "category": "reporters:state",
+      "reporter": "Va. App.",
+      "case_ids": [
+        2288268
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "29"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va-app/1/0026-01"
+      ]
+    },
+    {
+      "cite": "318 S.E.2d 399",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "403"
+        },
+        {
+          "page": "403"
+        },
+        {
+          "page": "404"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "227 Va. 525",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2074664
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "534"
+        },
+        {
+          "page": "534"
+        },
+        {
+          "page": "535"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/227/0525-01"
+      ]
+    },
+    {
+      "cite": "104 S. Ct. 2052",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6204802
+      ],
+      "weight": 4,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "2065"
+        },
+        {
+          "page": "2065-66"
+        },
+        {
+          "page": "2069"
+        },
+        {
+          "page": "2067"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "306 S.E.2d 882",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "884"
+        },
+        {
+          "page": "885"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "226 Va. 111",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2076458
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "116-17"
+        },
+        {
+          "page": "118"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/226/0111-01"
+      ]
+    },
+    {
+      "cite": "333 S.E.2d 82",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "84"
+        },
+        {
+          "page": "84"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Va. App. 31",
+      "category": "reporters:state",
+      "reporter": "Va. App.",
+      "case_ids": [
+        2288262
+      ],
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "34"
+        },
+        {
+          "page": "34"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va-app/1/0031-01"
+      ]
+    },
+    {
+      "cite": "332 S.E.2d 791",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "792"
+        },
+        {
+          "page": "792"
+        },
+        {
+          "page": "792"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Va. App. 21",
+      "category": "reporters:state",
+      "reporter": "Va. App.",
+      "case_ids": [
+        2288252
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "23"
+        },
+        {
+          "page": "23"
+        },
+        {
+          "page": "23"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va-app/1/0021-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 759",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12058501
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0759-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 562,
+    "char_count": 8509,
+    "ocr_confidence": 0.92,
+    "pagerank": {
+      "raw": 1.269924649473949e-07,
+      "percentile": 0.6145510800050505
+    },
+    "sha256": "905dd81dcbba3f9e5fe87d0a2c7a7c5893765537d5f25eb4ff6794339a1125bc",
+    "simhash": "1:8b2fd422561f9857",
+    "word_count": 1423
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PRESTON SMITH, JR. v. C. E. THOMPSON, WARDEN"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nHODGES, J.\nPreston Smith, Jr., an inmate in the Virginia correctional system, filed a petition for a writ of habeas corpus in the Circuit Court of the City of Newport News alleging that he was being detained because of ineffective assistance of counsel during his trial on charges of robbery and the use of a firearm in the commission of the crime of robbery. The respondent filed a motion to dismiss which the habeas court granted without evidentiary hearing. In this appeal, Smith alleges that the habeas court erred in denying the evidentiary hearing because the record on its face demonstrates ineffectiveness of trial counsel. We do not agree and affirm.\nAt about 4:00 a.m. on February 6, 1982, a man entered a motel in Newport News, Virginia, and inquired about the rate for a single room. He then placed a scarf across his face and pointed a gun at the night clerk. The lobby was well lit with six to eight lights. The intruder forced the clerk into an adjacent room at gun point where another employee was working on credit cards. The intruder kept the scarf over his mouth and chin while seizing the money, but when a buzzer sounded indicating that someone might be entering the building, the intruder lowered the scarf and his face was visible to the second clerk. The robber then fled the building pursued by one of the clerks who later described the automobile used by the robber to the police \u201cas a big maroonish old Lincoln, Chrysler or Dodge.\u201d\nAn automobile fitting that description was pursued by the Newport News Police until it became stuck at a construction site. The driver fled. One of the clerks identified the vehicle as the one used in the robbery and also identified a scarf found therein as being similar to that used by the robber. The police determined that the vehicle was owned by Portia Hare.\nBoth clerks had given a description of the robber to the police. The desk clerk had described him as black, five feet ten inches in height, short hair, a mustache and a little growth on his face. The same victim said that the robber wore a light weight olive jacket and cloth shoes with soles lighter in color than the upper part. The second clerk described him as a black male, twenty-five to thirty years old, with a kind of fu manchu mustache.\nBased on their investigation, police went to the residence of Portia Hare and stopped Smith as he attempted to enter the building. He was placed in a police car and detained for ten to twelve minutes until the two victims arrived. Both victims identified petitioner as the perpetrator of the crime.\nAt trial, Smith was again identified by both victims and the shoes he was wearing at time of arrest were received into evidence, without objection, as resembling the shoes worn by the robber. Petitioner admitted he had driven Ms. Hare\u2019s car earlier in the evening, but denied the commission of the crime.\nPetitioner alleges that had he been granted a plenary hearing he could have proven he was prejudiced by ineffective assistance of counsel because: (1) counsel waived preliminary hearing; (2) counsel failed to challenge the victims\u2019 out-of-court identification; and (3) counsel failed to object to the introduction of certain evidence.\nThe right to counsel, granted by the Sixth and Fourteenth Amendment, includes the right to effective assistance of counsel. McMann v. Richardson, 397 U.S. 759, 771 n.24 (1970); Perry v. Warden, 1 Va. App. 21, 23, 332 S.E.2d 791, 792 (1985); Titcomb v. Wyant, 1 Va. App. 31, 34, 333 S.E.2d 82, 84 (1985). It is well settled that to be effective, an attorney must exercise \u201cthe care and skill which a reasonably competent attorney would exercise for similar services under the circumstances.\u201d Stokes v. Warden, 226 Va. 111, 116-17, 306 S.E.2d 882, 884 (1983); Titcomb, 1 Va. App. at 34, 333 S.E.2d at 84. The reviewing court must make every effort to \u201celiminate the distorting effects of hindsight\u201d and to \u201cevaluate the conduct from counsel\u2019s perspective at the time.\u201d Strickland v. Washington, _ U.S. _, 104 S. Ct. 2052, 2065 (1984); Department of Corrections v. Clark, 227 Va. 525, 534, 318 S.E.2d 399, 403 (1984); Perry, 1 Va. App. at 23, 332 S.E.2d at 792.\nIn evaluating counsel\u2019s performance, the court must presume that counsel\u2019s conduct is the product of reasonable trial strategy, and the burden is on the petitioner to overcome this presumption. Strickland v. Washington, 104 S. Ct. at 2065-66; Department of Corrections v. Clark, 227 Va. at 534, 318 S.E.2d at 403; Perry, 1 Va. App. at 23, 332 S.E.2d at 792.\nTo prove that counsel\u2019s assistance was ineffective, the petitioner must show that counsel\u2019s conduct so undermined the proper functioning of the adversarial process that the trial cannot be relied on as having produced a just result. Strickland v. Washington, 104 S. Ct. at 2069; Abney v. Warden, 1 Va. App. 26, 29, 332 S.E.2d 802, 804 (1985). It must be shown that not only was counsel\u2019s performance deficient, but also that such deficiency prejudiced the defense. Deficiency, even if professionally unreasonable, does not warrant setting aside a judgment if the deficiency had no effect on the outcome. Strickland v. Washington, 104 S. Ct. at 2067; Department of Corrections v. Clark, 227 Va. at 535, 318 S.E.2d at 404; Stokes v. Warden, 226 Va. at 118, 306 S.E.2d at 885. We will treat the claims of ineffective assistance of counsel in the order previously stated.\nSmith alleges that, \u201cPrior to the trial in the Circuit Court of the City of Newport News, Wray (trial counsel), without properly advising petitioner, waived petitioner\u2019s preliminary hearing.\u201d The arrest warrants, which are a part of the record, bear Smith\u2019s signature acknowledging his understanding of the consequences of the waiver and that the judge of the district court in which it was being heard explained it to him. The petition does not allege prejudice as a result of the waiver, but states that it would have been the first opportunity to attack the mode of identification made by the victims. The record clearly establishes that counsel\u2019s performance was not deficient and that there was no prejudice flowing from the waiver of the preliminary hearing. We find no error for refusing plenary hearing on this ground.\nPetitioner next complains that trial counsel failed to challenge the identifications in the trial court. This complaint likewise is without merit. While it is true that an identification can violate an accused\u2019s due process rights if it is so overly suggestive to make it unreliable, showups are not per se suggestive. Neil v. Biggers, 409 U.S. 188, 198 (1972). A court must look to the totality of the circumstances to determine whether there was a substantial likelihood of misidentification. Manson v. Braithwaite, 432 U.S. 98, 116 (1977); see McCary v. Commonwealth, 228 Va. 219, 321 S.E.2d 637 (1984). Five factors for consideration were set forth in Biggers: (1) the opportunity of the witness to observe the criminal at the time of the crime; (2) the witness\u2019 degree of attention; (3) the accuracy of the witness\u2019 prior description of the criminal; (4) the level of certainty demonstrated by the witness\u2019 confrontation; and (5) the length of time between the crime and confrontation. 409 U.S. at 199-200. The record clearly shows that, applying the Biggers criteria, the identifications were not so unnecessarily suggestive as to produce a likelihood of misidentification. It is equally clear that any challenge of the identifications could have been properly denied. Since the record establishes the absence of deficient performance and/or prejudice, there was no error in refusing a plenary hearing on this ground.\nThe petitioner\u2019s objection to the admissibility of his shoes into evidence is based on the allegation that his arrest was illegal. Inasmuch as we have concluded to the contrary, this argument will not be considered.\nCode \u00a7 8.01-654 (B)(5) provides that the trial court may make its findings and reach its conclusions following a determination on the record or after a hearing. We find that the record is sufficiently clear to show that the petitioner was not deprived of effective assistance of counsel on the grounds alleged and do hereby affirm.\nAffirmed.\nBaker, J., and Barrow, J., concurred.",
+        "type": "majority",
+        "author": "HODGES, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Sa\u2019ad El-Amin, for appellant.",
+      "Eugene Murphy, Assistant Attorney General (William G. Broaddus, Attorney General, on brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Norfolk\nPRESTON SMITH, JR. v. C. E. THOMPSON, WARDEN\nNo. 0570-85\nArgued October 17, 1985\nDecided February 4, 1986\nCounsel\nSa\u2019ad El-Amin, for appellant.\nEugene Murphy, Assistant Attorney General (William G. Broaddus, Attorney General, on brief), for appellee."
+  },
+  "file_name": "0407-01",
+  "first_page_order": 431,
+  "last_page_order": 436
+}

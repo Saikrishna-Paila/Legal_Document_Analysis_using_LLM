@@ -1,0 +1,227 @@
+{
+  "id": 2288257,
+  "name": "KENNETH S. LAWRENCE, SR. v. VIOLETTE A. BLUFORD-BROWN",
+  "name_abbreviation": "Lawrence v. Bluford-Brown",
+  "decision_date": "1985-11-19",
+  "docket_number": "No. 0102-84",
+  "first_page": "202",
+  "last_page": "205",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "19 U. Rich. L. Rev. 235",
+      "category": "journals:journal",
+      "reporter": "U. Rich. L. Rev.",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "255 F.2d 476",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        681989
+      ],
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "481"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/255/0476-01"
+      ]
+    },
+    {
+      "cite": "284 S.E.2d 7",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "8"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "248 Ga. 406",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        1183777
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "407"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/248/0406-01"
+      ]
+    },
+    {
+      "cite": "438 N.Y.S.2d 726",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "729"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 Misc. 2d 709",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        776995
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "713"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/108/0709-01"
+      ]
+    },
+    {
+      "cite": "153 S.E.2d 243",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "245"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "207 Va. 877",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        6812816
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "880"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/207/0877-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 757",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12047531
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "761"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0757-01"
+      ]
+    },
+    {
+      "cite": "329 S.E.2d 791",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "794"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "329 S.E.2d 794",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "799-80"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 334,
+    "char_count": 4486,
+    "ocr_confidence": 0.92,
+    "pagerank": {
+      "raw": 2.071071223602015e-07,
+      "percentile": 0.757750741452494
+    },
+    "sha256": "ae210c963e7c6eb1ebd058cc289a1017879043d569c261bfafcbd03d368329d0",
+    "simhash": "1:53641a62b10fb4c5",
+    "word_count": 705
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "KENNETH S. LAWRENCE, SR. v. VIOLETTE A. BLUFORD-BROWN"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nBARROW, J.\nThis appeal challenges the use of a court-ordered genetic blood grouping test to determine paternity. In our opinion the test was properly used, and the appellant\u2019s challenge should fail.\nThe appellee, Violette O. Bluford-Brown, testified at trial on November 26, 1984, that she had sexual intercourse only with the appellant, Kenneth S. Lawrence, Sr., during the two years immediately preceding the child\u2019s birth. In addition, a medical expert testified that genetic blood grouping test results indicated that the paternity of the appellant was \u201cextremely likely, being about 99.47%.\u201d The trial court found that the appellant was the father of the appellee\u2019s child.\nCivil Application\nAppellant contends that Code \u00a7 20-61.1, which allows a court to enforce a judgment for the support of an illegitimate child, is a criminal statute and should not apply to a civil proceeding. However, the Supreme Court recently has held that this provision applies to both civil and criminal proceedings. Jones v. Robinson, _ Va. __, 329 S.E.2d 794, 799-80 (1985).\nProof of Paternity\nAppellant claims Code \u00a7 20-61.2, which allows the results of a blood grouping test to be admitted into evidence, is intended only as a means to disprove paternity. It is not necessary to address this issue because Code \u00a7 20-61.1, which has recently been held applicable to civil proceedings, id., allows blood grouping tests to be used affirmatively to prove paternity. Code \u00a7 20-61.1.\nSufficiency of Evidence\nAppellant contends the evidence was insufficient to establish paternity. However, the results of a genetic blood grouping test and evidence of a putative father\u2019s access to the mother during the period of conception are sufficient to support a finding of paternity. See Hankerson v. Moody, _Va. _, 329 S.E.2d 791, 794 (1985).\nSelf-Incrimination\nThe appellant also questions whether a putative father\u2019s privilege against self-incrimination is violated by requiring him to submit to blood testing. The privilege against self-incrimination is not violated by blood tests required of one charged with the offense of driving while under the influence of alcohol. Schmerber v. California, 384 U.S. 757, 761 (1966); Shumate v. Commonwealth, 207 Va. 877, 880, 153 S.E.2d 243, 245 (1967). The privilege only protects an individual from being compelled to provide evidence of a testimonial or communicative nature against himself, and the withdrawal of blood is not a compulsion of this nature. Id. Therefore, we conclude that the genetic blood grouping test required in this case did not violate the appellant\u2019s privilege against self-incrimination. Similar challenges have also been rejected in other jurisdictions. Jane L. v. Rodney B., 108 Misc. 2d 709, 713, 438 N.Y.S.2d 726, 729 (N.Y. Fam. Ct. 1981); Raines v. White, 248 Ga. 406, 407, 284 S.E.2d 7, 8 (1981).\nVagueness\nFinally the appellant asserts that the statutory provisions in Code \u00a7\u00a7 20-61.1 and 20-61.2 are unconstitutionally vague and indefinite. These sections provide that the results of genetic blood grouping tests, which may include the human leukocyte antigen (HLA) test, are admissible into evidence. The appellant\u2019s argument does not allege that the language of the statutes is unclear but, instead, complains that no standard is prescribed for a finding of paternity.\nSpecific standards in the statute would dispense with the necessity for expert witnesses to interpret laboratory findings. See Kay v. U.S., 255 F.2d 476, 481 (4th Cir. 1958). The lack of specific standards simply requires the use of expert witnesses to explain the laboratory findings and permits any dispute among the experts to be resolved by the trier of fact. In our opinion, the statutory provisions challenged by the appellant are not unconstitutionally vague and indefinite.\nThe trial court did not err in considering a genetic blood grouping test in determining that the appellant was the father of the appellee\u2019s child. Accordingly, the judgment is affirmed.\nAffirmed.\nColeman, J., and Duff, J., concurred.\nFor a discussion of the problems associated with the use of blood grouping tests and the legislative history of Code \u00a7\u00a7 20-61.1 and 61.2, see Lemmon & Murphy, The Evidentiary Use of the HLA Blood Test in Virginia, 19 U. Rich. L. Rev. 235 (1985).",
+        "type": "majority",
+        "author": "BARROW, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "G. Warthen Downs, for appellant.",
+      "Sterling H. Moore, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Arlington\nKENNETH S. LAWRENCE, SR. v. VIOLETTE A. BLUFORD-BROWN\nNo. 0102-84\nArgued May 1, 1985\nDecided November 19, 1985\nCounsel\nG. Warthen Downs, for appellant.\nSterling H. Moore, for appellee."
+  },
+  "file_name": "0202-01",
+  "first_page_order": 226,
+  "last_page_order": 229
+}

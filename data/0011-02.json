@@ -1,0 +1,59 @@
+{
+  "id": 2096021,
+  "name": "Isbell et ux. v. Butler et al.",
+  "name_abbreviation": "Isbell v. Butler",
+  "decision_date": "1735-04",
+  "docket_number": "",
+  "first_page": "11",
+  "last_page": "11",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 10"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 57,
+    "char_count": 426,
+    "ocr_confidence": 0.43,
+    "sha256": "bb962e62c00a25d25689ff0b1146afe09632e5137577369dd5b39368c03a34a6",
+    "simhash": "1:0b2b254358068786",
+    "word_count": 79
+  },
+  "last_updated": "2023-07-14T19:43:08.706124+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "*Isbell et ux. v. Butler et al."
+    ],
+    "opinions": [
+      {
+        "text": "In this case a question was made, whether a slave given by an intestate in his lifetime to a younger child, should be taken at the value he was when given, or the value at the testator\u2019s death. Et per tot cur. at the value when given, et recte opinor. Thomas Randolph and Hopkins contra.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "*Isbell et ux. v. Butler et al.\nApril, 1735.\nSlaves \u2014Value of \u2014 At What Time Considered \u2014 Case at Bar.\nReported by Edward Barradall, Esq."
+  },
+  "file_name": "0011-02",
+  "first_page_order": 11,
+  "last_page_order": 11
+}

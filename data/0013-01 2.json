@@ -1,0 +1,93 @@
+{
+  "id": 2096030,
+  "name": "Morris v. Chamberlayne",
+  "name_abbreviation": "Morris v. Chamberlayne",
+  "decision_date": "1735-04",
+  "docket_number": "",
+  "first_page": "13",
+  "last_page": "15",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 14"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Gratt. 183",
+      "category": "reporters:state",
+      "reporter": "Gratt.",
+      "case_ids": [
+        4450402
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/50/0084-01"
+      ]
+    },
+    {
+      "cite": "2 C. 42",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "pin_cites": [
+        {
+          "page": "p. 258"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 H. 8",
+      "category": "reporters:state",
+      "reporter": "H.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 494,
+    "char_count": 11555,
+    "ocr_confidence": 0.429,
+    "sha256": "30c96e028d3e20c207813d32c3a8174a2db799b1173f3ec16c9661882b5d4f04",
+    "simhash": "1:5de99061cb25b488",
+    "word_count": 2068
+  },
+  "last_updated": "2024-02-27T21:13:56.724571+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Morris v. Chamberlayne."
+    ],
+    "opinions": [
+      {
+        "text": "The plaintiff declared upon an indebitatus assumpsit for money and tobacco had and received to his use. Upon non assumpsit pleaded, the jury find a special verdict, upon which the case appears to be, that the plaintiff was sheriff of New Kent, anno 1733, and had the collection of the quit-rents, levies and fees, and Burch was his under sheriff, and paid him five thousand pounds of tobacco *for the profits of his office. There was due from the defendant \u00a36. 12s. 4d. for quit-rents, and seventy-seven hundred and thirty-seven pounds of tobacco tor county levies and officers\u2019 fees of his own, and other people\u2019s that he had received. Burch being indebted to the defendant more than that money and tobacco before the year 1733, gives the defendant receipts for those quit-rents, levies, &c. and gives himself credit in the defendant\u2019s books for the same, but no money or tobacco was paid except by that discount, and the defendant or Burch has not paid the plaintiff any of that money and tobacco. If the law be for the plaintiff the jury find ^71. Is. lOd. damages. The questions upon this case I take to be two: first, -Whether the defendant is chargeable at all to the plaintiff for the quit-rents, &c. discounted with Burch, the under sheriff, and for which he has his receipt. Second, if he\u2018. be, whether the plaintiff can maintain an indebitatus assumpsit for the quit-rents, &c. due from the defendant himself. There is a, difference taken as to the money received for quit-rents, and the tobacco received for levies and fees; the quit-rents are said to be the King\u2019s treasure, and so coming to the defendant\u2019s hands, he is answerable, and so perhaps he would to the King, if we were in a dispute with the crown. For it must be owned, the law is particularly careful to secure the King\u2019s debts; his treasure is looked upon as the beilorum nervi, and therefore he has sundry prerogatives for obtaining them; he can have execution of body, lands and goods, at once. A subject can have no execution against the King\u2019s debtors without first securing the King\u2019s debt and (33 H. 8, c. 9,) if process for the King be commenced before judgment, the King shall have remedj\u2019 against the debtor of his debtor cum multis aliis. If a man- intermeddles with the King\u2019s treasure, pretending title, he shall be answerable for it to the King. 11 Rep. 89; E. of Devonshire; God. C. 291, 292. All this is true, but nothing to the purpose. The question here is not between the King and a subject, nor ought the money, as 1 conceive in this case, to be regarded as the King\u2019s debt; it seems, therefore, foreign and absurd to talk of his prerogative. The case as to this point is no more than this: an officer of the crown employs a person under him, who receives the King\u2019s money, and pays to a third person. The officer sues this third person for money received to his use: how is the King concerned in all this? Will his treasure be impaired if the plaintiff should not recover? How then can this bb'regarded as his debt? Is the plaintiff entitled to an execution against body, lands and goods? Will he be preferred to another subject in point of execution? Can the plaintiff have remedy against the debtor of the defendant? If I am answered in \u2018 the negative, as sure I must be, it *will be evident to demonstration that this is not the King\u2019s debt, nor can it be regarded as such; if it was, the plaintiff would have all those privileges. Therefore, without entering into the dispute whether the defendant would be answerable to the King or not, which I conceive is nothing at all to this case, I shall close this point with an observation of Sir M. Hale\u2019s; that to make the King\u2019s prerogative a state to recover other men\u2019s debts, is unreasonable, inconvenient and mischievous. Hard. 404. This plausible pretence of the King\u2019s debt being removed, the case is, in short, this: an under sheriff, who had farmed the profits of the sheriff\u2019s office, directs a person to whom he is indebted, to receive divers quit-rents, levies and fees, and discount them, together with what this person owed himself on the same account, out of his own private debt, and gives receipts. The under sheriff proves insolvent, the sheriff is forced to pay the King and publick officers, and whether the sheriff can recover against the person who received these quit-rents by the under sheriff\u2019s order, is the question? It is said if a master send his servant to receive money, and the servant pays it again to the person he received it of, in discharge of his own debt, this shall be taken as money received to the master\u2019s use, and I agree that it will be so, but I think that is nothing like the case at bar. The under sheriff here cannot be taken asa servant; he had farmed the office for a great premium, and so was not subject to the direction or control of the sheriff, who had delegated his whole power to him, and therefore had no right to intermeddle in the receipts and payments. But the under sheriff was surely to manage that, and every thing else relating to his office, as he thought most to his' own advantage and benefit. It is inconsistent in the nature of the thing, that the sheriff should intermeddle, for by that means he might deprive the under sheriff of all the profits which he paid so largely for. If the sheriff then, had no power to direct the receipts and payments, or in any manner to control the under sheriff, how can the under sheriff be regarded as his servant? Or how can money received, by the order of the under sheriff, be money received for the sheriff\u2019s use? The case, therefore, is not like that of the master and servant, for there is an apparent fraud, and the person receiving the money knows very well it is the master\u2019s, and therefore it is reasonable he should be answerable to the master. But in the case at bar, I conceive the money and tobacco was in no sort the sheriff\u2019s, nor subject to his disposal: though it be true, he is answerable to the King and public creditors, he had fully authorized the under sheriff to receive and pay. The defendant transacted this matter with the person so authorised, and who alone had a right to transact it. If I employ a factor and he pays his debts with my effects, what remedy have I against his creditors? Suppose the under sheriff had actually received this money and tobacco, and paid the same to the defendant, could the sheriff then have demanded it as money received to his use? I believe not. I cannot then conceive any difference in the thing, between actually receiving and paying, and discounting, as in this case. This case is of a very general concern, almost every man pays his quit-rents, &c. to the under sheriff, and often, no doubt, by way of discount, where a man has an account open with the under sheriff; and this, I believe, is the first time such a payment has been disputed. But hereafter it will be unsafe to transact any business with the under sheriff, if the defendant is chargeable in this case, and I must submit, whether such determination will not be introductive of a general inconvenience. But here it is pretended there is a m ghty fraud, because the money was never actually paid to the sheriff. I cannot conceive in what this fraud consists. A public collector being indebted to a man, appoints him to receive some public debts, and then allows him to apply them in discharge of his own private debt. Eew men, I believe, would scruple to do this, or think it any point of dishonest}' or fraud; and as to the money not being actually paid, that is answered before. The second question is, admitting the defendant is answerable, Whether the plaintiff can maintain an indebitatus assumpit for money, &c. received to his use,, for the defendant\u2019s own quit-rents, &e. paid the under sheriff by way of discount, as appears in this case; and I conceive he cannot. This discount must be admitted to be a payment or not a payment. If it be a payment, the under sheriff was sufficiently authorised to receive them. His discharge we have, and there can be no foundation for this action as to them. If this discount be not a payment, as has been strongly urged, it must be owned they are still due; but then the remedy to recover them, is not by action, but distress. Nay, there is an express law that no action shall be brought, unless the party be returned insolvent. What pretence then has the sheriff to maintain this action, or indeed any action at all? Certainly, if these quit-rents, &c. are not paid, they must be recovered in the name of the King and the officers to whom they are due. I conceive the plaintiff has no right to recover any part of this money and tobacco of the defendant, much less can he maintain this action for the defendant\u2019s own quit-rents; and if the law be against the plaintiff upon either point, judgment must be given against him, the damages being entire.\nReported by Edward Barradall, Esq.\nSir John Randolph, for the plaintiff,\nsaid it was not insisted that*this was to be regarded as the King\u2019s debt, but he insisted that the under sheriff was no more than a servant, and cited Dalt. Off. sheriff. That if a servant is sent to receive money, and gives a discharge without receiving it, that discharge shall not bind the master. That it was a general rule, a master was not bound by the act of his servant, if the servant did not pursue the authority given by the master; and he cited Dr. & Studl. dial. 2 C. 42, p. 258; 6 Mod.; Ward v. Evans, fo. 36. He says, this was a fraud and covin between the under sheriff and defendant, and a covinons payment was not good. 1 Keb. 300, a man was indicted for paying his poor\u2019s rate to an indigent overseer against the order of the justices, and 5 Co. 95. Goodall\u2019s case, where a pretended payment of money to satisfy a condition was not good; but neither of the cases seems to the purpose. That in Keb. does not say the payment was not good, but the man was indicted for disobeying the justice\u2019s order; and in Goodall\u2019s case, the reason given is, because an estate of inheritance, by the payment of the money, was to be divested, and, therefore, it ought to be a true payment and performance of the condition.\nDee, Randolph, Grymes, Carter, Digges, and the Governor, for plaintiff.\nEightfoot, Cnstis, Tayloe, Robinson and Bird, for defendant.\nJudgment for the plaintiff, October, 1735.\nBLAIR gave no opinion. For the plaintiff, of master and servant, see 3 Salk. 234.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Sir John Randolph, for the plaintiff,",
+      "Dee, Randolph, Grymes, Carter, Digges, and the Governor, for plaintiff.",
+      "Eightfoot, Cnstis, Tayloe, Robinson and Bird, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Morris v. Chamberlayne.\nApril, 1735.\nAssumpsit \u2014 Quit-Rents\u2014Case at Bar. \u2014 The plaintiff was sheriff of New Kent in the year 1733 and had the collection of the quit-rents, levies and fees, and Burch was his under sheriff, and paid him five thousand pounds of tobacco for the profits of his office. There was due from the defendant \u00a36.12s. 4d. for quit-rents, and seven thousand seven hundred and thirty-seven pounds of tobacco for county levies and officers' fees of his own and other people\u2019s that he had received. Burch being-indebted to the defendant more than that money and tobacco, before the year 1733, gave the defendant receipts for these quit-rents, levies, etc., and gave him credit in the defendant's books for the same, but no money or tobacco was paid except by that discount; neither the defendant nor Burch paid the plaintiff any of that money or tobacco. In an action of indebitatus assumpsit against the defendant for money and tobacco had and received to the use of the plaintiff, it was held that the defendant was liable.\nSee monographic note on \u201cAssumpsit\u201d appended to Kennaird v. Jones, 9 Gratt. 183."
+  },
+  "file_name": "0013-01",
+  "first_page_order": 13,
+  "last_page_order": 15
+}

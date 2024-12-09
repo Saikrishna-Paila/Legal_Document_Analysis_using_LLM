@@ -1,0 +1,59 @@
+{
+  "id": 2096046,
+  "name": "Brent v. Porter",
+  "name_abbreviation": "Brent v. Porter",
+  "decision_date": "1768-10",
+  "docket_number": "",
+  "first_page": "41",
+  "last_page": "41",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 72"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 167,
+    "char_count": 2369,
+    "ocr_confidence": 0.451,
+    "sha256": "072feae3caa1b331ecf20d69291d06c5226a26616cd4f25bc3689d703f94cb1b",
+    "simhash": "1:d30d3c0774ab8eaa",
+    "word_count": 414
+  },
+  "last_updated": "2023-07-14T19:43:08.706124+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brent v. Porter."
+    ],
+    "opinions": [
+      {
+        "text": "A right to slaves descended to two sisters, coparceners, and femes sole; but they were in the possession of another who claimed a right to them. One coparcener marries and dies, the slaves having never been reduced into possession. The surviving coparcener brings this action for her moiety. Two causes were assigned by the defendants, why she should not recover. 1. That by the express words of the act of Assembly, this difference is made, viz. where a right descends to a feme covert, that right vests in the husband; but a feme sole by her marriage gives no right to *her husband, except to the slaves of which she is possessed. 2. That the husband of the deceased coparcener should have joined with the surviving coparcener in this action for the slaves. The court adjudged for the plaintiff\u2019s. But quaere, on which point, or if on both? Cases cited were Bronaugh v. Cock, Wyld v. his children, Southal v. Lucas, Elliot v. Washington, Harrison v. Valentine. All determined in the General court. It was said at the bar in this case, and not denied, that wherever the femes is entitled to slaves not in possession, if the wife dies before reducing them into possession, the right survives to the husband. But if the feme survives it shall be hers: and that the act of Assembly only intended to give the husband such a right as he would have to the chattels of the wife, that is, a right to reduce them into possession; and that this reconciles the cases. In this case also, Pendleton observed, that the husband surviving might recover, whether he took administration or not; and that if he were to take administration and recover in that right, he would be accountable to no one, the statute of distribution having given the surplus to him as next of kin. But Wythe, said it was the second statute of distribution which did this, and that being made after 4 Ja. 1. was not in force here. Therefore, if he recovered, as administrator, he would by our act of distribution, be accountable to the next of kin.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Brent v. Porter.\nOctober, 1768.\nSlaves- Coparceners \u2014Right of Survivor to Possession. \u2014A right to slaves descended to two unmarried sisters, coparceners, possession of which was in another. One married and died, but the slaves were not reduced to possession. The surviving coparcener brought an action to recover her moiety. Hbm>, she was entitled to recover."
+  },
+  "file_name": "0041-02",
+  "first_page_order": 41,
+  "last_page_order": 41
+}

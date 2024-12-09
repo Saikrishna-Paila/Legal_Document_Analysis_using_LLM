@@ -1,0 +1,191 @@
+{
+  "id": 2288219,
+  "name": "BOYD'S ROOFING COMPANY, INC. v. ISADORE J. LEWIS, III",
+  "name_abbreviation": "Boyd's Roofing Co. v. Lewis",
+  "decision_date": "1985-10-01",
+  "docket_number": "No. 0093-84",
+  "first_page": "93",
+  "last_page": "96",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 93"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "243 S.E.2d 236",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "218 Va. 1064",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2130611
+      ],
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/218/1064-01"
+      ]
+    },
+    {
+      "cite": "273 S.E.2d 797",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "221 Va. 786",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2138889
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/221/0786-01"
+      ]
+    },
+    {
+      "cite": "302 S.E.2d 507",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "510-11"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "225 Va. 405",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2078339
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "411"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/225/0405-01"
+      ]
+    },
+    {
+      "cite": "173 S.E.2d 815",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1970,
+      "opinion_index": 0
+    },
+    {
+      "cite": "210 Va. 718",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2037757
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/210/0718-01"
+      ]
+    },
+    {
+      "cite": "129 S.E. 330",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "weight": 2,
+      "year": 1925,
+      "pin_cites": [
+        {
+          "page": "332",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "143 Va. 62",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        1862442
+      ],
+      "weight": 2,
+      "year": 1925,
+      "pin_cites": [
+        {
+          "page": "66"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/143/0062-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 278,
+    "char_count": 3686,
+    "ocr_confidence": 0.894,
+    "pagerank": {
+      "raw": 2.1100902898087548e-07,
+      "percentile": 0.7630047157189473
+    },
+    "sha256": "3555174456e27d926c7689a86ab5c1f90c7b42926f0286fa0abb9f6819f0d6e8",
+    "simhash": "1:3305144eba7e1574",
+    "word_count": 624
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BOYD\u2019S ROOFING COMPANY, INC. v. ISADORE J. LEWIS, III"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nBAKER, J.\nThis is an appeal from a decision of the Industrial Commission awarding compensation to Isadore J. Lewis, III (claimant), for injuries incurred while being transported from his home to work by his employer, Boyd\u2019s Roofing Company, Inc. (employer). The award sustained the finding of the deputy commissioner.\nThe employer alleges that the claim is barred by the holding in Kent v. Virginia-Carolina Chemical Co., 143 Va. 62, 129 S.E. 330 (1925). At page 66 of Kent, the Supreme Court stated that \u201can employee going to or from the place where his work is to be performed is not engaged in performing any service growing out of and incidental to his employment.\u201d\nThe position of the claimant is that the Kent decision also provides an exception to the \u201cgoing to or from\u201d rule when the means of transportation is provided by the employer. Kent, 143 Va. at 66, 129 S.E. at 332 (emphasis added). The existence of an exception to the general \u201cgoing to or from\u201d rule, as asserted by the claimant, was confirmed in Bristow v. Cross, 210 Va. 718, 173 S.E.2d 815 (1970). At pages 720-21 of Bristow, the Supreme Court stated:\nUnder our decisions an injury sustained by a workman who is provided with transportation when going to and from his work, is considered as arising out of his employment when such transportation is the result of an express or implied agreement between the employer and his employee; or where the transportation is furnished by custom to the extent that it is incidental to and part of the contract of employment; or when it is the result of continued practice in the course of the employer\u2019s business which is beneficial to both the employer and the employee.\nThe evidence before the Commission was that the employer-company was owned by Vasco D. Boyd, Sr. Mr. Boyd and his son customarily operated company-owned trucks in the business and in traveling to and from work. Claimant, who was a close friend of Mr. Boyd\u2019s son, lived three houses from the Boyds. In going to and from work the Boyds passed claimant\u2019s house. Almost daily they would pick up claimant and transport him to and from work. When the weather prevented other employees from performing their usual roofing services, the Boyds continued to provide claimant with transportation to and from work and assigned him to do inventory work at the shop. This was a course of conduct that continued throughout claimant\u2019s period of employment.\nFrom the foregoing, the Commission held that the situation was one that had \u201carisen from the continuing practice in the course of the employer\u2019s business which is beneficial to both the employer and the employee, and that this cause came within an exception to the \u2018going and coming rule.\u2019 \u201d\nWe cannot say as a matter of law that the inferences made by the Commission were not reasonable nor supported by the evidence. If there is evidence or reasonable inference that can be drawn from the evidence to support the Commission\u2019s findings, they will not be disturbed by this Court on appeal, even though there is evidence in the record to support contrary finding of fact. Caskey v. Dan River Mills, Inc., 225 Va. 405, 411, 302 S.E.2d 507, 510-11 (1983); Eccon Construction Company v. Lucas, 221 Va. 786, 273 S.E.2d 797 (1981); C.D.S. Construction Services v. Petrock, 218 Va. 1064, 243 S.E.2d 236 (1978).\nAccordingly, the award of the Commission will be affirmed.\nAffirmed.\nBarrow, J., and Hodges, J., concurred.",
+        "type": "majority",
+        "author": "BAKER, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "George M. Kelley, III (Parker, Pollard & Brown, P.C., on brief), for appellant.",
+      "No brief or argument for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Norfolk\nBOYD\u2019S ROOFING COMPANY, INC. v. ISADORE J. LEWIS, III\nNo. 0093-84\nArgued April 2, 1985\nDecided October 1, 1985\nCounsel\nGeorge M. Kelley, III (Parker, Pollard & Brown, P.C., on brief), for appellant.\nNo brief or argument for appellee."
+  },
+  "file_name": "0093-01",
+  "first_page_order": 117,
+  "last_page_order": 120
+}

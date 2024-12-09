@@ -1,0 +1,189 @@
+{
+  "id": 2288256,
+  "name": "CARLTON G. SHELTON v. ENNIS BUSINESS FORMS, INC., et al.",
+  "name_abbreviation": "Shelton v. Ennis Business Forms, Inc.",
+  "decision_date": "1985-09-03",
+  "docket_number": "No. 0050-85",
+  "first_page": "53",
+  "last_page": "56",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 53"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "20 S.E.2d 530",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1942,
+      "pin_cites": [
+        {
+          "page": "533"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Va. 790",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        1978189
+      ],
+      "year": 1942,
+      "pin_cites": [
+        {
+          "page": "796"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/179/0790-01"
+      ]
+    },
+    {
+      "cite": "131 S.E. 240",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "year": 1926,
+      "pin_cites": [
+        {
+          "page": "242"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "144 Va. 98",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        468478
+      ],
+      "year": 1926,
+      "pin_cites": [
+        {
+          "page": "105"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/144/0098-01"
+      ]
+    },
+    {
+      "cite": "278 S.E.2d 801",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 3,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "802-03"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "222 Va. 30",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2083604
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "32"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/222/0030-01"
+      ]
+    },
+    {
+      "cite": "278 S.E.2d 805",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "807-08"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "224 Va. 24",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2079902
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "28-29"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/224/0024-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 312,
+    "char_count": 3882,
+    "ocr_confidence": 0.868,
+    "pagerank": {
+      "raw": 1.259375128301205e-07,
+      "percentile": 0.6121144514602975
+    },
+    "sha256": "91e8420053841e9db6cb1eaca2833630788adbd0c802ed93bec6beb4be622b5f",
+    "simhash": "1:c688a31b45531d96",
+    "word_count": 632
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CARLTON G. SHELTON v. ENNIS BUSINESS FORMS, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nBARROW, J.\nCarlton G. Shelton (claimant) appeals from a decision of the Industrial Commission denying an award for compensation benefits under the Virginia Workers\u2019 Compensation Act. We remand for further proceedings because of the Commission\u2019s possible misapplication of a rule of law.\nWhile at work, the claimant moved a heavy floor jack and immediately suffered pain in his right shoulder. He had previously suffered a rotator cuff tear in the same shoulder, which he had not claimed to be work-related. His physician, Dr. Robert R. Bowen, had operated on his shoulder after the first rotator cuff tear and reported that he \u201ccompletely repair [ed] the tear of the rotator cuff ... At the time of surgery the rotator cuff seemed to be within normal limits.\u201d Claimant returned to work on the advice of his physician and had been placed on light duty work when he moved the heavy floor jack.\nClaimant was then treated by Dr. William E. Albers who diagnosed a rotator cuff tear and found claimant disabled. Dr. Albers, in his report, stated:\n\u201c[tjhis rotator cuff tear is clearly a job related condition . . . [Rjotator cuff tears are wear and tear phenomena . . . [A]n injury, as such, is usually the straw that [breaks] the camel\u2019s back causing the tear, but the wear and tear of the past is more responsible than the injury for the fact that the tear recurs.\u201d\nThe Commission found that claimant failed to carry his burden of proof in establishing an injury by an industrial accident. However, in its opinion, the Commission concluded that it could not find \u201cthat the claimant\u2019s disability [was] the result of the one incident\u201d with the floor jack and denied compensation.\nThis conclusion suggests that the Commission may have confused two rules of law: the \u201ctwo causes\u201d rule and the \u201cjust as probable\u201d rule. See Smith v. Fieldcrest Mills, Inc., 224 Va. 24, 28-29, 278 S.E.2d 805, 807-08 (1981); Bergmann v. L & W Drywall, 222 Va. 30, 32, 278 S.E.2d 801, 802-03 (1981). Under the \u201ctwo causes\u201d rule if a disability has two causes, one related to employment and one unrelated, benefits are allowed. Id. On the other hand the \u201cjust as probable\u201d rule denies compensation for failure of a claimant to sustain the burden of proof where it is just as probable that the disability resulted from a work-related cause as from a non-work-related cause. Id.\nBy requiring claimant to prove his disability was caused by \"one incident\u201d (emphasis added), the Commission may have erroneously applied the \u201ctwo causes\u201d rule. Therefore, we are of the opinion that this case should be remanded to permit the parties to present additional evidence and arguments.\nSince this case must be remanded for further proceedings, we mention an additional concern. The Commission\u2019s opinion described the precautions the employer took before allowing the claimant to return to work and concluded:\nHis employer exercised every reasonable precaution in returning him to work .... This not withstanding, the claimant alleges injury while attempting to perform work far beyond his physical capabilities.\nNegligence, either claimant\u2019s or his employer\u2019s, is immaterial in determining the right to recover under the Workmen\u2019s Compensation Act. Farmers Manufacturing Co. v. Warfel, 144 Va. 98, 105, 131 S.E. 240, 242 (1926); Griffith v. Raven Red Ash Coal Co., 179 Va. 790, 796, 20 S.E.2d 530, 533 (1942). Thus, the employer\u2019s precautions should not have been considered in determining if a disability is compensable.\nThis case will be reversed and remanded for further proceedings consistent with the view expressed herein.\nReversed and remanded.\nColeman, J., and Duff, J., concurred.",
+        "type": "majority",
+        "author": "BARROW, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Robert E. Evans, for appellant.",
+      "James A. L. Daniel (Meade, Tate & Daniel, on briefs), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Salem\nCARLTON G. SHELTON v. ENNIS BUSINESS FORMS, INC., et al.\nNo. 0050-85\nArgued June 5, 1985\nDecided September 3, 1985\nCounsel\nRobert E. Evans, for appellant.\nJames A. L. Daniel (Meade, Tate & Daniel, on briefs), for appellee."
+  },
+  "file_name": "0053-01",
+  "first_page_order": 77,
+  "last_page_order": 80
+}

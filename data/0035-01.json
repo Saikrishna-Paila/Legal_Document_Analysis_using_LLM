@@ -1,0 +1,59 @@
+{
+  "id": 2096028,
+  "name": "Webb v. Elligood",
+  "name_abbreviation": "Webb v. Elligood",
+  "decision_date": "1739-04",
+  "docket_number": "",
+  "first_page": "35",
+  "last_page": "35",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 59"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 79,
+    "char_count": 776,
+    "ocr_confidence": 0.435,
+    "sha256": "2976cbb278543b3f7164365d12d465e4483ed15c8600ae03cd555714cdb584c4",
+    "simhash": "1:812f29a50a8838bc",
+    "word_count": 129
+  },
+  "last_updated": "2023-07-14T19:43:08.706124+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Webb v. Elligood."
+    ],
+    "opinions": [
+      {
+        "text": "This was an action against the (appellant) sheriff, for an escape, and upon a special verdict, the case was; the plaintiff (respondent) had judgment against one Gilmet in custody, and prayed him in execution. He had been in custody thirty two days before at another suit, and the defendant knowing him to be insolvent, demanded of the plaintiff\u2019s attornejq security for the prison fees, who refused to give him security, and thereupon the sheriff discharged him. The question in this case was, whether the sheriff was obliged to keep him twenty days before he discharged him ; and the court was of opinion that he ought to have done so, and affirmed the county court\u2019s judgment.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Webb v. Elligood.\nApril, 1739.\nEscape \u2014 Liability of Sheriff.\nReported by Edward Barradall, Esq."
+  },
+  "file_name": "0035-01",
+  "first_page_order": 35,
+  "last_page_order": 35
+}

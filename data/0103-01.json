@@ -1,0 +1,81 @@
+{
+  "id": 2288214,
+  "name": "SHARON L. PRESTERA v. ROBERT Q. DENNY, JR.",
+  "name_abbreviation": "Prestera v. Denny",
+  "decision_date": "1985-10-15",
+  "docket_number": "No. 0044-84",
+  "first_page": "103",
+  "last_page": "105",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 103"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "329 S.E.2d 794",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "799"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 245,
+    "char_count": 3382,
+    "ocr_confidence": 0.915,
+    "pagerank": {
+      "raw": 1.259256728422819e-07,
+      "percentile": 0.6120619387462358
+    },
+    "sha256": "25aa77455057158bc237628816a44b762f88eee558b7b9b8d24ea9d0fe2d4ac6",
+    "simhash": "1:53c03ba702fddbf6",
+    "word_count": 558
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SHARON L. PRESTERA v. ROBERT Q. DENNY, JR."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nDUFF, J.\nSharon L. Prestera filed a petition pursuant to Code \u00a7 16.1-241(A)(3) seeking support for her minor child born out of wedlock. The narrow issue presented in this appeal is whether her petition was civil or criminal in nature. We conclude that it was civil.\nMs. Prestera\u2019s petition was filed in October 1983 in the juvenile and domestic relations district court (juvenile court) as a civil petition on Form DC-610, provided by the court, and denominated, \u201cPetition for Support (Civil)\u201d at the top and bottom of the page. The style of the case was \u201cSharon Louise Prestera v. Robert Quinn Denny, Jr.\u201d Upon Ms. Prestera\u2019s motion, the court ordered Mr. Denny, over his objection, to submit to a blood grouping test. At the hearing, however, the court refused to admit in evidence the results of the blood grouping test, and the petition was dismissed. Ms. Prestera appealed to the circuit court. Her appeal was dismissed after the circuit court held that her petition for support was criminal in nature. Presumably, the circuit court\u2019s ruling was pursuant to Code \u00a7 20-68, which provides that only the person accused is afforded the right to appeal. This appeal followed.\nThe juvenile and domestic relations district court has jurisdiction to entertain a civil, as well as criminal, petition for the support of an illegitimate child. Code \u00a7 16.1-241(A)(3) gives that court exclusive original jurisdiction over all cases, matters, and proceedings involving the support of a child whose support is the subject of controversy or requires determination. The statute specifies that the court\u2019s jurisdiction in these cases is concurrent with and not exclusive of courts having equity jurisdiction.\nThe Virginia Supreme Court in Jones v. Robinson, _Va __, 329 S.E.2d 794 (1985) recognized in dicta the jurisdiction of the juvenile court to entertain support petitions that are civil in nature by stating that \u201c[cjivil appeals to the circuit courts conform to equity practice.\u201d Id. at _, 329 S.E.2d at 799.\nNor are we able to adopt Mr. Denny\u2019s argument that Code \u00a7 20-68, limiting the right of appeal to \u201cthe person accused,\u201d supports the actions of the trial court. That section, in our judgment, applies where the petition is criminal in nature, not civil as here. To hold that the legislature intended to arbitrarily deny the right of appeal to one party in civil litigation would raise serious due process and equal protection issues that we are not required to address at this time.\nIn this case, the trial court erred in holding that Ms. Prestera\u2019s petition was criminal in nature and dismissing her appeal. Accordingly, the action taken by the trial court is reversed, and the case is remanded for further proceedings consistent herewith.\nReversed and remanded.\nBarrow, J., and Coleman, J., concurred.\nIn 1984, this code section was amended. The amended statute refers to any child \u201c[w]ho is owed a duty of support under \u00a7 20-61.\u201d It must be noted that the 1984 amendment did not delete the provision that jurisdiction in such cases \u201cshall be concurrent with and not exclusive of courts having equity jurisdiction.\u201d",
+        "type": "majority",
+        "author": "DUFF, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Earl E. Shaffer, for appellant.",
+      "Douglas S. Mackall, III (Amy E. Blanchard; Mackall, Mackall, Walker & Silver, on brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Arlington\nSHARON L. PRESTERA v. ROBERT Q. DENNY, JR.\nNo. 0044-84\nArgued April 30, 1985\nDecided October 15, 1985\nCounsel\nEarl E. Shaffer, for appellant.\nDouglas S. Mackall, III (Amy E. Blanchard; Mackall, Mackall, Walker & Silver, on brief), for appellee."
+  },
+  "file_name": "0103-01",
+  "first_page_order": 127,
+  "last_page_order": 129
+}

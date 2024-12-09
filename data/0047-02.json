@@ -1,0 +1,63 @@
+{
+  "id": 2096020,
+  "name": "Bradford v. Bradford",
+  "name_abbreviation": "Bradford v. Bradford",
+  "decision_date": "1769-04",
+  "docket_number": "",
+  "first_page": "47",
+  "last_page": "48",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 86"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 172,
+    "char_count": 2292,
+    "ocr_confidence": 0.495,
+    "sha256": "a9f57dbc81f31933ffa1115301159c0385e8217c127b67c8b118eced826a1337",
+    "simhash": "1:4c068c472f150fa2",
+    "word_count": 371
+  },
+  "last_updated": "2023-07-14T19:43:08.706124+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bradford v. Bradford."
+    ],
+    "opinions": [
+      {
+        "text": "The judgment below was affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Wythe, for appellant,",
+      "Pendleton for the appellee,",
+      "Wythe, in reply"
+    ],
+    "corrections": "",
+    "head_matter": "Bradford v. Bradford.\nApril, 1769.\nConterminous Landowner \u2014 Procession of Land \u2014 How Far Binding. \u2014 A procession of land of two conterminous landowners is not 'binding' unless they are ' present or have notice of the proceedings.\nThis was a dispute between two conterminous land holders, with respect to their boundary. The jury found specially, that the line in truth was as the plaintiff below suggested, but that it had been six times processioned according to the line which the defendant below would establish. They recite the proceedings, before the processioners in hsec verba, which proceedings mentioned that the plaintiff himself was present at the first processioning, but do not say who was present at those subsequent; and they referred it to the court, whether these processionings were binding on the plaintiff? The court below had adjudged that they were not binding; from which judgment the defendant there appealed.\nWythe, for appellant,\nadmitted the hardship of the case on the side of the appellee, but relied on the words of the act of 1710. c. 13. which comprehend this case; on the importance of the method of processioning towards preserving boundaries in quiet; and on the maxim, that institutions tending to promote public utility, must prevail, though injurious in particular instances. He cited a similar institution among the Romans, by them called Terminalia.\nPendleton for the appellee,\ncited the words of the act, \u2018that the *processioners should report who were present at the processioning.\u2019 He urged that the intention of the act was, that the parties should be present, or at least have notice, and that this should appear in the proceedings: whereas in the present case, it does not appear that the appellee was present or had notice, except at one of the processionings. And the law being hard, and this case particularly so, the judges would not conclude the appellee, unless it appeared that the act was strictly complied with.\nWythe, in reply\nobserved, that the law does not require the parties\u2019 presence, only that the church-wardens should publish at church, the persons and times appointed for processioning in every precinct, which was intended to amount to actual notice, and that we should presume this was done."
+  },
+  "file_name": "0047-02",
+  "first_page_order": 47,
+  "last_page_order": 48
+}

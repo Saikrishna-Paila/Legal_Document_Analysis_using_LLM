@@ -1,0 +1,194 @@
+{
+  "id": 2288267,
+  "name": "B. RAY RUCKER v. THRIFT TRANSFER, INC., et al.",
+  "name_abbreviation": "Rucker v. Thrift Transfer, Inc.",
+  "decision_date": "1986-02-04",
+  "docket_number": "No. 0399-85",
+  "first_page": "417",
+  "last_page": "420",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 417"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "321 S.E.2d 654",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "656-57"
+        },
+        {
+          "page": "657"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "228 Va. 290",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2072482
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "295"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/228/0290-01"
+      ]
+    },
+    {
+      "cite": "163 S.E.2d 187",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "188-89"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "209 Va. 210",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        4201325
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "211"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/209/0210-01"
+      ]
+    },
+    {
+      "cite": "302 S.E.2d 507",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "510-11"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "225 Va. 405",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2078339
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "411"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/225/0405-01"
+      ]
+    },
+    {
+      "cite": "335 S.E.2d 847",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "850",
+          "parenthetical": "quoting Caskey v. Dan River Mills, Inc., 225 Va. 405, 411, 302 S.E.2d 507, 510-11 (1983)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Va. App. 106",
+      "category": "reporters:state",
+      "reporter": "Va. App.",
+      "case_ids": [
+        2288265
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "111",
+          "parenthetical": "quoting Caskey v. Dan River Mills, Inc., 225 Va. 405, 411, 302 S.E.2d 507, 510-11 (1983)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va-app/1/0106-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 402,
+    "char_count": 6473,
+    "ocr_confidence": 0.923,
+    "pagerank": {
+      "raw": 1.4198464301402084e-07,
+      "percentile": 0.6487967059083367
+    },
+    "sha256": "5425e6f3b44fd38cb54e120f5ca29fa1f4cc4f209f53ea20a8347466515d0337",
+    "simhash": "1:0107919b5bbebc5f",
+    "word_count": 1084
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "B. RAY RUCKER v. THRIFT TRANSFER, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nMOON, J.\nB. Ray Rucker seeks reversal of a decision by the Industrial Commission which held that certain of his medical treatments were not authorized by the employer and, therefore, not compensable. We affirm because there is sufficient credible evidence to support the finding that the treatments were not authorized. Code \u00a7 65.1-98.\nRucker sustained a compensable back injury on November 26, 1982. He was first treated by his family physician, Dr! Cyrus Parsey, beginning December 1, 1982. Dr. Parsey treated Rucker for some time and even called in several specialists, including Dr. Charles Ubelhart, an orthopedic surgeon, and Dr. James Howe, a neurosurgeon, for consultation. Later, it appeared that Rucker\u2019s injury might involve a herniated disc and that more specialized treatment would be necessary. The employer provided Rucker with a panel of physicians from whom Rucker chose Dr. Ubelhart to be his treating physician. By letter dated August 5, 1983, the carrier advised Rucker that Dr. Ubelhart would \u201cnow direct his medical care.\u201d Thereafter, Dr. Ubelhart referred Rucker to Dr. Howe, a neurosurgeon, for treatment. Dr. Howe performed surgery on August 23, 1983, and continued to treat Rucker until March 27, 1984. However, Rucker also continued to see Dr. Parsey throughout his treatment by Dr. Howe and it is for that treatment by Dr. Parsey which the Commission ruled that the insurance carrier did not have to pay.\nRucker does not claim that Parsey continued to be his treating physician; he admits that the letter from the insurance company confirmed his selection of Dr. Ubelhart as the treating physician. Instead, Rucker claims that Dr. Howe referred him back to Dr. Parsey and that the expenses related to his visits with Dr. Parsey should be paid because of the referral. He also alleges that the employer is estopped to deny the payments to Dr. Parsey because it paid them voluntarily for a period of time. The insurance carrier paid Dr. Parsey\u2019s bills through December 19, 1983, but advised Rucker by letter on March 15, 1984, that it would not be responsible for services rendered by Dr. Parsey.\nAfter the referral by Dr. Ubelhart, Dr. Howe examined Rucker on August 9, 1983. Dr. Howe suggested that he either have a myelogram to be followed by a lumbar diskectomy, if indicated, or that he have a chemonucleolysis performed. Rucker wanted to discuss the options with Dr. Parsey. Therefore, by letter, Dr. Howe advised Dr. Parsey of the options and that Rucker wished to discuss them with him. On September 22, 1983, Dr. Howe again wrote to Dr. Parsey and advised Dr. Parsey of the results of the lumbar chemonucleolysis. After each of three subsequent examinations, on October 19, November 3, and December 19, 1983, Dr. Howe similarly wrote to Dr. Parsey, updating Rucker\u2019s condition. Each time that Dr. Howe wrote to Dr. Parsey, he thanked Dr. Parsey for referring Rucker to him, apparently under the misapprehension that Dr. Parsey had referred Rucker to him, and not Dr. Ubelhart. This misapprehension in part may have resulted because, as mentioned previously, when Dr. Parsey was the treating physician, he had referred Rucker to Dr. Howe for consultation. All of Dr. Howe\u2019s letters indicated that copies were sent to the insurance carrier. On March 27, 1984, Dr. Howe, by letter, advised Dr. Parsey that he believed that Rucker was ready to return to work, but would be better off lifting no more than fifty pounds. He said \u201c[h]e was again advised to return to see you so that you may release him to physical activity as you see fit.\u201d The Commission held this letter to constitute a referral by Dr. Howe and Dr. Parsey and ordered the employer\u2019s carrier to pay Dr. Parsey\u2019s bills after March 27, 1984, but not the bills between August 5, 1983, and March 27, 1984.\nIf there is credible evidence to support the Commission\u2019s decision, we must affirm on appeal. See Richmond. Cold Storage Co. v. Burton, 1 Va. App. 106, 111, 335 S.E.2d 847, 850 (1985) (quoting Caskey v. Dan River Mills, Inc., 225 Va. 405, 411, 302 S.E.2d 507, 510-11 (1983)). Furthermore, we must construe the evidence in the light most favorable to the appellee. See, e.g., Holbert v. Evans, 209 Va. 210, 211, 163 S.E.2d 187, 188-89 (1968).\nAn employer and carrier are not estopped from denying future payments merely because they have paid them in the past. See City of Salem v. Colegrove, 228 Va. 290, 295, 321 S.E.2d 654, 656-57 (1984). \u201cIn the absence of fraud, elements necessary to establish an equitable estoppel are a representation, reliance, a change of position, and detriment.\u201d Id. at 295, 321 S.E.2d at 657. The Commission found that Dr. Howe\u2019s mistake did not change the fact that Rucker had agreed that Dr. Ubelhart was to be his treating physician and Dr. Howe\u2019s mistake did not make an unauthorized physician an authorized one.\nWe cannot say as a matter of law that the Industrial Commission erred in holding that the employer\u2019s carrier was not es-topped to pay these bills; there was sufficient credible evidence for the Commission to find that Rucker knew that Dr. Parsey\u2019s charges were not authorized. Rucker knew that Dr. Ubelhart replaced Dr. Parsey as his treating physician. As Dr. Howe stated in his letter of August 9, 1983, it was Rucker who wanted to discuss the option of treatment with Dr. Parsey. Dr. Howe was not asking for consultation or treatment. It may not be unreasonable for a person to want to discuss treatment with a trusted family physician, but nothing in the act makes an employer liable for the advice after the employer provides a treating physician. See Code \u00a7 65.1-88. Dr. Howe\u2019s first letter was a mere courtesy to Rucker. His continued letters merely kept Dr. Parsey informed. The Commission, based on the evidence, could have found that Rucker, of his own choice, and not because of any representation of Dr. Howe or the carrier, continued to see Dr. Parsey. Code \u00a7 65.1-88 does not require the employer to pay for medical expenses incurred without the permission of the insurer absent an emergency or other good cause.\nThe decision by the full Commission is, therefore, affirmed.\nAffirmed.\nDuff, J., and Cole, J., concurred.",
+        "type": "majority",
+        "author": "MOON, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Susan Cummins (Lawrence J. Pascal, Ashcraft & Gerel, on briefs), for appellant.",
+      "John K. Coleman (Slenker, Brandt, Jennings & Johnston, on brief), for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Alexandria\nB. RAY RUCKER v. THRIFT TRANSFER, INC., et al.\nNo. 0399-85\nArgued October 11, 1985\nDecided February 4, 1986\nCounsel\nSusan Cummins (Lawrence J. Pascal, Ashcraft & Gerel, on briefs), for appellant.\nJohn K. Coleman (Slenker, Brandt, Jennings & Johnston, on brief), for appellees."
+  },
+  "file_name": "0417-01",
+  "first_page_order": 441,
+  "last_page_order": 444
+}

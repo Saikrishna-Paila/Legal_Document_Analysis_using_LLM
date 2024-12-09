@@ -1,0 +1,67 @@
+{
+  "id": 2288227,
+  "name": "CONTINENTAL FOREST INDUSTRIES, et al. v. PAUL G. WALLACE",
+  "name_abbreviation": "Continental Forest Industries v. Wallace",
+  "decision_date": "1985-09-03",
+  "docket_number": "No. 0124-84",
+  "first_page": "72",
+  "last_page": "74",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 72"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 223,
+    "char_count": 3031,
+    "ocr_confidence": 0.917,
+    "pagerank": {
+      "raw": 9.369130595172464e-08,
+      "percentile": 0.5147263411882315
+    },
+    "sha256": "f95fddf5ae437b47b579f401b4cae2beb355bdf2bc40d3458c8f411447a53413",
+    "simhash": "1:21b420e5d06f37e8",
+    "word_count": 470
+  },
+  "last_updated": "2023-07-14T20:14:53.885817+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CONTINENTAL FOREST INDUSTRIES, et al. v. PAUL G. WALLACE"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nBARROW, J.\nThis is an appeal from the Industrial Commission\u2019s decision that Paul Wallace (claimant) had cured an unjustified refusal to return to a treating physician and that he was entitled to subsequent psychiatric evaluation and treatment. It also questions whether an application for change of condition is timely if filed within two years of the last payment of benefits but while benefits have been suspended.\nAfter receiving compensation for a work-related accident on August 7, 1981, the claimant attempted to return to work on September 21, 1981, but was unable to perform his duties and left work after approximately one hour and sought medical treatment. Nevertheless, on October 2, 1981, the Industrial Commission received an agreed statement of facts indicating the claimant had returned to work on September 21, 1981.\nSome time after September 21, 1981, the employer\u2019s production manager told the claimant, who could neither read nor write, that his workmen\u2019s compensation had ended but that he could receive sick benefits from the employer\u2019s disability carrier. The claimant was then seen and treated by physicians, other than the treating physician, and received benefits from the disability carrier.\nDuring 1983 the claimant asked to return to the treating physician for treatment, but the employer refused his request. On October 28, 1983, the employer advised him that his benefits with the disability carrier had terminated.\nBased on these facts, the Commission found that the claimant had cured his unjustified refusal to return to the treating physician and concluded that the employer was responsible for the cost of subsequent psychiatric evaluation and treatment causally related to his accident. Since the Commission\u2019s factual finding was based on credible* evidence, it is binding on this court. Code \u00a765.1-98.\nCompensation was paid to the claimant through the period ending September 21, 1981, and his application for a change of condition was filed June 16, 1982, within the two years prescribed by Code \u00a7 65.1-99. However, compensation was automatically suspended until October 28, 1983, because the claimant had refused to return to the treating physician. The Commission found that his disability continued between the date compensation was last paid and the date the claimant cured his unjustified refusal to accept medical treatment. This disability was present and existing when the application was filed; therefore the application did not anticipate a future disability and did give the employer sufficient notice of the claim. Thus, the requirements of Code \u00a7 65.1-99 were satisfied.\nThere being no error in the award appealed from, it will be affirmed.\nAffirmed.\nColeman, J., and Duff, J., concurred.",
+        "type": "majority",
+        "author": "BARROW, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Ralph L. Whitt, Jr. (Sands, Anderson, Marks & Miller, on briefs), for appellant.",
+      "Mr. Michael W. Heaviside (Ashcraft & Gerel, on briefs), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Arlington\nCONTINENTAL FOREST INDUSTRIES, et al. v. PAUL G. WALLACE\nNo. 0124-84\nArgued May 1, 1985\nDecided September 3, 1985\nCounsel\nRalph L. Whitt, Jr. (Sands, Anderson, Marks & Miller, on briefs), for appellant.\nMr. Michael W. Heaviside (Ashcraft & Gerel, on briefs), for appellee."
+  },
+  "file_name": "0072-01",
+  "first_page_order": 96,
+  "last_page_order": 98
+}

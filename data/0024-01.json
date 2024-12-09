@@ -1,0 +1,62 @@
+{
+  "id": 2096016,
+  "name": "Jones v. Langhorn",
+  "name_abbreviation": "Jones v. Langhorn",
+  "decision_date": "1736-10",
+  "docket_number": "",
+  "first_page": "24",
+  "last_page": "25",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 37"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 391,
+    "char_count": 7710,
+    "ocr_confidence": 0.464,
+    "sha256": "294818220d518a823abc8d2fe8cea664f4bc40b9bc52a0c058453b832d482a84",
+    "simhash": "1:4120c5b9638c89f5",
+    "word_count": 1434
+  },
+  "last_updated": "2023-07-14T19:43:08.706124+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jones v. Langhorn."
+    ],
+    "opinions": [
+      {
+        "text": "Judgment for the defendant, per totam curiam praater Lightfoot and Tayloe.\nA like case between Clemonts and Walker, was argued in April, 1739, and the same judgment given by Randolph, Grymes, Carter, Diggs and the Governor. Curtis and Robinson, contra.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Barradall for the plaintiff.",
+      "Randolph for the defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Jones v. Langhorn.\nOctober, 1736.\nSlaves \u2014 Life Interest in Wife. \u2014 Slaves were devised to a woman during her life with remainder to another. She afterwards married and 3 oined with her husband in a deed of mortgage of the slaves for ninety-nine years. The husband died, and an action of detinue was brought by the mortgagee against the wife for the recovery of the slaves. Held, the action will not lie.\nIn detinue upon a special verdict. The case was: a woman possessed of slaves devised to her during life, and after her death to another, marries and joins with her husband in a deed of mortgage of these slaves for ninety-nine years. The husband dies: this action is brought by the mortgagee against the wife for the recovery of the slaves.\nBarradall for the plaintiff.\nThe deed is undoubtedly void, as to the wife, and so it is merely the act of the husband. The question then is solely this, whether the husband in this case could dispose so as to prevent any title or interest from surviving to the wife; and I conceive clearly that he might. It is agreed that slaves in this case are to be considered as chattels, the devise to the wife being before the act, making them real estate. I shall then consider the interest accruing to the husband in the wife\u2019s estate, which is different, according to the nature and quality of that estate. In her lands, &c. he acquires a freehold during the coverture; or an estate for life, if there is issue between them. In chattels real, he acquires a property and a power of disposing in his life-time, but not by will; if he dies first without disposing, they survive to her. If she dies first, they survive to him. 1 Danv. 705. 8; 1 Inst. 351. a. But as to chattels personal, marriage is an absolute gift of all such in possession, whether the husband survive or not. Co. Lit. 311. b. And this I presume, whether the wife has an absolute, or temporary, or a qualified property: for all the right and interest of the wife, be it more or less, is transferred to the husband, and vests in him by way of gift. There is no case in law that makes any difference, nor is there any in the reason of the thing. If the husband has a right to the greater, by the argument a majori ad minus, he has also a right to the less, for that omne majus continet in se minus, is a rule of law as well as an axiom of philosophy. Certainly it must appear absurd that the law should give the husband chattels in which the wife *has an absolute right, and not those in which she has a lesser interest. The husband\u2019s right as to chattels personal, was always the same, and as to chattels real, it has been carried further in later times than formerly; for he may now dispose of the trust of a term as was adjudged about Michl. 1680, in the house of Lords, in Sir Edward Turner\u2019s case, (1 Vern. 17,) which is the first case of that sort, the law being otherwise before; but since, has been always held according to that determination. 1 Vern. 18; 2 Vern. 270, Tudor v. Samyne. Now whether the interest of the wife be only for life or in the whole term, it will certainty make no difference. Whatever interest she has, the husband has a power of disposing; and if in chattels real, surety in chattels personal too, in which he acquires a more absolute right. If 1 Inst. 351, be objected, that the husband shall not charge his wife\u2019s chattels real, though he may dispose; but if she survive, she shall hold it discharged; that rule does not hold in chattels personal as this case is; besides, all that is meant by that is, that he shall not charge her term with a rent. 1 Rol. Abr. 344. 5. and 346. 2. But I question whether the law be so at this day, the husband\u2019s power over the wife\u2019s term being enlarged since Coke wrote, in the instance just now mentioned; and it is certainly absurd that a man should have a power of disposing and not of charging. Then our case is different too; here is a mortgage, and the estate and interest become absolute in the law for the term, by non-payment-of the money, and only an equity of redemption left to the mortgagor.\nReported by Edward Barradall, Bsq.\nRandolph for the defendant.\nSlaves here are to be considered as chattels. Now the property of a chattel must be divided, so as that part of the property shall vest in one and part in another. But when a chattel is given to one for life with remainder over, the devisee for life has only the use, and the property vests in the remainder man. It is upon this distinction alone that remainders of chattels are allowed; for if the property vested in the first devisee, the remainder over must be void, because the gift of a chattel for an hour, is a gift forever. That the wife here having only the use and no property, this use vested in the husband only during his life; but he had no power of disposing, so as to conclude the wife after his death, though the disposition might be good during his life, and he cited 1 Inst. 351. a. where a difference is taken between a property and a bare possession; as where a woman has goods as bailee or executrix, this bare possession is not given to the husband by the marriage. He also cited Mor. 521, Thomson v. Butler, where the husband\u2019s release of the wife\u2019s annuity was no bar after his death; and mentioned the case of Brown and *Willis, April, 1731, in this court, which he said was in point. He said it would be a hard case upon women, especially widows marrying second husbands, J if they happen to survive: that it would be inconvenient too, since the slaves might j be taken in execution for the husband\u2019s j debts, or sold by him to the prejudice of : those in remainder. To which it was re-J plied, that it was true in the language of ; our books, by the devise of a chattel for life with remainder over, that this distinction was kept up upon the ground of that old rule of law, the gift of a chattel for an hour is a gift forever. But in effect, the first devisee' has a property during life, having all the marks of ownership, except that of selling absolutely. Whatever profits can be made are his. He may maintain trover and even dispose during life; and certainty this is something more than a bare possession, which is the case, 1 Inst. 351. and so nothing like this. The use here is coupled with the interest, and wherever there is an interest there must be some degree of property; for what is a property but a power of disposing and using, which a devisee of a chattel for life has during life? Certainty then as such devisee has a qualified properly, no one will dispute but he may sell during life. Marriage is an alienation, a gift in law, equivalent to an alienation in fact. It is agreed, the slaves here vested in the husband during life. If they vested at all, they must, for the whole interest the wife had in them, being all transferred by the marriage. It is absurd to talk of the hardships upon women, unless it be a hardship that any thing should vest in the husband by the marriage. Is it harder that a lesser interest should vest, than that a greater should? The argument from inconvenience is full as ridiculous, since chattels so taken, may as well be taken for the wife\u2019s debts as for the debts of the husband, or sold by her in prejudice of the remainder man. It may bean argument against allowing such devises at all, but is none against the husband\u2019s right in such a case.\nThe wife might give or sell during life by deed. Marriage is a gift and alienation in law."
+  },
+  "file_name": "0024-01",
+  "first_page_order": 24,
+  "last_page_order": 25
+}

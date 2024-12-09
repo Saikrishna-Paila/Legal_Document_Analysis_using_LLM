@@ -1,0 +1,297 @@
+{
+  "id": 2288242,
+  "name": "HERBERT G. WOODY v. MARK WINKLER MANAGEMENT, INC., et al.",
+  "name_abbreviation": "Woody v. Mark Winkler Management, Inc.",
+  "decision_date": "1985-11-06",
+  "docket_number": "No. 0122-84",
+  "first_page": "147",
+  "last_page": "152",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 147"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "65 Mich. L. Rev. 441",
+      "category": "journals:journal",
+      "reporter": "Mich. L. Rev.",
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "441-42",
+          "parenthetical": "\"by accident\" as a legal barrier to keep compensation for heart attacks from getting out of hand \"proved to be a most ill-fitting tool for this function\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "416 N.E.2d 1320",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11065691
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "parenthetical": "\"little distinction between unusual exertion on a diseased heart caused by physical stimulation or external trauma, or whether the fatal stimulation was mental, emotional or psychological in origin\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/416/1320-01"
+      ]
+    },
+    {
+      "cite": "275 S.E.2d 605",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "221 Va. 910",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2138756
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/221/0910-01"
+      ]
+    },
+    {
+      "cite": "1 Va. App. 141",
+      "category": "reporters:state",
+      "reporter": "Va. App.",
+      "case_ids": [
+        2288244
+      ],
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "144"
+        },
+        {
+          "page": "145"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va-app/1/0141-01"
+      ]
+    },
+    {
+      "cite": "288 S.E.2d 485",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "486"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "223 Va. 354",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2082082
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "356"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/223/0354-01"
+      ]
+    },
+    {
+      "cite": "326 S.E.2d 702",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "703"
+        },
+        {
+          "page": "703"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "273 S.E.2d 797",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1981,
+      "pin_cites": [
+        {
+          "parenthetical": "an aggravation of pre-existing latent condition leading to cardiac arrest where the court assumed injury from industrial accident"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "221 Va. 786",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2138889
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "parenthetical": "an aggravation of pre-existing latent condition leading to cardiac arrest where the court assumed injury from industrial accident"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/221/0786-01"
+      ]
+    },
+    {
+      "cite": "54 S.E.2d 106",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1949,
+      "opinion_index": 0
+    },
+    {
+      "cite": "189 Va. 585",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2152659
+      ],
+      "year": 1949,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/189/0585-01"
+      ]
+    },
+    {
+      "cite": "237 S.E.2d 786",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1977,
+      "opinion_index": 0
+    },
+    {
+      "cite": "218 Va. 481",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2130648
+      ],
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/218/0481-01"
+      ]
+    },
+    {
+      "cite": "252 S.E.2d 319",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "219 Va. 845",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2133544
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/219/0845-01"
+      ]
+    },
+    {
+      "cite": "300 S.E.2d 739",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "225 Va. 1",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2078352
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/225/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 604,
+    "char_count": 10535,
+    "ocr_confidence": 0.894,
+    "pagerank": {
+      "raw": 1.0802361123033605e-07,
+      "percentile": 0.5623119340162303
+    },
+    "sha256": "b570ff9656bcbfc5d186cd0ca28135c0814fff7501ee0fa9c31d2a9497d044a3",
+    "simhash": "1:a7a372caa13f2ef4",
+    "word_count": 1693
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "HERBERT G. WOODY v. MARK WINKLER MANAGEMENT, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nBENTON, J.\nThe issue in this case is whether a heart attack suffered by the claimant, Herbert G. Woody, as the result of considerable work-related physical and mental stress constituted an \u201cinjury by accident\u201d arising out of and in the course of his employment by Mark Winkler Management, Inc. The deputy commissioner concluded that the claimant failed to prove either a compensable occupational disease or an injury by accident. This conclusion was affirmed by the full Commission on review. The claimant challenges the decision below only with respect to accidental injury.\nThe claimant was hired by Winkler in August of 1983 as a dry wall and maintenance employee at a four hundred unit apartment complex. Between August and October of 1983, there were three persons servicing the apartment complex. The claimant performed primarily dry wall duties and some general maintenance work. In October of 1983, the claimant\u2019s immediate supervisor left his employment at the apartment complex, leaving the claimant and another employee, Charles Constantino, to perform all the maintenance tasks at the complex. The two men experienced difficulty in handling the maintenance duties because of the volume of tasks that were required. The claimant and Constantino both testified that they were under a great deal of pressure from Winkler to service the maintenance calls and were required to work overtime during evenings and weekends.\nOn December 21, 1983, Constantino went on a vacation leaving the claimant as the only employee at the apartment complex to perform maintenance and dry wall work. The claimant worked a combined total of 921/2 hours during the weeks of December 12 and December 19, and 63 hours from December 26 to December 30. During this time the boiler malfunctioned causing him to work late at night and in cold, icy conditions in order to provide heat to some of the apartments.\nOn December 28, while attempting to move a dishwasher down the steps of an apartment, the claimant slipped on steps covered with ice and the dishwasher fell upon him. He received bruises and scratches and, later that evening, experienced nausea. He reported the incident to Winkler\u2019s resident manager on the same evening and saw the resident manager the following day.\nDuring the afternoon of the 29th the claimant was under a sink in an apartment repairing a garbage disposal when he experienced a sharp pain in his chest, felt dizzy and became nauseated. Claimant had suffered an acute myocardial infarction.\nThe deputy commissioner rejected the claimant\u2019s contention that his taxing work effort and job-induced stress caused the heart attack. The deputy commissioner could find no authority for the proposition that in a heart attack case the claimant need not show a particular causative incident, and refused to accept the contention that \u201cthe mere fact that a heart attack results from employment activities establishes that a claimant sustained an injury by accident.\u201d\nBecause the claim was presented to and determined by the deputy commissioner on both accidental injury and occupational disease theories, the full Commission was obliged to deal with both. The Commission agreed with the finding that \u201carteriosclerosis heart disease is an ordinary disease of life and that aggravation of an ordinary disease of life by work conditions or stress over a period of time is not compensable.\u201d The deputy commissioner cited, correctly we believe, Ashland Oil Company v. Bean, 225 Va. 1, 300 S.E.2d 739 (1983) for this proposition. We address this aspect of the Commission\u2019s decision only to emphasize that the claimant\u2019s pre-existing heart disease, considered as an ordinary disease of life, is relevant only with respect to the occupational disease claim and has no bearing on his accidental injury claim, provided that he proved that the heart attack was an injury by accident arising out of his employment. See D.W. Mallory & Company, Inc. v. Phillips, 219 Va. 845, 252 S.E.2d 319 (1979); Lilly v. Shenandoah\u2019s Pride Dairy, 218 Va. 481, 237 S.E.2d 786 (1977); Johnson v. Capitol Hotel, Inc., 189 Va. 585, 54 S.E.2d 106 (1949); cf. Eccon Construction Company v. Lucas, 221 Va. 786, 273 S.E.2d 797 (1981) (an aggravation of pre-existing latent condition leading to cardiac arrest where the court assumed injury from industrial accident).\nThe claimant, however, did not prove by a preponderance of the evidence that his heart attack was an injury by accident arising out of his employment by Winkler. To show an \u201cinjury by accident,\u201d a claimant must prove both \u201can indentifiable incident that occurs at some reasonably definite time\u201d and that such incident caused \u201can obvious sudden mechanical or structural change in the body.\u201d Lane Company, Incorporated v. Saunders, _ Va. _, 326 S.E.2d 702, 703 (1985); Virginia Electric and Power Company v. Cogbill, 223 Va. 354, 356, 288 S.E.2d 485, 486 (1982); Bradley v. Philip Morris, USA, 1 Va. App. 141, 144, \u2014 S.E.2d_(1985). The opinion of the deputy commissioner correctly sets forth the applicable standard under the Supreme Court\u2019s cases, beginning with Badische Corporation v. Starks, 221 Va. 910, 275 S.E.2d 605 (1981) and culminating in Saunders:\n[T]he claimant must trace his injury to a definite time, place or circumstance. It cannot be the result of a breakdown of a gradual development. . . .[A] claimant must identify his injury with a movement made or an action taken at a particular time at work. When a claimant cannot so identify an accident causing his injury, he cannot recover compensation.\nWe understand the Supreme Court\u2019s decision in Saunders to suggest that this element of \u201cinjury by accident\u201d applies also to an employee who claims injury as a result of work that is unusual to him or unusually strenuous, repetitive or stressful. _ Va. at \u2014, 326 S.E.2d at 703.\nMoreover, we can discern no exception to the \u201cinjury by accident\u201d test established by the Supreme Court in Starks, Cogbill, and Saunders which permits a different analysis in the heart attack cases, although each of these decisions involved back injuries. Although other states may allow a different result in unusual exertion or stress cases, and the commentators have criticized a resolution of heart attack cases under an accidental injury portion of a statute, we believe that the requirement of showing \u201cinjury by accident,\u201d as developed by the Supreme Court in cases of back injury, applies equally to claims resulting from heart attacks.\nThe evidence in this case is that claimant developed physical and emotional stress over a period of time. During the two week pay period beginning October 3, 1983, claimant worked 101 Vi hours. He worked overtime during six of the seven pay periods beginning October 3, 1983, and continuing through the date of his heart attack. On October 3, 1983, the maintenance staff decreased from three to two employees. At that time claimant and Constantino were required to perform the work usually required of three employees. Beginning December 21, 1983, Constantino went on vacation and claimant was required to perform all the maintenance work for the entire 400 unit apartment complex. The Commission found that he \u201cwas required to work long hours and over weekends doing his usual duty with the quantity of the work alone creating considerable pressure.\u201d The sources of emotional and physical stress as proved by claimant span a period of almost three months and encompass a variety of incidents. We cannot say as a matter of law that he has shown the occurrence of an indentifiable incident at some reasonably definite time as required by Saunders, Cogbill, and Starks.\nClaimant does not contend and the medical evidence does not show that the heart attack was caused by either the dishwasher falling on him or his work activity on December 29, 1983. On the contrary, Dr. Davidov\u2019s testimony indicated that the attack was \u201ccaused by or aggravated by the cumulative physical and psychological stress during the weeks leading up to the attack.\u201d Dr. Davidov stated that claimant, a 49 year old man with no prior history of chest discomfort or other symptoms, had a mild case of arteriosclerosis (hardening of the arteries) or coronary artery disease. He indicated that claimant had a eighty percent narrowing of the mid-right coronary artery and seventy percent obstruction in another coronary artery and that neither condition was sufficient alone to cause the infarction. There was also evidence of a superimposed thrombosis (a blood clot). He also testified that arteriosclerosis is a long-term process and that claimant\u2019s condition existed before he was employed by Winkler.\nDr. Davidov further stated that claimant had suffered an acute myocardial infarction which \u201cwas in all probability caused by or aggravated by the cumulative physical and psychological stress during the weeks leading up to the attack.\u201d\nIn terms of the \u201cinjury by accident\u201d test of Saunders, claimant proved a sudden bodily change, as we expect will be demonstrated easily in heart attack cases. The heart attack, however, was related causally to physical and emotional stresses which had accumulated over a three-week period. We concluded in Bradley v. Philip Morris, USA, that the Saunders element of \u201can identifiable incident that occurs at some reasonably definite time\u201d means an event or activity that takes place within a reasonably discrete time frame. Bradley, 1 Va. App. at 145. Because claimant has not proved such an event or activity we hold that he failed to prove an injury by accident. The decision of the Commission is therefore affirmed.\nAffirmed.\nBaker, J., and Duff, J., concurred.\nSee, e.g., Harris v. Rainsoft of Allen Cty., Inc., _ Ind. App. _, 416 N.E.2d 1320 (1981) (\u201clittle distinction between unusual exertion on a diseased heart caused by physical stimulation or external trauma, or whether the fatal stimulation was mental, emotional or psychological in origin\u201d).\nSee, e.g., Larson, The \"Heart Cases\" in Workmen\u2019s Compensation: An Analysis and Suggested Solution, 65 Mich. L. Rev. 441, 441-42 (1967) (\u201cby accident\u201d as a legal barrier to keep compensation for heart attacks from getting out of hand \u201cproved to be a most ill-fitting tool for this function\u201d).",
+        "type": "majority",
+        "author": "BENTON, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "John J. Grimaldi, II (Rosenthal, Grimaldi & Guggenheim on briefs), for appellant.",
+      "Michael L. Zimmerman (Brault, Geschickter, Palmer & Grove on briefs), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Richmond\nHERBERT G. WOODY v. MARK WINKLER MANAGEMENT, INC., et al.\nNo. 0122-84\nArgued April 9, 1985\nDecided November 6, 1985\nCounsel\nJohn J. Grimaldi, II (Rosenthal, Grimaldi & Guggenheim on briefs), for appellant.\nMichael L. Zimmerman (Brault, Geschickter, Palmer & Grove on briefs), for appellee."
+  },
+  "file_name": "0147-01",
+  "first_page_order": 171,
+  "last_page_order": 176
+}

@@ -1,0 +1,372 @@
+{
+  "id": 2288209,
+  "name": "DOUGLAS W. PARRILLO v. GILLIAN PARRILLO",
+  "name_abbreviation": "Parrillo v. Parrillo",
+  "decision_date": "1985-11-06",
+  "docket_number": "No. 0037-84",
+  "first_page": "226",
+  "last_page": "232",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 226"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "366 U.S. 299",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1285618
+      ],
+      "year": 1961,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/366/0299-01"
+      ]
+    },
+    {
+      "cite": "114 S.E.2d 585",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1960,
+      "opinion_index": 0
+    },
+    {
+      "cite": "145 W.Va. 250",
+      "category": "reporters:state",
+      "reporter": "W. Va.",
+      "case_ids": [
+        8580867
+      ],
+      "year": 1960,
+      "opinion_index": 0,
+      "case_paths": [
+        "/w-va/145/0250-01"
+      ]
+    },
+    {
+      "cite": "211 S.E.2d 253",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "258"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "215 Va. 475",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2123202
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "481"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/215/0475-01"
+      ]
+    },
+    {
+      "cite": "216 S.E.2d 20",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "21"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "216 Va. 30",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2124945
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "31"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/216/0030-01"
+      ]
+    },
+    {
+      "cite": "325 S.E.2d 497",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "72 N.C. App. 436",
+      "category": "reporters:state",
+      "reporter": "N.C. App.",
+      "case_ids": [
+        8526894
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc-app/72/0436-01"
+      ]
+    },
+    {
+      "cite": "213 S.E.2d 789",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "215 Va. 824",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2123233
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/215/0824-01"
+      ]
+    },
+    {
+      "cite": "250 S.E.2d 365",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "219 Va. 775",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2133326
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/219/0775-01"
+      ]
+    },
+    {
+      "cite": "38 S.E.2d 320",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1946,
+      "opinion_index": 0
+    },
+    {
+      "cite": "185 Va. 320",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2143873
+      ],
+      "year": 1946,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/185/0320-01"
+      ]
+    },
+    {
+      "cite": "129 S.E.2d 50",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1963,
+      "opinion_index": 0
+    },
+    {
+      "cite": "204 Va. 59",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2044791
+      ],
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/204/0059-01"
+      ]
+    },
+    {
+      "cite": "135 S.E.2d 815",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1964,
+      "opinion_index": 0
+    },
+    {
+      "cite": "205 Va. 181",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2042163
+      ],
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/205/0181-01"
+      ]
+    },
+    {
+      "cite": "232 S.E.2d 787",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1977,
+      "opinion_index": 0
+    },
+    {
+      "cite": "217 Va. 789",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2128334
+      ],
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/217/0789-01"
+      ]
+    },
+    {
+      "cite": "222 S.E.2d 557",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "216 Va. 741",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2124943
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/216/0741-01"
+      ]
+    },
+    {
+      "cite": "232 S.E.2d 739",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1977,
+      "opinion_index": 0
+    },
+    {
+      "cite": "217 Va. 680",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2128577
+      ],
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/217/0680-01"
+      ]
+    },
+    {
+      "cite": "213 S.E.2d 750",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "215 Va. 694",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2123252
+      ],
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "696"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/215/0694-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 569,
+    "char_count": 11899,
+    "ocr_confidence": 0.929,
+    "pagerank": {
+      "raw": 2.2813447955689585e-07,
+      "percentile": 0.7852058170186756
+    },
+    "sha256": "97e13ba3d8c0439fff453afeca4500a25fb7c5164cac5ef8f2e0a58d3cc29539",
+    "simhash": "1:735854aaf70428f7",
+    "word_count": 1922
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "DOUGLAS W. PARRILLO v. GILLIAN PARRILLO"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nCOLEMAN, J.\nThis domestic relations appeal presents two issues. First, did a decree which increased a unitary sum of support abrogate or supplant the support provisions of a \u201cseparation agreement,\u201d thereby rendering the prohibition of Code \u00a7 20-1091 inapplicable? Second, if the court was not prohibited from modifying the spousal support portion of a unitary sum, did the court abuse its discretion by denying a reduction or elimination of spousal support?\nWhen spousal support has been agreed upon between the parties as part of a unitary sum, and the agreement is ratified by the final decree of divorce, the provisions of Code \u00a7 20-109 inhibit the power of the court to consider modification of the unitary sum to the extent that spousal support is at issue. See Wickham v. Wickham, 215 Va. 694, 213 S.E.2d 750 (1975). Usually the entry of a later decree increasing the child support portion of the unitary sum would not enlarge the jurisdiction of the court to deal with spousal support. Since we find, under the circumstances before us, that the decree which increased the unitary sum of support did not supplant the agreement as to spousal support, we need address only the first issue.\nGillian Parrillo was granted a final divorce from Douglas Parrillo in August of 1973 on the grounds of desertion. The decree \u201cratified, confirmed and approved . . . pursuant to Section 20 - 109. of the Code\u201d a property settlement agreement. The final decree did not specifically incorporate within its provisions the property settlement agreement nor direct the payment of the sum specified in the agreement. The \u201cseparation agreement\u201d provided that the husband would pay $700 per month to the wife for her support and the support of two infant children of the marriage in the wife\u2019s custody. Neither the agreement nor the final decree of divorce contained any reservation for a court to alter or modify the support provisions.\nIn 1976, Gillian and Douglas Parrillo executed a second document entitled \u201cAmendment to Separation Agreement Dated April 18, 1972\u201d which provided as to support:\n. . . that the amount of support provided in Paragraph 4 of the aforesaid Separation Agreement shall be increased in amount from $700.00 per month to $925.00 per month. In accordance with the tenor and effect of the aforesaid Separation Agreement, the said amount is based on the current income of DOUGLAS W. PARRILLO. . . .\nThe 1976 agreement was not presented to the court for affirmance, ratification or incorporation.\nIn 1978, upon the petition of Gillian Parrillo, the court found a change of circumstances justifying an increase in support as to the minor children. The decree provided:\n. . . defendant\u2019s payment of $700.00 per month shall be increased by $550.00 per month, which increase shall be solely for support of minor children, making a total payment of $1,250.00 per month.\nThe decree did not mention or expressly affirm, ratify, or incorporate the 1976 \u201cAmendment to Separation Agreement.\u201d\nIn 1984 Gillian Parrillo again petitioned \u201cto increase the support and maintenance of the complainant and the children of the parties.\u201d Douglas Parrillo responded with a petition to eliminate spousal support. Relying upon the provisions of the separation agreement and the prohibition of Code \u00a7 20-109, Mrs. Parrillo contends that she sought an increase in only child support and that the court lacked authority to eliminate or modify spousal support.\nThe trial court ruled, over Mrs. Parrillo\u2019s objection, that because the 1978 decree had judicially increased, at the wife\u2019s request, the unitary amount of support for her and the two children above the amounts of the two agreements with no apparent consideration of the 1976 amended agreement, the 1978 decree had effectively supplanted or replaced both the original and amended agreements. The chancellor reasoned that prior to 1978 there had been no decree directing the payment of either spousal or child support. The final divorce decree had not incorporated the provisions of the bilateral agreement of the parties. The court reasoned that support had been established solely by private contract rather than by judicial determination until the 1978 decree. In 1978, when the court was presented with the wife\u2019s petition to increase support, even though the parties had entered into a second agreement amending the support arrangements, the chancellor then decreed for the first time that support be paid and the decree included both child and spousal support.\nThe rationale was that in 1978, by ordering support for the first time, including spousal support, the chancellor had disregarded the court\u2019s inhibited jurisdiction, Harris v. Harris, 217 Va. 680, 232 S.E.2d 739 (1977), and Thomas v. Thomas, 216 Va. 741, 222 S.E.2d 557 (1976), and disregarded the distinction between decrees setting support and those approving and confirming contracts. Shoosmith v. Scott, 217 Va. 789, 232 S.E.2d 787 (1977); Martin v. Martin, 205 Va. 181, 135 S.E.2d 815 (1964); Durrett v. Durrett, 204 Va. 59, 129 S.E.2d 50 (1963); Henebry v. Henebry, 185 Va. 320, 38 S.E.2d 320 (1946).\nApparently relying upon the reasoning of Gazale v. Gazale, 219 Va. 775, 250 S.E.2d 365 (1979), and Eaton v. Eaton, 215 Va. 824, 213 S.E.2d 789 (1975), the court concluded that the usurpation of jurisdiction in 1978 included spousal support, despite the separation agreements and the provisions of Code \u00a7 20-109 and despite the court\u2019s not having previously exercised nor reserved jurisdiction to set or modify support. The court concluded that the erroneous exercise of jurisdiction and setting of both child and spousal support became the law of the case twenty-one days after entry of the decree. Rule 1:1.\nThe court misconstrued the intent and effect of the 1978 decree. The rules of construction require that if any ambiguity exists in a decree, primary consideration must be given to an interpretation which would support the facts and law of the case in order to avoid a result that will do violence to either. If a decree can conform to the law and history of a case, even though facially a conflict may appear, the result should be sought which will achieve conformity. 46 Am. Jur. 2d Judgments \u00a7\u00a7 72-76 (1969); 11A Michie\u2019s Jurisprudence Judgments and Decrees \u00a7 5 (Repl. vol. 1978). The chancellor construed the 1978 decree in a manner that necessarily resulted in a conflict with both the original and amended separation agreements and with the application of Code \u00a7 20-109. He resolved the conflict by declaring that the private agreements had been abrogated and supplanted by a judicial determination of support.\nThe 1978 decree could and should have been interpreted to reconcile with the parties\u2019 agreements and with a proper application of the law, rather than in a manner that resulted in finding that the court had usurped jurisdiction over spousal support in contravention of Code \u00a7 20-109. Cf. White v. Graham, 72 N.C. App. 436, 325 S.E.2d 497 (1985). The 1978 decree did not mention spousal support; its sole purpose and effect was to increase child support. The failure of the 1978 decree to mention either the original or amended separation agreements was of no consequence because the chancellor was only considering a change in circumstance as to child support. Modification of child support remains with the court regardless of a contract between the parties. Code \u00a7 20-108; Hammers v. Hammers, 216 Va. 30, 31, 216 S.E.2d 20, 21 (1975). In instances in which postnuptial agreements provide a unitary sum of support, the authority and method to increase child support had been clearly defined by the Virginia Supreme Court prior to 1978. Wickham v. Wickham, 215 Va. at 696, 213 S.E.2d at 751-52; Carter v. Carter, 215 Va. 475, 481, 211 S.E.2d 253, 258 (1975).\nWe believe the court in 1978 was following the defined procedure of apportioning a unitary sum of support set by contract in order to exercise its authority to increase child support upon a change in circumstance. Even if the 1978 decree may have been inartfully drafted, we see nothing to justify a finding that the 1978 decree, which only increased child support, should abrogate or supplant a contract as to spousal support. We assume that the chancellor in 1978 properly considered the existing facts, that he considered the 1976 amended agreement which increased the unitary sum of support from $700 to $925, and that the recitation that support be increased from $700 to $1,250 was explained by the 1976 amendment not having been ratified or approved by judicial decree, as had the prior agreement. Any other interpretation would assume that the chancellor had disregarded the existence of the amended agreement, had failed to apportion the unitary sum of support in accordance with Wickham and Carter and had substituted its authority to set spousal support of a private bilateral agreement despite the prohibition of \u00a7 20-109. It is improper under the circumstances to conclude that the court in 1978 committed such errors. See Shears v. Adams, 145 W.Va. 250, 114 S.E.2d 585 (1960).\nAccordingly, the original and amended contracts preclude the court\u2019s considering modification of spousal support by virtue of Code \u00a7 20-109. The denial of an increase, decrease or elimination was an unauthorized exercise of jurisdiction. We reverse and dismiss the petitions to modify the spousal support portion of the unitary sum of support.\nReversed and dismissed.\nDuff, J., concurred.\nThe pertinent part of Code \u00a7 20-109 states that \u201cif a stipulation or contract signed by the party to whom such relief might otherwise be awarded is filed with the pleadings or depositions, then no decree or order directing the payment of support and maintenance for the spouse, suit money, or counsel fee or establishing or imposing any other condition or consideration, monetary or nonmonetary, shall be entered except in accordance with that stipulation or contract.\u201d\nThe agreement was drafted to comply with the requirements of Commissioner v. Lester, 366 U.S. 299 (1961). Lester approved income tax deduction from gross income of the entire unitary sum of support, provided no sum is specifically designated for child support.",
+        "type": "majority",
+        "author": "COLEMAN, J."
+      },
+      {
+        "text": "Barrow, J.,\ndissenting\nI agree with the majority\u2019s opinion that the 1978 decree did not abrogate the separation agreement, but I believe the trial court was correct when it denied the petition to eliminate spousal support.\nAdmittedly, the trial judge was in error when he said, at a hearing prior to the entry of the decree, that the \u201cagreement was abrogated in 1978 by the entry of this order. ...\u201d The 1978 decree increased the defendant\u2019s payment by $550 per month, all of which was \u201csolely for support of minor children.\u201d It did not change the parties\u2019 agreement concerning spousal support.\nEven though the trial judge\u2019s comment from the bench was incorrect, the decree he entered later was correct since it did not modify the parties\u2019 agreement on spousal support. The 1984 decree again increased the defendant\u2019s payment, but \u201csolely for support of the minor children.\u201d It also denied the petitions to eliminate spousal support and to increase spousal support, but it did not change the agreed upon spousal support.\nThe majority, while not disturbing the child support provisions of the decree, reverses the trial court\u2019s denial of the petitions concerning spousal support, requiring that they be dismissed rather than denied. In my opinion the statutory prohibition against modifying spousal support contemplates no difference between a denial or a dismissal of a petition seeking such a modification. Therefore, I would affirm the trial court.",
+        "type": "dissent",
+        "author": "Barrow, J.,"
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Robert K. Richardson (Odin, Feldman & Pittleman, P.C., on briefs), for appellant.",
+      "Peter L. Sissman, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Arlington\nDOUGLAS W. PARRILLO v. GILLIAN PARRILLO\nNo. 0037-84\nArgued April 30, 1985\nDecided November 6, 1985\nCounsel\nRobert K. Richardson (Odin, Feldman & Pittleman, P.C., on briefs), for appellant.\nPeter L. Sissman, for appellee."
+  },
+  "file_name": "0226-01",
+  "first_page_order": 250,
+  "last_page_order": 256
+}

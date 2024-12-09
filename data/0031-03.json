@@ -1,0 +1,72 @@
+{
+  "id": 2096024,
+  "name": "Hayward et al. v. Chisman et al.",
+  "name_abbreviation": "Hayward v. Chisman",
+  "decision_date": "1738-04",
+  "docket_number": "",
+  "first_page": "31",
+  "last_page": "32",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Jefferson 52"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Gen. Ct.",
+    "id": 9757,
+    "name": "General Court of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "25 Gratt. 587",
+      "category": "reporters:state",
+      "reporter": "Gratt.",
+      "case_ids": [
+        6724868
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/66/0487-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 123,
+    "char_count": 1827,
+    "ocr_confidence": 0.44,
+    "sha256": "f600a21d740d99fdee3aff831df22d11f306a017af1eaaa77f93025709cad906",
+    "simhash": "1:c18ae9b18461c397",
+    "word_count": 334
+  },
+  "last_updated": "2024-02-27T21:13:56.724571+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hayward et al. v. Chisman et al."
+    ],
+    "opinions": [
+      {
+        "text": "Henry Hayward, possessed of divers slaves and other estate, by his last will, inter alias, devised the guardianship of his children to his wife, and left five slaves to work, and maintain his wife and children, besides the profits of the estate he had left them; and died without making any other disposition of these five slaves; leaving Henry, his eldest son, who, dying before his mother, devised the slaves to the defendants, who after his mother\u2019s death recovered them in an action at law, and now a bill is brought by the younger children of the first testator, for a share of the value of the said slaves. For the plaintiff, it was insisted, that by the act of the 4 Ann. 23. they were entitled to a share of the value, their father being intestate as to these slaves. For the defendants, it was said, that there was an exception in the act of the widow\u2019s dower, the value of which was not to be devised among the younger children, and that these slaves were intended by the' testator in lieu of the widow\u2019s dower, and therefore not to be divided.\nReported by Edward Barradall, Esq.\nAnd of that opinion was the whole Court.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Hayward et al. v. Chisman et al.\nApril, 1738.\nSlaves \u2014 In Lieu of Dower \u2014 Division of Estate after Death of Widow. \u2014 The testator among other things left five slaves to work and maintain his wife and children. His eldest son Henry who died before his mother devised the slaves to the defendants who after the death of the widow recovered them in an action at law. Upon a suit brought by the younger children of the first testator for a share of the value of the said slaves, it was held that the slaves were Intended by the testator in Hen of the widow\u2019s dower and therefore not to he divided among the younger children.\nSee monograpbic note on \u201cDower\" appended to Davis v. Davis, 25 Gratt. 587."
+  },
+  "file_name": "0031-03",
+  "first_page_order": 31,
+  "last_page_order": 32
+}

@@ -1,0 +1,226 @@
+{
+  "id": 2288248,
+  "name": "VOLVO WHITE TRUCK CORP., et al. v. ROBERT DONALD HEDGE",
+  "name_abbreviation": "Volvo White Truck Corp. v. Hedge",
+  "decision_date": "1985-11-19",
+  "docket_number": "No. 0152-85",
+  "first_page": "195",
+  "last_page": "201",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 195"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "324 S.E.2d 656",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "657-58"
+        },
+        {
+          "page": "656"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "199 S.E. 511",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "514"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "171 Va. 374",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        1952399
+      ],
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "379"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/171/0374-01"
+      ]
+    },
+    {
+      "cite": "273 S.E.2d 797",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "799"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "221 Va. 786",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2138889
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "790"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/221/0786-01"
+      ]
+    },
+    {
+      "cite": "1 Va. App. 153",
+      "category": "reporters:state",
+      "reporter": "Va. App.",
+      "case_ids": [
+        2288198
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "158"
+        },
+        {
+          "page": "159"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va-app/1/0153-01"
+      ]
+    },
+    {
+      "cite": "90 S.E.2d 124",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1955,
+      "pin_cites": [
+        {
+          "page": "127"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "197 Va. 547",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2061408
+      ],
+      "year": 1955,
+      "pin_cites": [
+        {
+          "page": "551"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/197/0547-01"
+      ]
+    },
+    {
+      "cite": "304 S.E.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "2"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "225 Va. 413",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2078354
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "415"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/225/0413-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 557,
+    "char_count": 10776,
+    "ocr_confidence": 0.925,
+    "pagerank": {
+      "raw": 2.425495744822212e-07,
+      "percentile": 0.8014391958758985
+    },
+    "sha256": "b3336fe70242840be381b9c9a1d9bb27a527ec839482f4f5a98e6e71079ba0e5",
+    "simhash": "1:8b17c65b20304c05",
+    "word_count": 1709
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "VOLVO WHITE TRUCK CORP., et al. v. ROBERT DONALD HEDGE"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nCOLEMAN, J.\nVolvo White Truck Corporation (Volvo) appeals from an order of the Industrial Commission directing reimbursement to claimant, Robert Donald Hedge, of medical expenses for an eye examination and eyeglasses, and awarding him attorney\u2019s fees. Volvo contends that Hedge is barred from recovery because he refused a medical examination at the request of the employer. Also, Volvo contends that there is no credible evidence that the treating physician referred Hedge for an eye examination or that Hedge\u2019s eye condition was caused by the industrial accident. Finally, Volvo urges that we disallow the attorney\u2019s fees because, as a matter of law, its defense of the claim was not unreasonable. We affirm the award of medical expenses, but reverse the award of attorney\u2019s fees.\nThe treating physician, Dr. Gordon Burch, a neurologist, diagnosed Hedge\u2019s injury as a chronic vestibulopathy resulting from being struck in the head with a wrench in August of 1982. Dr. Burch characterized the post-traumatic vestibulopathy as a \u201ctransient sequella of closed head injury.\u201d Hedge\u2019s symptoms, which Dr. Burch determined could persist intermittently for two to four years, were dizziness, vertigo, nausea, and some blurring of vision when dizziness was present.\nOn June 26, 1984, Hedge informed Dr. Burch that the dizziness and blurred vision had cleared, but that his eyes hurt. Hedge testified that Dr. Burch advised, \u201cif your blurred vision is cleared up you probably need new glasses .... I recommend you get your eyes checked.\u201d On July 17, 1984, Dr. Burch wrote Volvo that Hedge \u201csuffers from a vestibulopathy with visual disturbance aggravated at times by his work. It is recommended that he get an updated eye examination at this time.\u201d\nAs a result of Dr. Burch\u2019s advice, Hedge made his own appointment and had his eyes examined by his personal optometrist, Dr. Scott Brandau, who prescribed new glasses. Hedge had the prescription filled at a cost of $58, for which he sought reimbursement from Volvo. Volvo refused to pay the claim and Hedge filed for a hearing before the Commission.\nShortly before the impending Industrial Commission hearing, Hedge\u2019s supervisor informed him upon his arrival at work that an independent examination with an ophthalmologist had been arranged at 8:45 a.m. that same morning. Volvo made no effort to notify Hedge\u2019s counsel of the appointment, despite having been aware of his representation. Hedge refused to be examined at that time.\nAs a result, Volvo asserted the defense that Hedge had refused a medical examination. The Commission found that the expense which Hedge had incurred for eyeglasses resulted from the industrial injury, that Hedge had justifiably refused to permit the independent eye examination, and that Volvo had defended the claim for Dr. Brandau\u2019s services without reasonable grounds.\nI.\nVolvo contends that Hedge should have been barred from recovery by Code \u00a7 65.1-91, because he refused medical examination at the request of the employer. Code \u00a7 65.1-91 provides that an employee,\nif so requested by his employer . . ., shall submit himself to examination, at reasonable times and places, by a duly qualified physician or surgeon designated and paid by the employer .... The employee shall have the right to have present at such examination any duly qualified physician or surgeon provided and paid by him.\nShould an employee refuse to cooperate in such an examination, his right to compensation is suspended until his refusal ceases. Id. Volvo did not inform Hedge of the appointment with the ophthalmologist until thirty minutes before the time of the appointments Hedge had no time or opportunity to arrange to have his own physician present. Hedge\u2019s counsel was never informed of the appointment. The Commission\u2019s findings of fact, if supported by credible evidence, are conclusive and binding on appeal. Code \u00a7 65.1-98; McCaskey v. Patrick Henry Hospital, 225 Va. 413, 415, 304 S.E.2d 1, 2 (1983). The Commission\u2019s finding that the claimant\u2019s refusal to be examined was justified due to inadequate notice of the appointment is clearly supported by the evidence, and we affirm.\nII.\nVolvo claims that there is no credible evidence to establish a causal relationship between the vestibulopathy and eye problem and argues that the Commission erred in finding that Dr. Burch referred Hedge to an optometrist as a part of the necessary medical treatment resulting from the industrial injury. Volvo relies upon Dr. Brandau\u2019s responses to interrogatories that \u201c[t]o attribute changes in refractive error from induced chronic vestibulopathy\u201d would be \u201cextremely remote,\u201d while corneal scarring, from which Hedge suffered, was well known to cause such changes.\nHedge contends, on the other hand, that the causal connection between the refractory problems and the vestibulopathy is established by Dr. Burch\u2019s report dated August 23, 1984:\nThis patient has been under my care now for sometime with respect to chronic vestibulopathy which had caused considerable disability and was accompanied by visual obscuration. Also the treatment required for the vestibulopathy also had an effect on his vision and this ultimately required re-examination from the opthomologic (sic) standpoint on two occasions within the past year with reference to his refraction. The vestibulopathy is aggrevated (sic) by his work circumstance and therefore in my judgement the need for opthomologic (sic) review and refraction on both occasions was related to his work and the condition aggrevated (sic) by the nature of that work.\nHedge also asserts that the Commission properly accepted the opinion of Dr. Burch, a medical doctor, rather than Dr. Brandau, an optometrist, as to the cause of the refractory problems.\nWhether the employer is responsible for medical expenses pursuant to Code \u00a7 65.1-88 depends upon: (1) whether the medical service was causally related to the industrial injury; (2) whether such other medical attention was necessary; and (3) whether the treating physician made a referral to the patient. The determination of proximate cause between an injury and the industrial accident is a factual finding conclusively binding on appeal if supported by credible evidence. Mills v. Virginia Electric & Power Co., 197 Va. 547, 551, 90 S.E.2d 124, 127 (1955). Whether medical attention is necessary is a matter for the attending physician or the Industrial Commission to determine, not the employer. Code \u00a7 65.1-88; Jensen Press v. Ale, 1 Va. App. 153, 158,_S.E.2d_(1985). So long as a causal relationship between the industrial accident and the complaints which are the subject of the referral is shown, the employer is financially responsible for the medical attention which the attending physician deems necessary, subject to review by the Commission. Id. The Commission found that both the causal relationship between Hedge\u2019s eye problems and the vestibulopathy, and the necessity for the eye examination and eyeglasses had been demonstrated. The Commission interpreted Dr. Burch\u2019s report of August 23, 1984, to establish that Hedge\u2019s working conditions had aggravated the vestibulopathy, which in turn caused dizziness and vertigo, and was the cause of the refractory problems. Although there was conflicting expert testimony as to the cause of the refractive error, the Commission chose to give more weight to the opinion of Dr. Burch, the medical doctor. See Eccon Construction Co. v. Lucas, 221 Va. 786, 790, 273 S.E.2d 797, 799 (1981). The Commission\u2019s findings that Hedge had proved the causal relationship between his refractory problem and the vestibulopathy, and had proved the necessity of the medical referral are supported by credible evidence, and we affirm.\nIII.\nThe Commission awarded $200 in attorney\u2019s fee to Hedge, finding that the claim was defended without reasonable grounds. Code \u00a7 65.1-101 provides:\nIf the Industrial Commission or any court before whom any proceedings are brought or defended by the employer under this Act shall determine that such proceedings have been brought, prosecuted or defended without reasonable grounds, it may assess against the employer who has so brought, prosecuted or defended them the whole cost of the proceedings, including a reasonable attorney fee, to be fixed by the Commission.\nAssessment of costs and attorney\u2019s fee is not required in the case of every defense of a proceeding undertaken without reasonable grounds. The matter is left to the sound discretion of the Commission. Code \u00a7 65.1-101; Jensen Press, 1 Va. App. at 159, _ S.E.2d at __. We will not disturb such an assessment unless there is an abuse of discretion.\nA claimant has the burden to show by the preponderance of the evidence that the compensable accident is the actual cause of an injury. A.N. Campbell & Co. v. Messenger, 171 Va. 374, 379, 199 S.E. 511, 514 (1938). The employer is entitled to such a showing before it accepts responsibility for payment.\nBefore agreeing to pay for the eye examination, Volvo sought clarification from Dr. Burch as to whether it was a referral necessitated by the vestibulopathy. The doctor\u2019s letter to Volvo on July 17, 1984, stated that Hedge \u201csuffers from a vestibulopathy with visual disturbance aggrevated (sic) at times by his work. It is recommended that he get an updated eye examination at this time.\u201d In the answers to the interrogatories propounded to Drs. Brandau and Burch, Volvo received conflicting expert medical opinions as to the cause of the refractive error. The facts available prior to the hearing could reasonably have caused Volvo to doubt the compensability of the claim or whether the claimant could sustain his burden of proof. Attorney\u2019s fees may be awarded in a workers\u2019 compensation case only when it is defended \u201cwithout reasonable grounds.\u201d Code \u00a7 65.1-101; see Norfolk Department of Fire v. Lassiter, _ Va. _, 324 S.E.2d 656, 657-58 (1985). If an employer refuses to pay a claim, reasonably believing that it is not compensable, and in the course of its investigation the grounds for refusal are not so contradicted as to be shown unfounded, then the subsequent defense is reasonable, even if it is later proven misplaced or in error. See Lassiter, _ Va. at _, 324 S.E.2d at 656. The Commission abused its discretion in awarding costs and attorney\u2019s fee to Hedge pursuant to \u00a7 65.1-101, and we reverse that award.\nAffirmed in part, reversed in part.\nKoontz, C.J., and Keenan, J., concurred.",
+        "type": "majority",
+        "author": "COLEMAN, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "James C. Joyce, Jr. (Richard S. Phillips; Gentry, Locke, Rakes & Moore, on brief), for appellants.",
+      "Robert Jett Ingram, Jr., (Gilmer, Sadler, Ingram, Sutherland & Hutton, on brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Salem\nVOLVO WHITE TRUCK CORP., et al. v. ROBERT DONALD HEDGE\nNo. 0152-85\nArgued June 26, 1985\nDecided November 19, 1985\nCounsel\nJames C. Joyce, Jr. (Richard S. Phillips; Gentry, Locke, Rakes & Moore, on brief), for appellants.\nRobert Jett Ingram, Jr., (Gilmer, Sadler, Ingram, Sutherland & Hutton, on brief), for appellee."
+  },
+  "file_name": "0195-01",
+  "first_page_order": 219,
+  "last_page_order": 225
+}

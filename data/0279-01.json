@@ -1,0 +1,88 @@
+{
+  "id": 2288201,
+  "name": "RAYE MARGARET SLUDER DUCKETT v. BILLY GENE DUCKETT",
+  "name_abbreviation": "Duckett v. Duckett",
+  "decision_date": "1985-12-17",
+  "docket_number": "No. 0195-85",
+  "first_page": "279",
+  "last_page": "280",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 279"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Va. App. 256",
+      "category": "reporters:state",
+      "reporter": "Va. App.",
+      "case_ids": [
+        2288204
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va-app/1/0256-01"
+      ]
+    },
+    {
+      "cite": "335 S.E.2d 257",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1985,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 164,
+    "char_count": 1899,
+    "ocr_confidence": 0.896,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.07870613306026722
+    },
+    "sha256": "b2be882fa17da7769a0344512c8d639a9c2e6bfdf51a1235e270b4bb2a33237d",
+    "simhash": "1:0a51734b61a3c996",
+    "word_count": 319
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "RAYE MARGARET SLUDER DUCKETT v. BILLY GENE DUCKETT"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nKOONTZ, C.J.\nThis is an appeal arising out of a contempt order in the Washington County Circuit Court case of Commonwealth v. Billy Gene Duckett. Appellant, Raye Margaret Sluder Duckett, Mr. Duckett\u2019s former wife, asserts that she is aggrieved by a portion of the Circuit Court\u2019s order which excused Mr. Duckett from paying accrued arrearages in child and spousal support and maintenance, and reduced the amount of future payments.\nAppellant has filed no appeal bond as required by Code \u00a7 8.01-876.1 and Rule 5A:17. Consequently, we are unable to reach the merits of this case and must dismiss the appeal.\nCode \u00a7 8.01-676.1(A) provides: \u201cA party filing a notice of an appeal of right to the Court of Appeals shall simultaneously file an appeal bond in the penalty of $500.\u201d The bond must be filed with the clerk of the Industrial Commission or the clerk of the Circuit Court, whichever is applicable. Code \u00a7 8.01-676.1(1).\nThe Supreme Court has recently reiterated its long-standing position that failure to file the appeal bond in the Supreme Court is jurisdictional and that such failure is not a mere defect which may be corrected pursuant to its Rule 5:24. Rudiger & Sons, Inc. v. Hanckel-Smith Sales Co., _ Va. _, 335 S.E.2d 257 (1985).\nThe appeal bond required by statute and the rules applicable to their filing are substantially the same in the Court of Appeals and the Supreme Court. This court has so held. Burns v. C.W. Wright Construction Co., 1 Va. App. 256, _ S.E.2d _ (1985).\nWe hold that the failure to file the appeal bond as required by Code \u00a7 8.01-676.1 requires that this appeal be dismissed.\nDismissed.\nBaker, J., and Moon, J., concurred.",
+        "type": "majority",
+        "author": "KOONTZ, C.J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Barry L. Proctor (Blue Ridge Law Center, on brief), for appellant.",
+      "No brief or argument for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Salem\nRAYE MARGARET SLUDER DUCKETT v. BILLY GENE DUCKETT\nNo. 0195-85\nArgued September 18, 1985\nDecided December 17, 1985\nCounsel\nBarry L. Proctor (Blue Ridge Law Center, on brief), for appellant.\nNo brief or argument for appellee."
+  },
+  "file_name": "0279-01",
+  "first_page_order": 303,
+  "last_page_order": 304
+}

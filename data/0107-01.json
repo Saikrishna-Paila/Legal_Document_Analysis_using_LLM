@@ -1,0 +1,251 @@
+{
+  "id": 6669131,
+  "name": "United States v. Thomas Reid",
+  "name_abbreviation": "United States v. Reid",
+  "decision_date": "1850-12-12",
+  "docket_number": "",
+  "first_page": "107",
+  "last_page": "120",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Howison 107"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.E.D. Va.",
+    "id": 9741,
+    "name": "United States Circuit Court for the Eastern District of Virginia"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Robinson, 756",
+      "category": "reporters:state",
+      "reporter": "Rob.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Wheaton 1",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1434775
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/23/0001-01"
+      ]
+    },
+    {
+      "cite": "9 Cranch 98",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "opinion_index": -1
+    },
+    {
+      "cite": "11 Peters 175",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        3344856
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/36/0175-01"
+      ]
+    },
+    {
+      "cite": "12 Peters 84",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        5619991
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/37/0084-01"
+      ]
+    },
+    {
+      "cite": "1 Robinson 756",
+      "category": "reporters:state",
+      "reporter": "Robinson",
+      "opinion_index": -1
+    },
+    {
+      "cite": "5 Conn. Rep. 348",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        12130229
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/5/0348-01"
+      ]
+    },
+    {
+      "cite": "4 Mass. Rep. 398",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "1 Rand. 392",
+      "category": "reporters:state",
+      "reporter": "Rand.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "10 Wheat. 49",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "12 Wheat. 480",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1429759
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/25/0480-01"
+      ]
+    },
+    {
+      "cite": "16 Peters 1",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        102735
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/41/0001-01"
+      ]
+    },
+    {
+      "cite": "11 Leigh 633",
+      "category": "reporters:state",
+      "reporter": "Leigh",
+      "case_ids": [
+        6722242
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/38/0738-02"
+      ]
+    },
+    {
+      "cite": "1 Hill 207",
+      "category": "reporters:state",
+      "reporter": "Hill",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Leigh 1",
+      "category": "reporters:state",
+      "reporter": "Leigh",
+      "case_ids": [
+        6716964
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/va/33/0309-01"
+      ]
+    },
+    {
+      "cite": "2 Sumn 83",
+      "category": "reporters:federal",
+      "reporter": "Sumn.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 1307,
+    "char_count": 29139,
+    "ocr_confidence": 0.516,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.17988654937025286
+    },
+    "sha256": "3143df220699dba6873b54d97633dd62acb4132bb2660825422f1f9050c2327a",
+    "simhash": "1:7277f9651d462617",
+    "word_count": 5442
+  },
+  "last_updated": "2024-02-27T22:26:22.563280+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "HON. JAMES D. HALYBURTON, JUDGE.",
+      "Hot?. Roger B. Taney, Chief Justice of the. United States, and",
+      "Hon. James D. Hai.ybdr.ton, District Judge, Sitting."
+    ],
+    "parties": [
+      "United States v. Thomas Reid."
+    ],
+    "opinions": [
+      {
+        "text": "The Court\nbeard the statements of such of the Jurors as were willing to make them, as to the reading of the \u201c Dispatch,\u201d and its effect upon their minds.\nMonday, May 19f/i. Taney Ch J.\u2014Judge Halyburton and myself differ as to two points arising upon this motion. 1. He thinks Reid\u2019s testimony admissible upon a proper construction and application of sec 21, ch. 199 Code of Va. I should concur with him if I regarded this a mere question of evidence, but I think it goes deeper arid affects the discretionary power of this Court as to granting several trials upon joint indictments. This rests in the sound discretion of the U. S. Courts, but'if this Act of Virginia applies as contended for, the prisoners would havea right to insist upon separate trials. 1 think therefore the act does not apply.\n2. Judge Halyburton also thinks a new trial ought to be granted on the statements of the Jurors. I do not think affidavits of Jurors ought to be received to impeach their own verdict, but even if received the statements of the Jurors in this case seem to me no ground for a new trial. Upon a certificate of this division of opinion between Judge Halyburton and myself, the questions iu these cases will go to the Supreme Court of the United States for decision.",
+        "type": "majority",
+        "author": "The Court"
+      }
+    ],
+    "attorneys": [
+      "For the United States, William T. Joynes.",
+      "For the Prisoner, R G. Scott, T. P. August, A. Judson Crane.",
+      "Solomon S Riggs, sworn.",
+      "Joynes.",
+      "August.",
+      "Scott",
+      "Cross-examined by Scott.",
+      "Thomas Gastello, sworn.",
+      "Cross-examined by Scott.",
+      "Scott.",
+      "By Joynes.",
+      "Daniel J. Smith, sworn.",
+      "Cross-examined by Scott.",
+      "Scott.",
+      "Scott.",
+      "By Joynes.",
+      "Costello, recalled.",
+      "John R. Tucker, Lieut. U. S. JV, sworn.",
+      "Charles F McIntosh, Lieut. U F. Jf , sworn.",
+      "Franklin Mlison, sworn.",
+      "Cross-examined by Joynes.",
+      "Joseph Hall, sworn.",
+      "Edward Curtis, sworn.",
+      "Mr. Joynes, for the prosecution,",
+      "Mr. Crane, for the prisoner,",
+      "Mr. August, for the prisoner,",
+      "Joynes.",
+      "Charles G. Thompson, sworn.",
+      "By Joynes.",
+      "Hugh. Rileigh, sworn.",
+      "By Joynes.",
+      "Joynes.",
+      "Taney, C. J.",
+      "Crane.",
+      "Joynes.",
+      "Scott."
+    ],
+    "corrections": "",
+    "head_matter": "TRIAL OF THOMAS REID.\n(Instead of repeating the evidence of Capt. S. S. Riggs, Thomas Gastello and Daniel J. Smith, I have in this report, given only such of their statements as were additions to, or explanations of, their former testimony. I made full notes of their evidence in both trials, and the general consistency of their first and second statements is so entire, that I have deemed a second report in full, to be unnecessary. R. R. H.)\nHON. JAMES D. HALYBURTON, JUDGE.\nIn the U. S. Circuit Court, for the 4th Circuit and Eastern District of Virginia.\nUnited States v. Thomas Reid.\nThursday, December 12, 1850.\nThe prosecution and indictment were the same as in the trial of Edward Clements, ante pages 91-92.\nThe accused appeared to be from 30 to 35 years old, and about 5 feet, 8 inches high ; he had dark hair and eyebrows, and a dark complexion ; a slight scar was visible on his face, near the nose and eyes ; his expression was not forbidding, though firm.\nHe pleaded \u201c Not Guilty\u201d to the indictment, as before stated.\nThe following were the Jury.\nJames H. Gardner, Wm.M. Sutton, ffm. Slater, Hiram Bragg, Ira Tichenor, Edw\u2019d D. Eacho, Charles G. Thompson, R. M. AI-len, Thomas W. Keesee, James Phillips, Franklin Stearns, Hugh Rileigh.\nFor the United States, William T. Joynes.\nFor the Prisoner, R G. Scott, T. P. August, A. Judson Crane.\nUpon request of the prisoner\u2019s counsel, the prisoner\u2019s affidavit was taken to certain statements upon which the Court directed a writ of habeas corpus ad testificandum to issue to the Jailor of Henrico county Jail to bring up three persons confined there, viz. Franklin Allison, Joseph J. Hall and Edward Curtis.\nFriday, December 13, 1851.\nSolomon S Riggs, sworn.\nI had some suspicions of these men in the Port of Spain. I arrived there the 17th of January, sold my cargo, went aboard the vessel, got my papers and got my cargo entered at the Custom-House\u2014engaged a large lighter called a \u201cGo-bar,\u201d and nearly loaded her; on the 18th we went on discharging. In the evening, after supper, Clements and Reid asked me for permission to go ashore; I gave it, but told them to be back by gun-fire. They were not aboard the next morning; 1 remarked I expected Reid and Clements were in the \u201c Calaboose.\u201d While we were working, two black men came along side and said they had sent them to work in their places. After awhile I went ashore ; at the landing Reid and Clements met me; Clements asked me how the men they had sent worked ; 1 said, \u201c quite wellClements asked me if I would go up and take a glass of porter; in the afternoon they went aboard before I did; when J came aboard, the cook said to me he was afraid I would have trouble\u2014(Stopped by Mr. Scott.) On the 25th we went to Five Islands, and ballasted before sun down the 26th. In the course of the day Clements kept up a \u201c monstrous hallooing and to do ;\u201d I thought it didn\u2019t look right; I told the mate we would go to sea early the next morning. As I was sitting aft, inclining my head near the (dacey ?) I saw Reid who seemed to be filing something; he was sitting forward on the windlass; every now and then he seemed to be peeping round the foremast at me ; I did not see what he was doing, but heard the sound. These things made me a little wakeful, I did not sleep much that night.\nJoynes.\nCaptain Riggs, where and by whom was the vessel owned ?\nAugust.\nWe insist that Capt. Riggs cannot be permitted to prove these matters by his verbal statement; the best evidence of ownership is the Register, and it ought to be produced.\nScott\n\u2014I remember that this question was before Chief Justice Marshall in a case in which I had the honour to be counsel. It was in the trial of a Chilian, accused of murder aboard a vessel which, I think, was alleged to be owned in New Bedford. The prosecution sought to prove that this vessel was owned by American citizens in New Bedford ; the Chief Justice said the ownership must be proved, and that as the Acts of Congress required Registry, that was the best evidence, and none secondary could be introduced.\u2014Roscoe I. Gilbert\u2019s Ev. Buller\u2019s Nisi Prius. I take the principle to be this, that the law has fixed what shall be evidence of title to the vessel, and this is required to be written and matter of record in the Custom House. If the J. B. Lindsay had papers, they ought to be produced, if she had none, then when she passed upon the high seas, she was not an American vessel or not entitled to peculiar protection as such.\nJoynes was about to reply.\nThe Court stopped him. This point has been frequently raised before me and, I believe, always in Criminal cases. Suppose no registry acts had eve. passed and a murder had been committed on the high seas aboard an American vessel, would it not have been punishable according to the Laws of the United States? I I think it would. Then, as to the Registry acts, they were intended to encourage and protect our commerce, but I think that an American vessel not registered, is still a vessel of the United States, and that crimes committed on board of her would be punishable according to the acts of Congress. But admit that she was Registered, is there any thing in the acts of Congress or the general rules of law making the register the highest evidence of ownership ? The registry is merely the oath of a party that the vessel is owned by certain persons, reduced to writing and recorded in the Custom-House. It does not seem to me to be higher evidence than the oath in open Court of a witness who knows the ownership. The objection is overruled.\nWitness.\u2014She was the property of (as before stated.) I think she was built in North Carolina.\nCross-examined by Scott.\nI cleared for Martinique ; I think I went thither and then to Trinidad for a market; I had no money going out, except five or six dollars. In the voyage out I did not observe that Reid and Clements had any arms; they behaved and worked well. They paid the black men for working, I did not; when Clements hallooed so much Saturday, it surprised me because he had not done it before, but it is not unusual for seamen in hoisting to halloo; he made a great noise. In Trinidad I received about $500 in specie, and brought it aboard in a little bag ; this was late Friday evening. Clements and Reid were in the boat with me when I brought it off. The pistols handed to me by the mate, I afterwards gave to another mate who shipped with me at St. Thomas ; I gave them to him in Ocracock Inlet. I delivered my own pistols to the U. S. Commissioner at Norfolk. There were eight berths in the cabin; the cook and I both lay in berths, he on the larboard and I on the starboard side, but I don\u2019t know that any one outside could have seen either of us. When I ran out the mate was lying on the starboard side\u2014his head towards the rudder\u2014his feet under the wheel ropes ; I was on the larboard side, with my head resting on a spoke of the wheel when I heard them running back aft. I made no remark; I did not say, \u201c who is there,\u201d had not time ; I fired after Reid fired; yes, sir, I was alarmed ; I got into the cabin as fast as possible. The second time he fired, he came round the corner of the house, his ball, as I afterwards found, struck the facing of the door and passed through the lid of my chest; I was right in front of a stand which comes out 18 inches from the bulkhead. I fired back and he fell with his feet near a ring-bolt in the deck.\nThomas Gastello, sworn.\nReid said nothing when we were throwing the body of the passenger overboard; it took place about 1 o\u2019clock Monday.\nCross-examined by Scott.\nThe city of Norfolk is my present residence. I shipped the 19th of November, 1849, at Boston, with the mate John Heeney, aboard the J. B. Lindsey, Captain Hathaway. I have been a seaman twelve or thirteen years; when Capt. Riggs sailed, we went first to San Dominique, then to Martinique, then to Tobago, then to Trinidad; there was a difficulty at Trinidad between the Captain, Clements and the cook Smith Reid and I were neutral; I can\u2019t say as to the day of the month ; I did not keep the log book. I introduced the passenger, John Walker, to the Captain; I have seen Reid, Clements and the passenger all pretty drunk together; when I saw them once, the passenger was beastly drunk and under the table, and Reid and Clements were fighting. The passenger said he was an Englishman and wanted to come to the United States. I must now mention what I omitted to state on my former examination. In Trinidad Clements asked me how much money there was aboard ; I said five hundred dollars ; he told me I was a damned liar, there was at least eighteen or nineteen hundred dollars.\nScott.\nWhy did you not state this before ?\nWitness.\u2014Because I forgot it\u2014it did not come to my mind.\n(Here, a sharp colloquy took place between Mr. Scott and the witness.)\nI have never said since Clements\u2019 conviction, that I came here to convict him, and was glad he was convicted. I deny it entirely. I never said it or any thing like it, and I challenge any body to shew it.\nBy Joynes.\nClements\u2019 question about the money was on Monday ; Reid, Clements and I were then all standing together.\nSaturday, December 14, J850,\nDaniel J. Smith, sworn.\nIn Trinidad I heard Clements talk about the money; I never heard Reid say any thing particularly one way or another; I heard Clements say to Reid, \u201c I should like to take the vessel and get the money Reid made no reply. Clements said, it would be a pretty good raise if they eould get through with it; in the same conversation he said it would be all right if they could get me, they would put Tom Gastello to death and I must kill the Captain. I never heard Reid say any thing more than \u201c umph umph.\u201d One evening I went ashore; Gas-tello set me ashore in a boat; Clements and Reid asked us if we would take something to drink; Gastello said a little beer would do. They wanted me to go up to a woman\u2019s, named \u201c Yankee Lizeafter we got up there, they asked me if I would drink a little sweet wine ; I said I didn\u2019t care, sweet wine would do as well as any thing else. They sent out for a bottle; Clements was mixing a dose : I thought he might be going to poison\u2014\u25a0 (stopped.) After awhile they introduced me to \u201c Yankee Lize\u201d and I went with her; they went away.\nCross-examined by Scott.\nI shipped aboard the J. B. Lindsey at Elizabeth City. \u2019Twas in January I think. I shipped one day and was off the next, I am from South Carolina. We had been three or four days at Trinidad before 1 heard Clements say any thing about the money. Some of our cargo was out. I don\u2019t guess they thought I heard them ; I was standing near and heard. I did not state at the former trial that I heard Clements say all this about the money and taking the vessel, because I was stopped , I was commenced in the middle and stopped in the middle.\nScott.\nWho stopped you ?\nWitness.\u2014Jill hands and the cook,\nScott.\nWho ?\nWitness.\u2014I don\u2019t know who stopped me ; I knew all this then and would have stated it, but I was stopped. Capt. Riggs and I have had strife, but it is all over and I suppose nothing is to be said about it now. The Captain did once try to shoot me, but I suppose be was out of his head ; he snapped one of his pistols at me the Friday after the Tuesday we came on deck; I think he must have been out of his head ; at St. Thomas, the Captain put me in irons, but I was taken aboard when we left and did my duty to Elizabeth City.\nBy Joynes.\nHe put me in irons because I got somewhat intoxicated ; I don\u2019t know any other reason. When he snapped the pistol at me I think he was certainly out of his mind ; he had been asleep not long before; 1 got up out of my berth and was going out when he roused up and snapped a pistol at me.\nBy a Juror.\u2014He said nothing, not a word was said. He gave me the pistols immediately afterwards and told me to put them into his chest; I put them and a knife he had into his chest and locked them up and kept the key. The Captain was very unwell ; he suffered a good deal from his wound ; he did very little duty before we got into St. Thomas.\n(By the Court.)\u2014I never saw any symptoms of derangement in him before.\nCostello, recalled.\nI do not know whether the Captain snapped the pistol at Smith or myself or a tarpaulin. The man was not rational, sir. This was on Saturday the 2nd February. He had been suffering much from his wound ; I think he was not rational from his manners, his action, his eyes, every thing about him. He was often in a high state of fever. He did little or nothing in navigating the vessel; he tried to take an observation from the sun and he made the latitude 17\u00b0 12' when we were certainly in 17\u00b0 38?. Sunday night Smith and I were obliged to take the vessel from him. We got in on the 4th of February ; the Captain was taken ashore by a physician.\nThe evidence for the prosecution closed.\nFor the defence:\nJohn R. Tucker, Lieut. U. S. JV, sworn.\nI know Reid the prisoner ; He sailed with me abont 28 months in a voyage to the East indies in the U. S. Ship St. Louis. His character was very good; he was very quiet, industrious and attentive to his duties. From all my opportunities of knowing him, I believe he had a kind and tractable disposition. We left the U. States in 1843, and got back in 1845. I think he was stationed in the fore top during the whole voyage. I do not think he knew any thing of navigation ; I should probably have found it out if he had known any thing of it. His character and conduct must have been more than ordinarily good from the fact that in so long a cruise I heard no complaint of him.\nCharles F McIntosh, Lieut. U F. Jf , sworn.\nI know Reid well; he was in the U. S. Frigate Saratoga with me some 12 or 15 months in 1847 and 1848. It was in the Gulf of Mexico; I believe his character was very good ; he was a very quiet, good man, and I think a great favorite with the crew. He talked very little ; I may say that Reid, like all other seamen, would sometimes go ashore and get drunk, and then he was a very reckless man, but when sober he was remarkably quiet and peaceable; he had no knowledge of navigation, I think.\nFranklin Mlison, sworn.\nI have had some conversation with Gastello in the jail. The day Clements came last from Court, I saw Gastello and Smith; I asked Gastello what was the result, he said Clements was convicted and it was what he (Gastello) went for, and that if his evidence would convict Reid he would do it.\nCross-examined by Joynes.\nClements was up stairs; I was down stairs ; I have the privilege of going up and down stairs; I have been confined about 12 months ; I am charged with horse stealing, have never been tried ; never had any conversation with Clements about his trial ; 1 spoke to both Smith and Castello, but don\u2019t know whether Smith heard ; I think 1 mentioned this talk to Reid; I think some of the other persons heard me talking; I never mentioned it to Mr. Winston the jailor, and never afterwards talked to Castello. This conversation was at the lower window; I don\u2019t know whether any person was at the window above. I mentioned this to Reid the same evening ; I did not like to talk to Clements because he seemed low spirited.\nJoseph Hall, sworn.\nI knew Castello in St. Thomas ; he was a seaman aboard the J. B. Lindsey ; I went aboard the 3rd day after his arrival and conversed with him ; I remember he shewed me the place on the rail where he cut the painter; he said he struck two blows. I heard some talk, in the jail, between Allison and Castello at the window, I understood Allison to ask him how Clements came out at his trial. Castello answered, \" I have convicted Clements and intend to do the same for Reid if my oath will do it.\u201d\nCross-examined.\u2014Curtis and I were standing at the stove; \u2019twas not in a room, \u2019twas in a passage; the stove was 3 or 4 feet from the window ; I saw Gastello\u2019s face but saw nobody with him. I told Clements and Reid about this conversation the same evening ; I said nothing to others, because Reid asked me not to, as he wished to have me as a witness. Joynes.\u2014Why are you in prison ? Witness.\u2014For refusing to work without food. Four others were convicted at the same time. I was in no vessel in St. Thomas. I had been shipwrecked and was in charge of the United States Consul; I came to the United States in the schooner Joseph Barker.\nEdward Curtis, sworn.\nI have heard Castello speak of Clements ; two weeks ago last Friday, Allison, Hall and I were in the passage by the stove; Castello passed by the window; Allison asked him how Clements\u2019 case had gone; Castello said he had convicted Clements, and would do the same for Reid if his oath would do it.\nCross-examined.\u2014I did not see any body with Castello; I sluy- ed round and went up stairs ; Allison and Hall did not fcllowme immediately; I went up and told Clements and he said he hoped 1 would remember the words; I never mentioned it to Reid or any body else. I have been in jail about a month for refusing to eat salt beef. I don\u2019t exactly know what the charge was ; five of us were convicted at the same time.\nAt this point Mr. Joynes, at the suggestion of the Court and in justice alike to the witnesses Hall and Curtis and the U. S., stated that they had been convicted at Norfolk, under the act of Congress, for \u201c conspiring and encouraging each other to disobey orders.\u201d\nThe evidence closed.\nMr. Joynes, for the prosecution,\naddressed the Jury from i to 2 until 3 o\u2019clock.\nMr. Crane, for the prisoner,\nspoke from 4i to 54 o\u2019clock, P. M.\nMr. August, for the prisoner,\nspoke on Monday, December 16th, from half past 10 A. M., \u2019till 12i P. M.\nMr. Scott, from 15 minutes past 12, \u2019till 10 minutes past 2.\nMr. Joynes closed at about 5 o\u2019clock.\nThe Jury retired, were kept together during the night, and returned into Court on Tuesday, December 17th, 1850, at half past 2 o\u2019clock, with a verdict of \u201c Guilty.\u201d\nThursday, December 19, 1850.\u2014A motion for a new trial in Clements\u2019 case was made and argued at length. The grounds assigned were :\n1. That Reid\u2019s testimony ought to have been admitted.\n2. That evidence had been admitted of the murder of Walker; another and a distinct offence, and the subject of a distinct indictment.\n3. That the Jury ought to have been charged as to manslaughter as well as murder ; the prisoner\u2019s counsel, Byrd and Carring-ton, insisting that under this Indictment he might have been convicted of manslaughter.\n4 That new and material evidence had come to light since the trial; (referring to the evidence of Allison, Hall and Curtis.)\nFriday, Dec, 20th.\u2014The Court overruled the motion for New Trial.\nSaturday, December 2\u201cird, 1850.\u2014The prisoners were brought up for sentence. On being asked if they had any thing to urge, Edward Clements said, in substance, that he had no hope that what he said would prevent the sentence, but he wished to make a statement: \"At 8 o\u2019clock my watch was out; I left Heeney and Walker on deck; Gastello had gone to the forecastle; as my custom was, I rook my blanket aft and laid down on deck to sleep ; f was awakened by the mate who punched me in the side with a hand-spike, and told me to get up and sway up the foresail ; I told the mate it was not my watch, that there were two of them and that in my watch I would do what it was my duty to do; John Walker said, if he had command of the watch, and if he were the mate, he would knock my brains out; the mate then said, \u2018 get up or I\u2019ll knock your brains out,\u2019 and struck me on the arm. I said I would report to the Captain; a struggle took place and 1 stabbed him with my sheath knife and he fell at my feet; the passenger interfered and Reid killed him.\u201d\nThe Court sentenced them, and appointed the last Friday in January as the day of their execution.\nThursday, January 16th, 1851.\u2014A motion for a new trial in Reid\u2019s case, was made by his counsel on two grounds:\n1. That after the Jury were sworn, and before they rendered their verdict, a copy of the \u201c Dispatch\u201d newspaper which contained a statement of the evidence, was read by several Jurors without the consent or knowledge of the Court or Counsel.\n2. That Reid ought to have been admitted as a witness for Clements and Clements for Reid, under sec. 21, chap. 199, Code of Va. 752, which reads thus : \u201c No person who is not jointly tried with the defendant shall be incompetent to testify in any prosecution by reason of interest in the subject matter thereof.\u201d This statute seems to have escaped the attention of the counsel for both prisoners until both trials were over. They now contended that it gave the rule in the United States Courts.\nJoynes.\nI shall insist that the Jurors are not to be heard to prove any facts by which their own verdict is sought to be assailed.\nThis question was fully argued, the counsel for the prisoner relying chiefly on McCaul\u2019s case, 1 Ya. Ca. 306, Kennedy\u2019s case, 2 Va. cases 510.\nFriday, January 17th. The Court\u2014It is undoubtedly true that the Courts have not admitted without great reluctance and caution the affidavits of Jurors, in order to attack their own verdict. In civil cases, involving only pecuniary interests, the public inconvenience which would result from hearing such affidavits is sufficient to exclude them, but in criminal, and especially capital cases, I think the favor of the law to Life and Liberty is more than the argument from inconvenience. I shall therefore hear the affidavits of the Jurors.\nSeveral Jurors were sworn and testified. Among them,\nCharles G. Thompson, sworn.\nI saw a paper in the hands of some of the Jury ; I don\u2019t know what paper it was ; it contained a statement of the evidence in Reid\u2019s case, I probably read a quarter of a column.\nBy Joynes.\nI think what I read was a statement of the Captain\u2019s testimony ; I was not at all influenced by what I read ; I do not think that report was entirely accurate ; 1 think we had heard the evidence but not the argument; I believe I read the paper before the Court was opened in the morning.\nHugh. Rileigh, sworn.\nI read a copy of the \u201c Dispatch\u201d containing a statement of the evidence in Reid\u2019s case. 1 read some part of it here and some part in the Jury room. I had the paper in my pocket; I do not know that it was read by any other Juror; I think it was once spoken of; the report I thought accurate, but I did not read it particularly.\nBy Joynes.\nI got the paper at my store ; I am a subscriber for it, and pay by the week. I was not at all influenced by what I saw in the paper. By the Court.\u2014I sometimes referred to it for the purpose of refreshing my memory, but if I found there any statement which 1 did not recollect at the trial, it had no influence on me; I read more from curiosity than otherwise. My impressions were not altered as to the question of \u201c Guilty\u201d or \u201c Not Guilty\u201d from first to last.\nThe motion for a new trial was elaborately argued for the prisoner by Scott and Crane, and for the United States by Joynes.\nThe Court.\u2014As these cases and the questions that have been raised are of great importance, I shall not now decide the motion, but shall adjourn it to the next term, when it is probable the Chief Justice may be sitting here. In the mean time I shall set aside the Judgments.\nHot?. Roger B. Taney, Chief Justice of the. United States, and\nHon. James D. Hai.ybdr.ton, District Judge, Sitting.\nIn the United States Circuit Court, for the Fourth Circuit, and Eastern District of Virginia.\nFriday, May 14th, 1851.\u2014The motion fora new trial in Reid\u2019s case came up for re-argument.\nJoynes.\nI shall again insist that the Jurors ought not to be heard at all against their own verdict, but for convenience and for the purpose of saving time, this question may be argued with the others that arise.\nTaney, C. J.\nIf it will not disturb too much the course of argument for which the prisoner's counsel have prepared themselves, the Court would prefer that this question as to the admissibility of the Jurors\u2019 statements, shall be argued first in order.\nCrane.\n1. As to the admission of the Jurors\u2019 affidavits.\u2014Bacon\u2019s Abridg\u2019t, 5 vol. 369. 1 Croke, Eliz. Metcalfe v. Dean 189. Comm\u2019th v. McCaul, 1 Va. Cases 306. Overton\u2019s Case, 1 Robinson, 756. 5 Pickering 296. 13 Massach. Reports 217.\n2. As to the competency of Reid for Clements and of Clements for Reid, I cite first our Statute New Code of Va. 752. The construction of this seems plain and I suppose, if this prosecution were in the State Court, the question would be promptly decided. Does this act give the rule of evidence in the U. S. Courts ? I insist that it does. 34 sec. Judic\u2019y Law 1789. Gordon\u2019s Dig. sec. 534, page 125. The laws of the several States are rules of decision in trials at common law. Burr\u2019s Trial 481 Contra. 10 Wheaton 1. 9 Cranch 98. 11 Peters 175. 12 Peters 84. Hamilton\u2019s Argument in the Judiciary in Federalist.\n3. As to the effect of the Jurors\u2019 evidence in vitiating the verdict. Wheaton\u2019s Crim. Law 644-5. Bacon\u2019s Abridg. 5. 369 Edit. 1844. 2 Hale\u2019s P. C. 296. U. S. Digest 1849. 2.695. Supp. U. S. Dig. 5.435. Overton\u2019s case 1 Robinson 756. 12 Pickering 496. 1 Pickering 337. Mass. Rep. 13. 217. Com\u2019th v. McCaul 1 Va. Cases 306.\nJoynes.\n1. The affidavits of Jurors ought not to be admitted to prove their own misbehaviour. This is the settled English rule commencing with Varse v. Dilaval 1 T. Rep. 11. 1 Chitty\u2019s Crim. Law 655. Graham on New Trials 111. Straker v. Graham 4 M. & W. 721. Burgess v. Langley 4 M. & Gr. 722. The same rule prevails generally in the U. S Wharton\u2019s Crim Law 655. It is the rule in criminal as well as civil cases, Rex v. Woolley 6 M. & S. 366. State v. Freeman 5 Conn. Rep. 348. Com\u2019th v. Drew 4 Mass. Rep. 398 State v. Dry 1 Murphy 94. State v. McLeod 1 N. C. Rep. 344. In Tennessee, such affidavits were held admissible in criminal eases in State v. Crawford, 2 Yerger, but the practice has since been regretted and characterized as dangerous, and a disposition expressed to restrict it. Norris v. State 3 Hump. 333. Commented on MeCaul\u2019s case, Kennedy\u2019s case and Overton\u2019s case. In all of them, affidavits of the Jurors were either accompanied by other evidence or designed for their exculpation See Cochran v. Street, 1 Washington 103. Moffat v. Bowman 6 Grat. 219. Price v. Warren 1 H. & M. Shobe v. Bell 1 Rand. 392. Hadwell v. Burnett Ib. 282. Hansberger v. Kinney 6 Grat. 287.\n2. As to the competency of the accused for each other. Sec. 21, page 752, Code of Va., gives no rule in this Court. 10 Wheat. 49. U. S. v. Marchant, 12 Wheat. 480. U. S. v. Shive, Bald. 511\u2014v. Wilson, Bald. 82. Case of Western Insurgents, 2 Dallas. 2 Burr's Trial 481. Chase\u2019s Trial 165; appen. 34. The 34 Sec. Gordon 334, adopts only rules of property, 16 Peters 1. See McNeil v. Holbrook 12 Peters 84. If it adopts rules of evidence in criminal cases, then there will be no uniformity and a man accused of piracy would be acquitted in one State and convicted in another. But if sec. 21, p. 752, .Code of Va,, gives the rule here, still I insist it has not altered the.Com Law which excludes accomplices for each other. This sec. only applies to witnesses in support of the prosecution, I. R. C. 581, 582. Acts 1847-48, p. 124, Rep. Rev\u2019rs 987. The construction of this act insisted on for the prisoner, would deprive this Court of its discretionary power as to granting separate trials to parties jointly indicted. See U. S. v. Marchant, 12 Wheat 480.\n3. As to the facts said to be proved by the Jurors. They are no ground of new trial. Thomas\u2019 case 2 Va. Cases. McCarter\u2019s case, 11 Leigh 633. 12 Picker. 496. 1 Hill 207 6 Leigh 1. 2 Sumn 83. Trial per pais 218, 223, 225, 229. Graham 47. Rex v. Wolfe, 1 Chitty 701.\nScott.\nReplied, commenting upon (he authorities cited by Joynes, and citing Graham on N. T. 109, 161. 5 Pickering. Grayson\u2019s case, 6 Grattan. If the State Law does not give the rule of Evidence, a negro would be competent in the Southern States to testify against a white man in the U. S Courts!"
+  },
+  "file_name": "0107-01",
+  "first_page_order": 111,
+  "last_page_order": 124
+}

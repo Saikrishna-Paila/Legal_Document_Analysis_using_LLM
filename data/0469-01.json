@@ -1,0 +1,286 @@
+{
+  "id": 2288245,
+  "name": "JOHN BERNARD KENNEDY v. COMMONWEALTH OF VIRGINIA",
+  "name_abbreviation": "Kennedy v. Commonwealth",
+  "decision_date": "1986-02-18",
+  "docket_number": "No. 0062-85",
+  "first_page": "469",
+  "last_page": "473",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 469"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "175 S.E. 739",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "year": 1934,
+      "pin_cites": [
+        {
+          "page": "743"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 Va. 211",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        1967339
+      ],
+      "year": 1934,
+      "pin_cites": [
+        {
+          "page": "221"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/163/0211-01"
+      ]
+    },
+    {
+      "cite": "46 S.E.2d 15",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "19"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "187 Va. 157",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2148382
+      ],
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "164"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/187/0157-01"
+      ]
+    },
+    {
+      "cite": "306 S.E.2d 879",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "881",
+          "parenthetical": "citing Voight v. Reber, 187 Va. 157, 164, 46 S.E.2d 15, 19 (1948)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "226 Va. 106",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2076438
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "109",
+          "parenthetical": "citing Voight v. Reber, 187 Va. 157, 164, 46 S.E.2d 15, 19 (1948)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/226/0106-01"
+      ]
+    },
+    {
+      "cite": "132 A.2d 739",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11073784
+      ],
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "743"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "184 Pa. Super. 75",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        736691
+      ],
+      "year": 1957,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/184/0075-01"
+      ]
+    },
+    {
+      "cite": "55 S.E.2d 24",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "29"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "189 Va. 862",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2152658
+      ],
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "870"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/189/0862-01"
+      ]
+    },
+    {
+      "cite": "263 S.E.2d 390",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "220 Va. 766",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2136114
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/220/0766-01"
+      ]
+    },
+    {
+      "cite": "177 S.E.2d 628",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 4,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "630"
+        },
+        {
+          "page": "630"
+        },
+        {
+          "page": "630"
+        },
+        {
+          "page": "630"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "211 Va. 386",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2114071
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "388"
+        },
+        {
+          "page": "388"
+        },
+        {
+          "page": "388"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/211/0386-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 473,
+    "char_count": 8216,
+    "ocr_confidence": 0.885,
+    "pagerank": {
+      "raw": 1.925919218068851e-07,
+      "percentile": 0.7336099517771113
+    },
+    "sha256": "89d18d547a92f66ae65d6bd28251238e30ed0dd05e17b70c1ac723436dba306a",
+    "simhash": "1:2a21718f7765e059",
+    "word_count": 1427
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JOHN BERNARD KENNEDY v. COMMONWEALTH OF VIRGINIA"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion ,\nDUFF, J.\nThe issue presented is whether the evidence was sufficient to find beyond a reasonable doubt that the appellant, John Bernard Kennedy, was guilty of reckless driving.\nAt approximately 1:00 a.m. on May 1, 1984, Kennedy, with his wife and children, was driving north on Interstate 81 when his 1973 van ran off the left side of the road into a wooded median strip. When the state trooper arrived on the scene, Kennedy advised him that he did not know what happened. Kennedy stated that approximately fifteen minutes earlier he had been sleepy and pulled off the highway at a rest area to take a nap. However, after getting out of the van and walking around, he felt refreshed, got back in and continued driving.\nThe trooper testified that there were no other vehicles at the scene. He stated that he observed tire tracks in the grassy area, but that there were no skid marks or evidence of braking in the area where the van left the road. After the van was towed out of the median strip, Kennedy was able to drive it away.\nAlthough Kennedy could not recall either at the scene, or at the trial in the general district court, what caused him to run off the road, when he testified at the trial in circuit court on October 3, 1984, he offered an explanation for the accident and recounted the events preceding it. At the time the incident occurred, the Kennedys had been on the road for approximately eight hours travel-ling from Tennessee to their home in Maryland. Mrs. Kennedy had driven during the daylight hours while Mr. Kennedy napped. At dusk, Mr. Kennedy began driving.\nKennedy testified that just before he ran off the road, he had been looking for a sign indicating the exit to Route 66. He stated that he was passed on the right by a tractor trailer, and suggested that the combination of the wind and the passing truck caused him to lose control. He stated that he believed he was in an emergency situation and did not brake because he was afraid he would lose control of his vehicle. On cross-examination, Kennedy testified that he was not tired at the time of the incident.\nIn support of his explanation for running off the road, Kennedy testified that he had experienced problems maintaining control of his vehicle on a prior occasion. Because he believed the problem was caused by a set of two new tires on his van, he contacted both Montgomery Ward, where he purchased the tires, and the National Highway Traffic Safety Administration. Kennedy offered evidence which showed that he had an improper tire combination on his van not only at the time of the accident, but also on the prior occasion when he experienced difficulty maintaining control of his vehicle.\nMrs. Kennedy testified that while she was driving, she experienced some difficulty maintaining control of the van when passed by other vehicles and in windy conditions. She drove until dark; then her husband began driving. Her husband slept while she drove. Mrs. Kennedy could not recall the events leading up to the accident until sometime later. At trial, she was able to recall going off the road, but little more. She stated that when the van left the road, she felt as though they were being swept off the road, and was afraid that they were going to turn over. She testified that her husband was awake at the time.\nKennedy argues that other than the van running off the road, there was no evidence to support a finding that he was guilty of reckless driving. \u201cThe mere happening of an accident does not give rise to an inference of reckless driving.\u201d Po wers v. Commonwealth, 211 Va. 386, 388, 177 S.E.2d 628, 630 (1970). While we agree that this is an accurate statement of the law, we find that in the instant case, the evidence showed more than the mere happening of an accident. There was sufficient evidence, without resort to speculation and conjecture, for the court to find Kennedy guilty beyond a reasonable doubt of the offense of reckless driving.\nThe defendant in Powers appealed a reckless driving conviction arguing that there was no way to determine from the evidence how and why the accident happened. The Commonwealth contended that the circumstances of the accident itself were such that reckless driving could be inferred. The Supreme Court disagreed and reversed the defendant\u2019s conviction on the basis that, without resorting to speculation and conjecture, it had no way of determining from the evidence how and why the accident happened. Id. at 389, 177 S.E.2d at 630; see also Bacon v. Commonwealth, 220 Va. 766, 263 S.E.2d 390 (1980).\nIn the instant case, however, in addition to the mere happening of the accident, there is evidence to show how and why the accident happened. Kennedy and his family had been on the road for eight hours, and Kennedy had been driving since dark. At the scene, Kennedy told the state trooper that he had pulled into a rest stop fifteen minutes earlier to take a nap because he was sleepy. He also said that he could not remember what caused him to go off the road. The trooper testified that there were no skid marks and no evidence of braking at the scene. Because Kennedy and his wife could not recall what caused the van to go off the road and offered no explanation until trial, the Credibility of their testimony is subject to question. Where the trier of fact believes a witness has knowingly testified falsely in any material fact, he has a right to give the testimony such weight and credit as in his opinion it was entitled. See Zirkle v. Commonwealth, 189 Va. 862, 870, 55 S.E.2d 24, 29 (1949). Based on the totality of the evidence and the questionable credibility of Kennedy\u2019s delayed explanation, it was reasonable for the trial court to infer that Kennedy fell asleep at the wheel and the van left the road.\n\u201cThe essence of the offense of reckless driving lies not in the act of operating a vehicle, but in the manner and circumstances of its operation.\u201d Powers, 211 Va. at 388, 177 S.E.2d at 630. Anyone who falls asleep while operating an automobile on a public road is guilty of a degree of negligence exceeding lack of ordinary care. Commonwealth v. Fisher, 184 Pa. Super. 75, _, 132 A.2d 739, 743 (1957). To fall asleep while operating an automobile manifests a disregard by the driver for the consequences of his act and an indifference to life, limb or property sufficient to find the operator guilty of the offense of reckless driving. See Powers, 211 Va. at 388, 177 S.E.2d at 630.\nThe trial court also had before it evidence that provided an alternate ground upon which to base Kennedy\u2019s reckless driving conviction. At trial, Kennedy presented evidence that prior to the accident, he had experienced steering problems and had difficulty maintaining control of his vehicle due to an improper tire combination.\nCode \u00a7 46.1-190(a) makes it reckless driving to operate a vehicle when not under proper control. \u201c[T]he driver of a vehicle has a duty to use ordinary care to keep his vehicle under proper control.\u201d Meeks v. Hodge, 226 Va. 106, 109, 306 S.E.2d 879, 881 (1983) (citing Voight v. Reber, 187 Va. 157, 164, 46 S.E.2d 15, 19 (1948)). The law does not impose the duty upon a driver to keep his automobile under complete control at all times. Gale v. Wilber, 163 Va. 211, 221, 175 S.E. 739, 743 (1934). However, in this case, Kennedy knew, prior to the accident, that there was a problem with his steering because he had previously experienced difficulty keeping his vehicle under control. Based on his testimony and that of his wife, the trial court could have found that Kennedy was on notice of a defect in his vehicle that could interfere with his ability to maintain proper control, but he continued to operate his vehicle despite this defect.\nWe find that the evidence was sufficient, under either theory of the case, to support the conviction of reckless driving. The judgment is\nAffirmed.\nCole, J., and Moon, J., concurred.",
+        "type": "majority",
+        "author": "DUFF, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "William H. Logan, Jr. (Logan & Logan, on brief), for appellant.",
+      "Leah A. Darron, Assistant Attorney General (William G. Broaddus, Attorney General, on brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Alexandria\nJOHN BERNARD KENNEDY v. COMMONWEALTH OF VIRGINIA\nNo. 0062-85\nArgued October 8, 1985\nDecided February 18, 1986\nCounsel\nWilliam H. Logan, Jr. (Logan & Logan, on brief), for appellant.\nLeah A. Darron, Assistant Attorney General (William G. Broaddus, Attorney General, on brief), for appellee."
+  },
+  "file_name": "0469-01",
+  "first_page_order": 493,
+  "last_page_order": 497
+}

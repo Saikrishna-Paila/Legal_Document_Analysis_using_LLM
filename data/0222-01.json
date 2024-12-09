@@ -1,0 +1,184 @@
+{
+  "id": 2288240,
+  "name": "EARL DAVID BRINKLEY v. CATHERINE CARR BRINKLEY",
+  "name_abbreviation": "Brinkley v. Brinkley",
+  "decision_date": "1985-11-19",
+  "docket_number": "No. 0017-85",
+  "first_page": "222",
+  "last_page": "225",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 222"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "104 S.E.2d 747",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "750-51"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "200 Va. 107",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2052768
+      ],
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "111-12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/200/0107-01"
+      ]
+    },
+    {
+      "cite": "303 S.E.2d 917",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "922"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "225 Va. 606",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2078314
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "613"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/225/0606-01"
+      ]
+    },
+    {
+      "cite": "544 S.W.2d 582",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9944074
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "585"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/544/0582-01"
+      ]
+    },
+    {
+      "cite": "237 S.E.2d 89",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 4,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "200"
+        },
+        {
+          "page": "92"
+        },
+        {
+          "page": "91"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "218 Va. 196",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2130592
+      ],
+      "weight": 2,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "199"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/218/0196-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 311,
+    "char_count": 4406,
+    "ocr_confidence": 0.909,
+    "pagerank": {
+      "raw": 9.641072660675493e-08,
+      "percentile": 0.5277520040743688
+    },
+    "sha256": "147847ba71cbf8e4e3040440869821200fd995c38cf518a5e8ee81070cfb71fc",
+    "simhash": "1:97cfd687cf3f045b",
+    "word_count": 741
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "EARL DAVID BRINKLEY v. CATHERINE CARR BRINKLEY"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nBARROW, J.\nThis is an appeal of a custody award in a final decree of divorce. The appellant, Earl David Brinkley (husband), and the appellee, Catherine Carr Brinkley (wife), were divorced on the ground of the wife\u2019s adultery, and she was awarded custody of their eight year old son. The husband argues that he should have been awarded custody because of the wife\u2019s adultery; however, we conclude that the trial court did not err.\nThere was evidence that the husband\u2019s brother, the wife\u2019s alleged paramour, visited the wife\u2019s home at night for long periods of time. The wife testified, however, that the child never saw the husband\u2019s brother in the home after the husband and wife separated. There was no evidence of any harmful effects to the child as a result of the adultery, and the trial court said that it \u201cdid not determine. . .that adultery was going on under the same roof that the child was living under.\u201d\nThis case differs from Brown v. Brown, 218 Va. 196, 237 S.E.2d 89 (1977), relied on by the husband. In Brown, which affirmed a change of custody to a father because of a mother\u2019s adulterous relationship, the mother and her paramour cohabited openly in the presence of two young children and there was evidence that the relationship had an adverse impact on the children. Id. at 200, 237 S.E.2d at 92.\nIn Brown the Court quoted with approval the Missouri Court of Appeals: \u201cAdultery is usually insufficient, without more, to stigmatize a mother an unfit custodian, as the principal relevancy of such activity is its effect upon the child.\u201d In re Marriage of J-H-M- and E-C-M-, 544 S.W.2d 582, 585 (Mo. Ct. App. 1976).\nThe Court in Brown also pointed out that:\nIn all custody cases the controlling consideration is always the child\u2019s welfare and, in determining the best interest of the child, the court must decide by considering all the facts, including what effect a nonmarital relationship by a parent has on the child. The moral climate in which children are to be raised is an important consideration for the court in determining custody, and adultery is a reflection of a mother\u2019s moral values. An illicit relationship to which minor children are exposed cannot be condoned. Such a relationship must necessarily be given the most careful consideration in a custody proceeding.\n218 Va. at 199, 237 S.E.2d at 91. (emphasis added).\nWe conclude that evidence of adultery, without more, is an insufficient basis upon which to find that a parent is an unfit custodian of his or her child. However, as the Brown decision mandates, in determining a child\u2019s best interest, the extent to which the child is exposed to an illicit relationship must be given the \u201cmost careful consideration\u201d in a custody proceeding. Furthermore, as Brown states, adultery is a reflection of a parent\u2019s moral values which should be considered in evaluating the moral climate in which a child is to be reared.\nThe trial court considered a Department of Social Services\u2019 report, containing background information about the parents and the child, and other evidence, all of which allowed it \u201cto make a rational comparison between the circumstances of the two parents as those circumstances affect [ed] the children.\u201d Keel v. Keel, 225 Va. 606, 613, 303 S.E.2d 917, 922 (1983). After weighing the evidence, the trial judge determined that the child\u2019s best interest was served by custody remaining with the mother with whom the child had resided for over two years. We cannot find this decision in error.\nThe husband also complains that the trial court erred in refusing to conduct an additional hearing on the question of custody prior to the entry of the final decree. We find no merit in this contention since the trial court did not abuse its discretion. However, we recognize, just as the trial court impliedly did in its correspondence with counsel, that Code \u00a7 20-107, which gives the court continuing authority to alter or change custody, \u201caffords a degree of comfort to a court having the heavy responsibility of determining custody.\u201d Andrew v. Geyer, 200 Va. 107, 111-12, 104 S.E.2d 747, 750-51 (1958).\nFor these reasons the decree of the trial court is affirmed.\nAffirmed.\nBenton, J., and Coleman, J., concurred.",
+        "type": "majority",
+        "author": "BARROW, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "James L. McLemore, III, for appellant.",
+      "Hugh A. West, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Norfolk\nEARL DAVID BRINKLEY v. CATHERINE CARR BRINKLEY\nNo. 0017-85\nArgued June 18, 1985\nDecided November 19, 1985\nCounsel\nJames L. McLemore, III, for appellant.\nHugh A. West, for appellee."
+  },
+  "file_name": "0222-01",
+  "first_page_order": 246,
+  "last_page_order": 249
+}

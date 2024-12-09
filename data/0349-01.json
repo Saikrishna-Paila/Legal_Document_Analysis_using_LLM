@@ -1,0 +1,403 @@
+{
+  "id": 2288260,
+  "name": "COMMONWEALTH OF VIRGINIA DEPARTMENT OF HIGHWAYS AND TRANSPORTATION v. BRUCE D. WILLIAMS",
+  "name_abbreviation": "Commonwealth v. Williams",
+  "decision_date": "1986-01-07",
+  "docket_number": "No. 0545-85",
+  "first_page": "349",
+  "last_page": "357",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 349"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "278 S.E.2d 820",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "821"
+        },
+        {
+          "page": "821"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "222 Va. 68",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2083500
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "70"
+        },
+        {
+          "page": "70"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/222/0068-01"
+      ]
+    },
+    {
+      "cite": "28 S.E.2d 725",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "729"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "182 Va. 212",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        1973162
+      ],
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "221"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/182/0212-01"
+      ]
+    },
+    {
+      "cite": "163 S.E.2d 311",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "314"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "209 Va. 162",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        4201784
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "166"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/209/0162-01"
+      ]
+    },
+    {
+      "cite": "304 S.E.2d 640",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 5,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "642"
+        },
+        {
+          "page": "644"
+        },
+        {
+          "page": "644"
+        },
+        {
+          "page": "642"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "225 Va. 525",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2078322
+      ],
+      "weight": 4,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "531-32"
+        },
+        {
+          "page": "531"
+        },
+        {
+          "page": "528"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/225/0525-01"
+      ]
+    },
+    {
+      "cite": "183 S.E.2d 200",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "212 Va. 191",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2115405
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/212/0191-01"
+      ]
+    },
+    {
+      "cite": "416 U.S. 939",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        84451,
+        84259,
+        84197,
+        84366,
+        84338,
+        84339,
+        84214,
+        84439,
+        84600,
+        84057,
+        84573
+      ],
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/416/0939-01",
+        "/us/416/0939-06",
+        "/us/416/0939-11",
+        "/us/416/0939-04",
+        "/us/416/0939-03",
+        "/us/416/0939-07",
+        "/us/416/0939-08",
+        "/us/416/0939-09",
+        "/us/416/0939-02",
+        "/us/416/0939-05",
+        "/us/416/0939-10"
+      ]
+    },
+    {
+      "cite": "200 S.E.2d 513",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 3,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "514-15"
+        },
+        {
+          "page": "515"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "214 Va. 347",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2120096
+      ],
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "348"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/214/0347-01"
+      ]
+    },
+    {
+      "cite": "404 U.S. 97",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6171158
+      ],
+      "weight": 2,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "106-07"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/404/0097-01"
+      ]
+    },
+    {
+      "cite": "621 F.2d 626",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        482218
+      ],
+      "weight": 5,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "628"
+        },
+        {
+          "page": "629"
+        },
+        {
+          "page": "631"
+        },
+        {
+          "page": "632"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/621/0626-01"
+      ]
+    },
+    {
+      "cite": "161 S.E. 902",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "weight": 6,
+      "year": 1932,
+      "pin_cites": [
+        {
+          "page": "904"
+        },
+        {
+          "page": "903"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 Va. 474",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        4879788
+      ],
+      "weight": 5,
+      "year": 1932,
+      "pin_cites": [
+        {
+          "page": "478"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/157/0474-01"
+      ]
+    },
+    {
+      "cite": "324 S.E.2d 658",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "228 Va. 607",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2072448
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/228/0607-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 722,
+    "char_count": 16778,
+    "ocr_confidence": 0.924,
+    "pagerank": {
+      "raw": 1.4062205774692993e-07,
+      "percentile": 0.6457175688621228
+    },
+    "sha256": "ae5506ef367934d5425a841c2fde946427961a121ae0de853f5b5b1f83c5c715",
+    "simhash": "1:8765d4b831594e66",
+    "word_count": 2635
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH OF VIRGINIA DEPARTMENT OF HIGHWAYS AND TRANSPORTATION v. BRUCE D. WILLIAMS"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nKEENAN, J.\nIn Nelson v. Remor Restaurant, Inc., 228 Va. 607, 324 S.E.2d 658 (1985), the Supreme Court held that cost-of-living supplements awarded under Code \u00a7 65.1-99.1 must be computed on a compounded basis by adding accrued supplements to the original benefit allowance. In the present case, the Industrial Commission applied Nelson retroactively and the Department of Highways and Transportation, the employer, has appealed. The issues we face are: (1) whether the method of computation announced in Nelson applies retroactively; (2) whether Rule 13(B) of the Rules of the Industrial Commission applies to limit any retroactive recomputation to a period of time no more than fifty days prior to the date of a change in condition application; and (3) whether retroactive cost-of-living supplements are barred by the case of Bristol Door & Lumber Co. v. Hinkle, 157 Va. 474, 161 S.E. 902 (1932). We find that Nelson should be applied retroactively and that neither Rule 13(B) nor Bristol Door prohibit full retroactivity of the Nelson decision.\nThe facts of the case are not in dispute. Bruce Williams suffered an injury on December 6, 1978, while employed by the Department of Highways and Transportation. The parties executed a Memorandum of Agreement setting forth an average weekly wage of $192.80 with a corresponding compensation rate of $128.53. The Commission entered an award on August 21, 1979, in accordance with the agreement. This award has remained in effect.\nCost-of-living supplements were paid by the Department based on the original compensation rate. On July 28, 1983, Williams requested a hearing for the purpose of determining whether the Department should be ordered to recompute these cost-of-living supplements on a compounded basis. The Commission responded that the request would be held in abeyance pending the outcome of Nelson, where the same issue was under consideration.\nOn January 18, 1985, the Supreme Court decided Nelson. Williams renewed his request for a recalculation of the cost-of-living supplements on January 25, 1985. By order dated April 3, 1985, the Commission ruled that \u201csupplementary benefits provided for in Section 65.1-99.1, Code of Virginia, are to be determined as of the date of effective application of the statute. All supplementary benefits payable on awards of the Industrial Commission subsequent to July 1, 1976, are now payable pursuant to interpretation of the statute by the Virginia Supreme Court in Nelson v. Remor Restaurant.\"\nThe Department argues that prior to Nelson, it had been established Commission practice to compute cost-of-living supplements as a percentage of the original compensation rate without adding intervening cost-of-living supplements. Thus, the Department argues, Nelson should not be applied retroactively because it was a departure from prior practice and was not clearly foreshadowed. The Department argues that employers and their insurance carriers have relied on the pre-Nelson method of computation and that the advantages to be gained by applying Nelson retroactively are outweighed by considerations of hardship, injustice and the impact upon Department administration.\nThe Department further argues that cost-of-living supplements awarded under Code \u00a7 65.1-99.1 are compensation within the meaning of Rule 13(B), thus limiting retroactivity of such awards to no more than fifty (now ninety) days prior to the claimant\u2019s change in condition application. If Rule 13(B) does not apply, the Department argues that no retroactive award can be made in light of Bristol Door & Lumber Co. v. Hinkle, 157 Va. 474, 161 S.E. 902 (1932). There, the court ruled that compensation awards are effective from the date of the claimant\u2019s change in condition application. Id. at 479, 161 S.E. at 904.\nWilliams argues that Nelson should be applied retroactively because the statutory language construed has remained unchanged since its enactment in 1975. According to Williams, if Nelson is applied only prospectively, Code \u00a7 65.1-99.1 would have two meanings, one pre-Nelson and the other post-Nelson. This result, argues Williams, would amount to a legislative act on our part. Williams further argues that since cost-of-living benefits are designated \u201csupplementary\u201d in Code \u00a7 65.1-99.1, the Commission was correct in ruling that such payments are not within the scope of Rule 13(B).\nII.\nAs a general rule in Anglo-American jurisprudence, judicial decisions are to be applied retroactively. Cash v. Califano, 621 F.2d 626, 628 (4th Cir. 1980). Nevertheless, it has long been recognized that under certain circumstances judicial decisions may be denied retroactive effect. In Chevron Oil Co. v. Huson, 404 U.S. 97 (1971), the Supreme Court set out three factors for consideration in determining whether a judicial decision should be given only prospective effect:\nFirst, the decision to be applied nonretroactively must establish a new principle of law, either by overruling clear past precedent on which litigants may have relied ... or by deciding an issue of first impression whose resolution was not clearly foreshadowed. . . . Second, it has been stressed that \u201cwe must. . . weigh the merits and demerits in each case by looking to the prior history of the rule in question, its purpose and effect, and whether retrospective operation will further or retard its operation.\u201d . . . Finally, we have weighed the inequity imposed by retroactive application, for \u201c[wjhere a decision of this Court could produce substantial inequitable results if applied retroactively, there is ample basis in our cases for avoiding the \u2018injustice or hardship\u2019 by a holding of nonretroactivity.\u201d\n404 U.S. at 106-07. (citations omitted).\nThe Department cites Fountain v. Fountain, 214 Va. 347, 200 S.E.2d 513 (1973), cert. denied, 416 U.S. 939 (1974), as the relevant standard in Virginia. There, the court ruled that its decision in Surratt v. Thompson, 212 Va. 191, 183 S.E.2d 200 (1971), abolishing inter-spousal immunity in automobile personal injury actions should be given only prospective effect. The court stated that \u201cconsideration should be given to the purpose of the new rule, the extent of the reliance on the old rule and the effect on the administration of justice of a retroactive application of the new rule.\u201d Fountain, 214 Va. at 348, 200 S.E.2d at 514-15.\nThe court\u2019s decision in Fountain was strongly influenced by the potential hardship which could result to litigants and insurance carriers who had justifiably relied on the old rule. In addition, the court was concerned that retroactive effect would open claims which had never been properly investigated. Id. at 349-50, 200 S.E.2d at 515.\nAs the moving party, the Department has the burden of \u201cpresenting the necessary equitable predicate\u201d for nonretroactivity. Cash, 621 F.2d at 629. Consideration of the relevant factors does not involve \u201ca discrete reference to each separate factor, but . . . an analysis of how they interact with one another.\u201d Id. The final determination must be based on whether, after consideration of all the factors, retroactivity would produce an inequitable result. Id. at 631. We find no inequitable result here.\nIn reaching this conclusion, we find it significant that Nelson did not overrule a prior judicial decision or establish a new principle of law, as did the Surratt decision. In addition, no new statutory language was construed in Nelson. The language of the statute has remained unchanged since its enactment in 1975 and had not been previously interpreted by the Supreme Court.\nThe Department contends, however, that Nelson represented a sharp break with prior practice in that it invalidated the method of computation which had been established by the Commission. Ramsey v. Kemper Carpet Care, I.C., 62 O.I.C. 364, 365 (1983). The Department further argues that the Supreme Court in Atchison v. May Department Stores, 225 Va. 525, 304 S.E.2d 640 (1983), had implicitly approved the Commission\u2019s interpretation of Code \u00a7 65.1-99.1 by setting out an illustrative table of payments using the Commission\u2019s method of computation. Id. at 528, 304 S.E.2d at 642. The proper method of computation, however, was not an issue in Atchison, nor was it necessary for determination of the case.\nWhile the cases cited by the Department demonstrate that reliance on the pre-Nelson computation method may have been justified, our inquiry is not limited to this factor alone. We must also consider the purpose of the statute and whether applying Nelson retroactively would produce substantial inequitable results.\nIt has long been recognized that the Workers\u2019 Compensation Act was adopted as a remedial statute for the benefit of employees and their dependents and should be liberally construed in favor of the workers. Barker v. Appalachian Power Co., 209 Va. 162, 166, 163 S.E.2d 311, 314 (1968); Byrd v. Stonega Coke & Coal Co., 182 Va. 212, 221, 28 S.E.2d 725, 729 (1944). The manifest purpose of Code \u00a7 65.1-99.1 is to ensure, as much as possible, that the value of benefits paid under the Act does not diminish due to inflation. However, the value of William\u2019s benefits has diminished as a result of the Commission\u2019s method of computation.\nThe Department states that it would not serve the purpose of the statute to pay Williams increased cost-of-living supplements for the period of time prior to his July 28, 1983, application for a change in condition. It argues that the statute does not contemplate an accumulated lump sum payment, but rather ongoing incremental payments to lessen the effect of rises in the cost-of-living as they occur. This argument, in effect, acknowledges that Williams may have been entitled to higher supplements but seeks to deny him actual compensation for such sums because the period in which they were due has passed. We find this position at odds with the beneficent purpose of the Act. Such purpose would be better served by a retroactive application of Nelson, thus ensuring that Williams receives the full amount due him. Further, we find nothing in Nelson which suggests that supplementary payments under the proper method of computation should be limited to the period of time after a change in condition application has been filed.\nIt remains to be considered whether retroactive application of Nelson would lead to substantial injustice. Although it is conceded that the amount in controversy here is small, the Department argues that the number of potential claimants and the amounts at issue in other cases will be large. We find the Department\u2019s contentions in this regard to be vague and conclusory. While it is clear that the Department and other employers will face increased costs, no substantial hardship or injustice has been shown. Retroactive application of Nelson would not, for example, expose employers to new claims. Entitlement both to compensation and cost-of-living supplements will have already been established by recipients who benefit from Nelson. Further, under Jewell Ridge Coal Corp. v. Wright, 222 Va. 68, 70, 278 S.E.2d 820, 821 (1981), cost-of-living supplements are not self-executing and are only awarded pursuant to a change in condition application. This rule applies as well to those who wish to have their cost-of-living supplements recomputed using the Nelson formula. It is also significant that in no case will a recomputation go back further than July 1, 1976, the effective date of the statute. This limits both the extent of recomputation and the amounts in question.\nFinally, while retroactive application of Nelson may have a financial impact on employers, \u201cfinancial impact alone is an insufficient basis to mandate nonretroactivity.\u201d Cash, 621 F.2d at 632.\nHaving concluded that Nelson should be applied retroactively, we next consider the Department\u2019s argument that retroactivity is either limited by Industrial Commission Rule 13(B), or barred by the case of Bristol Door & Lumber Co. v. Hinkle, 157 Va. 474, 161 S.E. 902 (1932). Rule 13(B), which deals with procedural aspects of change in condition applications, provided, at the time of the Williams\u2019 application, that, \u201c[N]o additional compensation may be awarded more than fifty days prior to the filing of the application.\u201d If cost-of-living benefits are compensation within the meaning of the Rule, as argued by the Department, Williams is not entitled to any sums which accrued prior to the fifty day period before his change in condition application was filed.\nThe Industrial Commission has consistently ruled that cost-of-living benefits are not compensation within the meaning of Rule 13(B). In Hall v. Conoco, 62 O.I.C. 201, 202 (1983), the Commission stated that cost-of-living supplements \u201care not compensation but rather are supplemental payments to which the claimant is entitled in addition to compensation due under other provisions of the Workmen\u2019s Compensation Act.\u201d This interpretation reflects the working of Code \u00a7 65.1-99.1 which states that \u201ccost of living supplements shall be payable, in addition to the other benefits payable under this Act.\u201d\nThe supplementary nature of cost-of-living payments has been reinforced by the Supreme Court as well. In Atchison v. May Department Stores Co., 225 Va. 525, 531-32, 304 S.E.2d 640, 644 (1983), the court ruled that cost-of-living supplements do not become fixed as an integral part of the disability benefits entitlement, and that past supplements should not be used in computing eligibility for future supplements. The court stated, \u201cNowhere does the statute provide for annual vesting of supplements.\u201d 225 Va. at 531, 304 S.E.2d at 644. Further, unlike cost-of-living supplements, which must be applied for annually by the claimant through a change in condition application, Jewell Ridge Coal Corp. v. Wright, 222 Va. 68, 70, 278 S.E.2d 820, 821 (1981), compensation benefits remain fixed unless the employer establishes a change in condition.\nAccordingly, we believe the Commission\u2019s decision that Rule 13(B) does not apply to cost-of-living supplements is supported by the distinctions which exist between such payments and the compensation paid for actual disability.\nFinally, we do not believe that retroactive cost-of-living payments are barred by the case of Bristol Door & Lumber Co. v. Hinkle, 157 Va. 474, 161 S.E. 902 (1932). It must first be noted that Bristol Door was decided long before the Act provided for cost-of-living benefits. In addition, that case decided only that an award of compensation should be dated from the change in condition application. As we have stated, however, there is a difference between compensation awards and cost-of-living supplements.\nIn Bristol Door, the court was concerned that if claimants could receive retroactive compensation awards employers might not be given the opportunity to furnish medical or rehabilitative aid at the time a changed condition first came about. 157 Va. at 478, 161 S.E. at 903. Such concerns, however, are not relevant to cost-of-living entitlements because the determination whether a claimant is entitled to a cost-of-living supplement is not based on any actions which the employer may or may not have taken. We, therefore, find nothing in that case to prevent an award of cost-of-living supplements for the period of time prior to Williams\u2019 change in condition application.\nIn summary, we believe that the rule in Nelson v. Remor Restaurant, Inc. may be applied retroactively; that cost-of-living supplements are not compensation within the meaning of Rule 13(B); and that the case of Bristol Door & Lumber Co. v. Hinkle does not bar cost-of-living supplements for periods of time prior to the change in condition application. The decision of the Industrial Commission is, therefore, affirmed.\nAffirmed.\nBenton, J., and Barrow, J., concurred.\nRule 13(B) was amended effective September 1, 1985, to extend the period of an award to no more than ninety days prior to the application.\nThis ruling was modified by Industrial Commission Rule 13(B) which, at the time of claimant\u2019s application, allowed compensation awards to take effect up to fifty days prior to the filing of the change in condition application. See supra note 1.\nWe note that Atchison differs from Nelson, where the issue was not eligibility for cost-of-living supplements but the method of calculating amounts. 225 Va. at 528, 304 S.E.2d at 642.",
+        "type": "majority",
+        "author": "KEENAN, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "John J. Beall, Jr., Senior Assistant Attorney General (Gerald L. Baliles, Attorney General; Walter A. McFarlane, Deputy Attorney General, on brief), for appellant.",
+      "Benjamin J. Trichilo (Lewis & Trichilo, on brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Richmond\nCOMMONWEALTH OF VIRGINIA DEPARTMENT OF HIGHWAYS AND TRANSPORTATION v. BRUCE D. WILLIAMS\nNo. 0545-85\nArgued September 11, 1985\nDecided January 7, 1986\nCounsel\nJohn J. Beall, Jr., Senior Assistant Attorney General (Gerald L. Baliles, Attorney General; Walter A. McFarlane, Deputy Attorney General, on brief), for appellant.\nBenjamin J. Trichilo (Lewis & Trichilo, on brief), for appellee."
+  },
+  "file_name": "0349-01",
+  "first_page_order": 373,
+  "last_page_order": 381
+}

@@ -1,0 +1,63 @@
+{
+  "id": 2288264,
+  "name": "ANTHONY T. HAYWARD v. PEP BOYS, et al.",
+  "name_abbreviation": "Hayward v. PEP Boys",
+  "decision_date": "1986-02-18",
+  "docket_number": "No. 0882-85",
+  "first_page": "483",
+  "last_page": "485",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 483"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 261,
+    "char_count": 3739,
+    "ocr_confidence": 0.926,
+    "sha256": "4a9ac75cfbc15d72c032cec8ded2a4ef8f476158e175545cad3b3c24f0e5a6c3",
+    "simhash": "1:a48f89a359378ef7",
+    "word_count": 608
+  },
+  "last_updated": "2023-07-14T20:14:53.885817+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ANTHONY T. HAYWARD v. PEP BOYS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nDUFF, J.\nIn this appeal, we are called upon to decide whether there was credible evidence in the record to support the finding by the Commission that Anthony T. Hayward (claimant) had recovered from his injury and was able to return to work. A subsidiary issue is whether the Commission erred in not holding the record open for the receipt of additional medical reports. We hold that the evidence was sufficient, that no error was committed, and we affirm.\nThe claimant sustained a compensable injury on June 22, 1984, and was paid compensation for temporary total disability from that date through December 21, 1984, when the employer filed a change in condition application alleging that the claimant was able to return to regular work on December 5, 1984. The record includes a September 5, 1984, report from Dr. Robert M. Pilcher, the treating physician, which stated that he was unable to find any orthopedic reason for the claimant\u2019s continued complaints of pain as a result of his compensable injury. Also included is a November 20, 1984, psychological evaluation performed at the Richmond Pain Clinic. The evaluation confirmed the claimant\u2019s continued complaints of low back pain and noted that although his problem was caused by an accident, stress was a factor in his recovery. The evaluation concluded by recommending a multidisciplinary approach to the claimant\u2019s pain.\nIn November, 1984, the claimant relocated to Florida. At that time, the insurer provided the claimant with the names of three orthopedic physicians in Florida. The claimant selected Dr. Willis Stose, who examined him on December 5, 1984, and reported that he had fully recovered from the injury of June 22, 1984. No further treatment was recommended. Because the claimant continued to experience pain and because Dr. Stose refused to treat him, he sought treatment from a local emergency room and was referred to Dr. Hood. Although the claimant received treatment for his pain from Dr. Hood, no medical reports were offered from Dr. Hood at the hearing before the deputy commissioner, nor does the record reflect a request for leave to submit them post hearing. The reports had been requested prior to the hearing but were not received in time to be presented.\nOn this evidence, the Commission found that the claimant had recovered from his injury and was able to return to work. The Commission granted the employer\u2019s application to suspend compensation payments and we affirm. Haywood contends, however, that in an off-the-record discussion with the deputy commissioner, he requested leave to submit Dr. Hood\u2019s reports post hearing. Not only is there no evidence to support this assertion, but both the deputy commissioner and the full Commission\u2019s opinions specifically found that the record was not held open for the submission of additional reports. Although Dr. Hood\u2019s reports were not part of the record, the full Commission observed parenthetically that the reports did not indicate disability nor make any recommendation for continued medical treatment.\nThe burden is on the moving party to see that the record affirmatively reflects a motion for leave to file additional reports and that the Commission granted such a motion. For us to hold in the instant case that a motion to hold the record open for additional reports was made and granted off the record would be to indulge in pure conjecture. We find no error in the Commission\u2019s ruling.\nThe opinion appealed from is\nAffirmed.\nBenton, J., and Cole, J., concurred.",
+        "type": "majority",
+        "author": "DUFF, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Victor A. Motley, for appellant.",
+      "Roger L. Williams (Sands, Anderson, Marks & Miller), for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Arlington\nANTHONY T. HAYWARD v. PEP BOYS, et al.\nNo. 0882-85\nArgued November 19, 1985\nDecided February 18, 1986\nCounsel\nVictor A. Motley, for appellant.\nRoger L. Williams (Sands, Anderson, Marks & Miller), for appellees."
+  },
+  "file_name": "0483-01",
+  "first_page_order": 507,
+  "last_page_order": 509
+}

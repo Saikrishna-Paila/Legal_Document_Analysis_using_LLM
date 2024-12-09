@@ -1,0 +1,67 @@
+{
+  "id": 2288233,
+  "name": "COLSTON HENRY JACKSON v. LOVELAND DISTRIBUTING CO., INC.",
+  "name_abbreviation": "Jackson v. Loveland Distributing Co.",
+  "decision_date": "1985-09-03",
+  "docket_number": "No. 0048-85",
+  "first_page": "57",
+  "last_page": "59",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 57"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 204,
+    "char_count": 2707,
+    "ocr_confidence": 0.904,
+    "pagerank": {
+      "raw": 2.6697544796338703e-07,
+      "percentile": 0.8256888722083797
+    },
+    "sha256": "5c0fd52365e87a926e5d704f11f428579a2382cb115c7e9849f92eb9429f8d85",
+    "simhash": "1:658be8c9833606f5",
+    "word_count": 421
+  },
+  "last_updated": "2023-07-14T20:14:53.885817+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COLSTON HENRY JACKSON v. LOVELAND DISTRIBUTING CO., INC."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nPer Curiam\nThis is an appeal of the Industrial Commission\u2019s decision affirming a deputy commissioner\u2019s denial of a claimant\u2019s application for a change of condition. Colston Jackson (claimant) questions the Commission\u2019s findings that his work incapacity following a non-work related accident was not attributable to an earlier work related accident. Claimant also disputes the Commission\u2019s conclusion that his employer is not responsible for the cost of treatment by a second physician selected without the employer\u2019s authority.\nThe claimant, injured first on November 14, 1983, received compensation until he returned to work on January 13, 1984. He re-injured his back on February 28, 1984, while lifting furniture at his apartment. Claimant was treated by his attending physician until it was determined that he was employable on April 17, 1984. Then, without authority from the employer, claimant sought and received treatment from a second physician who determined that he could not return to work until August 20, 1984.\nThe Commission found that the claimant did not establish by a preponderance of the evidence that his incapacity from the non-work related accident was related to the work related accident. This factual finding was based on credible evidence and is binding on this court. Code \u00a7 65.1-98.\nThe Commission also noted that under Rule 13 of the Commission Rules, compensation may not be paid for a period more than 50 days prior to the filing of an application for change of condition. Since the application was filed on June 14, 1984, compensation could not have been awarded prior to April 26, 1984, at which time the treating physician had already found the claimant able to return to work.\nIn addition, the Commission was correct in concluding that the employer was not responsible for the cost of treatment by the second physician since the claimant changed physicians without authority and without justification. A claimant is required to \u201caccept the attending physician, unless otherwise ordered by the Industrial Commission . . . .\u201d Code \u00a7 65.1-88. Furthermore, an \u201cunjustified refusal... to accept such medical service . . .\u201d bars an employee from further compensation until such refusal ceases. Code \u00a7 65.1-88.\nThere being no error in the award appealed from, the award will be affirmed.\nAffirmed.\nPanel decision rendered by Barrow, J., Coleman, J. and Duff, J.",
+        "type": "majority",
+        "author": "Per Curiam"
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Gary R. Hershner (Hutchens and Hutchens, P.C., on briefs), for appellant.",
+      "J. Alvernon Smith (Samuel Baronian, Jr. and Smith, Blank, Is-sacs & Hinton, on briefs), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Arlington\nCOLSTON HENRY JACKSON v. LOVELAND DISTRIBUTING CO., INC.\nNo. 0048-85\nArgued May 2, 1985\nDecided September 3, 1985\nCounsel\nGary R. Hershner (Hutchens and Hutchens, P.C., on briefs), for appellant.\nJ. Alvernon Smith (Samuel Baronian, Jr. and Smith, Blank, Is-sacs & Hinton, on briefs), for appellee."
+  },
+  "file_name": "0057-01",
+  "first_page_order": 81,
+  "last_page_order": 83
+}

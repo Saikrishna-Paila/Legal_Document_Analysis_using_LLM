@@ -1,0 +1,79 @@
+{
+  "id": 6667964,
+  "name": "Commonwealth vs. Cornelius Sullivan",
+  "name_abbreviation": "Commonwealth v. Sullivan",
+  "decision_date": "1850-11-02",
+  "docket_number": "",
+  "first_page": "13",
+  "last_page": "19",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Howison 13"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Henrico Cty. Cir. Ct.",
+    "id": 15577,
+    "name": "Henrico County Circuit Court"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 672,
+    "char_count": 13341,
+    "ocr_confidence": 0.463,
+    "sha256": "f61e223e87d8a7143c71732997f6145b1b4c0bd37673fd026de49ef178f7fe93",
+    "simhash": "1:146990f1d3fea8ea",
+    "word_count": 2388
+  },
+  "last_updated": "2023-07-14T21:06:18.843079+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "HON. JOHN S. CASKIE, JUDGE."
+    ],
+    "parties": [
+      "Commonwealth vs. Cornelius Sullivan."
+    ],
+    "opinions": [
+      {
+        "text": "The evidence closed.\nThe case was argued earnestly and at considerable length. On the part of the defence, the points chiefly pressed were,\nI.That there was no proof that these articles ever were stolen.\nII. That if stolen, there was no proof they ever were received by the prisoner himself.\nIII. That if received by him, there was no proof that he knew them to have been stolen.\nThe Jury went out at about 5 o\u2019clock, and returned at a quarter before 6, with the following verdict:\n\u201c We, the Jury, find the prisoner guilty, and assess his term of imprisonment at fifteen months.\u201d\nThe Court said the verdict might be amended if it was not in proper form, and if the Jury desired to amend it. And the Jury so desiring, the verdict was amended so as to fix the term of confinement in the penitentiary at fifteen months.\nThe prisoner\u2019s counsel excepted to the decision of the Court, permitting this amendment.\nWhen the verdict was rendered, the wife of the prisoner sunk back as though in a swoon, and some time passed before she could be recovered by the use of restoratives. When she was in some measure restored, she uttered deep groans and cries of distress.\nWednesday, November 6, 1850. \u2014A motion for a new trial was made by the prisoner\u2019s counsel, founded on an affidavit of Johnson Sullivan, a brother of the prisoner. The affidavit in writing was presented, but the Court requested that the affiant should personally appear and be sworn.\nJohnson Sullivan then testified that Catharine Coully was a servant at the City Hotel, and left about two months ago\u2014that the witness has learned facts from her\u2014that Catharine Coully had said to him that she sold these articles to Mrs. Sullivan, but the witness did not know that Catharine Coully had purchased, or said she had purchased these articles for valuable consideration.\nThe Court.\nMr. Sullivan, are you aware that you have solemnly sworn in this affidavit, that Catharine Coully said to you that she had purchased these articles for valuable consideration ?\nWitness.\u2014Oh, no 1 she never said that to me.\nHere Mr. Carrington said, that justice to the witness required that he should state that the affidavit had been prepared upon the facts which the witness was believed to know, but that when read to him, the witness objected to that part of the affidavit, and required it to be stricken out, and that it was intended that it should be stricken out, but through inadvertence it was not done.\nThe Court.\u2014I have often thought, and feel it ray duty now to say, that greater care ought to be used by Counsel, in the pre* paration and presentation of affidavits like this. In future I may feel bound, to admit no such state of facts as an excuse, and to direct a prosecution to proceed against a party who shall thus make conflicting statements under oath. Upon the facts as proved in Court by the affiant, I see no ground for a new trial, and accordingly overrule the motion.\nSentence was pronounced upon the prisoner in accordance with the verdict of the Jury.",
+        "type": "majority",
+        "author": "The Court."
+      }
+    ],
+    "attorneys": [
+      "For the Commonwealth, John B. Young,",
+      "For the Prisoner, Wm. P. Byrd and Joseph M. Carrington.",
+      "Francis R. Quarks, Sworn",
+      "Cross-examined, by Byrd.",
+      "John C. Haley, police officer, Sworn.",
+      "Cross-examined, by Byrd.",
+      "Byrd",
+      "Re-examined by Young.",
+      "Peter O\u2019Neil, Sworn.",
+      "William Williamson, sworn.",
+      "Young.",
+      "Cross-examined by Byrd.",
+      "Norborne E. Sutton, sworn.",
+      "Richard Lee, sworn.",
+      "Sebastian Delarue, sworn.",
+      "Cross-examined by Young.",
+      "John C. Haley recalled for defence."
+    ],
+    "corrections": "",
+    "head_matter": "TRIAL OF CORNELIUS SULLIVAN.\nHON. JOHN S. CASKIE, JUDGE.\nIn the Circuit Court of Law for Henrico. Criminal Term.\nCommonwealth vs. Cornelius Sullivan.\nSaturday, November 2nd, 1850.\nFor the Commonwealth, John B. Young,\nFor the Prisoner, Wm. P. Byrd and Joseph M. Carrington.\nThe prosecution was under Sec. 19th, Chapter 192, Code of Virginia, page 729.\n\u201cIf any free person buy, or receive from another person, or aid in concealing any stolen goods, or other thing, knowing the same to have been stolen, he shall be deemed guilty of larceny thereof, and may be proceeded against, although the principal offender be not convicted.\u201d\nThe Indictment charged that on the 27th August, 1850, the prisoner received fourteen towels, seven pillow cases, one tablecloth, eight sheets, with sundry crockery and glass-ware (enumerated in the indictment,) the property of Norborne E. Sutton, and lately stolen from him, by some evil disposed person, he, the prisoner, then knowing them to be stolen.\nThe accused was an Irishman, stoutly made but rather below the middle height, with black hair\u2014pale and somewhat sickly complexion. His wife was in Court with him\u2014a hale, fresh looking, young Irish woman, with bright complexion, large, full eyes and an open, and not very diffident expression of face.\nThe Prisoner was arraigned and pleaded \u201cNot Guilty.\u201d ,\nThe following were the Jury :\u2014Lewis Hill, Austin E Turner, Hiram Bragg, Robert McClellan, James B. Shelton, Wm. H. Min ter, Jno, W. Bullington, Jno. A. Hurd, ffm. Hopkins, Rich\u2019d T. Alvey, George Anderson, Rob\u2019t I, Smith.\nFor the Prosecution:\nFrancis R. Quarks, Sworn\nSome time in August, 1850, I saw a negro man take some articles out of the basement of the City Hotel and conceal them under a wheel-barrow ; I watched him, he went up Franklin Street, and after a while returned and carried these articles, which seemed to be plates and dishes, into the back yard of the place where Sullivan lived. This was fifteen or twenty yards off, just across the street from the Hotel. He put them into a barrel in the yard. I did not see Sullivan, but the negro said something to somebody as he stood in the yard, which I did not understand. The negro returned and I then took hold of him and carried him to the City Hotel. I went with a young man, and we found several plates and dishes containing meat and other provisions, in a barrel in Sullivan\u2019s yard.\nCross-examined, by Byrd.\nThis was very early in the morning; the neighbours were not up; I did not see Sullivan at all; the plates and dishes had provisions in them ; I do not know what Sullivan\u2019s occupation is, but believe people board at his house ; I do not know that these articles were carried there by request of Sullivan ; I have already said I did not see him at all.\nJohn C. Haley, police officer, Sworn.\nOn the 27th of August, 1850, I received a search warrant, given by Alderman Thomas Tyrer, authorizing me to search the prisoner\u2019s premises. Mr, Williamson, at the City Hotel, had told me if I found any sheets with a very narrow hem one way, and a very broad hem the other way, no doubt they were City Hotel property. I searched the premises; np stairs I found 10 sheets, 1 table-cloth, 14 towels, 7 pillow-cases, and upon farther search, I found 4 tumblers, a lot of crockery-ware, 6 cups, 4 saucers, 2 white dishes and 5 white plates.\n(Here a number of articles in Court were shewn to the witness.) These are the same articles I found; the crockery and glass-ware was generally on the shelves in the house; the sheets, pillow-cases and towels were up stairs ; I arrested the prisoner; he said he had kept a large boarding-house in Boston, and that these were part of the things he then had. The prisoner had been living in this place, near the hotel, two or three months ; he kept a sort of boarding-house; I had never been in the house before this search.\nCross-examined, by Byrd.\nWhere is the search warrant, Mr. Haley ?\nWitness\u2014I suppose the Mayor has it.\nByrd\nIt ought to be produced.\nThe Court said a Subpoena duces tecum might go to the Mayor for it, but in the mean time the witness would be permitted to state what took place in consequence of the warrant, as it would not be necessary for him to say anything of its contents.\nCross-exami\u00f1ation continued. I think I found on the premises property such as was described in the warrant. I took into possession any thing identified by Mr. Williamson. I think sheets are mentioned in the warrant, it speaks of sundry things, the property of the City Hotel; the only description of the sheets given me by Mr. Williamson, was as to the herns, and that some were linen and some cotton; 3 of those found were cotton, 7 linen ; the sheets were not marked any other way. The pillowcases and towels had no mark; Mr. Williamson identified them; he said their pillow-cases were uncommonly large, as these are. The prisoner said I need not read the warrant\u2014go ahead and make the search; it was after I found the goods, that he said he had kept a large boarding-house in Boston , there was no mark on the tumblers, but I sent to the City Hotel and found tumblers exactly corresponding with them ; at the Wall Street Hotel there are tumblers like these, except that their bottoms are thinner; the other crockery had no peculiar mark, but was made by the same man, and stamped in the same way as the City Hotel crockery. I cant say what all these articles are worth. I dont think I would give twenty dollars for them, but I dont want them.\nRe-examined by Young.\nI found no articles in the prisoner\u2019s house like these ; there was ordinary furniture in the house ; no tumblers there like these; there were three beds in the house, the sheets were different from these.\nPeter O\u2019Neil, Sworn.\nI am employed at the City Hotel. Part of my duties are to look to the dining-room. (The glass and crockery shewn to him.) I had missed articles of this sort at various times; these are precisely similar to those we missed.\nCross-examined. I cannot swear they are precisely the same ; they are like them ; I cant say the things we missed were stolen; they may have been either stolen or broken.\nWilliam Williamson, sworn.\nOn the morning of August 7th, on hearing from Mr. Quarles of what had occurred, I applied to Mr. Tyrer for a search warrant. I accompanied the officer through the house; we found these things which the officer took and which, I believed, were those that had been missed; the sheets were made with one wide and one narrow hem ; I never saw any like them; the mode of marking them was suggested to Mr. Sutton by a gentleman who was keeping a fashionable hotel in New York ; I have been engaged for a long time in keeping hotels ; the pillow-cases are peculiarly large, exactly like ours; the table-cloth precisely corresponds with others at the City Hotel; so do the towels.\nYoung.\nWhat is the value of these articles, Mr. Williamson?\nThe Witness gave the value of each item, and on summing up, it was found that they amounted to $26 83. The prisoner\u2019s house had no furniture corresponding with this; his furniture was coarse; I did not think he had any pillows that would fill these cases.\nCross-examined by Byrd.\nI cannot say positively that these articles belonged to Norborne E. Sutton, but I believe it, because he had lost precisely such ; there were no other marks than those which have been described ; I identify the pillow-cases by their size and quality ; the sheets by their hems and quality, the crockery by the stamps and the maker and its general appearance ; I will not state that other persons may not have other property like this\u2014like all of it; I think it probable other people may have such.\nNorborne E. Sutton, sworn.\nI believe these sheets and these other articles, generally, to be the property that belonged to the City Hotel. I kept the Hotel just before these articles were discovered ; these things correspond with articles that I had lost.\nCross-examined. I never saw the prisoner before he was brought before the Mayor; I was not the proprietor of the Hotel at the time of the search ; I cannot say precisely how many sheets were lost; I can swear to the property as far as my best judgment will go ; I cannot say that these articles were the property of the City Hotel while I was proprietor, but I can swear that a number of similar things were lost while I was there, and that I was proprietor of those lost. I went to Sullivan\u2019s once and looked at crockery there, and left the house determining to prosecute. Mus. Sullivan followed me crying; she said she bought it in Boston, and at last I told her to go, I would not prosecute. I was advised by the proprietor of the American Hotel, in Nejv York, to have sheets hemmed in the way spoken of; I do not believe any sheets are so hemmed in Virginia ; I don\u2019t know but that such sheets might be found in Boston ; I have slept in a great many houses in Virginia, and never saw any sheets so hemmed : I don\u2019t know but that there are pillow-cases as large as these in Richmond ; I have no doubt that other persons, in Richmond, have made purchases of similar goods for the same purpose. I know nothing of Sullivan\u2019s habits or way of spending his time. I did not know that Mrs. Sullivan had a husband until I went to look at the crockery there; as soon as I entered the house, I asked if she had a husband, and she told me she had, but he did not stay at home much in the day. It was after this that I determined to prosecute, and I was induced to abandon the idea only by her entreaties.\nHere the evidence for the prosecution closed.\nFor the defence :\nRichard Lee, sworn.\nI have very often seen the prisoner passing and re-passing; I believe he has been here six or eight months; he has often been in my store and bought things; his general reputation is that of an honest man, and a man of steady habits.\nSebastian Delarue, sworn.\nI have known the prisoner since last winter ; he rented a house from me ; his general reputation for honesty before his arrest, was very good.\nCross-examined by Young.\nI have never heard any thing particularly said about the prisoner\u2019s character.\nJohn C. Haley recalled for defence.\nI did not arrest Mrs. Sullivan, but she came up to the Mayor\u2019s Court and the Mayor thought it his duty to commit her; he sent her on to the Hus-ting\u2019s Court, where she was discharged."
+  },
+  "file_name": "0013-01",
+  "first_page_order": 17,
+  "last_page_order": 23
+}

@@ -1,0 +1,317 @@
+{
+  "id": 2288229,
+  "name": "ROBERT P. HUDOCK v. INDUSTRIAL COMMISSION OF VIRGINIA",
+  "name_abbreviation": "Hudock v. Industrial Commission",
+  "decision_date": "1986-02-18",
+  "docket_number": "No. 0294-85",
+  "first_page": "474",
+  "last_page": "482",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 474"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "162 A.2d 810",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1960,
+      "pin_cites": [
+        {
+          "page": "813"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 R.I. 282",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        5128856
+      ],
+      "year": 1960,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/91/0282-01"
+      ]
+    },
+    {
+      "cite": "36 S.E.2d 573",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "weight": 2,
+      "year": 1946,
+      "pin_cites": [
+        {
+          "page": "577"
+        },
+        {
+          "page": "720"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "184 Va. 711",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2141697
+      ],
+      "year": 1946,
+      "pin_cites": [
+        {
+          "page": "720"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/184/0711-01"
+      ]
+    },
+    {
+      "cite": "137 S.E.2d 896",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1964,
+      "opinion_index": 0
+    },
+    {
+      "cite": "205 Va. 511",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2042170
+      ],
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/205/0511-01"
+      ]
+    },
+    {
+      "cite": "200 N.E. 219",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "year": 1936,
+      "opinion_index": 0
+    },
+    {
+      "cite": "209 Ind. 541",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1530037
+      ],
+      "year": 1936,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/209/0541-01"
+      ]
+    },
+    {
+      "cite": "389 So. 2d 639",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9575923
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/389/0639-01"
+      ]
+    },
+    {
+      "cite": "442 N.E.2d 1191",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "456 N.Y.S. 680",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 N.Y.2d 305",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        4385673
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/57/0305-01"
+      ]
+    },
+    {
+      "cite": "267 U.S. 540",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6143475
+      ],
+      "year": 1925,
+      "pin_cites": [
+        {
+          "page": "541"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/267/0540-01"
+      ]
+    },
+    {
+      "cite": "40 S.E. 652",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "year": 1902,
+      "pin_cites": [
+        {
+          "page": "654"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "100 Va. 199",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2019164
+      ],
+      "year": 1902,
+      "pin_cites": [
+        {
+          "page": "204"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/100/0199-01"
+      ]
+    },
+    {
+      "cite": "145 S.E.2d 147",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "151",
+          "parenthetical": "citing Smith v. Bryan, 100 Va. 199, 204, 40 S.E. 652, 654 (1902)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "206 Va. 595",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        4199272
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "600",
+          "parenthetical": "citing Smith v. Bryan, 100 Va. 199, 204, 40 S.E. 652, 654 (1902)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/206/0595-01"
+      ]
+    },
+    {
+      "cite": "132 S.E. 177",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "weight": 3,
+      "year": 1926,
+      "pin_cites": [
+        {
+          "page": "242"
+        },
+        {
+          "page": "177"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "144 Va. 240",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        468464
+      ],
+      "year": 1926,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/144/0240-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 711,
+    "char_count": 15038,
+    "ocr_confidence": 0.908,
+    "pagerank": {
+      "raw": 3.046903630707679e-07,
+      "percentile": 0.8556417767985701
+    },
+    "sha256": "ad49d7354e432458446bbce932c13bfa3e555cc7325f9f51d038bd154bc107a2",
+    "simhash": "1:95b3ec8c79561ac3",
+    "word_count": 2487
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ROBERT P. HUDOCK v. INDUSTRIAL COMMISSION OF VIRGINIA"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nDUFF, J.\nThis appeal questions the authority of the Industrial Commission to hold an attorney in contempt for charging a claimant a fee in excess of that awarded by the Commission. After a full hearing, the Commission concluded it had such authority, held the attorney in contempt, and ordered him to refund to the claimant the fee collected in excess of that awarded. We agree with this conclusion and affirm.\nI. BACKGROUND\nThe claimant, Bernice J. Smith, not a party to this appeal, was injured in 1976 while employed by the Fairfax County School Board. On May 19, 1981, Robert P. Hudock (appellant), an attorney at law, filed a petition with the Industrial Commission on behalf of the claimant requesting approval, pursuant to Code \u00a7 65.1-45, of a proposed compromise settlement of $15,000 for her compensation claim.\nThe petition was duly executed by the claimant and her employer and was also endorsed by Mr. Hudock under language stating that he concurred in the settlement as being in the claimant\u2019s best interest. The petition further requested the Commission to award a reasonable attorney\u2019s fee for legal services rendered, such fee to be paid directly from the settlement award.\nThe petition was accompanied by a proposed order which acknowledged the statements made therein and expressly found that the settlement was in the claimant\u2019s best interests. The order approved the settlement and awarded a fee of $2,500 to \u201cbe deducted and paid to Robert P. Hudock, Esquire, as and for counsel fees; and the remaining amount of $12,500 Dollars shall be paid to the employee in one lump sum.\u201d The amount of the fee and the balance to be paid to the claimant were filled in by the chief deputy commissioner in blank spaces provided in the order. The order was endorsed by all parties as well as by the appellant and was entered on May 25, 1981.\nOn February 2, 1984, the claimant wrote to the Commission inquiring about the attorney\u2019s fees that she had been required to pay Mr. Hudock. She stated:\nI received a check in the amount of $12,500. In addition to the sum of $2,500 which was deducted, I was also instructed by attorney to pay him another $2,500 which made a total of $5,000 which was paid for attorney fee.\nPromptly upon receipt of this correspondence, the Commission made various inquiries of appellant to determine the reason for the discrepancy. The record reveals that the $5,000 fee was based on a one-third contingency fee agreement that had been signed by Ms. Smith and Mr. Hudock at the time the latter had been retained. This agreement was not made known to the Commission nor was a request for a specific fee made by the appellant at the time the settlement petition was submitted.\nOn March 26, 1984, the deputy commissioner wrote to the appellant, requiring him to refund $2,500 to the claimant, and stating that the collection of that amount in excess of the fee awarded by the Commission violated Code \u00a7 65.1-102. The appellant objected that the requirement imposed by the letter was beyond the Commission\u2019s authority and violated his right of due process. Thereupon, after proper notice to Mr. Hudock, the Commission scheduled a hearing in the matter of Smith v. County of Fairfax School Board to determine whether Mr. Hudock should be held in contempt.\nBased upon the evidence, the Commission found that Mr. Hudock\u2019s action in collecting a fee in excess of the approved amount constituted contempt of the Commission\u2019s order of May 25, 1981. The order recited that the Commission had the power to punish for contempt, but did not impose sanctions other than to require appellant to return $2,500, with interest, to the claimant. Upon review by the full Commission, the opinion was affirmed and this appeal followed.\nAppellant raises multiple objections to the Commission\u2019s action in finding him in contempt and ordering the return of the $2,500 fee. However, in our view, the alleged errors are encompassed in two basic issues: (1) the authority of the Industrial Commission to limit the amount of attorneys\u2019 fees; and (2) the authority of the Commission to punish for contempt by requiring the attorney to pay back the excess fee charged.\nII. THE COMMISSION\u2019S AUTHORITY TO LIMIT ATTORNEYS\u2019 FEES\nCode \u00a7 65.1-102 provides that fees of attorneys shall be subject to the approval and award of the Commission. In Bee Hive Mining Co. v. Industrial Commission, 144 Va. 240, 132 S.E. 177 (1926), the Supreme Court reviewed section 65 of the Workmen\u2019s Compensation Act, which provided that fees of attorneys \u201cshall be subject to the approval of the Commission.\u201d The 1926 statute did not contain the additional authority to award fees as does Code \u00a7 65.1- 102. Nonetheless, the Court construed the provision as follows:\nThis section was intended, as we construe it, to give the Industrial Commission the power to pass on attorneys\u2019 fees . . . in other words, it was the intent of the act not to allow an attorney ... to overcharge for his services.\nId. at 242, 132 S.E. at 177.\nIn Saylor v. Old Dominion Veneer Co., 13 O.I.C. 277 (1931), pursuant to a previous contingency agreement, the claimant and the attorney divided the proceeds from the compensation award on a fifty percent basis. Subsequently, the claimant repudiated the contingency agreement and complained of an excessive fee to the Commission. The Commission held that such agreements \u201care contrary to the intent and purpose of the Workmen\u2019s Compensation Law of Virginia,\u201d and went on to note that the statute provided that all fees of attorneys were subject to the approval and award of the Industrial Commission. At the time of the Saylor decision, the statute contained the identical language found in Code \u00a7 65.1-102.\nAlthough Saylor is the decision of an administrative agency, in the fifty-four years since that decision, the General Assembly has not changed the substantive meaning of Code \u00a7 65.1-102. The legislature is presumed to be cognizant of an agency\u2019s construction of its statute and when such construction continues without alteration, it is presumed that the legislature has acquiesced therein. Peyton v. Williams, 206 Va. 595, 600, 145 S.E.2d 147, 151 (1965) (citing Smith v. Bryan, 100 Va. 199, 204, 40 S.E. 652, 654 (1902)).\nWe find no merit in the appellant\u2019s assertion that Code \u00a7 65.1- 102 violates his rights of equal protection and due process under the Fourteenth Amendment of the United States Constitution. In his treatise, \u201cThe Law of Workmen\u2019s Compensation,\u201d Professor Larson notes that every state has some form of statutory provision subjecting claimant\u2019s attorneys\u2019 fees to the supervision of the Commission or Board. 3 A. Larson, The Law of Workmen\u2019s Compensation \u00a7 83.13(a) (1983).\nIn Yeiser v. Dysart, 267 U.S. 540, 541 (1925) the United States Supreme Court affirmed a ruling of the Nebraska Supreme Court, holding that a similar statute regulating attorneys fees was a proper exercise of the police powers of the state and did not violate the Fourteenth Amendment of the United States Constitution. See also Crosby v. State Workers Compensation Board, 57 N.Y.2d 305, 456 N.Y.S. 680, 442 N.E.2d 1191 (1982); Samaha v. State, 389 So. 2d 639 (Fla. 1980); Buckler v. Hilt, 209 Ind. 541, 200 N.E. 219 (1936).\nIn denying a challenge based on equal protection grounds, the court stated in Crosby that the legislature could properly determine that employers and compensation carriers were not subject to the same economic difficulties as an injured employee and, therefore, were not in need of similar protection. Although Code \u00a7 65.1-102 provides that fees of attorneys employed by claimants, employers or insurance carriers shall be subject to approval and award of the Commission, in practice, the Commission does not undertake to regulate fees of the employer\u2019s counsel, reflecting the views expressed in Crosby. We find that a rational basis exists for such distinction and the Commission\u2019s practice is not constitutionally infirm.\nConsidering the authorities cited and the overall purpose to be served by the enactment of Workers\u2019 Compensation legislation, we hold that the Industrial Commission\u2019s practice of awarding fees to claimant\u2019s attorneys is properly within its statutory and administrative responsibilities. Further, we hold that in a Workers\u2019 Compensation case, no fee for legal services in excess of that approved by the Commission may be charged to a claimant.\nIII. THE CONTEMPT ISSUE\nThe second issue presented involves the authority of the Industrial Commission to punish by contempt for disobedience of its orders. The hearing commissioner\u2019s opinion, which was approved by the full Commission, noted that the order of May 25, 1981, expressly provided for apportionment of the approved settlement of $15,000 between the claimant and her attorney in a manner that was in the best interests of the claimant and in accord with Code \u00a7 65.1-93. It specifically found that the actions of appellant in collecting from the claimant an amount in excess of the approved attorney\u2019s fees constituted contempt of the May 25, 1981, order of the Commission. The opinion also found that the appellant further failed to provide for the best interests of his client and willfully acted to evade the provisions made for her in the order. The Commission relied on Laing v. Commonwealth, 205 Va. 511, 137 S.E.2d 896 (1964), in noting that when one shows by his conduct a deliberate and studied effort to disobey a valid order of a court, he subjects himself to punishment for contempt. As indicated, other than requiring the repayment to the claimant of the fee approved, the Commission did not impose sanctions.\nThe appellant contends that the May 25, 1981, order merely specified that certain moneys were to be removed from the settlement funds and paid to him as a fee, that the order did not require him to do anything, that there is no statutory authority for the Commission to act three years after the settlement had been approved, and that there is no authority for the Commission to order repayment of the fee to the claimant.\nCode \u00a7 65.1-20 specifically provides that the Commission shall have the power, as vested in courts and judges by Code \u00a7 18.2-456, to punish for contempt or disobedience of its orders. Code \u00a7 18.2-456(5) provides that a judge may issue attachments for contempt in cases of \u201c[disobedience or resistance of an officer of the court ... to any lawful order of the court.\u201d\nThe General Assembly established the Industrial Commission for the summary disposition of cases arising out of industrial accidents and intended that it have jurisdiction to do \u201cfull and complete justice\u201d in each case. Harris v. Diamond Construction Co., 184 Va. 711, 720, 36 S.E.2d 573, 577 (1946). In Harris, the Supreme Court was presented with the issue whether the Commission had the implied power to review and vacate an award upon a petition presented beyond the statutory time for normal review. Recognizing that some courts take the view that administrative tribunals of this character have no implied powers beyond those expressly granted by the legislature, the Supreme Court adopted the more liberal view that the Commission had the implied power, incidental to those expressly granted, to entertain and hear an application, seasonably presented, to vacate and set aside an award procured through fraud or mistake. The Harris court further held that the General Assembly \u201cgranted to the Commission the power and authority not only to make and enforce its awards, but to protect itself and its awards from fraud, imposition and mistake.\u201d Id. at 720, 365 S.E.2d at 577. We hold that the Commission, as a quasi-judicial body within the area of its jurisdiction, has the power of contempt over those in disobedience of its lawful orders. This is a concomitant of judicial power, necessary to the proper and effective discharge of its duties. Segrella v. Workmen\u2019s Compensation Commission, 91 R.I. 282, 162 A.2d 810 (1960).\nWithout the authority to cite and punish for contempt of its decrees and orders the Commission would be virtually powerless to enforce them.\nId. at 287, 162 A.2d at 813. We find such authority not only in Code \u00a7 65.1-20 but also in the philosophy underlying Harris and similar decisions.\nWe do not agree with appellant that the doctrine of laches should apply because of the delay from settlement to the finding of contempt. Upon being advised by the claimant of the additional fee that had been charged, the Commission moved expeditiously. Whatever merit a plea of laches might have in a civil contest solely between the claimant and the appellant, it has no validity under these facts where the fundamental issue was between the appellant and the Commission.\nThe appellant further contends that he was not a party to the May 25, 1981, order, and that Code \u00a7 65.1-100.1 prohibits the Commission from enforcing its orders. While it is true that the appellant was not a party litigant, he was an officer of the court, authorized to practice before the Commission, and was a signatory to the petition for approval of the settlement and to the proposed order that he drafted and submitted to the Commission. Clearly, he was obligated to comply with the requirements of that order, one of which was that he receive a fee of $2,500. The Commission held that he had not complied with the order and we agree.\nFinally, the appellant contends that Code \u00a7 65.1-100.1 prohibits the Commission from enforcing its orders. Contrary to this assertion, we hold that the Commission has full authority to enforce its orders and protect itself from deception. While the language of this code section is permissive and provides that a party may enforce an award in court, it must be read and considered in pari materia with the Commission\u2019s power pursuant to Code \u00a7 65.1-20 to punish for disobedience of its orders. We hold that the Commission acted within its discretion and authority when it required the return of the excess fee charged.\nFinding no merit to the errors assigned, the order of the Commission is\nAffirmed.\nCole, J., and Moon, J., concurred.\nCode \u00a7 65.1-102 provides that \u201c[fjees of attorneys and physicians and charges of hospitals for services, whether employed by employer, employee or insurance carrier under this Act, shall be subject to the approval and award of the Commission.\u201d\n\u00a7 65.1-100.1. Enforcement, etc. of orders and awards.\u2014Orders or awards of the Commission may be recorded, enforced, and satisfied as orders or decrees of a circuit court upon certification of such order or award by the Commission. The Commission shall certify such order or award upon satisfactory evidence of noncompliance with the same.",
+        "type": "majority",
+        "author": "DUFF, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Robert P. Hudock (Robert P. Hudock & Associates, on brief), for appellant.",
+      "Malcolm R. West, Assistant Attorney General (Gerald L. Baliles, Attorney General; Walter A. McFarlane, Deputy Attorney General, on brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Alexandria\nROBERT P. HUDOCK v. INDUSTRIAL COMMISSION OF VIRGINIA\nNo. 0294-85\nArgued October 9, 1985\nDecided February 18, 1986\nCounsel\nRobert P. Hudock (Robert P. Hudock & Associates, on brief), for appellant.\nMalcolm R. West, Assistant Attorney General (Gerald L. Baliles, Attorney General; Walter A. McFarlane, Deputy Attorney General, on brief), for appellee."
+  },
+  "file_name": "0474-01",
+  "first_page_order": 498,
+  "last_page_order": 506
+}

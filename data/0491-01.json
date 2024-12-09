@@ -1,0 +1,237 @@
+{
+  "id": 2288203,
+  "name": "CARLTON CONWAY CRANK v. W.P. ROGERS, WARDEN, POWHATAN CORRECTIONAL CENTER",
+  "name_abbreviation": "Crank v. Rogers",
+  "decision_date": "1986-02-18",
+  "docket_number": "No. 0599-85",
+  "first_page": "491",
+  "last_page": "497",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "104 S. Ct. 2052",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6204802
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "2067"
+        },
+        {
+          "page": "2069-70"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "281 S.E.2d 885",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "888"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "222 Va. 511",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2083542
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "516"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/222/0511-01"
+      ]
+    },
+    {
+      "cite": "419 U.S. 1108",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6500967,
+        6501161,
+        6501450,
+        6500684,
+        6500780,
+        6500590,
+        6500881,
+        6500498,
+        6501074,
+        6501246,
+        6501343
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/419/1108-06",
+        "/us/419/1108-08",
+        "/us/419/1108-11",
+        "/us/419/1108-03",
+        "/us/419/1108-04",
+        "/us/419/1108-02",
+        "/us/419/1108-05",
+        "/us/419/1108-01",
+        "/us/419/1108-07",
+        "/us/419/1108-09",
+        "/us/419/1108-10"
+      ]
+    },
+    {
+      "cite": "205 S.E.2d 680",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "682"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "215 Va. 27",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2123158
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "29-30"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/215/0027-01"
+      ]
+    },
+    {
+      "cite": "105 S.Ct. 2254",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6206587
+      ],
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "2260"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/471/0606-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 5010",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(d)",
+          "parenthetical": "repealed 1984"
+        },
+        {
+          "page": "(d)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "418 U.S. 424",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6173326
+      ],
+      "weight": 2,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "427"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/418/0424-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 593,
+    "char_count": 11893,
+    "ocr_confidence": 0.914,
+    "pagerank": {
+      "raw": 1.0269148647465542e-07,
+      "percentile": 0.546953316583322
+    },
+    "sha256": "812def110338bb910b0a4c504a6f3015df5dbfefacaac0c1254e442b05b896c0",
+    "simhash": "1:23fb67844c35d47b",
+    "word_count": 1930
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CARLTON CONWAY CRANK v. W.P. ROGERS, WARDEN, POWHATAN CORRECTIONAL CENTER"
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nKEENAN, J.\nCarlton Conway Crank appeals from a decision of the Circuit Court of Prince George County denying his petition for a writ of habeas corpus. The issues presented in this appeal are whether Crank was denied: (1) due process of law at his sentencing because the trial judge failed to make a specific finding that he was not a proper candidate for alternative sentencing under Code \u00a7 19.2-311; 1 23(2) due process of law based on alleged deficiencies in his presentence report; and (3) effective assistance of counsel. We find that Crank was not denied due process of law or effective assistance of counsel, and affirm the trial court\u2019s dismissal of his petition.\nCrank pleaded guilty to first degree murder pursuant to a plea agreement. In the plea agreement, the Commonwealth stated that it would recommend to the court that a life sentence not be imposed, and would not offer further argument or comment regarding what sentence should be imposed. Before accepting the plea, the trial court questioned Crank concerning whether he understood the nature of the charges against him and the consequences of his guilty plea, and whether his plea was voluntary. Crank\u2019s responses to the questions reveal that he was nineteen years old, understood the charge against him, and was in fact guilty of murder. He stated that he understood the minimum sentence for first degree murder was twenty years confinement, and that the maximum sentence was life imprisonment. After hearing the testimony of a codefendant, the trial court found Crank guilty. Sentencing was postponed pending the return of a presentence report ordered by the court pursuant to Code \u00a7 19.2-299.\nAt the sentencing hearing, Crank made only one correction to the presentence report, denying that codefendant Eric Harris had ever lived with him. No request was made to question the probation officer. Defense counsel presented several letters in support of Crank, written by people who knew him. Crank\u2019s mother testified that his family was supportive of him. Another witness testified that Crank had told him of threats made by the victim against Crank. Crank\u2019s cellmate testified that Crank had expressed great remorse about having committed the murder.\nCrank read a prepared statement to the court, describing pressure placed on him by the victim for payment of a debt, and stating that he was \u201cdeeply remorseful.\u201d Pursuant to the plea agreement, the Commonwealth made no comment or recommendation to the court. Defense counsel argued that Crank had no prior record, and had a good family background. Counsel urged the court to consider Crank\u2019s potential for rehabilitation. He made no reference to Code \u00a7 19.2-311.\nThe trial judge stated that \u201c[t]he act itself would tend to lead me to believe that this young man is, perhaps, beyond rehabilitation, even at the age of nineteen years.\u201d The court sentenced Crank to sixty years confinement in the penitentiary. Crank did not appeal the judgment of the court.\nCrank argues that the sentence imposed on him was violative of due process because the trial court did not state that it had considered sentencing alternatives available under Code \u00a7 19.2-311. In support of his argument, Crank cites Dorszynski v. United States, 418 U.S. 424 (1974). In Dorszynski, the Supreme Court held that the following language of the Federal Youth Corrections Act, as it then existed, required the trial court to make a finding on the record that it had considered the provisions of the Act [18 U.S.C. \u00a7 5010(d) (repealed 1984)] and had determined that they would be of no benefit:\nIf the court shall find that the youth offender will not derive benefit from treatment under subsection (b) or (c), then the court may sentence the youth offender under any other applicable penalty provision.\n418 U.S. at 427.\nWe believe that the language of Code \u00a7 19.2-311, unlike former 18 U.S.C. \u00a7 5010(d), does not require the trial court to find that the youthful offender would not benefit from treatment under the statute before imposing any other sentence. Code \u00a7 19.2-311 provides that \u201c[t] he judge . . . may, in his discretion, in lieu of imposing any other penalty provided by law or which a jury has imposed in a jury trial\u201d sentence certain defendants under its provisions. Under this language, the sentencing judge is empowered to evaluate certain defendants for alternative sentencing. No language in Code \u00a7 19.2-311 directs the court to make any findings before it can deny alternative sentencing under this section. Rather, the language of Code \u00a7 19.2-311 gives the judge complete discretion whether to impose this sentencing alternative on defendants who qualify under its provisions. Therefore, the wider discretion given the sentencing judge under Code \u00a7 19.2-311 is the factor which distinguishes the case before us from Dorszynski.\nIn Black v. Romano, _ U.S. _, 105 S.Ct. 2254 (1985), the Supreme Court reviewed the provisions of a Missouri probation revocation statute. The Court stated that where provisions of a statute are discretionary, due process generally does not require the sentencing court to indicate that it has considered alternatives to incarceration. _ U.S. _ , 105 S.Ct. at 2260. The Missouri statute examined by the Court gave the trial judge the same complete discretion in imposing incarceration as does Code \u00a7 19.2-311. While Black involved a revocation of probation rather than an initial sentencing, we do not believe that this different factual posture affects the applicability of the Court\u2019s analysis to the case before us. We therefore find that due process did not require the trial judge to indicate, before imposing sentence on Crank, that he had considered sentencing alternatives available under Code \u00a7 19.2-311.\nNext, we turn to the issue of Crank\u2019s presentence report. Crank argues that the report was not prepared in a thorough and accurate manner, as contemplated by Code \u00a7 19.2-299. We do not reach the substance of Crank\u2019s argument because he did not raise this argument at his trial. Where an issue could have been raised at trial but was not, the habeas proceeding may not be used to entertain the issue for the first time. It is not a substitute for trial, nor may it be used to circumvent the trial process. Slayton v. Parrigan, 215 Va. 27, 29-30, 205 S.E.2d 680, 682 (1974), cert. de nied, 419 U.S. 1108 (1975). Therefore, we find that Crank may not raise the issue of the quality of his presentence report in this habeas proceeding.\nWe next address Crank\u2019s contention that he was denied the effective assistance of counsel. He argues that his counsel told him that the death penalty could be imposed by the court, and that this induced him to enter into the plea agreement. This contention, however, is directly rebutted by the record. During questioning by the court prior to its acceptance of his guilty plea, Crank specifically acknowledged that he understood the maximum penalty for first degree murder was life imprisonment. Since he offered no valid reason for controverting this statement, Crank may not now attack its validity. His representations made at trial are therefore considered conclusively established. Anderson v. Warden, 222 Va. 511, 516, 281 S.E.2d 885, 888 (1981).\nCrank also argues that his counsel was ineffective for not requesting the court to sentence him under the provisions of \u00a7 19.2-311. In order to prevail on this claim, Crank must establish both that counsel\u2019s assistance was deficient and that this deficiency prejudiced his defense. Strickland v. Washington, _ U.S. _, 104 S. Ct. 2052, 2067 (1984).\nWe find that the question whether counsel was ineffective for failing to request sentencing under Code \u00a7 19.2-311 need not be addressed in disposing of this allegation. The Supreme Court noted in Strickland that \u201ca court need not determine whether counsel\u2019s performance was deficient before examining the prejudice suffered by the defendant as a result of the alleged deficiencies .... If it is easier to dispose of an ineffectiveness claim on the ground of lack of sufficient prejudice . . . that course should be followed.\u201d Id. at _, 104 S. Ct. at 2069-70.\nTwo factors present in this case lead us to conclude that counsel\u2019s failure to request sentencing under Code \u00a7 19.2-311 did not prejudice Crank. First, the trial judge was aware that Crank was nineteen years old and had no previous convictions. Further, the presentence report and testimony given at sentencing showed that he had a supportive family. Notwithstanding these facts, the court articulated its belief that because of the aggravated circumstances of the crime, Crank might be beyond rehabilitation. Capacity for rehabilitation is a major factor set out in Code \u00a7 19.2-311 for the sentencing court\u2019s consideration in determining whether to sentence a defendant under that provision. Since the trial judge believed that Crank may have been beyond rehabilitation, it is improbable that he would have sentenced Crank under this section if Crank\u2019s counsel had so requested.\nSecond, leaving aside the provisions of Code \u00a7 19.2-311, the minimum sentence Crank could have received was twenty years imprisonment. The trial court\u2019s sentence of sixty years imprisonment was greatly in excess of the statutory minimum. Clearly, the trial judge believed that the facts of this case did not warrant the minimum sentence of twenty years. This being so, it is inconceivable that he would have considered sentencing Crank to four years of indeterminate confinement under \u00a7 19.2-311. For these reasons, we conclude Crank has failed to demonstrate prejudice as a result of his counsel\u2019s failure to request sentencing under \u00a7 19.2-311.\nFor the reasons stated herein, we find that the trial court properly dismissed all of Crank\u2019s allegations. The decision of the trial court is therefore\nAffirmed.\nKoontz, C.J., and Benton, J., concurred.\nCode \u00a7 19.2-311 provides that: \u201c(a) The judge, after a finding of guilt, when fixing punishment in those cases specifically enumerated in subsection (b) of this section, may, in his discretion, in lieu of imposing any other penalty provided by law or which a jury has imposed in a jury trial, commit persons convicted in such cases for a period of four years, which commitment shall be indeterminate in character. . . .\n(b) The provisions of subsection (a) of this section shall be applicable to first convictions in which the person convicted:\n(1) Committed the offense of which convicted after becoming eighteen but before becoming twenty-one years of age, or was a juvenile certified for trial as an adult under the provisions of \u00a7 16.1-269 or 16.1-272; and\n(2) Was convicted of an offense which is either (i) a felony not punishable by the mandatory death penalty, or (ii) a misdemeanor involving injury to a person or damage to or destruction of property; and\n(3) Is considered by the judge to be capable of returning to society as a productive citizen following a reasonable amount of rehabilitation.\u201d\nAs noted by the Court in Black: \u201cThe statute in effect at the time declared that the court \u2018may in its discretion\u2019 revoke probation and order the commencement of a previously imposed sentence in response to a violation of probation conditions, (citations omitted). But the statute also expressly provided that \u2018[t]he court may in its discretion order the continuance of the probation . . . upon such conditions as the court may prescribe.\u2019 \u201d\nAt the time of sentencing, the trial judge stated: \u201cIn reviewing the crime, the Court is repulsed .... The act itself shows little or no moral conscience on the part of the defendant.\u201d",
+        "type": "majority",
+        "author": "KEENAN, J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Appellant, pro se.",
+      "(Gerald L. Baliles, Attorney General; Leah A. Darron, Assistant Attorney General, on brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Richmond\nCARLTON CONWAY CRANK v. W.P. ROGERS, WARDEN, POWHATAN CORRECTIONAL CENTER\nNo. 0599-85\nOral Argument Waived\nDecided February 18, 1986\nCounsel\nAppellant, pro se.\n(Gerald L. Baliles, Attorney General; Leah A. Darron, Assistant Attorney General, on brief), for appellee."
+  },
+  "file_name": "0491-01",
+  "first_page_order": 515,
+  "last_page_order": 521
+}

@@ -1,0 +1,177 @@
+{
+  "id": 2288236,
+  "name": "IRVIN G. BASKERVILLE v. SAUNDERS OIL CO., INC., et al.",
+  "name_abbreviation": "Baskerville v. Saunders Oil Co.",
+  "decision_date": "1985-11-06",
+  "docket_number": "No. 0046-85",
+  "first_page": "188",
+  "last_page": "194",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Va. App. 188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Va. Ct. App.",
+    "id": 8988,
+    "name": "Court of Appeals of Virginia"
+  },
+  "jurisdiction": {
+    "id": 7,
+    "name_long": "Virginia",
+    "name": "Va."
+  },
+  "cites_to": [
+    {
+      "cite": "80 S.E.2d 533",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "535"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "195 Va. 762",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2063440
+      ],
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "766"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/195/0762-01"
+      ]
+    },
+    {
+      "cite": "145 S.E.2d 147",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "151"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "206 Va. 595",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        4199272
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "600"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/206/0595-01"
+      ]
+    },
+    {
+      "cite": "334 S.E.2d 548",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "317 S.E.2d 146",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "148"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "227 Va. 478",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2074622
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "483"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/227/0478-01"
+      ]
+    },
+    {
+      "cite": "326 S.E.2d 687",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "690"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 496,
+    "char_count": 9001,
+    "ocr_confidence": 0.917,
+    "pagerank": {
+      "raw": 3.521888431839166e-07,
+      "percentile": 0.8838565491656077
+    },
+    "sha256": "c42d9781ced0fcb712e6f4fd26acfc8f2cab4351ef00e367184d5437b5bae90f",
+    "simhash": "1:10cfa6c28399e674",
+    "word_count": 1426
+  },
+  "last_updated": "2024-02-27T21:40:48.045242+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IRVIN G. BASKERVILLE v. SAUNDERS OIL CO., INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion\nKOONTZ, C.J.\nThis appeal raises the issue whether the act of becoming incarcerated in prison prevents a claimant who has been awarded temporary partial disability from continuing to receive benefits under the Virginia Workers\u2019 Compensation Act.\nThe claimant, Baskerville, sustained a back injury in an industrial accident July 19, 1979. On October 16, 1979, an award was entered based on the claimant \u2018s temporary total incapacity. On November 10, 1981, an award was made based on a change in the claimant\u2019s average weekly wage, which found the claimant to then be under a condition of temporary partial disability. That award remained outstanding at the time this case was most recently before the Commission even though the claimant, by letter of counsel dated April 20, 1984, sought reinstatement of his temporary total incapacity benefits.\nThe claimant was arrested on drug charges March 6, 1984, and was sentenced on May 25, 1984, to twenty years in the state penitentiary. On May 21, 1984, the employer filed application to terminate or suspend the November 1981, award on the ground of a change in condition. Employer alleged that the claimant had removed himself from the labor market by reason of his incarceration. A hearing was held before a deputy commissioner upon the employer\u2019s application seeking termination or suspension of the outstanding award, and upon claimant\u2019s letter application alleging temporary total incapacity.\nThe decision of the deputy commissioner was in favor of the claimant, holding that the victim of an industrial accident cannot remove himself from the labor market (even by being incarcerated in prison) unless he is first available to that market.\nEmployer appealed to the full Commission and on October 4, 1984, the Commission reversed, finding that the claimant had voluntarily removed himself from the labor market. The Commission reviewed the record and the extensive medical evidence in it and concluded that the claimant remained temporarily partially disabled and physically capable of accepting any selective employment opportunity which might arise. Consequently, the Commission ruled that by reason of his incarceration claimant voluntarily removed himself from the labor market and was not entitled to any compensation. We agree.\nWhile there is a conflict in the evidence created primarily by a March 14, 1984, letter of Dr. John W. Ayres, II, we are not authorized to disturb the finding of the Commission if based on credible evidence. Celanese Fibers Company v. Johnson, _ Va. _, 326 S.E.2d 687, 690 (1985). The record contains a report from Dr. John B. Dalton, Jr., on August 10, 1982, which states in part that:\nQuite frankly I cannot from an objective standpoint find any reason why the patient cannot do any type of job he has been assigned to do by the Rehabilitation sources. I think the fact that he has been out of work for this length of time tells of the total lack of motivation in [sic] return to gainful employment.\nThe Commission noted the lack of evidence in the record to indicate that claimant received any further treatment after 1982.\nDr. Ayres\u2019 letter of March 14, 1984, states:\nIt is my impression that Mr. Baskerville\u2019s chances of returning to gainful employment are nil. His education skills are such that he is capable only of manual jobs and physical capabilities of his back precludes his doing such manual jobs, therefore, I feel it would be virtually impossible to place him in any form of work.\nThe Commission was not persuaded by this letter. It found that Dr. Ayres\u2019 opinion lacked a time reference, was based on the doctor\u2019s treatment of the claimant from 1979 to 1982, and that the record revealed no later examination by Dr. Ayres. Our review is limited to the record and we find no evidence there to contradict the Commission\u2019s finding on this point.\nThe claimant contends that the Commission failed to consider his application for a change in status from temporary partial incapacity to temporary total incapacity. We disagree. The Commission noted that, \u201cThe claimant, by letter of counsel dated April 20, 1984, sought reinstatement of his temporary total incapacity benefits.\u201d\nFurthermore, the Commission discussed the causal connection, or the lack thereof, between the original injury and the alleged change in claimant\u2019s condition that would justify reinstatement of temporary total incapacity status. The Supreme Court has stated that,\nWith respect to [an employer\u2019s] application, the only question is whether the employee\u2019s prior condition of work incapacity has changed; the question of causal connection is not an issue. On the other hand, when an employee files an application for reinstatement of disability benefits, two questions arise: (1) has there been a change in the employee\u2019s capacity to work; (2) if so, is the change due to a condition causally connected with the injury originally compensated.\nKing\u2019s Market v. Porter, 227 Va. 478, 483, 317 S.E.2d 146, 148 (1984).\nClearly, by addressing the question of causal connection the Commission considered, and rejected, the claimant\u2019s application for a change in status.\nWe concur with the holding of the deputy commissioner that the victim of an industrial accident cannot remove himself from the labor market unless he has the physical capacity for employment at the time of the removal. Here there was credible evidence that claimant had the physical capacity for selective employment at the time of his incarceration on May 25, 1984. The Virginia Workers\u2019 Compensation Act \u201cis based upon the premise that an employer is liable for the condition of an employee resulting from an industrial accident. But an employer is not liable for conditions not causally related to the employee\u2019s work.\u201d American Furniture Co. v. Doane, _ Va. _, 334 S.E.2d 548 (1985). Claimant\u2019s voluntary criminal acts leading to his incarceration, rather than any physical incapacity, removed him from the labor market.\nIt has long been the position of the Industrial Commission that an employee\u2019s incarceration constitutes a \u201cchange in condition\u201d affecting a claimant\u2019s capacity to work. Welch v. Trent Construction Co., 53 O.I.C. 374 (1971). It must be presumed that the legislature has been aware of, and acquiesced in, this position.\nThe elementary rule of statutory interpretation is that the construction accorded a statute by public officials charged with its administration and enforcement is entitled to be given weight by the court. The legislature is presumed to be cognizant of such construction. When it has long continued without change the legislature will be presumed to have acquiesced therein.\nPeyton v. Williams, 206 Va. 595, 600, 145 S.E.2d 147, 151 (1965).\nWe are in agreement with the Commission\u2019s position to the limited extent that it relates to the case of temporary partial incapacity. Consequently, due to claimant\u2019s change in condition and pursuant to Code \u00a765.1-99, the Commission acted properly in denying compensation during the period of incarceration.\nCommon sense and logic demand a similar result. An employee is compensated for loss of earning power, which is not necessarily proportional to bodily functional disability. Foust Coal Co. v. Messer, 195 Va. 762, 766, 80 S.E.2d 533, 535 (1954). Loss of earning power due to temporary or permanent total disability would not be affected by incarceration. Rather, total disability is affected solely by bodily disability. In the case of temporary partial disability, however, incarceration would be the controlling factor in preventing the employee from participating in selective employment or rehabilitative services. Loss of earning power would not, therefore, necessarily derive from any physical disability.\nWe hold that, in the case of temporary partial incapacity, when a claimant\u2019s incarceration for a criminal act rather than his physical incapacity causes the claimant\u2019s loss of earning power, the employer is relieved from paying benefits during the period of incarceration.\nWe do not reach the argument advanced by the employer that the public policy of Virginia should bar the receipt of benefits under the Virginia Workers\u2019 Compensation Act by a claimant who becomes incarcerated even where the claimant is under a temporary or permanent total disability award. Our holding is limited to the case of temporary partial disability when incarceration occurs.\nAffirmed.\nBaker, J., and Keenan, J., concurred.\n\u201cChange in condition as used in this Act means a change in physical condition of the employee as well as any change in the conditions under which compensation was awarded or terminated which would affect the right to, amount of, or duration of compensation.\u201d Code 65.1-8.",
+        "type": "majority",
+        "author": "KOONTZ, C.J."
+      }
+    ],
+    "attorneys": [
+      "Counsel",
+      "Suzette L. Hutchens (Hutchens & Hutchens, P.C., on briefs), for appellant.",
+      "Randolph P. Tabb, Jr. (Taylor, Hazen, Kauffman & Lipscomb, on brief), for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Fairfax\nIRVIN G. BASKERVILLE v. SAUNDERS OIL CO., INC., et al.\nNo. 0046-85\nArgued May 30, 1985\nDecided November 6, 1985\nCounsel\nSuzette L. Hutchens (Hutchens & Hutchens, P.C., on briefs), for appellant.\nRandolph P. Tabb, Jr. (Taylor, Hazen, Kauffman & Lipscomb, on brief), for appellees."
+  },
+  "file_name": "0188-01",
+  "first_page_order": 212,
+  "last_page_order": 218
+}
