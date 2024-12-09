@@ -3,6 +3,8 @@
 # AI Meets Law: Transforming Legal Research with RAG, Fine-Tuning, and Few-Shot Learning
 
 ![Logo](LOGO.webp)
+<img src="LOGO.webp" alt="Logo" width="200" height="100" />
+
 
 ## Project Overview
 This project brings together state-of-the-art AI techniques like **Retrieval-Augmented Generation (RAG)**, **Fine-Tuning**, and **Few-Shot Learning (FSL)** to revolutionize the way legal research is conducted. By leveraging historical legal case data and constitutional texts, it enables lawyers and legal professionals to retrieve, analyze, and interpret legal information efficiently.
