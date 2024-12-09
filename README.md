@@ -1,7 +1,8 @@
 
 
-
 # AI Meets Law: Transforming Legal Research with RAG, Fine-Tuning, and Few-Shot Learning
+
+![Logo](LOGO.webp)
 
 ## Project Overview
 This project brings together state-of-the-art AI techniques like **Retrieval-Augmented Generation (RAG)**, **Fine-Tuning**, and **Few-Shot Learning (FSL)** to revolutionize the way legal research is conducted. By leveraging historical legal case data and constitutional texts, it enables lawyers and legal professionals to retrieve, analyze, and interpret legal information efficiently.
@@ -11,9 +12,9 @@ The system is designed to address the challenges of legal research, such as sift
 ---
 
 ## Team Members
-- **Saikrishna Paila** 
-- **Aneri Patel** 
-- **Srivallabh Siddharth N** 
+- **Saikrishna Paila**  
+- **Aneri Patel**  
+- **Srivallabh Siddharth N**
 
 ---
 
@@ -43,8 +44,14 @@ FAISS enables efficient similarity searches among vectorized documents. It ensur
 ### **Sentence Transformers**
 Sentence Transformers are used to convert textual data (e.g., case opinions) into embeddings, which are numerical representations capturing the semantic meaning of text. These embeddings are crucial for similarity-based retrieval.
 
-### **Streamlit**
-Streamlit provides a user-friendly interface for interacting with the system. Users can input queries, upload case files, and visualize results with minimal technical expertise.
+### **Natural Language Toolkit (NLTK)**
+The Natural Language Toolkit (NLTK) is a Python library widely used for text preprocessing and analysis. Key functionalities include:
+- **Tokenization**: Breaking down text into sentences or words for analysis.
+- **Stemming and Lemmatization**: Reducing words to their base or root forms to standardize text.
+- **Named Entity Recognition (NER)**: Identifying entities like case names, jurisdictions, dates, and legislation titles within legal documents.
+- **Part-of-Speech (POS) Tagging**: Assigning grammatical labels (e.g., nouns, verbs, adjectives) to each word, helping understand the structure and context of legal sentences.
+
+NLTK's features were critical for extracting structured information from unstructured legal texts, preparing them for embedding and retrieval.
 
 ---
 
@@ -53,15 +60,15 @@ Streamlit provides a user-friendly interface for interacting with the system. Us
 - **LangChain**: Framework for chaining and managing LLM-based workflows.
 - **FAISS**: For high-speed similarity searches in vectorized data.
 - **Sentence Transformers**: Generates embeddings for text similarity tasks.
+- **Beautiful Soup**: Used for scraping legal data from web sources.
 - **Streamlit**: Builds the web-based interactive application.
 - **Pandas and NumPy**: Used for data preprocessing and management.
-- **Matplotlib**: For visualizing patterns and trends in legal data.
+- **Python-dotenv**: For managing environment variables like API keys.
+- **Torch and Transformers**: For deep learning and model fine-tuning.
 
 ---
 
 ## Requirements
-
-To run this project, the following setup is required:
 
 ### **Dependencies with Versions**
 ```plaintext
@@ -85,9 +92,6 @@ pickle5==0.0.12
 # Web Interface
 streamlit==1.17.0
 
-# Visualization
-matplotlib==3.6.2
-
 # Environment Variable Management
 python-dotenv==0.21.0
 
@@ -104,10 +108,10 @@ Install all required dependencies using:
 pip install -r requirements.txt
 ```
 
-### Hardware Requirements
+### **Hardware Requirements**
 - At least **16GB RAM** for handling large embeddings and datasets efficiently.
 
-### Additional NLTK Data Setup
+### **Additional NLTK Data Setup**
 After installing `nltk`, ensure the required datasets are downloaded by running the following script:
 ```python
 import nltk
@@ -125,55 +129,6 @@ nltk.download('words')
 - **`RAG.py`**: Implements the retrieval-augmented generation pipeline for query handling and summarization.
 - **`RAG+FSL+Fine_tune.py`**: Fine-tunes the GPT-4 model and integrates FSL with the RAG pipeline.
 - **`app.py`**: Streamlit-based user interface for querying and bulk case analysis.
-
----
-
-## Important Configuration
-
-### Add OpenAI API Key
-1. Create a `.env` file in the root directory of the project.
-2. Add your OpenAI API key in the following format:
-   ```
-   OPENAI_API_KEY=your_openai_api_key
-   ```
-3. Ensure that the `.env` file is loaded correctly by verifying the API key in the scripts.
-
-### Fine-Tune Your Own Model
-- To fine-tune your GPT model, follow the instructions in the video tutorial:
-  [Fine-Tune Your LLMs](https://www.linkedin.com/learning/fine-tune-your-llms/introduction-to-fine-tuning-llms?u=74651410)
-- This process involves preparing your dataset (e.g., `output.jsonl`), uploading it to OpenAI, and fine-tuning the model for legal-specific tasks.
-
----
-
-## How to Run
-
-### 1. RAG Pipeline
-To run the retrieval-augmented generation (RAG) pipeline:
-```bash
-python RAG.py
-```
-- **Functionality**: Embeds user queries, retrieves top documents using FAISS, and generates summaries.
-
----
-
-### 2. Fine-Tuning and Few-Shot Learning
-To fine-tune the model and integrate few-shot learning:
-```bash
-python RAG+FSL+Fine_tune.py
-```
-- **Functionality**: Customizes GPT-4 for handling legal queries with greater accuracy and relevance.
-- **Output**: Fine-tuned predictions and enhanced contextual responses.
-
----
-
-### 3. Streamlit App
-To launch the graphical interface:
-```bash
-streamlit run app.py
-```
-- **Modes**:
-  - **Query Mode**: Allows users to input queries and receive insights instantly.
-  - **Test Case Mode**: Supports JSON file uploads for batch processing and analysis.
 
 ---
 
@@ -215,11 +170,11 @@ streamlit run app.py
 
 ---
 
+![UI](ui.png)
+
 ## Future Enhancements
 - **Dataset Expansion**: Add more cases and legal documents to improve system coverage.
 - **Model Optimization**: Streamline fine-tuning for faster training and better results.
 - **API Development**: Create APIs for seamless third-party integration.
 - **Interactive Visualizations**: Build dashboards for exploring case patterns and trends.
-
----
 
