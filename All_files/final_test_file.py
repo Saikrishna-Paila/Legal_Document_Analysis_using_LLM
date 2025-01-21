@@ -100,7 +100,6 @@ def extract_named_entities(text: str) -> List[str]:
             named_entity = " ".join(c[0] for c in chunk)
             named_entities.append(named_entity)
     return named_entities
-
 def summarize_text(text, max_tokens=500):
     """
     Summarize a given text to fit within token constraints while retaining key arguments.
@@ -146,24 +145,12 @@ def log_successful_query(query: str, context: str, response: str, log_file="succ
         json.dump(existing_logs, f, ensure_ascii=False, indent=4)
     print(f"Logged successful query to {log_file}.")
 
-def build_prompt(rag_context: str, query: str, learning_examples: List[Dict], num_examples: int = 3) -> str:
-    """
-    Build a prompt by combining RAG context, query, and a few learning examples.
-    """
-    example_texts = "\n\n".join([
-        f"Example {i+1}:\nCase Name: {example['case_name']}\nDecision Date: {example['decision_date']}\nSummary: {example['opinion_summary']}"
-        for i, example in enumerate(learning_examples[:num_examples])
-    ])
-
+def build_prompt(rag_context: str, query: str) -> str:
     prompt = f"""
-    You are a legal assistant (name: AskLaw) tasked with answering questions based on the following context and examples.
+    You are a legal assistant tasked with answering questions based on the following context.
 
     Context:
     {rag_context}
-
-    Learning Examples:
-    {example_texts}
-    Note: Ensure to provide detailed information about the case ID when mentioned.
 
     Question:
     {query}
@@ -349,11 +336,20 @@ Answer:
 
     return query_rag, memory, context_store
 
-def run_rag_pipeline():
+
+
+def run_rag_pipeline(uploaded_file: str = None, user_query: str = None) -> str:
     """
-    Main function for the RAG pipeline workflow.
+    Refactored RAG pipeline function for Streamlit integration.
+
+    Args:
+        uploaded_file (str): Path to the uploaded JSON file for processing.
+        user_query (str): User-provided query for processing.
+
+    Returns:
+        str: The response generated based on the input mode.
     """
-    directory = "data"
+    directory = "Case 1 JSON"
     pkl_file = "finaldata1.pkl"
 
     # Load case data
@@ -366,7 +362,7 @@ def run_rag_pipeline():
     # Combine cases and VA Constitution sections
     all_data = cases + va_sections
 
-    # Create embeddings and save to pickle file
+    # Create embeddings and save to pickle file if not already done
     if not os.path.exists(pkl_file):
         create_embeddings(all_data, pkl_file=pkl_file)
 
@@ -374,116 +370,82 @@ def run_rag_pipeline():
     index, metadata = load_faiss_index(pkl_file)
     query_rag, memory, context_store = create_rag_pipeline(index, metadata)
 
-    mode = "query"  # Start in query mode
+    # If a JSON file is uploaded
+    if uploaded_file:
+        try:
+            with open(uploaded_file, "r", encoding="utf-8") as f:
+                test_file_data = json.load(f)
 
-    while True:
-        if mode == "query":
-            user_input = input("Enter your query (type 'esc' to switch to test case mode, 'exit' to quit): ")
-            if user_input.lower() == "exit":
-                break
-            elif user_input.lower() == "esc":
-                mode = "test_case"
-                continue
-            else:
-                if user_input.strip() == "":
-                    print("Please enter a valid query.")
-                    continue
-                # If user wants to refer to last query and answer
-                if user_input.lower() in ["what was my last query?", "what was the last answer?", "refer to last"]:
-                    if context_store["last_query"] and context_store["last_answer"]:
-                        print(f"Your last query was: {context_store['last_query']}")
-                        print(f"The answer was: {context_store['last_answer']}")
-                    else:
-                        print("No previous query found.")
-                    continue
+            # Combine text of all opinions into one query
+            combined_query = " ".join([
+                opinion.get("text", "").strip()
+                for opinion in test_file_data.get("casebody", {}).get("opinions", [])
+                if opinion.get("text")
+            ])
 
-                response = query_rag(user_input)
-                print(f"Answer: {response}")
+            # Fallback to head_matter if opinions are empty
+            if not combined_query.strip():
+                combined_query = test_file_data["casebody"].get("head_matter", "").strip()
 
-        elif mode == "test_case":
-            test_file_path = input("Enter the path to the test file (type 'esc' to switch back, 'exit' to quit): ")
+            # Add a default question if necessary
+            if not combined_query.strip():
+                combined_query = (
+                    "This case involves legal arguments but lacks detailed opinion text. "
+                    "Based on the available context, what is the expected verdict?"
+                )
 
-            if test_file_path.lower() == "exit":
-                break
-            elif test_file_path.lower() == "esc":
-                mode = "query"
-                continue
-            else:
-                try:
-                    with open(test_file_path, 'r', encoding='utf-8') as f:
-                        test_file_data = json.load(f)
+            # Summarize if needed
+            if len(combined_query) > 2000:  # Adjust threshold as needed
+                combined_query = summarize_text(combined_query)
 
-                    # Combine the text of all opinions into one query
-                    combined_query = " ".join([
-                        opinion.get("text", "").strip()
-                        for opinion in test_file_data.get("casebody", {}).get("opinions", [])
-                        if opinion.get("text")
-                    ])
+            # Get the expected verdict for the test file
+            response = query_rag(combined_query)
+            return f"Expected Verdict for Test File:\n{response}"
 
-                    # Fallback to head_matter if opinions are empty
-                    if not combined_query.strip():
-                        combined_query = test_file_data["casebody"].get("head_matter", "").strip()
+        except Exception as e:
+            return f"Error processing uploaded file: {str(e)}"
 
-                    # Add a default question if necessary
-                    if not combined_query.strip():
-                        combined_query = (
-                            "This case involves legal arguments but lacks detailed opinion text. "
-                            "Based on the available context, what is the expected verdict?"
-                        )
+    # If a query is provided
+    elif user_query:
+        try:
+            response = query_rag(user_query)
+            return f"Answer:\n{response}"
+        except Exception as e:
+            return f"Error processing query: {str(e)}"
 
-                    # Summarize if needed
-                    if len(combined_query) > 2000:  # Adjust threshold as needed
-                        print("Summarizing the test case to fit within processing limits...")
-                        combined_query = summarize_text(combined_query)
+    # If neither input is provided
+    return "Please provide a JSON file or a query for processing."
 
-                    # Get the expected verdict for the entire test file
-                    response = query_rag(combined_query)
-                    print(f"Expected Verdict for Test File: {response}")
 
-                    # After processing, switch back to query mode
-                    mode = "query"
 
-                except Exception as e:
-                    print(f"Error processing test file: {str(e)}")
-                    continue
 
-    print("Exiting the RAG pipeline. Goodbye!")
 
-def run_fine_tuned_model():
+
+def run_fine_tuned_model(user_input: str, pkl_file="finaldata1.pkl", data_directory="Case 1 JSON/") -> str:
     """
-    Main function for the Fine-Tuned Model workflow.
+    Processes a user query dynamically, querying the fine-tuned model.
+
+    Args:
+        user_input (str): The user's query.
+        pkl_file (str): Path to the embeddings file for FAISS.
+        data_directory (str): Directory containing JSON case files.
+
+    Returns:
+        str: The response based on the user query.
     """
-    data_directory = "data/"
+    # Load cases
     cases = load_json_files(data_directory)
 
-    # Load learning examples
-    examples_file = "learning_examples.json"  # Replace with actual path to the file
-    try:
-        learning_examples = load_learning_examples(examples_file)
-        print(f"Loaded {len(learning_examples)} learning examples successfully.")
-    except FileNotFoundError:
-        print(f"Error: The file '{examples_file}' was not found. Please check the path.")
-        learning_examples = []
-
     # Create embeddings and load FAISS index
-    pkl_file = "finaldata1.pkl"
     if not os.path.exists(pkl_file):
         create_embeddings(cases, pkl_file=pkl_file)
     index, metadata = load_faiss_index(pkl_file)
 
-    while True:
-        user_input = input("Enter your query (type 'exit' to quit, 'examples' to see learning examples): ").strip()
-        if user_input.lower() == "exit":
-            print("Exiting the Fine-Tuned Model workflow. Goodbye!")
-            break
-        elif user_input.lower() == "examples":
-            if learning_examples:
-                print_learning_examples(learning_examples, limit=5)
-            else:
-                print("No learning examples loaded.")
-        else:
-            final_response = hybrid_query_system(user_input, index, metadata, fine_tuned_model=True)
-            print(f"\n{final_response}")
+    # Process query using hybrid query system with fine-tuned model
+    final_response = hybrid_query_system(user_input, index, metadata, fine_tuned_model=True)
+    return final_response
+
+
 
 if __name__ == "__main__":
     print("Welcome! Choose your mode of operation:")
@@ -497,3 +459,4 @@ if __name__ == "__main__":
         run_fine_tuned_model()
     else:
         print("Invalid selection. Please restart and choose either 1 or 2.")
+

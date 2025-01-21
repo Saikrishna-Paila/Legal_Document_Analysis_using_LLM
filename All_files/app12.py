@@ -211,8 +211,7 @@ if submit_button and (user_query.strip() or uploaded_file):
         try:
             # If a JSON file is uploaded, process the file content
             if uploaded_file is not None:
-                learning_examples = json.load(uploaded_file)  # Load JSON from uploaded file
-                response = run_rag_pipeline(uploaded_file=learning_examples)  # Pass the actual loaded JSON data
+                response = run_rag_pipeline(uploaded_file=uploaded_file.name)  # Pass the actual loaded JSON data
 
             # If no JSON file is uploaded but a query is provided
             elif user_query.strip():
